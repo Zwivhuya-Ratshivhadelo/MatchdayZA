@@ -1,4 +1,4 @@
-name: Match-day live scores
+name: Match-day live scores 
 
 on:
   schedule:
