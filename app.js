@@ -299,6 +299,11 @@ const ICON = {
 async function renderMatch() {
   const c = PSL[param("c")] ? param("c") : null, id = param("id");
   compNav(c);
+  const back = $('[data-md="back"]');
+  if (back && c) {
+    back.href = c === "betway-premiership" ? "index.html" : `index.html?c=${c}`;
+    back.textContent = `Back to ${PSL[c].name}`;
+  }
   const comps = await loadComps();
   const summary = c ? (comps[c]?.results || []).find((m) => String(m.match_id) === String(id)) : null;
   const detail = id ? await loadMatch(id) : null;

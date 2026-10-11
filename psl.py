@@ -257,14 +257,20 @@ def fetch_missing_details(limit=12):
             if done >= limit:
                 return
             try:
-                d = parse_detail(fetch(url))
+                html = fetch(url)
+                d = parse_detail(html)
             except Exception as e:
                 print(f"  match page failed {url}: {e}")
                 continue
             done += 1
-            if d:
+            if d and (d["events"] or d["stats"]):
                 save_match(mid, slug, r["home"], r["away"], d)
                 print(f"  timeline saved: {r['home']} v {r['away']} ({len(d['events'])} events)")
+            else:
+                print(f"  no timeline found on {url}")
+                sample = DATA / "psl" / "_match_page_sample.html"
+                if not sample.exists():  # keep one copy to diagnose the page layout
+                    sample.write_text(html, encoding="utf-8")
 
 
 def store(slug, results, fixtures, log=None):
