@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 
 from common import DATA, ROOT, load_json, now_sast, slugify
 
-SITE = "https://matchdayza.co.za"
+SITE = "https://www.matchdayza.co.za"
 PAGES = {   # data slug -> (address, name)
     "betway-premiership": ("/", "Betway Premiership"),
     "national-first-division": ("/motsepe-foundation-championship/", "Motsepe Foundation Championship"),
