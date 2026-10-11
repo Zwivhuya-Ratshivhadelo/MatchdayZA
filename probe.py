@@ -20,8 +20,16 @@ for u in URLS:
         r = requests.get(u, headers=H, timeout=30)
         b = r.text
         i = b.find("Upington")
+        games = []
+        try:
+            j = r.json()
+            for g in j.get("games", []) or ([j["game"]] if j.get("game") else []):
+                if g.get("competitionId") == 5822 and g.get("startTime", "")[:10] in ("2026-10-11", "2026-10-10"):
+                    games.append(g)
+        except Exception:
+            pass
         out.append({"url": u, "status": r.status_code, "size": len(b), "upington": i >= 0,
-                    "around": b[max(0, i - 1500): i + 1500] if i >= 0 else b[:300]})
+                    "games": games[:3]})
     except Exception as e:
         out.append({"url": u, "error": str(e)})
 save_json(DATA / "_probe.json", out)
