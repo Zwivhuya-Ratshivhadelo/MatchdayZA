@@ -121,7 +121,7 @@ def run(window):
 
 def window_for_now():
     t = now_sast()
-    mins = t.hour * 60 + t.minute + 75
+    mins = t.hour * 60 + t.minute + 80   # started a little before the 75-minute lead
     return next((w for w, (lo, hi) in WINDOWS.items() if lo <= mins < hi), "d")
 
 

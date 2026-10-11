@@ -1,0 +1,39 @@
+name: Hourly tick
+
+# Started every hour by an outside timer (GitHub's own schedule was not firing).
+# Same job as "Update site", without the extra ABC and logo refresh a manual run does.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-site
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Scrape
+        id: scrape
+        continue-on-error: true
+        run: python update.py
+
+      - name: Save data
+        run: bash commit.sh
+
+      - name: Flag problems
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          echo "::error::Something didn't scrape properly. Open the 'Scrape' step to see which part."
+          exit 1
