@@ -329,6 +329,8 @@ def fill_by_match_id():
         known = {r["match_id"] for r in comp.get("results", []) + comp.get("fixtures", []) if r.get("match_id")}
         extra = [e for e in comp.get("extra", []) if e["match_id"] not in known]
         skip = set(comp.get("not_ours", []))
+        today = now_sast().date().isoformat()
+        checked = {k: v for k, v in comp.get("checked", {}).items() if v == today}   # not played yet, looked at today
 
         def counts():
             c = {}
@@ -350,8 +352,8 @@ def fill_by_match_id():
         for r in results:
             if str(r.get("match_id", "")).isdigit():
                 round_dates.setdefault((int(r["match_id"]) - first) // 8, []).append(r["date"])
-        top = max(i for i in ids if i - first < len(teams) * (len(teams) - 1)) + 16
-        have = known | {e["match_id"] for e in extra} | skip
+        top = first + len(teams) * (len(teams) - 1) - 1   # every number in the season
+        have = known | {e["match_id"] for e in extra} | skip | set(checked)
         for mid in range(first, top + 1):
             if not short():
                 break
@@ -367,13 +369,14 @@ def fill_by_match_id():
                 skip.add(mid)
                 continue
             if not d or d["status"] != "FT":
+                checked[str(mid)] = today
                 continue
             dates = sorted(round_dates.get((mid - first) // 8, [])) or [""]
             extra.append({"match_id": str(mid), "home": teams[slugify(names[0])], "away": teams[slugify(names[1])],
                           "home_score": d["home_score"], "away_score": d["away_score"], "status": "FT",
                           "date": dates[len(dates) // 2]})
             print(f"  {meta['name']} #{mid}: {names[0]} {d['home_score']}-{d['away_score']} {names[1]}")
-        comp["extra"], comp["not_ours"] = extra, sorted(skip)
+        comp["extra"], comp["not_ours"], comp["checked"] = extra, sorted(skip), checked
         save_json(path, comp)
         left = short()
         print(f"{meta['name']}: {len(extra)} extra games; "
@@ -395,7 +398,7 @@ def store(slug, results, fixtures, log=None):
         "updated": now_sast().isoformat(timespec="seconds"),
         "log": log if log else old.get("log", []),
         "results": all_results, "fixtures": all_fixtures,
-        "extra": old.get("extra", []), "not_ours": old.get("not_ours", []),
+        "extra": old.get("extra", []), "not_ours": old.get("not_ours", []), "checked": old.get("checked", {}),
     })
     return len(all_results), len(all_fixtures)
 
