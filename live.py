@@ -142,6 +142,7 @@ def run(window):
             if d["status"] == "NS" or (now < g["kickoff"] and not d["events"]):
                 # before kick-off: keep the line-ups, mark the fixture with its match page
                 d.update(status="NS", minute=None, home_score=None, away_score=None)
+                psl.drop_live(g["slug"], g)
                 psl.save_match(link["id"], g["slug"], g["home"], g["away"], d)
                 psl.store(g["slug"], [], [{**{k: v for k, v in g.items() if k not in ("slug", "kickoff")},
                                            "match_id": link["id"], "url": link["url"]}])

@@ -254,7 +254,9 @@ def parse_detail(html):
     finished = label.lower() in ("result", "full time", "ft") or any(e["type"] == "full_time" for e in events[:4])
     if not finished and MINUTE_RE.match(label):
         minute = label if label.endswith("'") else label + "'"
-    if hs is None:   # before kick-off: only line-ups
+    if label.lower() == "fixture":   # the PSL isn't covering this game live: its score isn't real yet
+        hs = as_ = None
+    if hs is None:   # before kick-off (or no live coverage): only line-ups
         return {"home_score": None, "away_score": None, "status": "NS", "minute": None,
                 "events": [], "stats": [], "lineups": lineups}
     return {"home_score": hs, "away_score": as_, "status": "FT" if finished else "LIVE",
@@ -384,6 +386,17 @@ def fill_by_match_id():
         left = short()
         print(f"{meta['name']}: {len(extra)} extra games; "
               + ("all clubs complete" if not left else "still short: " + ", ".join(r["team"] for r in left)))
+
+
+def drop_live(slug, match):
+    """Take back a game wrongly shown as live (it stays a fixture until its result is in)."""
+    path = DATA / "psl" / f"{slug}.json"
+    comp = load_json(path, {})
+    key = match_key(match)
+    before = len(comp.get("results", []))
+    comp["results"] = [r for r in comp.get("results", []) if not (match_key(r) == key and r.get("status") == "LIVE")]
+    if len(comp["results"]) != before:
+        save_json(path, comp)
 
 
 def store(slug, results, fixtures, log=None):
