@@ -359,3 +359,10 @@ a.mcard { color: inherit; text-decoration: none; }
   font: inherit; font-size: 16px; font-weight: 700; color: var(--ink); text-transform: none;
   padding: 10px 12px; border: 2px solid var(--ink); border-radius: 8px; background: var(--white);
 }
+
+/* Logo: ball before the name */
+.wordmark { display: inline-flex; align-items: center; gap: 10px; }
+.brand-ball { width: 40px; height: 40px; flex: none; }
+.wordmark .wm { color: inherit; }
+.wordmark .za { color: var(--gold); font-weight: inherit; }
+@media (max-width: 480px) { .brand-ball { width: 34px; height: 34px; } }
