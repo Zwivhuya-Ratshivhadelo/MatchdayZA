@@ -422,11 +422,14 @@ def build_match(m, comp_key, comps, template, svg, today):
     g = merge_detail(m, detail)
     d = parse_date(g)
     when = f"{d:%-d %B %Y}" if d else ""
-    if g.get("status") == "FT":
+    if g.get("status") == "LIVE":
+        head = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]} Live Score'
+        desc = f'{head}, {comp_name}. Key moments, stats and line-ups as it happens.'
+    elif g.get("status") == "FT":
         head = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]}'
         desc = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]}, {comp_name}, {when}. Stats, key moments and line-ups.'
     else:
-        head = f'{g["home"]} vs {g["away"]} live score'
+        head = f'{g["home"]} vs {g["away"]} Live Score'
         desc = (f'{g["home"]} vs {g["away"]}, {comp_name}, {when}' + (f' at {kickoff(g)}' if kickoff(g) else "")
                 + '. Live score, stats, key moments and line-ups.')
     page = fill(template, {

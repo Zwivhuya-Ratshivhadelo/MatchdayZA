@@ -362,6 +362,10 @@ async function renderGame() {
     const m = mergeDetail(g, detail);
     $('[data-md="featured"]').innerHTML = pitchCard(m, PSL[compKey].name);
     $('[data-md="match-panel"]').innerHTML = detailPanel(m, detail);
+    // the tab title follows the game: "Live Score" with the score while it is on
+    const name = PSL[compKey].name;
+    if (m.status === "LIVE") document.title = `${m.home} ${m.home_score}-${m.away_score} ${m.away} Live Score | ${name} | MatchdayZA`;
+    else if (m.status === "FT") document.title = `${m.home} ${m.home_score}-${m.away_score} ${m.away} | ${name} | MatchdayZA`;
     liveRefresh(m.status === "LIVE", draw);
   };
   draw();
