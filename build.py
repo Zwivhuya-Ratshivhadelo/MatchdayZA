@@ -94,9 +94,9 @@ def match_card(m, today, pick=False, selected=False):
     inner = (f'<div class="mcard-top">{top}<span>{esc(right)}</span></div>'
              f'{row(m["home"], m.get("home_score"))}{row(m["away"], m.get("away_score"))}')
     cls = f'mcard {"live" if live else ""} {"selected" if selected else ""}'
-    if pick:
-        return (f'<button type="button" class="{cls}" data-key="{esc(game_key(m))}" '
-                f'aria-pressed="{"true" if selected else "false"}">{inner}</button>')
+    url = match_url(m) if pick else None   # the card opens the game's own page
+    if url:
+        return f'<a class="{cls}" href="{url}">{inner}</a>'
     return f'<div class="{cls}">{inner}</div>'
 
 
@@ -127,11 +127,10 @@ def result_card(m, extra=False, pick=False, label="", link=False):
              f'{side_r(m["away"])}</div>'
              + (f'<div class="lc-comp">{esc(label)}</div>' if label else ""))
     ex = " extra" if extra else ""
-    url = match_url(m) if link else None
-    more = f'<a class="lc-more" href="{url}">View match</a>' if url else ""
-    if pick:
-        return f'<div class="lc{ex} pick" role="button" tabindex="0" data-key="{esc(game_key(m))}">{inner}{more}</div>'
-    return f'<article class="lc{ex}">{inner}{more}</article>'
+    url = match_url(m) if (link or pick) else None   # the card opens the game's own page
+    if url:
+        return f'<a href="{url}" class="lc{ex}">{inner}<span class="lc-more">View match</span></a>'
+    return f'<article class="lc{ex}">{inner}</article>'
 
 
 def results_list(done, pick=False, label_of=None, link=False):
