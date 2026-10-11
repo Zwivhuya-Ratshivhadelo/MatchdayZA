@@ -94,9 +94,9 @@ def match_card(m, today, pick=False, selected=False):
     inner = (f'<div class="mcard-top">{top}<span>{esc(right)}</span></div>'
              f'{row(m["home"], m.get("home_score"))}{row(m["away"], m.get("away_score"))}')
     cls = f'mcard {"live" if live else ""} {"selected" if selected else ""}'
-    url = match_url(m) if pick else None   # the card opens the game's own page
-    if url:
-        return f'<a class="{cls}" href="{url}">{inner}</a>'
+    if pick:   # tapping it puts the game on the pitch
+        return (f'<button type="button" class="{cls}" data-key="{esc(game_key(m))}" '
+                f'aria-pressed="{"true" if selected else "false"}">{inner}</button>')
     return f'<div class="{cls}">{inner}</div>'
 
 

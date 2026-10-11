@@ -99,7 +99,7 @@ async function loadMatch(id) {
 
 /* ---------- shared pieces ---------- */
 /* Small swipe card for the next-matches row.
-   opts.link: the card opens the game's own page; opts.selected: it is the game on the pitch */
+   opts.pick: tapping it puts the game on the pitch; opts.selected: it is the game on the pitch */
 function matchCard(m, opts = {}) {
   const live = m.status === "LIVE";
   const top = live ? `<span class="pill-live">Live ${esc(m.minute || "")}</span>` : `<span>${esc(dayLabel(m))}</span>`;
@@ -107,8 +107,8 @@ function matchCard(m, opts = {}) {
   const row = (team, sc) => `<div class="mcard-row">${crest(team, 26)}<span class="code">${esc(team)}</span>${live ? `<span class="sc">${sc}</span>` : ""}</div>`;
   const inner = `<div class="mcard-top">${top}<span>${esc(right)}</span></div>${row(m.home, m.home_score)}${row(m.away, m.away_score)}`;
   const cls = `mcard ${live ? "live" : ""} ${opts.selected ? "selected" : ""}`;
-  const url = opts.link ? matchUrl(m) : null;
-  return url ? `<a class="${cls}" href="${url}">${inner}</a>` : `<div class="${cls}">${inner}</div>`;
+  return opts.pick ? `<button type="button" class="${cls}" data-key="${esc(gameKey(m))}" aria-pressed="${!!opts.selected}">${inner}</button>`
+                   : `<div class="${cls}">${inner}</div>`;
 }
 
 /* Result card (LaLiga-style); with opts.link, the card opens the game's own page */
@@ -238,7 +238,13 @@ function clubLeague(comps, club) {
 /* ---------- next matches, pitch, results and log: used by competition and club pages ---------- */
 async function renderBoard(view) {
   let comps = await loadComps();
+  let chosen = param("m");          // upcoming or live game on the pitch (from a tap, or a shared link)
   let drawToken = 0;
+  const setUrl = () => {
+    const q = new URLSearchParams();
+    if (chosen) q.set("m", chosen);
+    history.replaceState(null, "", location.pathname + (q.toString() ? `?${q}` : ""));
+  };
 
   const draw = () => {
     const v = view(comps);
@@ -251,10 +257,10 @@ async function renderBoard(view) {
     const auto = live[0]
       || (v.bigFirst && fixtures.find((m) => BIG_CLUBS.includes(slug(m.home)) || BIG_CLUBS.includes(slug(m.away))))
       || fixtures[0] || [...results].sort(byDate).reverse()[0];
-    // old shared links (?m=...) open that game's own page
-    const old = param("m") && games.find((m) => gameKey(m) === param("m"));
+    // a finished game from an old shared link opens its own page
+    const old = chosen && results.find((m) => m.status === "FT" && gameKey(m) === chosen);
     if (old && matchUrl(old)) { location.replace(matchUrl(old)); return; }
-    const pick = auto;
+    const pick = [...live, ...fixtures].find((m) => gameKey(m) === chosen) || auto;
     const pickKey = pick ? gameKey(pick) : null;
     const compName = (m) => PSL[m._comp]?.name || "";
 
@@ -262,7 +268,7 @@ async function renderBoard(view) {
     const title = $('[data-md="next-title"]');
     if (title) title.textContent = live.length ? "Live now" : "Next matches";
     $('[data-md="next-matches"]').innerHTML = next.length
-      ? next.map((m) => matchCard(m, { link: true, selected: gameKey(m) === pickKey })).join("")
+      ? next.map((m) => matchCard(m, { pick: true, selected: gameKey(m) === pickKey })).join("")
       : `<p class="empty">No ${esc(v.name)} matches scheduled yet.</p>`;
 
     const done = results.filter((m) => m.status === "FT").sort(byDate).reverse();
@@ -297,6 +303,14 @@ async function renderBoard(view) {
     });
   };
 
+  // tapping an upcoming or live game puts it on the pitch (finished games open their own page)
+  document.addEventListener("click", (e) => {
+    const card = e.target.closest("button[data-key]");
+    if (!card) return;
+    chosen = card.dataset.key;
+    setUrl();
+    draw();
+  });
   draw();
 }
 
