@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matchdayza.co.za/sitemap.xml

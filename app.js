@@ -351,4 +351,4 @@ async function renderMatch() {
 
 /* ---------- start ---------- */
 $all('[data-md="year"]').forEach((el) => (el.textContent = new Date().getFullYear()));
-({ home: renderHome, abc: renderAbc, match: renderMatch }[document.body.dataset.page] || renderHome)();
+({ home: renderHome, abc: renderAbc, match: renderMatch, info: () => compNav(null) }[document.body.dataset.page] || renderHome)();
