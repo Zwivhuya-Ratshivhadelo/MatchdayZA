@@ -5,10 +5,22 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-11T12:47:34+02:00",
+  "updated": "2026-10-11T18:24:18+02:00",
   "log": [
     {
       "pos": 1,
+      "team": "Ben 10 FC",
+      "p": 2,
+      "w": 1,
+      "d": 1,
+      "l": 0,
+      "gf": 4,
+      "ga": 2,
+      "gd": 2,
+      "pts": 4
+    },
+    {
+      "pos": 2,
       "team": "Tembisa Hollywood Thunder",
       "p": 2,
       "w": 1,
@@ -20,7 +32,7 @@
       "pts": 4
     },
     {
-      "pos": 2,
+      "pos": 3,
       "team": "University of Johannesburg FC",
       "p": 2,
       "w": 1,
@@ -32,7 +44,7 @@
       "pts": 4
     },
     {
-      "pos": 3,
+      "pos": 4,
       "team": "Dinoko City FC",
       "p": 2,
       "w": 1,
@@ -44,7 +56,7 @@
       "pts": 4
     },
     {
-      "pos": 4,
+      "pos": 5,
       "team": "Tshwane South College FC",
       "p": 2,
       "w": 1,
@@ -56,19 +68,31 @@
       "pts": 3
     },
     {
-      "pos": 5,
+      "pos": 6,
       "team": "JBM FC",
-      "p": 1,
+      "p": 2,
       "w": 1,
       "d": 0,
-      "l": 0,
-      "gf": 3,
-      "ga": 2,
-      "gd": 1,
+      "l": 1,
+      "gf": 4,
+      "ga": 5,
+      "gd": -1,
       "pts": 3
     },
     {
-      "pos": 6,
+      "pos": 7,
+      "team": "La Masia FC",
+      "p": 2,
+      "w": 1,
+      "d": 0,
+      "l": 1,
+      "gf": 1,
+      "ga": 2,
+      "gd": -1,
+      "pts": 3
+    },
+    {
+      "pos": 8,
       "team": "Ssu M-17 FC",
       "p": 2,
       "w": 0,
@@ -80,7 +104,7 @@
       "pts": 2
     },
     {
-      "pos": 7,
+      "pos": 9,
       "team": "Free Agents Football Club",
       "p": 2,
       "w": 0,
@@ -92,31 +116,19 @@
       "pts": 2
     },
     {
-      "pos": 8,
-      "team": "Rrr Rams Football Club",
-      "p": 1,
-      "w": 0,
-      "d": 1,
-      "l": 0,
-      "gf": 1,
-      "ga": 1,
-      "gd": 0,
-      "pts": 1
-    },
-    {
-      "pos": 9,
-      "team": "Ben 10 FC",
-      "p": 1,
-      "w": 0,
-      "d": 1,
-      "l": 0,
-      "gf": 1,
-      "ga": 1,
-      "gd": 0,
-      "pts": 1
-    },
-    {
       "pos": 10,
+      "team": "Rrr Rams Football Club",
+      "p": 2,
+      "w": 0,
+      "d": 1,
+      "l": 1,
+      "gf": 1,
+      "ga": 2,
+      "gd": -1,
+      "pts": 1
+    },
+    {
+      "pos": 11,
       "team": "Lesco FC",
       "p": 2,
       "w": 0,
@@ -128,7 +140,7 @@
       "pts": 1
     },
     {
-      "pos": 11,
+      "pos": 12,
       "team": "Boipatong Football Club",
       "p": 2,
       "w": 0,
@@ -136,18 +148,6 @@
       "l": 2,
       "gf": 3,
       "ga": 5,
-      "gd": -2,
-      "pts": 0
-    },
-    {
-      "pos": 12,
-      "team": "La Masia FC",
-      "p": 1,
-      "w": 0,
-      "d": 0,
-      "l": 1,
-      "gf": 0,
-      "ga": 2,
       "gd": -2,
       "pts": 0
     }
@@ -250,6 +250,26 @@
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=8&s=l",
       "date": "2026-10-09",
       "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Rrr Rams Football Club",
+      "away": "La Masia FC",
+      "match_no": 11,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=11&s=l",
+      "date": "2026-10-10",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Ben 10 FC",
+      "away": "JBM FC",
+      "match_no": 7,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=7&s=l",
+      "date": "2026-10-10",
+      "home_score": 3,
       "away_score": 1,
       "status": "FT"
     }

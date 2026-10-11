@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-10-11T12:47:39+02:00",
+  "updated": "2026-10-11T18:24:22+02:00",
   "log": [
     {
       "pos": 1,
@@ -33,19 +33,31 @@
     },
     {
       "pos": 3,
-      "team": "Spartans FC",
+      "team": "Doornkop Students",
+      "p": 2,
+      "w": 1,
+      "d": 1,
+      "l": 0,
+      "gf": 5,
+      "ga": 4,
+      "gd": 1,
+      "pts": 4
+    },
+    {
+      "pos": 4,
+      "team": "Mabopane Jm",
       "p": 1,
       "w": 1,
       "d": 0,
       "l": 0,
-      "gf": 2,
-      "ga": 1,
+      "gf": 3,
+      "ga": 2,
       "gd": 1,
       "pts": 3
     },
     {
-      "pos": 4,
-      "team": "Jomo Cosmos FC",
+      "pos": 5,
+      "team": "TUT FC",
       "p": 1,
       "w": 1,
       "d": 0,
@@ -56,7 +68,31 @@
       "pts": 3
     },
     {
-      "pos": 5,
+      "pos": 6,
+      "team": "Spartans FC",
+      "p": 2,
+      "w": 1,
+      "d": 0,
+      "l": 1,
+      "gf": 4,
+      "ga": 4,
+      "gd": 0,
+      "pts": 3
+    },
+    {
+      "pos": 7,
+      "team": "Jomo Cosmos FC",
+      "p": 2,
+      "w": 1,
+      "d": 0,
+      "l": 1,
+      "gf": 1,
+      "ga": 1,
+      "gd": 0,
+      "pts": 3
+    },
+    {
+      "pos": 8,
       "team": "Young Pirates FC",
       "p": 2,
       "w": 1,
@@ -68,31 +104,19 @@
       "pts": 3
     },
     {
-      "pos": 6,
-      "team": "Doornkop Students",
-      "p": 1,
-      "w": 0,
-      "d": 1,
-      "l": 0,
-      "gf": 2,
-      "ga": 2,
-      "gd": 0,
-      "pts": 1
-    },
-    {
-      "pos": 7,
+      "pos": 9,
       "team": "Mike-1-Stars FC",
-      "p": 1,
+      "p": 2,
       "w": 0,
       "d": 1,
-      "l": 0,
-      "gf": 1,
-      "ga": 1,
-      "gd": 0,
+      "l": 1,
+      "gf": 3,
+      "ga": 4,
+      "gd": -1,
       "pts": 1
     },
     {
-      "pos": 8,
+      "pos": 10,
       "team": "Tembisa Destroyers FC",
       "p": 2,
       "w": 0,
@@ -102,30 +126,6 @@
       "ga": 3,
       "gd": -1,
       "pts": 1
-    },
-    {
-      "pos": 9,
-      "team": "Mabopane Jm",
-      "p": 0,
-      "w": 0,
-      "d": 0,
-      "l": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "pts": 0
-    },
-    {
-      "pos": 10,
-      "team": "TUT FC",
-      "p": 0,
-      "w": 0,
-      "d": 0,
-      "l": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "pts": 0
     },
     {
       "pos": 11,
@@ -232,17 +232,39 @@
       "home_score": 6,
       "away_score": 0,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
+    {
+      "home": "Mike-1-Stars FC",
+      "away": "Mabopane Jm",
+      "match_no": 12,
+      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=12&s=l",
+      "date": "2026-10-10",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Spartans FC",
+      "away": "Doornkop Students",
+      "match_no": 7,
+      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=7&s=l",
+      "date": "2026-10-10",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "FT"
+    },
     {
       "home": "Jomo Cosmos FC",
       "away": "TUT FC",
       "match_no": 76,
       "url": "https://inqaku.com/match/view?stream_id=28000&match_no=76&s=l",
-      "date": "2026-10-11T15:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-10-11",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Dube Continental FC",
       "away": "Orlando Pirates FC",
