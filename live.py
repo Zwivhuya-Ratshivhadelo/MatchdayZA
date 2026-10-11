@@ -144,7 +144,8 @@ def run(window):
                 d.update(status="NS", minute=None, home_score=None, away_score=None)
                 psl.drop_live(g["slug"], g)
                 psl.save_match(link["id"], g["slug"], g["home"], g["away"], d)
-                psl.store(g["slug"], [], [{**{k: v for k, v in g.items() if k not in ("slug", "kickoff")},
+                skip = ("slug", "kickoff", "status", "home_score", "away_score", "minute", "latest")   # a fixture has no score
+                psl.store(g["slug"], [], [{**{k: v for k, v in g.items() if k not in skip},
                                            "match_id": link["id"], "url": link["url"]}])
                 print(f"  {g['home']} v {g['away']}: pre-match, line-ups {'in' if d['lineups'] else 'not out yet'}")
                 continue
