@@ -15,6 +15,7 @@ from datetime import datetime, timedelta
 
 from bs4 import BeautifulSoup
 
+import build
 import psl
 from common import DATA, fetch, load_json, match_key, now_sast, score_line
 
@@ -46,6 +47,10 @@ def todays_games(window):
 def publish():
     """Push the latest data (only inside GitHub Actions)."""
     if os.environ.get("LIVE_DEPLOY") == "1":
+        try:
+            build.run()
+        except Exception as e:
+            print(f"  build failed: {e}")
         subprocess.run(["bash", "commit.sh"], check=False)
 
 

@@ -3,11 +3,11 @@
    Each page says which page it is with <body data-page="home|abc|match">. */
 
 const PSL = {
-  "betway-premiership": { name: "Betway Premiership" },
-  "national-first-division": { name: "Motsepe Foundation Championship" },
-  "mtn8": { name: "MTN8" },
-  "carling-knockout": { name: "Carling Knockout" },
-  "nedbank-cup": { name: "Nedbank Cup" },
+  "betway-premiership": { name: "Betway Premiership", url: "/" },
+  "national-first-division": { name: "Motsepe Foundation Championship", url: "/motsepe-foundation-championship/" },
+  "mtn8": { name: "MTN8", url: "/mtn8/" },
+  "carling-knockout": { name: "Carling Knockout", url: "/carling-knockout/" },
+  "nedbank-cup": { name: "Nedbank Cup", url: "/nedbank-cup/" },
 };
 const BIG_CLUBS = ["kaizer-chiefs", "orlando-pirates", "mamelodi-sundowns"];
 const RESULTS_SHOWN = 6;
@@ -44,7 +44,7 @@ function clubCode(name) {
 /* Club logo from logos/<club-name>.png. If the file doesn't exist, nothing is shown. */
 function crest(name, size) {
   const st = size ? ` style="--size:${size}px"` : "";
-  return `<span class="crest"${st}><img src="logos/${slug(name)}.png" alt="" onerror="this.parentNode.remove()"></span>`;
+  return `<span class="crest"${st}><img src="logos/${slug(name)}.png" alt="" loading="lazy" decoding="async" onerror="this.parentNode.remove()"></span>`;
 }
 
 const parseDate = (m) => (m.date ? new Date(m.date.includes("T") ? m.date : m.date + "T12:00:00+02:00") : null);
@@ -190,14 +190,13 @@ function switchRow(el, items, active, onPick) {
   el.querySelector('[aria-current="page"]')?.scrollIntoView({ inline: "center", block: "nearest" });
 }
 
-/* The competition row, identical on every page. On the home page PSL items switch in place;
-   everywhere else they are normal links. ABC Motsepe League always opens its own page. */
-function compNav(active, onPick) {
+/* The competition row, identical on every page. Every competition has its own page. */
+function compNav(active) {
   const el = $('[data-md="comp-switch"]');
   if (!el) return;
-  const items = Object.entries(PSL).map(([k, c]) => ({ key: k, label: c.name, href: k === "betway-premiership" ? "index.html" : `index.html?c=${k}`, page: !onPick }));
-  items.push({ key: "abc", label: "ABC Motsepe League", href: "abc.html", page: true });
-  switchRow(el, items, active, onPick || (() => {}));
+  const items = Object.entries(PSL).map(([k, c]) => ({ key: k, label: c.name, href: c.url, page: true }));
+  items.push({ key: "abc", label: "ABC Motsepe League", href: "/abc.html", page: true });
+  switchRow(el, items, active, () => {});
 }
 
 function liveRefresh(on) {
@@ -207,14 +206,19 @@ function liveRefresh(on) {
 
 /* ---------- home: PSL competitions, one switch drives the page ---------- */
 async function renderHome() {
+  // old ?c= links go to the competition's own page
+  if (PSL[param("c")] && param("c") !== document.body.dataset.comp) {
+    const m = param("m");
+    location.replace(PSL[param("c")].url + (m ? `?m=${encodeURIComponent(m)}` : ""));
+    return;
+  }
   const comps = await loadComps();
-  let current = PSL[param("c")] ? param("c") : "betway-premiership";
+  const current = PSL[document.body.dataset.comp] ? document.body.dataset.comp : "betway-premiership";
   let chosen = param("m");          // the game on the pitch (from a tap, or a shared link)
   let drawToken = 0;
 
   const setUrl = () => {
     const q = new URLSearchParams();
-    if (current !== "betway-premiership") q.set("c", current);
     if (chosen) q.set("m", chosen);
     history.replaceState(null, "", q.toString() ? `?${q}` : location.pathname);
   };
@@ -228,7 +232,7 @@ async function renderHome() {
     const live = results.filter((m) => m.status === "LIVE");
     const games = [...live, ...fixtures, ...results];
 
-    compNav(current, (k) => { current = k; chosen = null; setUrl(); draw(); });
+    compNav(current);
 
     // which game is on the pitch: the chosen one, else live, else next big-club game, else next game, else latest result
     const auto = live[0]
@@ -370,9 +374,13 @@ function detailPanel(m, detail) {
 /* Old match-page links now open the game on the home page */
 function renderMatch() {
   const c = PSL[param("c")] ? param("c") : "betway-premiership", id = param("id");
-  location.replace(`index.html?c=${c}${id ? `&m=id${id}` : ""}`);
+  location.replace(PSL[c].url + (id ? `?m=id${id}` : ""));
 }
 
 /* ---------- start ---------- */
 $all('[data-md="year"]').forEach((el) => (el.textContent = new Date().getFullYear()));
+/* Contact: the address is put together only when the button is tapped */
+$all('[data-md="email"]').forEach((b) => b.addEventListener("click", () => {
+  location.href = `mailto:${b.dataset.u}@${b.dataset.d}`;
+}));
 ({ home: renderHome, abc: renderAbc, match: renderMatch, info: () => compNav(null) }[document.body.dataset.page] || renderHome)();

@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en-ZA">
+<head>
+  <meta charset="utf-8">
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}}</title>
+  <meta name="description" content="{{description}}">
+  <link rel="canonical" href="{{canonical}}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MatchdayZA">
+  <meta property="og:title" content="{{title}}">
+  <meta property="og:description" content="{{description}}">
+  <meta property="og:url" content="{{canonical}}">
+  <meta property="og:image" content="https://matchdayza.co.za/share.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#00563A">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=20261011105544">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5145933206925498" crossorigin="anonymous"></script>
+</head>
+<body data-page="abc">
+
+  <header class="site-header">
+    <div class="container header-row">
+      <a class="wordmark" href="/"><img class="brand-ball" src="ball-sm.png" alt="" width="40" height="40"><span class="wm">Matchday<b class="za">ZA</b></span></a>
+    </div>
+  </header>
+
+  <!-- Competitions: the same row on every page -->
+  <nav class="comp-switch" aria-label="Competitions">
+    <div class="container comp-switch-row" data-md="comp-switch">{{nav}}</div>
+  </nav>
+
+  <div class="page-head">
+    <div class="container">
+      <h1>ABC Motsepe League</h1>
+      <div class="abc-filters">
+        <label>Province <select data-md="province-select">{{provinces}}</select></label>
+        <label{{stream_hidden}}>Stream <select data-md="stream-select">{{streams}}</select></label>
+      </div>
+    </div>
+  </div>
+
+  <main data-md="abc-content">
+    <section class="next-bar">
+      <div class="container">
+        <div class="next-head">
+          <h2>Next matches</h2>
+        </div>
+        <div class="next-scroll" data-md="next-matches">{{next}}</div>
+      </div>
+    </section>
+
+    <div class="container home-grid">
+      <section class="results-block">
+        <div class="panel-head">
+          <h2>Latest results</h2>
+        </div>
+        <div data-md="results">{{results}}</div>
+      </section>
+
+      <section class="panel" data-md="log-section"{{log_hidden}}>
+        <div class="panel-head">
+          <h2>Log</h2>
+        </div>
+        <div data-md="standings">{{standings}}</div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="wordmark" href="/"><img class="brand-ball" src="ball-sm.png" alt="" width="40" height="40"><span class="wm">Matchday<b class="za">ZA</b></span></a>
+        <p>South African football scores, fixtures, results and logs.</p>
+      </div>
+      <nav aria-label="Competitions">
+        <h3>Competitions</h3>
+        <a href="/">Betway Premiership</a>
+        <a href="/motsepe-foundation-championship/">Motsepe Foundation Championship</a>
+        <a href="/mtn8/">MTN8</a>
+        <a href="/carling-knockout/">Carling Knockout</a>
+        <a href="/nedbank-cup/">Nedbank Cup</a>
+        <a href="/abc.html">ABC Motsepe League</a>
+      </nav>
+    </div>
+    <div class="container footer-base">
+      <span>&copy; <span data-md="year"></span> MatchdayZA</span>
+      <nav class="footer-links" aria-label="Site">
+        <a href="/about.html">About</a>
+        <a href="/contact.html">Contact</a>
+        <a href="/privacy.html">Privacy Policy</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="app.js?v=20261011105544"></script>
+</body>
+</html>

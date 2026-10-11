@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-# Commit changed data/ and logos/ files and push, retrying if another run pushed first.
+# Commit changed data, logos and built pages and push, retrying if another run pushed first.
 set -uo pipefail
 git config user.name "github-actions[bot]"
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-for d in data logos; do
-  [ -d "$d" ] && git add "$d"
+for d in data logos index.html abc.html sitemap.xml motsepe-foundation-championship mtn8 carling-knockout nedbank-cup; do
+  [ -e "$d" ] && git add "$d"
 done
 if git diff --cached --quiet; then
   echo "No data changes."

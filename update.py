@@ -6,6 +6,7 @@ Run:  python update.py [--all]
 import sys
 
 import abc_league
+import build
 import logos
 import psl
 from common import ROOT, now_sast
@@ -34,6 +35,7 @@ def main():
         ok &= step("ABC Motsepe League", abc_league.run)
     if everything or hour == LOGO_HOUR or not (ROOT / "logos").exists():
         ok &= step("Club logos", logos.run)
+    ok &= step("Build pages", build.run)
     if not ok:
         sys.exit(1)
 
