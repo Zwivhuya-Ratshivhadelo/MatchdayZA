@@ -271,7 +271,8 @@ async function renderBoard(view) {
       ? next.map((m) => matchCard(m, { pick: true, selected: gameKey(m) === pickKey })).join("")
       : `<p class="empty">No ${esc(v.name)} matches scheduled yet.</p>`;
 
-    const done = results.filter((m) => m.status === "FT").sort(byDate).reverse();
+    // the finished game on the pitch is not repeated in the results
+    const done = results.filter((m) => m.status === "FT" && gameKey(m) !== pickKey).sort(byDate).reverse();
     const resBox = $('[data-md="results"]');
     if (!resultsList(resBox, done, v.labels ? compName : null, { link: true })) resBox.innerHTML = `<p class="empty">No ${esc(v.name)} results yet.</p>`;
 

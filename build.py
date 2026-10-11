@@ -232,6 +232,7 @@ def build_comp(slug_, template, svg, today):
     pick = (live[0] if live else None) or big or (fixtures[0] if fixtures else None) or (done[0] if done else None)
     pick_key = game_key(pick) if pick else None
 
+    done = [m for m in done if game_key(m) != pick_key]   # the game on the pitch is not repeated
     nxt = (live + fixtures)[:12]
     next_html = ("".join(match_card(m, today, True, game_key(m) == pick_key) for m in nxt) if nxt
                  else f'<p class="empty">No {esc(name)} matches scheduled yet.</p>')
@@ -391,6 +392,7 @@ def build_club(club, comps, template, svg, today):
     done = sorted([m for m in results if m.get("status") == "FT"], key=lambda m: m.get("date") or "", reverse=True)
     pick = (live[0] if live else None) or (fixtures[0] if fixtures else None) or (done[0] if done else None)
     pick_key = game_key(pick) if pick else None
+    done = [m for m in done if game_key(m) != pick_key]   # the game on the pitch is not repeated
     nxt = (live + fixtures)[:12]
     league = next((k for k, c in comps.items() if any(slug(r["team"]) == s for r in c.get("log", []))), None)
     lc = comps.get(league, {}) if league else {}
