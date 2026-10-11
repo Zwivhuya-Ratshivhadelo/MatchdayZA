@@ -1,0 +1,103 @@
+{
+  "updated": "2026-10-11T06:25:35+02:00",
+  "streams": [
+    {
+      "season_id": "17741",
+      "stream_id": "28223",
+      "province": "Eastern Cape",
+      "name": "EC Coastal Stream",
+      "slug": "ec-coastal-stream"
+    },
+    {
+      "season_id": "17741",
+      "stream_id": "28224",
+      "province": "Eastern Cape",
+      "name": "EC Inland Stream",
+      "slug": "ec-inland-stream"
+    },
+    {
+      "season_id": "17711",
+      "stream_id": "27999",
+      "province": "Gauteng",
+      "name": "GP Stream A",
+      "slug": "gp-stream-a"
+    },
+    {
+      "season_id": "17711",
+      "stream_id": "28000",
+      "province": "Gauteng",
+      "name": "GP Stream B",
+      "slug": "gp-stream-b"
+    },
+    {
+      "season_id": "17736",
+      "stream_id": "28489",
+      "province": "KwaZulu Natal",
+      "name": "KZN Stream A",
+      "slug": "kzn-stream-a"
+    },
+    {
+      "season_id": "17736",
+      "stream_id": "28490",
+      "province": "KwaZulu Natal",
+      "name": "KZN Stream B",
+      "slug": "kzn-stream-b"
+    },
+    {
+      "season_id": "17737",
+      "stream_id": "28322",
+      "province": "Limpopo",
+      "name": "LP Limpopo Stream A",
+      "slug": "lp-limpopo-stream-a"
+    },
+    {
+      "season_id": "17737",
+      "stream_id": "28323",
+      "province": "Limpopo",
+      "name": "LP Limpopo Stream B",
+      "slug": "lp-limpopo-stream-b"
+    },
+    {
+      "season_id": "17712",
+      "stream_id": "27908",
+      "province": "Mpumalanga",
+      "name": "MP Stream A",
+      "slug": "mp-stream-a"
+    },
+    {
+      "season_id": "17712",
+      "stream_id": "27909",
+      "province": "Mpumalanga",
+      "name": "MP Stream B",
+      "slug": "mp-stream-b"
+    },
+    {
+      "season_id": "17733",
+      "stream_id": "28492",
+      "province": "North West",
+      "name": "NW Stream A",
+      "slug": "nw-stream-a"
+    },
+    {
+      "season_id": "17733",
+      "stream_id": "28493",
+      "province": "North West",
+      "name": "NW Stream B",
+      "slug": "nw-stream-b"
+    },
+    {
+      "season_id": "17738",
+      "stream_id": "28002",
+      "province": "Western Cape",
+      "name": "WC Stream A",
+      "slug": "wc-stream-a"
+    },
+    {
+      "season_id": "17738",
+      "stream_id": "28003",
+      "province": "Western Cape",
+      "name": "WC Stream B",
+      "slug": "wc-stream-b"
+    }
+  ]
+}

@@ -1,0 +1,1022 @@
+{
+  "season_id": "17738",
+  "stream_id": "28003",
+  "province": "Western Cape",
+  "name": "WC Stream B",
+  "slug": "wc-stream-b",
+  "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
+  "updated": "2026-10-11T06:25:35+02:00",
+  "log": [
+    {
+      "pos": 1,
+      "team": "Grassy Park United",
+      "p": 4,
+      "w": 3,
+      "d": 1,
+      "l": 0,
+      "gf": 11,
+      "ga": 4,
+      "gd": 7,
+      "pts": 10
+    },
+    {
+      "pos": 2,
+      "team": "Batalions FC",
+      "p": 4,
+      "w": 3,
+      "d": 0,
+      "l": 1,
+      "gf": 6,
+      "ga": 3,
+      "gd": 3,
+      "pts": 9
+    },
+    {
+      "pos": 3,
+      "team": "One Football Club",
+      "p": 3,
+      "w": 2,
+      "d": 0,
+      "l": 1,
+      "gf": 7,
+      "ga": 4,
+      "gd": 3,
+      "pts": 6
+    },
+    {
+      "pos": 4,
+      "team": "FC Kayamandi",
+      "p": 4,
+      "w": 1,
+      "d": 2,
+      "l": 1,
+      "gf": 5,
+      "ga": 2,
+      "gd": 3,
+      "pts": 5
+    },
+    {
+      "pos": 5,
+      "team": "Ammar Soccer Academy",
+      "p": 3,
+      "w": 1,
+      "d": 2,
+      "l": 0,
+      "gf": 5,
+      "ga": 4,
+      "gd": 1,
+      "pts": 5
+    },
+    {
+      "pos": 6,
+      "team": "Barcelona FC",
+      "p": 3,
+      "w": 1,
+      "d": 1,
+      "l": 1,
+      "gf": 4,
+      "ga": 7,
+      "gd": -3,
+      "pts": 4
+    },
+    {
+      "pos": 7,
+      "team": "Diadora FC",
+      "p": 3,
+      "w": 1,
+      "d": 0,
+      "l": 2,
+      "gf": 4,
+      "ga": 4,
+      "gd": 0,
+      "pts": 3
+    },
+    {
+      "pos": 8,
+      "team": "Ubuntu Spartans FC",
+      "p": 2,
+      "w": 1,
+      "d": 0,
+      "l": 1,
+      "gf": 5,
+      "ga": 6,
+      "gd": -1,
+      "pts": 3
+    },
+    {
+      "pos": 9,
+      "team": "Relentless Football",
+      "p": 3,
+      "w": 1,
+      "d": 0,
+      "l": 2,
+      "gf": 5,
+      "ga": 8,
+      "gd": -3,
+      "pts": 3
+    },
+    {
+      "pos": 10,
+      "team": "Royal Blues FC",
+      "p": 2,
+      "w": 0,
+      "d": 1,
+      "l": 1,
+      "gf": 3,
+      "ga": 4,
+      "gd": -1,
+      "pts": 1
+    },
+    {
+      "pos": 11,
+      "team": "Maties FC",
+      "p": 2,
+      "w": 0,
+      "d": 1,
+      "l": 1,
+      "gf": 1,
+      "ga": 3,
+      "gd": -2,
+      "pts": 1
+    },
+    {
+      "pos": 12,
+      "team": "Mbekweni Cosmos FC",
+      "p": 3,
+      "w": 0,
+      "d": 0,
+      "l": 3,
+      "gf": 2,
+      "ga": 9,
+      "gd": -7,
+      "pts": 0
+    }
+  ],
+  "results": [],
+  "fixtures": [
+    {
+      "home": "Diadora FC",
+      "away": "Barcelona FC",
+      "match_no": 37,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=37&s=l",
+      "date": "2026-10-16T20:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mbekweni Cosmos FC",
+      "away": "Ammar Soccer Academy",
+      "match_no": 41,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=41&s=l",
+      "date": "2026-10-17T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "Grassy Park United",
+      "match_no": 40,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=40&s=l",
+      "date": "2026-10-17T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ubuntu Spartans FC",
+      "away": "Royal Blues FC",
+      "match_no": 38,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=38&s=l",
+      "date": "2026-10-17T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Batalions FC",
+      "away": "Maties FC",
+      "match_no": 39,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=39&s=l",
+      "date": "2026-10-17T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Relentless Football",
+      "away": "FC Kayamandi",
+      "match_no": 42,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=42&s=l",
+      "date": "2026-10-17T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Maties FC",
+      "away": "Barcelona FC",
+      "match_no": 44,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=44&s=l",
+      "date": "2026-10-23T19:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Grassy Park United",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 45,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=45&s=l",
+      "date": "2026-10-23T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "Diadora FC",
+      "match_no": 43,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=43&s=l",
+      "date": "2026-10-24T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "FC Kayamandi",
+      "away": "One Football Club",
+      "match_no": 47,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=47&s=l",
+      "date": "2026-10-24T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Relentless Football",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 48,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=48&s=l",
+      "date": "2026-10-24T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ammar Soccer Academy",
+      "away": "Batalions FC",
+      "match_no": 46,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=46&s=l",
+      "date": "2026-10-24T17:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Diadora FC",
+      "away": "Maties FC",
+      "match_no": 49,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=49&s=l",
+      "date": "2026-10-30T20:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "Grassy Park United",
+      "match_no": 50,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=50&s=l",
+      "date": "2026-10-31T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Barcelona FC",
+      "away": "Ammar Soccer Academy",
+      "match_no": 51,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=51&s=l",
+      "date": "2026-10-31T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 54,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=54&s=l",
+      "date": "2026-10-31T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Batalions FC",
+      "away": "Relentless Football",
+      "match_no": 53,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=53&s=l",
+      "date": "2026-10-31T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ubuntu Spartans FC",
+      "away": "FC Kayamandi",
+      "match_no": 52,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=52&s=l",
+      "date": "2026-10-31T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Grassy Park United",
+      "away": "Diadora FC",
+      "match_no": 55,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=55&s=l",
+      "date": "2026-11-06T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mbekweni Cosmos FC",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 59,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=59&s=l",
+      "date": "2026-11-07T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "Batalions FC",
+      "match_no": 60,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=60&s=l",
+      "date": "2026-11-07T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "FC Kayamandi",
+      "away": "Royal Blues FC",
+      "match_no": 57,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=57&s=l",
+      "date": "2026-11-07T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Relentless Football",
+      "away": "Barcelona FC",
+      "match_no": 58,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=58&s=l",
+      "date": "2026-11-07T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ammar Soccer Academy",
+      "away": "Maties FC",
+      "match_no": 56,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=56&s=l",
+      "date": "2026-11-07T17:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Maties FC",
+      "away": "Relentless Football",
+      "match_no": 63,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=63&s=l",
+      "date": "2026-11-18T20:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Grassy Park United",
+      "away": "FC Kayamandi",
+      "match_no": 62,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=62&s=l",
+      "date": "2026-11-20T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Diadora FC",
+      "away": "Ammar Soccer Academy",
+      "match_no": 61,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=61&s=l",
+      "date": "2026-11-20T20:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 64,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=64&s=l",
+      "date": "2026-11-21T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Barcelona FC",
+      "away": "One Football Club",
+      "match_no": 65,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=65&s=l",
+      "date": "2026-11-21T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ubuntu Spartans FC",
+      "away": "Batalions FC",
+      "match_no": 66,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=66&s=l",
+      "date": "2026-11-21T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mbekweni Cosmos FC",
+      "away": "Grassy Park United",
+      "match_no": 69,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=69&s=l",
+      "date": "2026-11-28T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "Maties FC",
+      "match_no": 70,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=70&s=l",
+      "date": "2026-11-28T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "FC Kayamandi",
+      "away": "Diadora FC",
+      "match_no": 67,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=67&s=l",
+      "date": "2026-11-28T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Relentless Football",
+      "away": "Ammar Soccer Academy",
+      "match_no": 68,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=68&s=l",
+      "date": "2026-11-28T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Batalions FC",
+      "away": "Royal Blues FC",
+      "match_no": 71,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=71&s=l",
+      "date": "2026-11-28T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ubuntu Spartans FC",
+      "away": "Barcelona FC",
+      "match_no": 72,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=72&s=l",
+      "date": "2026-11-28T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Maties FC",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 77,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=77&s=l",
+      "date": "2026-12-04T19:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Grassy Park United",
+      "away": "Batalions FC",
+      "match_no": 76,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=76&s=l",
+      "date": "2026-12-04T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Diadora FC",
+      "away": "Relentless Football",
+      "match_no": 73,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=73&s=l",
+      "date": "2026-12-04T20:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "FC Kayamandi",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 74,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=74&s=l",
+      "date": "2026-12-05T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "Barcelona FC",
+      "match_no": 78,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=78&s=l",
+      "date": "2026-12-05T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ammar Soccer Academy",
+      "away": "One Football Club",
+      "match_no": 75,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=75&s=l",
+      "date": "2026-12-05T17:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Maties FC",
+      "away": "One Football Club",
+      "match_no": 4,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=4&s=l",
+      "date": "2026-12-11T19:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Grassy Park United",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 3,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=3&s=l",
+      "date": "2026-12-11T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Diadora FC",
+      "away": "FC Kayamandi",
+      "match_no": 1,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=1&s=l",
+      "date": "2026-12-11T20:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "Batalions FC",
+      "match_no": 5,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=5&s=l",
+      "date": "2026-12-12T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Barcelona FC",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 6,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=6&s=l",
+      "date": "2026-12-12T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ammar Soccer Academy",
+      "away": "Relentless Football",
+      "match_no": 2,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=2&s=l",
+      "date": "2026-12-12T17:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ubuntu Spartans FC",
+      "away": "Maties FC",
+      "match_no": 11,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=11&s=l",
+      "date": "2026-12-16T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Barcelona FC",
+      "away": "Royal Blues FC",
+      "match_no": 12,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=12&s=l",
+      "date": "2026-12-16T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Maties FC",
+      "away": "Royal Blues FC",
+      "match_no": 18,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=18&s=l",
+      "date": "2026-12-18T19:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Relentless Football",
+      "away": "One Football Club",
+      "match_no": 14,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=14&s=l",
+      "date": "2026-12-19T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ammar Soccer Academy",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 16,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=16&s=l",
+      "date": "2026-12-19T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Diadora FC",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 13,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=13&s=l",
+      "date": "2026-12-19T20:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mbekweni Cosmos FC",
+      "away": "Diadora FC",
+      "match_no": 79,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=79&s=l",
+      "date": "2027-01-16T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "Maties FC",
+      "match_no": 84,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=84&s=l",
+      "date": "2027-01-16T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "Relentless Football",
+      "match_no": 80,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=80&s=l",
+      "date": "2027-01-16T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Barcelona FC",
+      "away": "Grassy Park United",
+      "match_no": 83,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=83&s=l",
+      "date": "2027-01-16T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Batalions FC",
+      "away": "FC Kayamandi",
+      "match_no": 81,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=81&s=l",
+      "date": "2027-01-16T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ubuntu Spartans FC",
+      "away": "Ammar Soccer Academy",
+      "match_no": 82,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=82&s=l",
+      "date": "2027-01-16T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Grassy Park United",
+      "away": "Maties FC",
+      "match_no": 90,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=90&s=l",
+      "date": "2027-01-22T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Diadora FC",
+      "away": "One Football Club",
+      "match_no": 85,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=85&s=l",
+      "date": "2027-01-22T20:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mbekweni Cosmos FC",
+      "away": "Batalions FC",
+      "match_no": 86,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=86&s=l",
+      "date": "2027-01-23T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Relentless Football",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 87,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=87&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "FC Kayamandi",
+      "away": "Barcelona FC",
+      "match_no": 88,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=88&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ammar Soccer Academy",
+      "away": "Royal Blues FC",
+      "match_no": 89,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=89&s=l",
+      "date": "2027-01-23T17:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Maties FC",
+      "away": "FC Kayamandi",
+      "match_no": 95,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=95&s=l",
+      "date": "2027-01-29T19:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Grassy Park United",
+      "away": "Ammar Soccer Academy",
+      "match_no": 96,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=96&s=l",
+      "date": "2027-01-29T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "Relentless Football",
+      "match_no": 94,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=94&s=l",
+      "date": "2027-01-30T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Barcelona FC",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 93,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=93&s=l",
+      "date": "2027-01-30T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Batalions FC",
+      "away": "Diadora FC",
+      "match_no": 91,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=91&s=l",
+      "date": "2027-01-30T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ubuntu Spartans FC",
+      "away": "One Football Club",
+      "match_no": 92,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=92&s=l",
+      "date": "2027-01-30T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Diadora FC",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 97,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=97&s=l",
+      "date": "2027-02-05T20:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mbekweni Cosmos FC",
+      "away": "Maties FC",
+      "match_no": 100,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=100&s=l",
+      "date": "2027-02-06T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "Royal Blues FC",
+      "match_no": 99,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=99&s=l",
+      "date": "2027-02-06T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Batalions FC",
+      "away": "Barcelona FC",
+      "match_no": 98,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=98&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Relentless Football",
+      "away": "Grassy Park United",
+      "match_no": 101,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=101&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "FC Kayamandi",
+      "away": "Ammar Soccer Academy",
+      "match_no": 102,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=102&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Maties FC",
+      "away": "Batalions FC",
+      "match_no": 105,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=105&s=l",
+      "date": "2027-02-12T19:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Grassy Park United",
+      "away": "One Football Club",
+      "match_no": 106,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=106&s=l",
+      "date": "2027-02-12T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 104,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=104&s=l",
+      "date": "2027-02-13T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Barcelona FC",
+      "away": "Diadora FC",
+      "match_no": 103,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=103&s=l",
+      "date": "2027-02-13T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "FC Kayamandi",
+      "away": "Relentless Football",
+      "match_no": 108,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=108&s=l",
+      "date": "2027-02-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ammar Soccer Academy",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 107,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=107&s=l",
+      "date": "2027-02-13T17:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Diadora FC",
+      "away": "Royal Blues FC",
+      "match_no": 109,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=109&s=l",
+      "date": "2027-02-19T20:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mbekweni Cosmos FC",
+      "away": "Relentless Football",
+      "match_no": 114,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=114&s=l",
+      "date": "2027-02-20T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Barcelona FC",
+      "away": "Maties FC",
+      "match_no": 110,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=110&s=l",
+      "date": "2027-02-20T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "FC Kayamandi",
+      "match_no": 113,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=113&s=l",
+      "date": "2027-02-20T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Batalions FC",
+      "away": "Ammar Soccer Academy",
+      "match_no": 112,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=112&s=l",
+      "date": "2027-02-20T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ubuntu Spartans FC",
+      "away": "Grassy Park United",
+      "match_no": 111,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=111&s=l",
+      "date": "2027-02-20T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Maties FC",
+      "away": "Diadora FC",
+      "match_no": 115,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=115&s=l",
+      "date": "2027-02-26T19:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Grassy Park United",
+      "away": "Royal Blues FC",
+      "match_no": 116,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=116&s=l",
+      "date": "2027-02-26T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mbekweni Cosmos FC",
+      "away": "One Football Club",
+      "match_no": 120,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=120&s=l",
+      "date": "2027-02-27T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "FC Kayamandi",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 118,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=118&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Relentless Football",
+      "away": "Batalions FC",
+      "match_no": 119,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=119&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ammar Soccer Academy",
+      "away": "Barcelona FC",
+      "match_no": 117,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=117&s=l",
+      "date": "2027-02-27T17:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Maties FC",
+      "away": "Ammar Soccer Academy",
+      "match_no": 122,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=122&s=l",
+      "date": "2027-03-05T19:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Diadora FC",
+      "away": "Grassy Park United",
+      "match_no": 121,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=121&s=l",
+      "date": "2027-03-05T20:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "FC Kayamandi",
+      "match_no": 123,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=123&s=l",
+      "date": "2027-03-06T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Barcelona FC",
+      "away": "Relentless Football",
+      "match_no": 124,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=124&s=l",
+      "date": "2027-03-06T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Batalions FC",
+      "away": "One Football Club",
+      "match_no": 126,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=126&s=l",
+      "date": "2027-03-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ubuntu Spartans FC",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 125,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=125&s=l",
+      "date": "2027-03-06T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mbekweni Cosmos FC",
+      "away": "Royal Blues FC",
+      "match_no": 130,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=130&s=l",
+      "date": "2027-03-13T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "Barcelona FC",
+      "match_no": 131,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=131&s=l",
+      "date": "2027-03-13T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "FC Kayamandi",
+      "away": "Grassy Park United",
+      "match_no": 128,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=128&s=l",
+      "date": "2027-03-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Relentless Football",
+      "away": "Maties FC",
+      "match_no": 129,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=129&s=l",
+      "date": "2027-03-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Batalions FC",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 132,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=132&s=l",
+      "date": "2027-03-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ammar Soccer Academy",
+      "away": "Diadora FC",
+      "match_no": 127,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=127&s=l",
+      "date": "2027-03-13T17:00:00+02:00",
+      "status": "NS"
+    }
+  ]
+}
