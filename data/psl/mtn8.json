@@ -1,0 +1,78 @@
+{
+  "slug": "mtn8",
+  "name": "MTN8",
+  "short": "MTN8",
+  "league": false,
+  "source": "https://www.psl.co.za/tournament/mtn8",
+  "updated": "2026-10-11T06:33:30+02:00",
+  "log": [],
+  "results": [
+    {
+      "home": "Kaizer Chiefs",
+      "away": "Golden Arrows",
+      "date": "2026-08-09",
+      "venue": "FNB Stadium, Johannesburg",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2676778",
+      "url": "https://www.psl.co.za/matchcentre/detail/2676778-kaizer-chiefs-vs-golden-arrows"
+    },
+    {
+      "home": "Sekhukhune United",
+      "away": "Orlando Pirates",
+      "date": "2026-08-22",
+      "venue": "Old Peter Mokaba Stadium, Polokwane",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2683352",
+      "url": "https://www.psl.co.za/matchcentre/detail/2683352-sekhukhune-united-vs-orlando-pirates"
+    },
+    {
+      "home": "Mamelodi Sundowns",
+      "away": "Golden Arrows",
+      "date": "2026-08-23",
+      "venue": "Lucas Masterpieces Moripe Stadium, Pretoria, GT",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2683353",
+      "url": "https://www.psl.co.za/matchcentre/detail/2683353-mamelodi-sundowns-vs-golden-arrows"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Sekhukhune United",
+      "date": "2026-08-29",
+      "venue": "Orlando Amstel Arena, Soweto",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "2683354",
+      "url": "https://www.psl.co.za/matchcentre/detail/2683354-orlando-pirates-vs-sekhukhune-united"
+    },
+    {
+      "home": "Golden Arrows",
+      "away": "Mamelodi Sundowns",
+      "date": "2026-08-30",
+      "venue": "King Goodwill Zwelithini Stadium, Durban",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "FT",
+      "match_id": "2683355",
+      "url": "https://www.psl.co.za/matchcentre/detail/2683355-golden-arrows-vs-mamelodi-sundowns"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Mamelodi Sundowns",
+      "date": "2026-10-10",
+      "venue": "Moses Mabhida Stadium, Durban",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT",
+      "match_id": "2696266",
+      "url": "https://www.psl.co.za/matchcentre/detail/2696266-orlando-pirates-vs-mamelodi-sundowns"
+    }
+  ],
+  "fixtures": []
+}

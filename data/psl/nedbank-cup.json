@@ -1,0 +1,45 @@
+{
+  "slug": "nedbank-cup",
+  "name": "Nedbank Cup",
+  "short": "Nedbank Cup",
+  "league": false,
+  "source": "https://www.psl.co.za/tournament/nedbank-cup",
+  "updated": "2026-10-11T06:33:34+02:00",
+  "log": [],
+  "results": [
+    {
+      "home": "TS Galaxy",
+      "away": "Jacksa Spears",
+      "date": "2026-03-08",
+      "venue": "Solomon Mahlangu Stadium, KwaMhlanga",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "2628764",
+      "url": "https://www.psl.co.za/matchcentre/detail/2628764-ts-galaxy-vs-jacksa-spears"
+    },
+    {
+      "home": "Durban City",
+      "away": "Real Native FC",
+      "date": "2026-04-04",
+      "venue": "Chatsworth Stadium, Chatsworth",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "2631604",
+      "url": "https://www.psl.co.za/matchcentre/detail/2631604-durban-city-vs-real-native-fc"
+    },
+    {
+      "home": "Durban City",
+      "away": "TS Galaxy",
+      "date": "2026-05-02",
+      "venue": "Peter Mokaba Stadium, Polokwane",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2633406",
+      "url": "https://www.psl.co.za/matchcentre/detail/2633406-durban-city-vs-ts-galaxy"
+    }
+  ],
+  "fixtures": []
+}

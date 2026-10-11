@@ -1,0 +1,67 @@
+{
+  "slug": "carling-knockout",
+  "name": "Carling Knockout",
+  "short": "Carling Knockout",
+  "league": false,
+  "source": "https://www.psl.co.za/tournament/carling-knockout",
+  "updated": "2026-10-11T06:33:32+02:00",
+  "log": [],
+  "results": [
+    {
+      "home": "Golden Arrows",
+      "away": "TS Galaxy",
+      "date": "2025-10-26",
+      "venue": "King Goodwill Zwelithini Stadium, Durban",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2607165",
+      "url": "https://www.psl.co.za/matchcentre/detail/2607165-golden-arrows-vs-ts-galaxy"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Magesi FC",
+      "date": "2025-10-28",
+      "venue": "Orlando Stadium, Soweto",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2607166",
+      "url": "https://www.psl.co.za/matchcentre/detail/2607166-orlando-pirates-vs-magesi-fc"
+    },
+    {
+      "home": "Marumo Gallants",
+      "away": "Stellenbosch FC",
+      "date": "2025-10-29",
+      "venue": "Dr Molemela Stadium, Bloemfontein",
+      "home_score": 4,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "2607167",
+      "url": "https://www.psl.co.za/matchcentre/detail/2607167-marumo-gallants-vs-stellenbosch-fc"
+    },
+    {
+      "home": "Richards Bay",
+      "away": "Orlando Pirates",
+      "date": "2025-11-08",
+      "venue": "Moses Mabhida Stadium, Durban",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2608237",
+      "url": "https://www.psl.co.za/matchcentre/detail/2608237-richards-bay-vs-orlando-pirates"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Marumo Gallants",
+      "date": "2025-12-06",
+      "venue": "Peter Mokaba Stadium, Polokwane",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "2608773",
+      "url": "https://www.psl.co.za/matchcentre/detail/2608773-orlando-pirates-vs-marumo-gallants"
+    }
+  ],
+  "fixtures": []
+}
