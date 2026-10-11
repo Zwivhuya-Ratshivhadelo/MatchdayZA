@@ -327,6 +327,8 @@ async function renderMatch() {
     return `<li class="ev ev-${e.type}"><span class="ev-min">${esc(e.minute)}</span>${ICON[e.type] || ""}<span class="ev-text">${esc(text)}</span>${score}</li>`;
   }).join("")}</ol>` : `<p class="empty">${m.status === "LIVE" ? "The timeline appears as the match goes on." : isPlayed(m) ? "No key moments were published for this match." : "Key moments appear once the match kicks off."}</p>`;
 
+  // before kick-off there are no key moments yet, so hide the box and let line-ups sit under the pitch
+  $('[data-md="moments-section"]').hidden = !isPlayed(m) && !events.length;
   const stats = detail?.stats || [];
   $('[data-md="stats-section"]').hidden = !stats.length;
   $('[data-md="stats"]').innerHTML = stats.map((s) => {
