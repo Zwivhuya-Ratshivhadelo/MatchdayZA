@@ -69,7 +69,7 @@ function barDate(m) {
 const kickoff = (m) => (m.date && m.date.includes("T") ? m.date.slice(11, 16) : "");
 const isPlayed = (m) => m.status === "FT" || m.status === "LIVE";
 const byDate = (a, b) => (a.date || "").localeCompare(b.date || "");
-const matchUrl = (m) => (m.match_id && m._comp ? `match.html?c=${m._comp}&id=${m.match_id}` : null);
+const gameKey = (m) => (m.match_id ? `id${m.match_id}` : slug(`${(m.date || "").slice(0, 10)}-${m.home}-${m.away}`));
 
 /* ---------- data ---------- */
 async function getJSON(path) {
@@ -93,30 +93,32 @@ async function loadMatch(id) {
 
 /* ---------- shared pieces ---------- */
 /* Small swipe card for the next-matches row; live games open the match page */
-function matchCard(m) {
+/* opts.pick: the card is a button that puts the game on the pitch; opts.selected: it is the one showing */
+function matchCard(m, opts = {}) {
   const live = m.status === "LIVE";
   const top = live ? `<span class="pill-live">Live ${esc(m.minute || "")}</span>` : `<span>${esc(dayLabel(m))}</span>`;
   const right = live ? "" : kickoff(m) || "TBC";
   const row = (team, sc) => `<div class="mcard-row">${crest(team, 26)}<span class="code">${esc(team)}</span>${live ? `<span class="sc">${sc}</span>` : ""}</div>`;
   const inner = `<div class="mcard-top">${top}<span>${esc(right)}</span></div>${row(m.home, m.home_score)}${row(m.away, m.away_score)}`;
-  const url = matchUrl(m);   // live games, and upcoming games once their line-ups page exists
-  return url ? `<a class="mcard ${live ? "live" : ""}" href="${url}">${inner}</a>` : `<div class="mcard ${live ? "live" : ""}">${inner}</div>`;
+  const cls = `mcard ${live ? "live" : ""} ${opts.selected ? "selected" : ""}`;
+  return opts.pick ? `<button type="button" class="${cls}" data-key="${esc(gameKey(m))}" aria-pressed="${!!opts.selected}">${inner}</button>`
+                   : `<div class="${cls}">${inner}</div>`;
 }
 
-/* Result card (LaLiga-style); opens the match page when a timeline exists */
-function resultCard(m, label) {
+/* Result card (LaLiga-style); with opts.pick, tapping it puts the game on the pitch */
+function resultCard(m, label, opts = {}) {
   const live = m.status === "LIVE";
   const side = (team) => `<span class="lc-team"><b>${esc(team)}</b>${crest(team, 30)}</span>`;
   const sideR = (team) => `<span class="lc-team">${crest(team, 30)}<b>${esc(team)}</b></span>`;
   const inner = `<div class="lc-bar"><span class="dt">${barDate(m)}</span><span>${live ? `<span class="pill-live">Live ${esc(m.minute || "")}</span>` : "FT"}</span></div>
     <div class="lc-body">${side(m.home)}<span class="lc-score">${m.home_score} - ${m.away_score}</span>${sideR(m.away)}</div>
     ${label ? `<div class="lc-comp">${esc(label)}</div>` : ""}`;
-  const url = matchUrl(m);
-  return url ? `<a class="lc link" href="${url}">${inner}<span class="lc-more">Match details</span></a>` : `<article class="lc">${inner}</article>`;
+  return opts.pick ? `<button type="button" class="lc pick" data-key="${esc(gameKey(m))}">${inner}<span class="lc-more">View match</span></button>`
+                   : `<article class="lc">${inner}</article>`;
 }
 
 /* Featured match drawn on the pitch */
-function pitchCard(m, compName, linkIt = true) {
+function pitchCard(m, compName) {
   const played = isPlayed(m);
   const live = m.status === "LIVE";
   const centre = played
@@ -132,13 +134,12 @@ function pitchCard(m, compName, linkIt = true) {
     </div>
     ${latest}
     ${m.venue ? `<div class="featured-venue">${esc(m.venue)}</div>` : ""}`;
-  const url = linkIt ? matchUrl(m) : null;
-  return url ? `<a class="featured link" href="${url}">${body}</a>` : `<article class="featured">${body}</article>`;
+  return `<article class="featured">${body}</article>`;
 }
 
-function resultsList(box, list, labelOf) {
+function resultsList(box, list, labelOf, opts = {}) {
   if (!list.length) return false;
-  const cards = list.map((m, i) => resultCard(m, labelOf ? labelOf(m) : "").replace(/^<(a|article) class="lc/, (x) => (i >= RESULTS_SHOWN ? x + " extra" : x))).join("");
+  const cards = list.map((m, i) => resultCard(m, labelOf ? labelOf(m) : "", opts).replace(/^<(button|article) (type="button" )?class="lc/, (x) => (i >= RESULTS_SHOWN ? x + " extra" : x))).join("");
   box.innerHTML = `<div class="rcards">${cards}</div>` +
     (list.length > RESULTS_SHOWN ? `<button class="more-btn" type="button">Show all results</button>` : "");
   const btn = box.querySelector(".more-btn");
@@ -206,6 +207,15 @@ function liveRefresh(on) {
 async function renderHome() {
   const comps = await loadComps();
   let current = PSL[param("c")] ? param("c") : "betway-premiership";
+  let chosen = param("m");          // the game on the pitch (from a tap, or a shared link)
+  let drawToken = 0;
+
+  const setUrl = () => {
+    const q = new URLSearchParams();
+    if (current !== "betway-premiership") q.set("c", current);
+    if (chosen) q.set("m", chosen);
+    history.replaceState(null, "", q.toString() ? `?${q}` : location.pathname);
+  };
 
   const draw = () => {
     const comp = comps[current] || {};
@@ -214,31 +224,57 @@ async function renderHome() {
     const fixtures = (comp.fixtures || []).map(tag).sort(byDate);
     const results = (comp.results || []).map(tag);
     const live = results.filter((m) => m.status === "LIVE");
+    const games = [...live, ...fixtures, ...results];
 
-    compNav(current, (k) => {
-      current = k;
-      history.replaceState(null, "", k === "betway-premiership" ? location.pathname : `?c=${k}`);
-      draw();
-    });
+    compNav(current, (k) => { current = k; chosen = null; setUrl(); draw(); });
 
-    const next = [...live, ...fixtures].slice(0, 12);
-    $('[data-md="next-matches"]').innerHTML = next.length ? next.map(matchCard).join("") : `<p class="empty">No ${esc(name)} matches scheduled yet.</p>`;
-
-    const pick = live[0]
+    // which game is on the pitch: the chosen one, else live, else next big-club game, else next game, else latest result
+    const auto = live[0]
       || fixtures.find((m) => BIG_CLUBS.includes(slug(m.home)) || BIG_CLUBS.includes(slug(m.away)))
       || fixtures[0] || [...results].sort(byDate).reverse()[0];
-    $('[data-md="featured"]').innerHTML = pick ? pitchCard(pick, name) : "";
+    const pick = games.find((m) => gameKey(m) === chosen) || auto;
+    const pickKey = pick ? gameKey(pick) : null;
+
+    const next = [...live, ...fixtures].slice(0, 12);
+    $('[data-md="next-matches"]').innerHTML = next.length
+      ? next.map((m) => matchCard(m, { pick: true, selected: gameKey(m) === pickKey })).join("")
+      : `<p class="empty">No ${esc(name)} matches scheduled yet.</p>`;
 
     const done = results.filter((m) => m.status === "FT").sort(byDate).reverse();
     const resBox = $('[data-md="results"]');
-    if (!resultsList(resBox, done)) resBox.innerHTML = `<p class="empty">No ${esc(name)} results yet.</p>`;
+    if (!resultsList(resBox, done, null, { pick: true })) resBox.innerHTML = `<p class="empty">No ${esc(name)} results yet.</p>`;
 
     const hasLog = (comp.log || []).length > 0;
     $('[data-md="log-section"]').hidden = !hasLog;
     $('[data-md="standings"]').innerHTML = hasLog ? standingsTable(enrichLog(comp.log, comp.results)) : "";
 
-    liveRefresh(live.length > 0);
+    // pitch first with what we know, then the game's details once loaded
+    const feat = $('[data-md="featured"]'), panel = $('[data-md="match-panel"]');
+    feat.innerHTML = pick ? pitchCard(pick, name) : "";
+    panel.innerHTML = "";
+    const token = ++drawToken;
+    if (pick) {
+      (pick.match_id ? loadMatch(pick.match_id) : Promise.resolve(null)).then((detail) => {
+        if (token !== drawToken) return;   // the user picked another game meanwhile
+        const m = { ...pick };
+        if (detail && detail.status !== "NS") Object.assign(m, { home_score: detail.home_score, away_score: detail.away_score, status: detail.status, minute: detail.minute ?? m.minute });
+        if (detail) feat.innerHTML = pitchCard(m, name);
+        panel.innerHTML = detailPanel(m, detail);
+      });
+    }
+
+    liveRefresh(live.length > 0 || pick?.status === "LIVE");
   };
+
+  // tapping a next-match card or a result card puts that game on the pitch
+  document.addEventListener("click", (e) => {
+    const card = e.target.closest("[data-key]");
+    if (!card) return;
+    chosen = card.dataset.key;
+    setUrl();
+    draw();
+    if (card.classList.contains("lc")) $('[data-md="featured"]').scrollIntoView({ behavior: "smooth", block: "start" });
+  });
   draw();
 }
 
@@ -296,57 +332,43 @@ const ICON = {
   penalty_won: '<span class="ev-ico pen">P</span>', var: '<span class="ev-ico var">VAR</span>',
 };
 
-async function renderMatch() {
-  const c = PSL[param("c")] ? param("c") : null, id = param("id");
-  compNav(c);
-  const back = $('[data-md="back"]');
-  if (back && c) {
-    back.href = c === "betway-premiership" ? "index.html" : `index.html?c=${c}`;
-    back.textContent = `Back to ${PSL[c].name}`;
+/* Stats, key moments and line-ups for the game on the pitch */
+function detailPanel(m, detail) {
+  const events = detail?.events || [], stats = detail?.stats || [], lineups = detail?.lineups || [];
+  const parts = [];
+  if (stats.length) {
+    parts.push(`<section class="panel"><div class="panel-head"><h2>Stats</h2></div>${stats.map((st) => {
+      const h = parseFloat(st.home) || 0, a = parseFloat(st.away) || 0, tot = h + a || 1;
+      return `<div class="stat"><div class="stat-row"><b>${esc(st.home)}</b><span>${esc(st.label)}</span><b>${esc(st.away)}</b></div>
+        <div class="stat-bar"><i class="h" style="width:${(h / tot) * 100}%"></i><i class="a" style="width:${(a / tot) * 100}%"></i></div></div>`;
+    }).join("")}</section>`);
   }
-  const comps = await loadComps();
-  const all = c ? [...(comps[c]?.results || []), ...(comps[c]?.fixtures || [])] : [];
-  const summary = all.find((m) => String(m.match_id) === String(id)) || null;
-  const detail = id ? await loadMatch(id) : null;
-  const pitch = $('[data-md="match-pitch"]');
-  if (!summary && !detail) { pitch.innerHTML = `<p class="empty">This match isn't available. Go back to <a href="index.html">the scores</a>.</p>`; return; }
-
-  const m = { ...(detail || {}), ...(summary || {}), _comp: c };
-  if (detail && detail.status !== "NS") Object.assign(m, { home_score: detail.home_score, away_score: detail.away_score, status: detail.status, minute: detail.minute ?? m.minute });
-  if (detail?.status === "NS") m.status = "NS";
-  m.latest = m.latest || null;
-  document.title = `${m.home} v ${m.away} | MatchdayZA`;
-  pitch.innerHTML = pitchCard(m, PSL[c]?.name || "", false);
-
-  const events = detail?.events || [];
-  const tl = $('[data-md="timeline"]');
-  tl.innerHTML = events.length ? `<ol class="timeline">${events.map((e) => {
-    if (PERIOD_TEXT[e.type]) return `<li class="ev-period"><span>${PERIOD_TEXT[e.type]}</span></li>`;
-    const text = (EVENT_TEXT[e.type] || (() => ""))(e);
-    const score = e.score ? `<b class="ev-score">${e.score[0]} - ${e.score[1]}</b>` : "";
-    return `<li class="ev ev-${e.type}"><span class="ev-min">${esc(e.minute)}</span>${ICON[e.type] || ""}<span class="ev-text">${esc(text)}</span>${score}</li>`;
-  }).join("")}</ol>` : `<p class="empty">${m.status === "LIVE" ? "The timeline appears as the match goes on." : isPlayed(m) ? "No key moments were published for this match." : "Key moments appear once the match kicks off."}</p>`;
-
-  // before kick-off there are no key moments yet, so hide the box and let line-ups sit under the pitch
-  $('[data-md="moments-section"]').hidden = !isPlayed(m) && !events.length;
-  const stats = detail?.stats || [];
-  $('[data-md="stats-section"]').hidden = !stats.length;
-  $('[data-md="stats"]').innerHTML = stats.map((s) => {
-    const h = parseFloat(s.home) || 0, a = parseFloat(s.away) || 0, tot = h + a || 1;
-    return `<div class="stat"><div class="stat-row"><b>${esc(s.home)}</b><span>${esc(s.label)}</span><b>${esc(s.away)}</b></div>
-      <div class="stat-bar"><i class="h" style="width:${(h / tot) * 100}%"></i><i class="a" style="width:${(a / tot) * 100}%"></i></div></div>`;
-  }).join("");
-
-  const lineups = detail?.lineups || [];
-  $('[data-md="lineups-section"]').hidden = !lineups.length;
-  const list = (ps) => ps.map((p) => `<li><span class="lu-no">${esc(p.no)}</span><span class="lu-name">${esc(p.name)}</span><span class="lu-pos">${esc(p.pos)}</span></li>`).join("");
-  $('[data-md="lineups"]').innerHTML = `<div class="lineups">${lineups.map((t) => `<div class="lu-team">
+  if (isPlayed(m) || events.length) {
+    const body = events.length ? `<ol class="timeline">${events.map((e) => {
+      if (PERIOD_TEXT[e.type]) return `<li class="ev-period"><span>${PERIOD_TEXT[e.type]}</span></li>`;
+      const text = (EVENT_TEXT[e.type] || (() => ""))(e);
+      const score = e.score ? `<b class="ev-score">${e.score[0]} - ${e.score[1]}</b>` : "";
+      return `<li class="ev ev-${e.type}"><span class="ev-min">${esc(e.minute)}</span>${ICON[e.type] || ""}<span class="ev-text">${esc(text)}</span>${score}</li>`;
+    }).join("")}</ol>` : `<p class="empty">${m.status === "LIVE" ? "Key moments appear as the match goes on." : "No key moments were published for this match."}</p>`;
+    parts.push(`<section class="panel"><div class="panel-head"><h2>Key moments</h2></div>${body}</section>`);
+  }
+  if (lineups.length) {
+    const list = (ps) => ps.map((p) => `<li><span class="lu-no">${esc(p.no)}</span><span class="lu-name">${esc(p.name)}</span><span class="lu-pos">${esc(p.pos)}</span></li>`).join("");
+    parts.push(`<section class="panel"><div class="panel-head"><h2>Line-ups</h2></div><div class="lineups">${lineups.map((t) => `<div class="lu-team">
       <h3>${crest(t.team, 24)}${esc(t.team)}</h3>
       <h4>Starting XI</h4><ol class="lu-list">${list(t.starting)}</ol>
       ${t.subs.length ? `<h4>Substitutes</h4><ol class="lu-list">${list(t.subs)}</ol>` : ""}
-    </div>`).join("")}</div>`;
+    </div>`).join("")}</div></section>`);
+  } else if (!isPlayed(m)) {
+    parts.push(`<p class="empty panel-note">Line-ups appear here as soon as they are announced, usually about an hour before kick-off.</p>`);
+  }
+  return parts.join("");
+}
 
-  liveRefresh(m.status === "LIVE");
+/* Old match-page links now open the game on the home page */
+function renderMatch() {
+  const c = PSL[param("c")] ? param("c") : "betway-premiership", id = param("id");
+  location.replace(`index.html?c=${c}${id ? `&m=id${id}` : ""}`);
 }
 
 /* ---------- start ---------- */
