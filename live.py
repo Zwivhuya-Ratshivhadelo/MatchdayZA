@@ -34,7 +34,9 @@ def todays_games(window):
     today = now_sast().date().isoformat()
     games = []
     for slug in psl.COMPETITIONS:
-        for f in load_json(DATA / "psl" / f"{slug}.json", {}).get("fixtures", []):
+        comp = load_json(DATA / "psl" / f"{slug}.json", {})
+        # fixtures, plus games already under way (picked up again after a hand-over)
+        for f in comp.get("fixtures", []) + [r for r in comp.get("results", []) if r.get("status") == "LIVE"]:
             d = f.get("date") or ""
             if d[:10] != today or "T" not in d:
                 continue
