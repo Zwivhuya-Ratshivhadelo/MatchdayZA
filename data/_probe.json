@@ -1,26 +1,98 @@
-{
-  "buildId": "SjiIpLYkI-fb8A7fnzR-Q",
-  "pageProps_keys": [
-    "layoutContext",
-    "activeSport",
-    "activeTabId",
-    "rootLink",
-    "adsTargeting",
-    "amplitudePageView",
-    "teamId",
-    "teamTabs",
-    "initialData",
-    "adPaths",
-    "meta",
-    "footerLinks",
-    "externalAppConfig",
-    "pageLocaleDictionaries",
-    "publicDomain",
-    "buildId",
-    "pageId",
-    "generated"
-  ],
-  "hits": 0,
-  "around": [],
-  "eids": []
-}
+[
+  {
+    "url": "https://api.sofascore.app/api/v1/team/1119880/events/last/0",
+    "headers": "browser",
+    "status": 200,
+    "size": 0,
+    "upington": false,
+    "around": ""
+  },
+  {
+    "url": "https://api.sofascore.app/api/v1/team/1119880/events/last/0",
+    "headers": "app",
+    "status": 200,
+    "size": 0,
+    "upington": false,
+    "around": ""
+  },
+  {
+    "url": "https://api.sofascore.app/api/v1/team/1119880/events/last/0",
+    "headers": "plain",
+    "status": 200,
+    "size": 0,
+    "upington": false,
+    "around": ""
+  },
+  {
+    "url": "https://api.sofascore.com/api/v1/team/1119880/events/last/0",
+    "headers": "browser",
+    "status": 403,
+    "size": 48,
+    "upington": false,
+    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
+  },
+  {
+    "url": "https://api.sofascore.com/api/v1/team/1119880/events/last/0",
+    "headers": "app",
+    "status": 403,
+    "size": 48,
+    "upington": false,
+    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
+  },
+  {
+    "url": "https://api.sofascore.com/api/v1/team/1119880/events/last/0",
+    "headers": "plain",
+    "status": 403,
+    "size": 48,
+    "upington": false,
+    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
+  },
+  {
+    "url": "https://www.sofascore.com/api/v1/team/1119880/events/last/0",
+    "headers": "browser",
+    "status": 403,
+    "size": 48,
+    "upington": false,
+    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
+  },
+  {
+    "url": "https://www.sofascore.com/api/v1/team/1119880/events/last/0",
+    "headers": "app",
+    "status": 403,
+    "size": 48,
+    "upington": false,
+    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
+  },
+  {
+    "url": "https://www.sofascore.com/api/v1/team/1119880/events/last/0",
+    "headers": "plain",
+    "status": 403,
+    "size": 48,
+    "upington": false,
+    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
+  },
+  {
+    "url": "https://api.sofascore.app/api/v1/sport/football/scheduled-events/2026-10-11",
+    "headers": "browser",
+    "status": 200,
+    "size": 0,
+    "upington": false,
+    "around": ""
+  },
+  {
+    "url": "https://api.sofascore.app/api/v1/sport/football/scheduled-events/2026-10-11",
+    "headers": "app",
+    "status": 200,
+    "size": 0,
+    "upington": false,
+    "around": ""
+  },
+  {
+    "url": "https://api.sofascore.app/api/v1/sport/football/scheduled-events/2026-10-11",
+    "headers": "plain",
+    "status": 200,
+    "size": 0,
+    "upington": false,
+    "around": ""
+  }
+]
