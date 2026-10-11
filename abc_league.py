@@ -92,15 +92,15 @@ def parse_matches(html, stream_id):
         no = n.group(1)
         m = {"home": home, "away": away, "match_no": int(no),
              "url": f"{BASE}/match/view?stream_id={stream_id}&match_no={no}&s=l"}
-        if re.search(r"\bvs\b", tail_text, re.I):
-            m.update(date=parse_date(*day, hhmm.group(1) if hhmm else None), status="NS")
-            fixtures.append(m)
-            continue
+        # A score means it was played, even if the page also carries a hidden "VS"
         scores = re.findall(r"\b(\d{1,2})\b", TIME_RE.sub(" ", tail_text))
         if len(scores) >= 2:
             m.update(date=parse_date(*day), home_score=int(scores[0]),
                      away_score=int(scores[1]), status="FT")
             results.append(m)
+        elif re.search(r"\bvs\b", tail_text, re.I):
+            m.update(date=parse_date(*day, hhmm.group(1) if hhmm else None), status="NS")
+            fixtures.append(m)
     return results, fixtures
 
 

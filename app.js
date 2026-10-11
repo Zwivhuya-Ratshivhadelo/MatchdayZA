@@ -97,7 +97,7 @@ function matchCard(m) {
   const live = m.status === "LIVE";
   const top = live ? `<span class="pill-live">Live ${esc(m.minute || "")}</span>` : `<span>${esc(dayLabel(m))}</span>`;
   const right = live ? "" : kickoff(m) || "TBC";
-  const row = (team, sc) => `<div class="mcard-row">${crest(team, 26)}<span class="code" title="${esc(team)}">${esc(clubCode(team))}</span>${live ? `<span class="sc">${sc}</span>` : ""}</div>`;
+  const row = (team, sc) => `<div class="mcard-row">${crest(team, 26)}<span class="code">${esc(team)}</span>${live ? `<span class="sc">${sc}</span>` : ""}</div>`;
   const inner = `<div class="mcard-top">${top}<span>${esc(right)}</span></div>${row(m.home, m.home_score)}${row(m.away, m.away_score)}`;
   const url = live ? matchUrl(m) : null;
   return url ? `<a class="mcard live" href="${url}">${inner}</a>` : `<div class="mcard ${live ? "live" : ""}">${inner}</div>`;
@@ -106,11 +106,10 @@ function matchCard(m) {
 /* Result card (LaLiga-style); opens the match page when a timeline exists */
 function resultCard(m, label) {
   const live = m.status === "LIVE";
-  const side = (team) => `<span class="lc-team" title="${esc(team)}"><b>${esc(clubCode(team))}</b>${crest(team, 30)}</span>`;
-  const sideR = (team) => `<span class="lc-team" title="${esc(team)}">${crest(team, 30)}<b>${esc(clubCode(team))}</b></span>`;
+  const side = (team) => `<span class="lc-team"><b>${esc(team)}</b>${crest(team, 30)}</span>`;
+  const sideR = (team) => `<span class="lc-team">${crest(team, 30)}<b>${esc(team)}</b></span>`;
   const inner = `<div class="lc-bar"><span class="dt">${barDate(m)}</span><span>${live ? `<span class="pill-live">Live ${esc(m.minute || "")}</span>` : "FT"}</span></div>
     <div class="lc-body">${side(m.home)}<span class="lc-score">${m.home_score} - ${m.away_score}</span>${sideR(m.away)}</div>
-    <div class="lc-names">${esc(m.home)} v ${esc(m.away)}</div>
     ${label ? `<div class="lc-comp">${esc(label)}</div>` : ""}`;
   const url = matchUrl(m);
   return url ? `<a class="lc link" href="${url}">${inner}<span class="lc-more">Match timeline</span></a>` : `<article class="lc">${inner}</article>`;
@@ -188,6 +187,16 @@ function switchRow(el, items, active, onPick) {
   el.querySelector('[aria-current="page"]')?.scrollIntoView({ inline: "center", block: "nearest" });
 }
 
+/* The competition row, identical on every page. On the home page PSL items switch in place;
+   everywhere else they are normal links. ABC Motsepe League always opens its own page. */
+function compNav(active, onPick) {
+  const el = $('[data-md="comp-switch"]');
+  if (!el) return;
+  const items = Object.entries(PSL).map(([k, c]) => ({ key: k, label: c.name, href: k === "betway-premiership" ? "index.html" : `index.html?c=${k}`, page: !onPick }));
+  items.push({ key: "abc", label: "ABC Motsepe League", href: "abc.html", page: true });
+  switchRow(el, items, active, onPick || (() => {}));
+}
+
 function liveRefresh(on) {
   clearTimeout(window.__mdRefresh);
   if (on && !window.MATCHDAY_DATA) window.__mdRefresh = setTimeout(() => location.reload(), 60000);
@@ -206,9 +215,7 @@ async function renderHome() {
     const results = (comp.results || []).map(tag);
     const live = results.filter((m) => m.status === "LIVE");
 
-    const items = Object.entries(PSL).map(([k, c]) => ({ key: k, label: c.name, href: `?c=${k}` }));
-    items.push({ key: "abc", label: "ABC Motsepe League", href: "abc.html", page: true });   // opens its own page
-    switchRow($('[data-md="comp-switch"]'), items, current, (k) => {
+    compNav(current, (k) => {
       current = k;
       history.replaceState(null, "", k === "betway-premiership" ? location.pathname : `?c=${k}`);
       draw();
@@ -235,27 +242,22 @@ async function renderHome() {
   draw();
 }
 
-/* ---------- ABC Motsepe League: province switch, then stream switch ---------- */
+/* ---------- ABC Motsepe League: province and stream filters ---------- */
 async function renderAbc() {
+  compNav("abc");
   const streams = await loadStreams();
   const box = $('[data-md="abc-content"]');
   if (!streams.length) { box.innerHTML = `<p class="empty">ABC Motsepe League data appears after the first update.</p>`; return; }
   const provinces = [...new Set(streams.map((s) => s.province || "Other"))].sort();
   let current = streams.find((s) => s.stream_id === param("s")) || streams.find((s) => s.province === provinces[0]);
+  const provSel = $('[data-md="province-select"]'), streamSel = $('[data-md="stream-select"]');
 
   const draw = () => {
     const prov = current.province || "Other";
-    switchRow($('[data-md="province-switch"]'), provinces.map((p) => ({ key: p, label: p, href: "#" })), prov, (p) => {
-      current = streams.find((s) => (s.province || "Other") === p);
-      go();
-    });
     const inProv = streams.filter((s) => (s.province || "Other") === prov);
-    const streamRow = $('[data-md="stream-switch"]');
-    streamRow.parentElement.hidden = inProv.length < 2;
-    switchRow(streamRow, inProv.map((s) => ({ key: s.stream_id, label: s.name, href: `?s=${s.stream_id}` })), current.stream_id, (id) => {
-      current = streams.find((s) => s.stream_id === id);
-      go();
-    });
+    provSel.innerHTML = provinces.map((p) => `<option ${p === prov ? "selected" : ""}>${esc(p)}</option>`).join("");
+    streamSel.innerHTML = inProv.map((s) => `<option value="${esc(s.stream_id)}" ${s === current ? "selected" : ""}>${esc(s.name)}</option>`).join("");
+    streamSel.closest("label").hidden = inProv.length < 2;
 
     const fixtures = [...(current.fixtures || [])].sort(byDate).slice(0, 12);
     $('[data-md="next-matches"]').innerHTML = fixtures.length ? fixtures.map(matchCard).join("") : `<p class="empty">No fixtures listed for ${esc(current.name)} yet.</p>`;
@@ -267,6 +269,8 @@ async function renderAbc() {
     $('[data-md="standings"]').innerHTML = hasLog ? standingsTable(enrichLog(current.log, current.results)) : "";
   };
   const go = () => { history.replaceState(null, "", `?s=${current.stream_id}`); draw(); };
+  provSel.addEventListener("change", () => { current = streams.find((s) => (s.province || "Other") === provSel.value); go(); });
+  streamSel.addEventListener("change", () => { current = streams.find((s) => s.stream_id === streamSel.value); go(); });
   draw();
 }
 
@@ -294,6 +298,7 @@ const ICON = {
 
 async function renderMatch() {
   const c = PSL[param("c")] ? param("c") : null, id = param("id");
+  compNav(c);
   const comps = await loadComps();
   const summary = c ? (comps[c]?.results || []).find((m) => String(m.match_id) === String(id)) : null;
   const detail = id ? await loadMatch(id) : null;

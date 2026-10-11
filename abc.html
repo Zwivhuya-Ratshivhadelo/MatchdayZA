@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=202610110622">
+  <link rel="stylesheet" href="style.css?v=202610110632">
 </head>
 <body data-page="abc">
 
@@ -19,15 +19,20 @@
     </div>
   </header>
 
-  <div class="page-head"><div class="container"><h1>ABC Motsepe League</h1></div></div>
+  <!-- Competitions: the same row on every page -->
+  <nav class="comp-switch" aria-label="Competitions">
+    <div class="container comp-switch-row" data-md="comp-switch"></div>
+  </nav>
 
-  <!-- Province switch, then stream switch: the page follows them -->
-  <nav class="comp-switch" aria-label="Provinces">
-    <div class="container comp-switch-row" data-md="province-switch"></div>
-  </nav>
-  <nav class="stream-switch" aria-label="Streams">
-    <div class="container comp-switch-row" data-md="stream-switch"></div>
-  </nav>
+  <div class="page-head">
+    <div class="container">
+      <h1>ABC Motsepe League</h1>
+      <div class="abc-filters">
+        <label>Province <select data-md="province-select"></select></label>
+        <label>Stream <select data-md="stream-select"></select></label>
+      </div>
+    </div>
+  </div>
 
   <main data-md="abc-content">
     <section class="next-bar">
@@ -77,6 +82,6 @@
     </div>
   </footer>
 
-  <script src="app.js?v=202610110622"></script>
+  <script src="app.js?v=202610110632"></script>
 </body>
 </html>
