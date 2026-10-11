@@ -180,8 +180,8 @@ function enrichLog(log, results) {
 
 /* Switch row: links styled as tabs with a gold underline on the active one */
 function switchRow(el, items, active, onPick) {
-  el.innerHTML = items.map((it) => `<a href="${it.href}" data-k="${esc(it.key)}" ${it.key === active ? 'aria-current="page"' : ""}>${esc(it.label)}</a>`).join("");
-  el.querySelectorAll("a").forEach((a) => a.addEventListener("click", (e) => {
+  el.innerHTML = items.map((it) => `<a href="${it.href}" data-k="${esc(it.key)}" ${it.page ? 'data-page="1"' : ""} ${it.key === active ? 'aria-current="page"' : ""}>${esc(it.label)}</a>`).join("");
+  el.querySelectorAll("a:not([data-page])").forEach((a) => a.addEventListener("click", (e) => {
     e.preventDefault();
     onPick(a.dataset.k);
   }));
@@ -206,7 +206,9 @@ async function renderHome() {
     const results = (comp.results || []).map(tag);
     const live = results.filter((m) => m.status === "LIVE");
 
-    switchRow($('[data-md="comp-switch"]'), Object.entries(PSL).map(([k, c]) => ({ key: k, label: c.name, href: `?c=${k}` })), current, (k) => {
+    const items = Object.entries(PSL).map(([k, c]) => ({ key: k, label: c.name, href: `?c=${k}` }));
+    items.push({ key: "abc", label: "ABC Motsepe League", href: "abc.html", page: true });   // opens its own page
+    switchRow($('[data-md="comp-switch"]'), items, current, (k) => {
       current = k;
       history.replaceState(null, "", k === "betway-premiership" ? location.pathname : `?c=${k}`);
       draw();
@@ -325,10 +327,5 @@ async function renderMatch() {
 }
 
 /* ---------- start ---------- */
-document.querySelector(".menu-btn")?.addEventListener("click", (e) => {
-  const nav = document.getElementById("main-nav");
-  const open = nav.classList.toggle("open");
-  e.currentTarget.setAttribute("aria-expanded", open);
-});
 $all('[data-md="year"]').forEach((el) => (el.textContent = new Date().getFullYear()));
 ({ home: renderHome, abc: renderAbc, match: renderMatch }[document.body.dataset.page] || renderHome)();

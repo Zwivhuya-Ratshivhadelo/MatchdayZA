@@ -267,7 +267,7 @@ h1, h2, h3 { font-stretch: 75%; font-weight: 800; line-height: 1.05; margin: 0; 
 
 /* ---------- Footer ---------- */
 .site-footer { background: var(--green-night); color: #CFE8DC; margin-top: 40px; padding-top: 36px; }
-.footer-grid { display: grid; gap: 28px; grid-template-columns: 1.4fr 1fr 1fr; }
+.footer-grid { display: grid; gap: 28px; grid-template-columns: 1.4fr 1fr; }
 @media (max-width: 760px) { .footer-grid { grid-template-columns: 1fr; } }
 .footer-grid p { margin: 8px 0 0; max-width: 34ch; }
 .footer-grid h3 { color: #fff; font-size: 18px; margin-bottom: 10px; }
