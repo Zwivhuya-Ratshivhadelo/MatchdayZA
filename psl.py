@@ -194,32 +194,68 @@ def classify(text):
     return None
 
 
+def _lines_of(node):
+    return [clean(t) for t in node.get_text("\n").split("\n") if clean(t)] if node else []
+
+
 def parse_detail(html):
-    """Score, status, minute, key events (newest first) and stats from a /matchcentre/detail/ page."""
-    lines = [clean(t) for t in BeautifulSoup(html, "html.parser").get_text("\n").split("\n") if clean(t)]
-    score = next((SCORE_RE.match(l) for l in lines if SCORE_RE.match(l)), None)
-    if not score:
-        return None
+    """Score, status, minute, key events (newest first), stats and line-ups from a match page."""
+    soup = BeautifulSoup(html, "html.parser")
+    scores = [clean(x.get_text()) for x in soup.select(".widget-game-result__score-result")]
+    if len(scores) >= 2 and scores[0].isdigit() and scores[1].isdigit():
+        hs, as_ = int(scores[0]), int(scores[1])
+    else:  # fallback: a "2 - 1" line anywhere on the page
+        m = next((SCORE_RE.match(l) for l in _lines_of(soup) if SCORE_RE.match(l)), None)
+        if not m:
+            return None
+        hs, as_ = int(m.group(1)), int(m.group(2))
+    label_el = soup.select_one(".match-status")
+    label = clean(label_el.get_text()) if label_el else ""
+
+    # commentary (minute line, then its text), newest first
+    lines = _lines_of(soup.select_one("#widget-tabbed-live-commentary")) or _lines_of(soup)
     events, minute = [], None
     for i, l in enumerate(lines[:-1]):
         mm = MINUTE_RE.match(l)
         if not mm or int(mm.group(1)) > 130:
             continue
-        label = mm.group(1) + (f"+{mm.group(2)}" if mm.group(2) else "") + "'"
-        minute = minute or label  # the timeline is newest-first
+        mlabel = mm.group(1) + (f"+{mm.group(2)}" if mm.group(2) else "") + "'"
+        minute = minute or mlabel
         ev = classify(lines[i + 1])
         if ev:
-            events.append({"minute": label, **ev})
-    finished = any(e["type"] == "full_time" for e in events[:4])
+            events.append({"minute": mlabel, **ev})
+
+    # stats: "<home> <label> <away>"
+    st_lines = _lines_of(soup.select_one("#widget-tabbed-match-statistics"))
     stats = []
-    for i in range(1, len(lines) - 1):
-        lab = lines[i].lower()
-        if lab in STAT_LABELS and re.fullmatch(r"\d+%?", lines[i - 1]) and re.fullmatch(r"\d+%?", lines[i + 1]):
-            if all(s["label"].lower() != lab for s in stats):
-                stats.append({"label": lines[i], "home": lines[i - 1], "away": lines[i + 1]})
-    return {"home_score": int(score.group(1)), "away_score": int(score.group(2)),
-            "status": "FT" if finished else "LIVE", "minute": None if finished else minute,
-            "events": events, "stats": stats}
+    for i in range(1, len(st_lines) - 1):
+        lab = st_lines[i]
+        if (re.fullmatch(r"\d+(\.\d+)?%?", st_lines[i - 1]) and re.fullmatch(r"\d+(\.\d+)?%?", st_lines[i + 1])
+                and not re.fullmatch(r"[\d.%]+", lab) and all(x["label"] != lab for x in stats)):
+            stats.append({"label": lab, "home": st_lines[i - 1], "away": st_lines[i + 1]})
+
+    # line-ups
+    lineups = []
+    for tbl in soup.select("table.line-ups"):
+        name_el = tbl.select_one(".name")
+        team = {"team": clean(name_el.get_text()) if name_el else "", "starting": [], "subs": []}
+        section = "starting"
+        for el in tbl.select(".line-ups-sub-heading .heading, td.player"):
+            if "heading" in (el.get("class") or []):
+                section = "subs" if "sub" in el.get_text().lower() else "starting"
+                continue
+            no, nm, pos = el.select_one(".player-number"), el.select_one(".team-meta__name"), el.select_one(".position")
+            if nm:
+                team[section].append({"no": clean(no.get_text()) if no else "", "name": clean(nm.get_text()),
+                                      "pos": clean(pos.get_text()) if pos else ""})
+        if team["starting"] or team["subs"]:
+            lineups.append(team)
+
+    finished = label.lower() in ("result", "full time", "ft") or any(e["type"] == "full_time" for e in events[:4])
+    if not finished and MINUTE_RE.match(label):
+        minute = label if label.endswith("'") else label + "'"
+    return {"home_score": hs, "away_score": as_, "status": "FT" if finished else "LIVE",
+            "minute": None if finished else minute, "events": events, "stats": stats, "lineups": lineups}
 
 
 def latest_line(events):
@@ -263,7 +299,7 @@ def fetch_missing_details(limit=12):
                 print(f"  match page failed {url}: {e}")
                 continue
             done += 1
-            if d and (d["events"] or d["stats"]):
+            if d:
                 save_match(mid, slug, r["home"], r["away"], d)
                 print(f"  timeline saved: {r['home']} v {r['away']} ({len(d['events'])} events)")
             else:

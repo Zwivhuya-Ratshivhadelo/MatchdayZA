@@ -71,7 +71,9 @@ def parse_log(html):
 def parse_matches(html, stream_id):
     """Results/fixtures lists: date headings, then '<home> #N <away> - 3 0' or '- VS - 16:00'."""
     soup = BeautifulSoup(html, "html.parser")
-    lines = [clean(t) for t in soup.get_text("\n").split("\n") if clean(t)]
+    # the site writes spaces as "&nbsp" without the semicolon, which shows up as text
+    text = soup.get_text("\n").replace("&nbsp;", " ").replace("&nbsp", " ")
+    lines = [clean(t) for t in text.split("\n") if clean(t)]
     results, fixtures, day = [], [], None
     for i, line in enumerate(lines):
         d = DAY_RE.match(line)

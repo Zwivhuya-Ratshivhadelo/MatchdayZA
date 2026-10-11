@@ -112,7 +112,7 @@ function resultCard(m, label) {
     <div class="lc-body">${side(m.home)}<span class="lc-score">${m.home_score} - ${m.away_score}</span>${sideR(m.away)}</div>
     ${label ? `<div class="lc-comp">${esc(label)}</div>` : ""}`;
   const url = matchUrl(m);
-  return url ? `<a class="lc link" href="${url}">${inner}<span class="lc-more">Match timeline</span></a>` : `<article class="lc">${inner}</article>`;
+  return url ? `<a class="lc link" href="${url}">${inner}<span class="lc-more">Match details</span></a>` : `<article class="lc">${inner}</article>`;
 }
 
 /* Featured match drawn on the pitch */
@@ -323,7 +323,7 @@ async function renderMatch() {
     const text = (EVENT_TEXT[e.type] || (() => ""))(e);
     const score = e.score ? `<b class="ev-score">${e.score[0]} - ${e.score[1]}</b>` : "";
     return `<li class="ev ev-${e.type}"><span class="ev-min">${esc(e.minute)}</span>${ICON[e.type] || ""}<span class="ev-text">${esc(text)}</span>${score}</li>`;
-  }).join("")}</ol>` : `<p class="empty">The timeline appears once the match kicks off.</p>`;
+  }).join("")}</ol>` : `<p class="empty">${m.status === "LIVE" ? "The timeline appears as the match goes on." : isPlayed(m) ? "No commentary was published for this match." : "The timeline appears once the match kicks off."}</p>`;
 
   const stats = detail?.stats || [];
   $('[data-md="stats-section"]').hidden = !stats.length;
@@ -332,6 +332,15 @@ async function renderMatch() {
     return `<div class="stat"><div class="stat-row"><b>${esc(s.home)}</b><span>${esc(s.label)}</span><b>${esc(s.away)}</b></div>
       <div class="stat-bar"><i class="h" style="width:${(h / tot) * 100}%"></i><i class="a" style="width:${(a / tot) * 100}%"></i></div></div>`;
   }).join("");
+
+  const lineups = detail?.lineups || [];
+  $('[data-md="lineups-section"]').hidden = !lineups.length;
+  const list = (ps) => ps.map((p) => `<li><span class="lu-no">${esc(p.no)}</span><span class="lu-name">${esc(p.name)}</span><span class="lu-pos">${esc(p.pos)}</span></li>`).join("");
+  $('[data-md="lineups"]').innerHTML = `<div class="lineups">${lineups.map((t) => `<div class="lu-team">
+      <h3>${crest(t.team, 24)}${esc(t.team)}</h3>
+      <h4>Starting XI</h4><ol class="lu-list">${list(t.starting)}</ol>
+      ${t.subs.length ? `<h4>Substitutes</h4><ol class="lu-list">${list(t.subs)}</ol>` : ""}
+    </div>`).join("")}</div>`;
 
   liveRefresh(m.status === "LIVE");
 }
