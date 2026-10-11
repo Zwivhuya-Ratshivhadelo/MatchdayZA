@@ -4,7 +4,7 @@
   "short": "MTN8",
   "league": false,
   "source": "https://www.psl.co.za/tournament/mtn8",
-  "updated": "2026-10-11T11:54:39+02:00",
+  "updated": "2026-10-11T12:07:44+02:00",
   "log": [],
   "results": [
     {
@@ -76,5 +76,6 @@
   ],
   "fixtures": [],
   "extra": [],
-  "not_ours": []
+  "not_ours": [],
+  "checked": {}
 }
