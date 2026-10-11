@@ -236,6 +236,8 @@ async function renderHome() {
     const pickKey = pick ? gameKey(pick) : null;
 
     const next = [...live, ...fixtures].slice(0, 12);
+    const title = $('[data-md="next-title"]');
+    if (title) title.textContent = live.length ? "Live now" : "Next matches";
     $('[data-md="next-matches"]').innerHTML = next.length
       ? next.map((m) => matchCard(m, { pick: true, selected: gameKey(m) === pickKey })).join("")
       : `<p class="empty">No ${esc(name)} matches scheduled yet.</p>`;
