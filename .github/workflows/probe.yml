@@ -20,5 +20,5 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: python probe.py 2026-10-11
+      - run: python probe.py
       - run: bash commit.sh
