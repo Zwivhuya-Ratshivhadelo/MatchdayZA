@@ -13,7 +13,7 @@ from common import slugify
 
 URL = ("https://webws.365scores.com/web/games/{kind}/?appTypeId=5&langId=1"
        "&timezoneName=Africa/Johannesburg&competitions={comps}")
-COMPETITIONS = {"national-first-division": 5822}   # our slug -> 365scores competition
+COMPETITIONS = {"national-first-division": 5822, "betway-premiership": 414, "mtn8": 5821}   # our slug -> 365scores competition
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
                          "Chrome/126.0 Safari/537.36", "Accept": "application/json",
            "Referer": "https://www.365scores.com/", "Origin": "https://www.365scores.com"}
