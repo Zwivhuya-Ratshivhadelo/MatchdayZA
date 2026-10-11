@@ -1,79 +1,26 @@
-[
-  {
-    "url": "https://prod-public-api.livescore.com/v1/api/app/date/soccer/20261011/2",
-    "status": 200,
-    "size": 398925,
-    "gomora": false,
-    "around": "{\"Ts\":1791735404,\"Stages\":[{\"Sid\":\"25545\",\"Snm\":\"Premier League\",\"Scd\":\"premier-league\",\"Cnm\":\"England\",\"CnmT\":\"england\",\"Csnm\":\"England\",\"Ccd\":\"england\",\"CompId\":\"65\",\"CompN\":\"Premier League\",\"CompUrlName\":\"premier-league\",\"CompD\":\"England\",\"CompST\":\"England\",\"Scu\":0,\"badgeUrl\":\"premier-league-2024"
-  },
-  {
-    "url": "https://prod-public-api.livescore.com/v1/api/app/date/soccer/20261011/2?MD=1",
-    "status": 200,
-    "size": 398925,
-    "gomora": false,
-    "around": "{\"Ts\":1791735404,\"Stages\":[{\"Sid\":\"25545\",\"Snm\":\"Premier League\",\"Scd\":\"premier-league\",\"Cnm\":\"England\",\"CnmT\":\"england\",\"Csnm\":\"England\",\"Ccd\":\"england\",\"CompId\":\"65\",\"CompN\":\"Premier League\",\"CompUrlName\":\"premier-league\",\"CompD\":\"England\",\"CompST\":\"England\",\"Scu\":0,\"badgeUrl\":\"premier-league-2024"
-  },
-  {
-    "url": "https://prod-public-api.livescore.com/v1/api/app/date/soccer/20261011/0?MD=1",
-    "status": 200,
-    "size": 391582,
-    "gomora": false,
-    "around": "{\"Ts\":1791735405,\"Stages\":[{\"Sid\":\"25545\",\"Snm\":\"Premier League\",\"Scd\":\"premier-league\",\"Cnm\":\"England\",\"CnmT\":\"england\",\"Csnm\":\"England\",\"Ccd\":\"england\",\"CompId\":\"65\",\"CompN\":\"Premier League\",\"CompUrlName\":\"premier-league\",\"CompD\":\"England\",\"CompST\":\"England\",\"Scu\":0,\"badgeUrl\":\"premier-league-2024"
-  },
-  {
-    "url": "https://prod-public-api.livescore.com/v1/api/app/stage/soccer/south-africa/championship/2?MD=1",
-    "status": 410,
-    "size": 0,
-    "gomora": false,
-    "around": ""
-  },
-  {
-    "url": "https://prod-public-api.livescore.com/v1/api/app/stage/soccer/south-africa/premiership/2?MD=1",
-    "status": 200,
-    "size": 175970,
-    "gomora": false,
-    "around": "{\"Stages\":[{\"Sid\":\"25885\",\"Snm\":\"Premiership\",\"Scd\":\"premiership\",\"badgeUrl\":\"south-african-premiership.png\",\"firstColor\":\"ffcb05\",\"Cid\":\"223\",\"Cnm\":\"South Africa\",\"CnmT\":\"south-africa\",\"Csnm\":\"South Africa\",\"Ccd\":\"south-africa\",\"CompId\":\"167\",\"CompN\":\"Premier League\",\"CompD\":\"South Africa\",\"CompUrl"
-  },
-  {
-    "url": "https://www.livescore.com/en/football/team/gomora-united/374787/results/",
-    "status": 200,
-    "size": 94520,
-    "gomora": true,
-    "around": "eb-assets/images/apple-touch-icon-b1537.webp\" data-next-head=\"\"/><link rel=\"apple-touch-icon-precomposed\" href=\"/ls-web-assets/images/apple-touch-icon-precomposed-96863.webp\" data-next-head=\"\"/><link sizes=\"120x120\" rel=\"apple-touch-icon\" href=\"/ls-web-assets/images/apple-touch-icon-120x120-0fa6c.webp\" data-next-head=\"\"/><link sizes=\"120x120\" rel=\"apple-touch-icon-precomposed\" href=\"/ls-web-assets/images/apple-touch-icon-120x120-precomposed-10cd8.webp\" data-next-head=\"\"/><link rel=\"android-touch-icon\" href=\"/ls-web-assets/images/icon-100-ce8ef.webp\" data-next-head=\"\"/><title data-next-head=\"\">Gomora United Results List &amp; Next Game | LiveScore</title><meta property=\"og:title\" content=\"Gomora United Results List &amp; Next Game | LiveScore\" data-next-head=\"\"/><meta name=\"twitter:title\" content=\"Gomora United Results List &amp; Next Game | LiveScore\" data-next-head=\"\"/><meta name=\"description\" content=\"Gomora United results from this season. The latest results list and next game on LiveScore.com.\" data-next-head=\"\"/><meta property=\"og:description\" content=\"Gomora United results from this season. The latest results list and next game on LiveScore.com.\" data-next-head=\"\"/><meta name=\"twitter:description\" content=\"Gomora United results from this season. The latest results list and next game on LiveScore.com.\" data-next-head=\"\"/><meta name=\"format-detection\" content=\"telephone=no\" data-next-head=\"\"/><meta property=\"og:type\" content=\"website\" data-next-head=\"\"/><meta property=\"og"
-  },
-  {
-    "url": "https://www.fotmob.com/api/matches?date=20261011",
-    "status": 404,
-    "size": 215604,
-    "gomora": false,
-    "around": "<!DOCTYPE html><html lang=\"en\" dir=\"ltr\"><head><meta name=\"apple-itunes-app\" content=\"app-id=488575683\"/><link rel=\"alternate\" href=\"android-app://com.mobilefootie.wc2010/http\"/><link rel=\"apple-touch-icon\" href=\"/img/android-icon-192x192.png\"/><link rel=\"manifest\" href=\"/manifest.json\"/><link rel=\""
-  },
-  {
-    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/rsa.2/scoreboard?dates=20261011",
-    "status": 200,
-    "size": 2513,
-    "gomora": false,
-    "around": "{\"leagues\":[{\"id\":\"3938\",\"uid\":\"s:600~l:3938\",\"name\":\"South African First Division\",\"abbreviation\":\"South African First Division\",\"midsizeName\":\"RSA.2\",\"slug\":\"rsa.2\",\"season\":{\"year\":2025,\"startDate\":\"2025-08-01T04:00Z\",\"endDate\":\"2026-06-01T03:59Z\",\"displayName\":\"2025-26 South African National Fir"
-  },
-  {
-    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/rsa.1/scoreboard?dates=20261011",
-    "status": 200,
-    "size": 2493,
-    "gomora": false,
-    "around": "{\"leagues\":[{\"id\":\"3937\",\"uid\":\"s:600~l:3937\",\"name\":\"South African Premiership\",\"abbreviation\":\"South African Premiership\",\"midsizeName\":\"RSA.1\",\"slug\":\"rsa.1\",\"season\":{\"year\":2026,\"startDate\":\"2026-07-01T04:00Z\",\"endDate\":\"2027-07-01T03:59Z\",\"displayName\":\"2026-27 South African Premiership\",\"type"
-  },
-  {
-    "url": "https://www.sofascore.com/api/v1/sport/football/scheduled-events/2026-10-11",
-    "status": 403,
-    "size": 48,
-    "gomora": false,
-    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
-  },
-  {
-    "url": "https://api.sofascore.app/api/v1/sport/football/scheduled-events/2026-10-11",
-    "status": 200,
-    "size": 0,
-    "gomora": false,
-    "around": ""
-  }
-]
+{
+  "buildId": "SjiIpLYkI-fb8A7fnzR-Q",
+  "pageProps_keys": [
+    "layoutContext",
+    "activeSport",
+    "activeTabId",
+    "rootLink",
+    "adsTargeting",
+    "amplitudePageView",
+    "teamId",
+    "teamTabs",
+    "initialData",
+    "adPaths",
+    "meta",
+    "footerLinks",
+    "externalAppConfig",
+    "pageLocaleDictionaries",
+    "publicDomain",
+    "buildId",
+    "pageId",
+    "generated"
+  ],
+  "hits": 0,
+  "around": [],
+  "eids": []
+}
