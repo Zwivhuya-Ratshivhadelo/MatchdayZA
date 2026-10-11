@@ -54,8 +54,9 @@ def id_link(g, budget):
     League match pages are numbered in a block per season; numbers we already looked at are remembered."""
     ids = load_json(IDS_PATH, {})
     h, a = psl.slugify(g["home"]), psl.slugify(g["away"])
+    same = lambda x, y: bool(x) and bool(y) and (x == y or x.startswith(y + "-") or y.startswith(x + "-"))   # "cape-town-city" = "cape-town-city-fc"
     for mid, t in ids.items():
-        if t.get("home") == h and t.get("away") == a:
+        if same(t.get("home"), h) and same(t.get("away"), a):
             return {"id": mid, "url": f"{psl.BASE}/matchcentre/detail/{mid}"}
     comp = load_json(DATA / "psl" / f"{g['slug']}.json", {})
     known = sorted(int(m["match_id"]) for m in comp.get("results", []) + comp.get("extra", [])
@@ -76,7 +77,7 @@ def id_link(g, budget):
             print(f"  match {mid} failed: {e}")
             continue
         ids[str(mid)] = {"home": psl.slugify(names[0]), "away": psl.slugify(names[1])} if len(names) >= 2 else {}
-        if ids[str(mid)].get("home") == h and ids[str(mid)].get("away") == a:
+        if same(ids[str(mid)].get("home"), h) and same(ids[str(mid)].get("away"), a):
             found = {"id": str(mid), "url": f"{psl.BASE}/matchcentre/detail/{mid}"}
     save_json(IDS_PATH, ids)
     return found
