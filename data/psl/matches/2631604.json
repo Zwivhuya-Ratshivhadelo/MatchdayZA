@@ -1,0 +1,342 @@
+{
+  "match_id": "2631604",
+  "comp": "nedbank-cup",
+  "home": "Durban City",
+  "away": "Real Native FC",
+  "updated": "2026-10-11T07:09:03+02:00",
+  "home_score": 1,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+4'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+1'",
+      "type": "sub",
+      "team": "Casric Stars",
+      "player_in": "Tlhalefang Kgabane",
+      "player_out": "Sphamandla Mlilo"
+    },
+    {
+      "minute": "76'",
+      "type": "yellow",
+      "player": "Siphamandla Ncanana",
+      "team": "Durban City"
+    },
+    {
+      "minute": "72'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Bokang Mokwena",
+      "player_out": "Jean Lwamba"
+    },
+    {
+      "minute": "72'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Sphiwe Mahlangu",
+      "player_out": "Samkelo Maseko"
+    },
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Casric Stars",
+      "player_in": "Thabang Rakwena",
+      "player_out": "Mfundo Thikazi"
+    },
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Casric Stars",
+      "player_in": "Thuso Mogale",
+      "player_out": "Mlungisi Zwane"
+    },
+    {
+      "minute": "58'",
+      "type": "sub",
+      "team": "Casric Stars",
+      "player_in": "Simon Moukete",
+      "player_out": "Leletu Skelem"
+    },
+    {
+      "minute": "55'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Luphumlo Sifumba",
+      "player_out": "Haashim Domingo"
+    },
+    {
+      "minute": "52'",
+      "type": "yellow",
+      "player": "Brooklyn Poggenpoel",
+      "team": "Durban City"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Fezile Gcaba",
+      "player_out": "Mfanafuthi Mkhize"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45+9'",
+      "type": "half_time"
+    },
+    {
+      "minute": "45+4'",
+      "type": "yellow",
+      "player": "Justice Chabalala",
+      "team": "Casric Stars"
+    },
+    {
+      "minute": "43'",
+      "type": "yellow",
+      "player": "Nhlanhla Ntuli",
+      "team": "Casric Stars"
+    },
+    {
+      "minute": "34'",
+      "type": "yellow",
+      "player": "Mfanafuthi Mkhize",
+      "team": "Durban City"
+    },
+    {
+      "minute": "6'",
+      "type": "own_goal",
+      "player": "Sphamandla Mlilo",
+      "team": "Casric Stars",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Durban City",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Darren Keet",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "30",
+          "name": "Mfanafuthi Mkhize",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "S Ncanana",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "Terrence Mashego",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "E Jalai",
+          "pos": "Defender"
+        },
+        {
+          "no": "18",
+          "name": "Brooklyn Poggenpoel",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "S Maseko",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "Haashim Domingo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "Saziso Magawana",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "26",
+          "name": "Thabo Nodada",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "J Lwamba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "27",
+          "name": "Taahir Goedeman",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "L Sifumba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "F Asare",
+          "pos": "Substitute"
+        },
+        {
+          "no": "25",
+          "name": "M Bhengu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "15",
+          "name": "B Mokwena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "Letsie Koapeng",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "Fezile Gcaba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "L De Kock",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Sphiwe Mahlangu",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Real Native FC",
+      "starting": [
+        {
+          "no": "31",
+          "name": "T Mthombeni",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "15",
+          "name": "Z Motsweni Mtshweni",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "N Ntuli",
+          "pos": "Defender"
+        },
+        {
+          "no": "18",
+          "name": "Sphamandla Mlilo",
+          "pos": "Defender"
+        },
+        {
+          "no": "33",
+          "name": "T Lekhatla",
+          "pos": "Defender"
+        },
+        {
+          "no": "36",
+          "name": "Siphosethu Meveni",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "77",
+          "name": "M Zwane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "Decide Chauke",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "34",
+          "name": "Mfundo Thikazi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "16",
+          "name": "L Makua",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "37",
+          "name": "Leletu Skelem",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "29",
+          "name": "S Moukete",
+          "pos": "Substitute"
+        },
+        {
+          "no": "47",
+          "name": "S Msezane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "Q Mdletye",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "T Rakwena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "Thuso Mogale",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "Justice Chabalala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "S Nana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "T Kgabane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "K Mofokeng",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

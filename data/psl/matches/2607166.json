@@ -1,0 +1,400 @@
+{
+  "match_id": "2607166",
+  "comp": "carling-knockout",
+  "home": "Orlando Pirates",
+  "away": "Magesi FC",
+  "updated": "2026-10-11T07:08:57+02:00",
+  "home_score": 2,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+6'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+5'",
+      "type": "goal",
+      "player": "John Mokone",
+      "team": "Magesi",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "90+1'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Kamogelo Sebelebele",
+      "player_out": "Tshepang Moremi"
+    },
+    {
+      "minute": "87'",
+      "type": "goal",
+      "player": "Evidence Makgopa",
+      "team": "Orlando Pirates",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "84'",
+      "type": "sub",
+      "team": "Magesi",
+      "player_in": "Kgothatso Mariba",
+      "player_out": "Lehlohonolo Mtshali"
+    },
+    {
+      "minute": "84'",
+      "type": "sub",
+      "team": "Magesi",
+      "player_in": "Kabelo Mahlasela",
+      "player_out": "Thabang Sibanyoni"
+    },
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Deon Hotto",
+      "player_out": "Nkosikhona Ndaba"
+    },
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Kabelo Dlamini",
+      "player_out": "Oswin Appollis"
+    },
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Sipho Mbule",
+      "player_out": "Cemran Dansin"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "player": "Lehlohonolo Mtshali",
+      "team": "Magesi"
+    },
+    {
+      "minute": "73'",
+      "type": "sub",
+      "team": "Magesi",
+      "player_in": "Mcedi Vandala",
+      "player_out": "Edmore Chirambadare"
+    },
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Evidence Makgopa",
+      "player_out": "Yamela Mbuthuma"
+    },
+    {
+      "minute": "62'",
+      "type": "sub",
+      "team": "Magesi",
+      "player_in": "Wonderboy Makhubu",
+      "player_out": "Abbey Seseane"
+    },
+    {
+      "minute": "62'",
+      "type": "sub",
+      "team": "Magesi",
+      "player_in": "Samuel Darpoh",
+      "player_out": "Nkanyiso Zungu"
+    },
+    {
+      "minute": "51'",
+      "type": "goal",
+      "player": "Tshepang Moremi",
+      "team": "Orlando Pirates",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45+2'",
+      "type": "half_time"
+    },
+    {
+      "minute": "35'",
+      "type": "yellow",
+      "player": "Elvis Chipezeze",
+      "team": "Magesi"
+    },
+    {
+      "minute": "20'",
+      "type": "yellow",
+      "player": "John Mokone",
+      "team": "Magesi"
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "24",
+      "away": "11"
+    },
+    {
+      "label": "Shots on target",
+      "home": "9",
+      "away": "2"
+    },
+    {
+      "label": "Corners",
+      "home": "7",
+      "away": "1"
+    },
+    {
+      "label": "Offsides",
+      "home": "3",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "12",
+      "away": "11"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Orlando Pirates",
+      "starting": [
+        {
+          "no": "24",
+          "name": "Sipho Chaine",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "44",
+          "name": "M Mbokazi",
+          "pos": "Defender"
+        },
+        {
+          "no": "37",
+          "name": "Thabiso Lebitso",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "N Ndaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "33",
+          "name": "L Seema",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "P Maswanganyi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "46",
+          "name": "C Dansin",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "M Nemtajela",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "T Moremi",
+          "pos": "Striker"
+        },
+        {
+          "no": "12",
+          "name": "Oswin Appollis",
+          "pos": "Striker"
+        },
+        {
+          "no": "9",
+          "name": "Y Mbuthuma",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "23",
+          "name": "Sipho Mbule",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "Deon Hotto",
+          "pos": "Substitute"
+        },
+        {
+          "no": "36",
+          "name": "K Sebelebele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Nkosinathi Sibisi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "Thalente Mbatha",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "Evidence Makgopa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "Deano Van Rooyen",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "Melusi Buthelezi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Kabelo Dlamini",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Magesi FC",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Elvis Chipezeze",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "4",
+          "name": "Tshepo Makgoga",
+          "pos": "Defender"
+        },
+        {
+          "no": "8",
+          "name": "J Mokone",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "G Mashigo",
+          "pos": "Defender"
+        },
+        {
+          "no": "34",
+          "name": "L Mokone",
+          "pos": "Defender"
+        },
+        {
+          "no": "40",
+          "name": "K Mosadi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "38",
+          "name": "A Seseane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "26",
+          "name": "Lehlohonolo Mtshali",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "Edmore Chirambadare",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "63",
+          "name": "Nkanyiso Zungu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "37",
+          "name": "Thabang Sibanyoni",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "24",
+          "name": "Mbali Tshabalala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "D Mofokeng",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "T Modise",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "Mzwandile Buthelezi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "Samuel Darpoh",
+          "pos": "Substitute"
+        },
+        {
+          "no": "41",
+          "name": "Wonderboy Makhubu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "K Mariba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "Kabelo Mahlasela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "M Vandala",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

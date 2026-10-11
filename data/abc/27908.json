@@ -5,7 +5,7 @@
   "name": "MP Stream A",
   "slug": "mp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27908",
-  "updated": "2026-10-11T06:51:53+02:00",
+  "updated": "2026-10-11T07:10:01+02:00",
   "log": [
     {
       "pos": 1,
@@ -164,7 +164,248 @@
       "pts": 0
     }
   ],
-  "results": [],
+  "results": [
+    {
+      "home": "Armory Football Club",
+      "away": "Phezulu FC",
+      "match_no": 5,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=5&s=l",
+      "date": "2026-09-12",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Kwandebele United FC",
+      "away": "Secunda M Stars FC",
+      "match_no": 4,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=4&s=l",
+      "date": "2026-09-12",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Home Defenders",
+      "away": "Shimadel Football Club",
+      "match_no": 3,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=3&s=l",
+      "date": "2026-09-12",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Carolina Young Boys FC",
+      "away": "Witbank City Lads FC",
+      "match_no": 1,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=1&s=l",
+      "date": "2026-09-12",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Home Culture Express FC",
+      "away": "Mjali All Stars",
+      "match_no": 2,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=2&s=l",
+      "date": "2026-09-12",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Middelburg United",
+      "away": "Armory Football Club",
+      "match_no": 12,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=12&s=l",
+      "date": "2026-09-19",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Phezulu FC",
+      "away": "Home Defenders",
+      "match_no": 10,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=10&s=l",
+      "date": "2026-09-19",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Secunda M Stars FC",
+      "away": "Home Culture Express FC",
+      "match_no": 9,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=9&s=l",
+      "date": "2026-09-19",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Shimadel Football Club",
+      "away": "Carolina Young Boys FC",
+      "match_no": 8,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=8&s=l",
+      "date": "2026-09-19",
+      "home_score": 5,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Witbank City Lads FC",
+      "away": "Amsterdam United FC",
+      "match_no": 7,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=7&s=l",
+      "date": "2026-09-19",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Phaphama Football Club",
+      "away": "Kwandebele United FC",
+      "match_no": 11,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=11&s=l",
+      "date": "2026-09-19",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Witbank City Lads FC",
+      "away": "Shimadel Football Club",
+      "match_no": 14,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=14&s=l",
+      "date": "2026-09-23",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Kwandebele United FC",
+      "away": "Armory Football Club",
+      "match_no": 18,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=18&s=l",
+      "date": "2026-09-26",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Home Defenders",
+      "away": "Middelburg United",
+      "match_no": 17,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=17&s=l",
+      "date": "2026-09-26",
+      "home_score": 0,
+      "away_score": 5,
+      "status": "FT"
+    },
+    {
+      "home": "Carolina Young Boys FC",
+      "away": "Phezulu FC",
+      "match_no": 15,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=15&s=l",
+      "date": "2026-09-26",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Amsterdam United FC",
+      "away": "Mjali All Stars",
+      "match_no": 13,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=13&s=l",
+      "date": "2026-09-26",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Home Culture Express FC",
+      "away": "Phaphama Football Club",
+      "match_no": 16,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=16&s=l",
+      "date": "2026-09-26",
+      "home_score": 3,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Middelburg United",
+      "away": "Phaphama Football Club",
+      "match_no": 6,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=6&s=l",
+      "date": "2026-09-30",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Armory Football Club",
+      "away": "Home Culture Express FC",
+      "match_no": 23,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=23&s=l",
+      "date": "2026-10-03",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Middelburg United",
+      "away": "Carolina Young Boys FC",
+      "match_no": 22,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=22&s=l",
+      "date": "2026-10-03",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Phezulu FC",
+      "away": "Witbank City Lads FC",
+      "match_no": 21,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=21&s=l",
+      "date": "2026-10-03",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Secunda M Stars FC",
+      "away": "Mjali All Stars",
+      "match_no": 20,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=20&s=l",
+      "date": "2026-10-03",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Shimadel Football Club",
+      "away": "Amsterdam United FC",
+      "match_no": 19,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=19&s=l",
+      "date": "2026-10-03",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Kwandebele United FC",
+      "away": "Home Defenders",
+      "match_no": 24,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=24&s=l",
+      "date": "2026-10-03",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
   "fixtures": [
     {
       "home": "Home Culture Express FC",

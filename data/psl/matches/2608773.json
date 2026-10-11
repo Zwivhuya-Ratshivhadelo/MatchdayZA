@@ -1,0 +1,419 @@
+{
+  "match_id": "2608773",
+  "comp": "carling-knockout",
+  "home": "Orlando Pirates",
+  "away": "Marumo Gallants",
+  "updated": "2026-10-11T07:08:51+02:00",
+  "home_score": 1,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "114'",
+      "type": "yellow",
+      "player": "Jaisen Clifford",
+      "team": "Marumo Gallants"
+    },
+    {
+      "minute": "112'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Katekani Mhlongo",
+      "player_out": "Ibrahim Bancé"
+    },
+    {
+      "minute": "110'",
+      "type": "yellow",
+      "player": "Ibrahim Bancé",
+      "team": "Marumo Gallants"
+    },
+    {
+      "minute": "105'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Nkosinathi Sibisi",
+      "player_out": "Relebohile Mofokeng"
+    },
+    {
+      "minute": "105'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Teboho Motloung",
+      "player_out": "Katlego Otladisa"
+    },
+    {
+      "minute": "105'",
+      "type": "extra_time"
+    },
+    {
+      "minute": "105'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Jaisen Clifford",
+      "player_out": "Ndabayithethwa Ndlondlo"
+    },
+    {
+      "minute": "105'",
+      "type": "goal",
+      "player": "Relebohile Mofokeng",
+      "team": "Orlando Pirates",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "100'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Cemran Dansin",
+      "player_out": "Oswin Appollis"
+    },
+    {
+      "minute": "90'",
+      "type": "extra_time"
+    },
+    {
+      "minute": "90+7'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+4'",
+      "type": "yellow",
+      "player": "Washington Arubi",
+      "team": "Marumo Gallants"
+    },
+    {
+      "minute": "90+2'",
+      "type": "yellow",
+      "player": "Thabiso Lebitso",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "83'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Sipho Mbule",
+      "player_out": "Thalente Mbatha"
+    },
+    {
+      "minute": "82'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Monde Mphambaniso",
+      "player_out": "Sekela Sithole"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "player": "Sekela Sithole",
+      "team": "Marumo Gallants"
+    },
+    {
+      "minute": "64'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Yamela Mbuthuma",
+      "player_out": "Evidence Makgopa"
+    },
+    {
+      "minute": "62'",
+      "type": "yellow",
+      "player": "Masindi Nemtajela",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "59'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Deon Hotto",
+      "player_out": "Nkosikhona Ndaba"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Tshepang Moremi",
+      "player_out": "Makhehlene Makhaula"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Daniel Msendami",
+      "player_out": "Bheki Mabuza"
+    },
+    {
+      "minute": "45+3'",
+      "type": "half_time"
+    },
+    {
+      "minute": "20'",
+      "type": "yellow",
+      "player": "Makhehlene Makhaula",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "23",
+      "away": "7"
+    },
+    {
+      "label": "Shots on target",
+      "home": "8",
+      "away": "0"
+    },
+    {
+      "label": "Corners",
+      "home": "8",
+      "away": "2"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Fouls",
+      "home": "15",
+      "away": "18"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "4"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Orlando Pirates",
+      "starting": [
+        {
+          "no": "24",
+          "name": "Sipho Chaine",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "37",
+          "name": "Thabiso Lebitso",
+          "pos": "Defender"
+        },
+        {
+          "no": "33",
+          "name": "L Seema",
+          "pos": "Defender"
+        },
+        {
+          "no": "44",
+          "name": "M Mbokazi",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "N Ndaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "8",
+          "name": "M Makhaula",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "M Nemtajela",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "16",
+          "name": "Thalente Mbatha",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "38",
+          "name": "R Mofokeng",
+          "pos": "Striker"
+        },
+        {
+          "no": "17",
+          "name": "Evidence Makgopa",
+          "pos": "Striker"
+        },
+        {
+          "no": "12",
+          "name": "Oswin Appollis",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "9",
+          "name": "Y Mbuthuma",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Nkosinathi Sibisi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "Melusi Buthelezi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "Sipho Mbule",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "Deano Van Rooyen",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "T Moremi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "Deon Hotto",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "S Selepe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "46",
+          "name": "C Dansin",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Marumo Gallants",
+      "starting": [
+        {
+          "no": "36",
+          "name": "Washington Arubi",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "55",
+          "name": "E Agnikoi",
+          "pos": "Defender"
+        },
+        {
+          "no": "35",
+          "name": "Marvin Sikhosana",
+          "pos": "Defender"
+        },
+        {
+          "no": "18",
+          "name": "M Chabatsane",
+          "pos": "Defender"
+        },
+        {
+          "no": "13",
+          "name": "S Ncube",
+          "pos": "Defender"
+        },
+        {
+          "no": "50",
+          "name": "Siyabonga Nhlapo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "44",
+          "name": "I Bancé",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "26",
+          "name": "Christopher Sekela Sithole",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "39",
+          "name": "B Mabuza",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "Katlego Otladisa",
+          "pos": "Striker"
+        },
+        {
+          "no": "15",
+          "name": "Ndabayithethwa Ndlondlo",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "8",
+          "name": "S Mbhele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "K Mhlongo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "T Motloung",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "Monde Mphambaniso",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "J Clifford",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "Lebohang Mabotja",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "D James",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "Kagiso Mlambo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "D Msendami",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

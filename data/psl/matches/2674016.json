@@ -1,0 +1,229 @@
+{
+  "match_id": "2674016",
+  "comp": "betway-premiership",
+  "home": "Golden Arrows",
+  "away": "Mamelodi Sundowns",
+  "updated": "2026-10-11T07:07:25+02:00",
+  "home_score": 1,
+  "away_score": 2,
+  "status": "FT",
+  "minute": null,
+  "events": [],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Golden Arrows",
+      "starting": [
+        {
+          "no": "27",
+          "name": "Thakasani Mbanjwa",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "26",
+          "name": "E Agnikoi",
+          "pos": "Defender"
+        },
+        {
+          "no": "20",
+          "name": "O Maluleke",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "K Shezi",
+          "pos": "Defender"
+        },
+        {
+          "no": "35",
+          "name": "Themba Mantshiyane",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "N Dlamini",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "25",
+          "name": "A Maxwele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "41",
+          "name": "N Zwane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "49",
+          "name": "N Gasa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "S Dion",
+          "pos": "Striker"
+        },
+        {
+          "no": "28",
+          "name": "R Van Neel",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "14",
+          "name": "A Van Rooi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "36",
+          "name": "P Kumalo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "Nduduzo Sibiya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "S Sithole",
+          "pos": "Substitute"
+        },
+        {
+          "no": "43",
+          "name": "T Radzhadzhi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "Dumisani Msibi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "47",
+          "name": "S Madonsela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "51",
+          "name": "M Mafuleka",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "TP Khumalo",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Mamelodi Sundowns",
+      "starting": [
+        {
+          "no": "30",
+          "name": "Ronwen Williams",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "3",
+          "name": "K Ndamane",
+          "pos": "Defender"
+        },
+        {
+          "no": "27",
+          "name": "Thapelo Morena",
+          "pos": "Defender"
+        },
+        {
+          "no": "20",
+          "name": "Grant Kekana",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "Fawaaz Basadien",
+          "pos": "Defender"
+        },
+        {
+          "no": "11",
+          "name": "M Allende",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "4",
+          "name": "Teboho Mokoena",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "38",
+          "name": "S Mthanti",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "C Mailula",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "T Matthews",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "B Léon",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "42",
+          "name": "M Khoza",
+          "pos": "Substitute"
+        },
+        {
+          "no": "46",
+          "name": "B Mokoena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "A Van Wyk",
+          "pos": "Substitute"
+        },
+        {
+          "no": "28",
+          "name": "Zuko Mdunyelwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "31",
+          "name": "Ricardo Goss",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "Sphelele Mkhulise",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "Iqraam Rayners",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "Aubrey Modiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Themba Zwane",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

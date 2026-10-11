@@ -1,0 +1,229 @@
+{
+  "match_id": "2674009",
+  "comp": "betway-premiership",
+  "home": "Richards Bay",
+  "away": "Kaizer Chiefs",
+  "updated": "2026-10-11T07:07:31+02:00",
+  "home_score": 2,
+  "away_score": 2,
+  "status": "FT",
+  "minute": null,
+  "events": [],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Richards Bay",
+      "starting": [
+        {
+          "no": "1",
+          "name": "I Otieno",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "5",
+          "name": "Thembela Sikhakhane",
+          "pos": "Defender"
+        },
+        {
+          "no": "25",
+          "name": "Simphiwe Mcineka",
+          "pos": "Defender"
+        },
+        {
+          "no": "15",
+          "name": "M Ndelu",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "L Mabuya",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "M Mthembu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "45",
+          "name": "B Nashixwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "3",
+          "name": "S Khumalo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "T Gumede",
+          "pos": "Striker"
+        },
+        {
+          "no": "77",
+          "name": "L Khumalo",
+          "pos": "Striker"
+        },
+        {
+          "no": "27",
+          "name": "N Xulu",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "53",
+          "name": "S Simelane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "S Mtshali",
+          "pos": "Substitute"
+        },
+        {
+          "no": "31",
+          "name": "O Mbambo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "L Mahala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "L Zikhali",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "T Ndelu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "S Nzama",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "S Jali",
+          "pos": "Substitute"
+        },
+        {
+          "no": "30",
+          "name": "Sanele Barns",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Kaizer Chiefs",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Brandon Petersen",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "84",
+          "name": "IM Ferreira Dos Santos",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "Zitha Kwinika",
+          "pos": "Defender"
+        },
+        {
+          "no": "42",
+          "name": "Thabo Moloisane",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "Lebohang Maboe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "Siphesihle Ndlovu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "13",
+          "name": "Pule Mmodi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "2",
+          "name": "M Thabiso Monyane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "28",
+          "name": "M Vilakazi",
+          "pos": "Striker"
+        },
+        {
+          "no": "11",
+          "name": "L Baartman",
+          "pos": "Striker"
+        },
+        {
+          "no": "7",
+          "name": "M Shabalala",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "17",
+          "name": "Asenele Velebayi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "R Leaner",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "S Mthethwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "AM Bitegeko",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "E Ighodaro",
+          "pos": "Substitute"
+        },
+        {
+          "no": "47",
+          "name": "W Duba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "F Abrahams",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Dillan Solomons",
+          "pos": "Substitute"
+        },
+        {
+          "no": "39",
+          "name": "Reeve Frosler",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

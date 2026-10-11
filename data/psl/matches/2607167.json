@@ -1,0 +1,392 @@
+{
+  "match_id": "2607167",
+  "comp": "carling-knockout",
+  "home": "Marumo Gallants",
+  "away": "Stellenbosch FC",
+  "updated": "2026-10-11T07:08:56+02:00",
+  "home_score": 4,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+1'",
+      "type": "full_time"
+    },
+    {
+      "minute": "85'",
+      "type": "goal",
+      "player": "Diala Manaka",
+      "team": "Marumo Gallants",
+      "score": [
+        4,
+        0
+      ]
+    },
+    {
+      "minute": "82'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Diala Manaka",
+      "player_out": "Ibrahim Bancé"
+    },
+    {
+      "minute": "82'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Jaisen Clifford",
+      "player_out": "Bheki Mabuza"
+    },
+    {
+      "minute": "78'",
+      "type": "goal",
+      "player": "Monde Mphambaniso",
+      "team": "Marumo Gallants",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Ashley Cupido",
+      "player_out": "Enyinnaya Kazie Godswill"
+    },
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Adetu Evanonye",
+      "player_out": "Ndabayithethwa Ndlondlo"
+    },
+    {
+      "minute": "60'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Teboho Motloung",
+      "player_out": "Katlego Otladisa"
+    },
+    {
+      "minute": "60'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Monde Mphambaniso",
+      "player_out": "Sekela Sithole"
+    },
+    {
+      "minute": "60'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Thato Khiba",
+      "player_out": "Ibraheem Jabaar"
+    },
+    {
+      "minute": "60'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Lesiba Nku",
+      "player_out": "Langelihle Phili"
+    },
+    {
+      "minute": "60'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Sanele Barns",
+      "player_out": "Devin Titus"
+    },
+    {
+      "minute": "51'",
+      "type": "goal",
+      "player": "Ndabayithethwa Ndlondlo",
+      "team": "Marumo Gallants",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Lehlogonolo Mojela",
+      "player_out": "Chumani Butsaka"
+    },
+    {
+      "minute": "45+4'",
+      "type": "half_time"
+    },
+    {
+      "minute": "28'",
+      "type": "goal",
+      "player": "Ndabayithethwa Ndlondlo",
+      "team": "Marumo Gallants",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "11",
+      "away": "13"
+    },
+    {
+      "label": "Shots on target",
+      "home": "6",
+      "away": "4"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "5"
+    },
+    {
+      "label": "Offsides",
+      "home": "4",
+      "away": "1"
+    },
+    {
+      "label": "Fouls",
+      "home": "9",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Marumo Gallants",
+      "starting": [
+        {
+          "no": "36",
+          "name": "Washington Arubi",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "18",
+          "name": "M Chabatsane",
+          "pos": "Defender"
+        },
+        {
+          "no": "55",
+          "name": "E Agnikoi",
+          "pos": "Defender"
+        },
+        {
+          "no": "35",
+          "name": "Marvin Sikhosana",
+          "pos": "Defender"
+        },
+        {
+          "no": "13",
+          "name": "S Ncube",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "Christopher Sekela Sithole",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "50",
+          "name": "Siyabonga Nhlapo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "44",
+          "name": "I Bancé",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "39",
+          "name": "B Mabuza",
+          "pos": "Striker"
+        },
+        {
+          "no": "12",
+          "name": "Katlego Otladisa",
+          "pos": "Striker"
+        },
+        {
+          "no": "15",
+          "name": "Ndabayithethwa Ndlondlo",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "10",
+          "name": "Monde Mphambaniso",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "Lebohang Mabotja",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Diala Manaka",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "S Mbhele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "28",
+          "name": "A Evanonye",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "Kagiso Mlambo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "T Motloung",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "J Clifford",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "K Mhlongo",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Stellenbosch FC",
+      "starting": [
+        {
+          "no": "30",
+          "name": "Oscarine Masuluke",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "26",
+          "name": "A Mcaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "O Mdaka",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "H Stanic",
+          "pos": "Defender"
+        },
+        {
+          "no": "16",
+          "name": "K Godswill",
+          "pos": "Defender"
+        },
+        {
+          "no": "34",
+          "name": "D Titus",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "C Butsaka",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "27",
+          "name": "I Jabaar",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "M Mthiyane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "L Phili",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "Andre De Jong",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "12",
+          "name": "Thato Khiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "D Ah Shene",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "L Mojela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "K Lekoloane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "S Nkwali",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "T Manafov",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "A Cupido",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "Lesiba Nku",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "Sanele Barns",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

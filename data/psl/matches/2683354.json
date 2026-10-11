@@ -1,0 +1,389 @@
+{
+  "match_id": "2683354",
+  "comp": "mtn8",
+  "home": "Orlando Pirates",
+  "away": "Sekhukhune United",
+  "updated": "2026-10-11T07:08:44+02:00",
+  "home_score": 3,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+4'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+3'",
+      "type": "goal",
+      "player": "Kamogelo Sebelebele",
+      "team": "Orlando Pirates",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "minute": "86'",
+      "type": "yellow",
+      "player": "Nkosikhona Ndaba",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "84'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Mpho Padime",
+      "player_out": "Gamphani Lungu"
+    },
+    {
+      "minute": "81'",
+      "type": "yellow",
+      "player": "Ellis Rammala",
+      "team": "Sekhukhune United"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "player": "Bright Ndlovu",
+      "team": "Sekhukhune United"
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Simphiwe Masilela",
+      "player_out": "Simphiwe Selepe"
+    },
+    {
+      "minute": "74'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Tshepang Moremi",
+      "player_out": "Oswin Appollis"
+    },
+    {
+      "minute": "72'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Thabang Mahlangu",
+      "player_out": "Bethuel Muzeu"
+    },
+    {
+      "minute": "64'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Thato Khiba",
+      "player_out": "Givemore Khupe"
+    },
+    {
+      "minute": "64'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Oageng Phiri",
+      "player_out": "Lehlogonolo Mojela"
+    },
+    {
+      "minute": "62'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Boitumelo Radiopane",
+      "player_out": "Yamela Mbuthuma"
+    },
+    {
+      "minute": "62'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Mpho Chabatsane",
+      "player_out": "Lebone Seema"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45+3'",
+      "type": "half_time"
+    },
+    {
+      "minute": "39'",
+      "type": "goal",
+      "player": "Gamphani Lungu",
+      "team": "Orlando Pirates",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "37'",
+      "type": "goal",
+      "player": "Thapelo Mokobodi",
+      "team": "Orlando Pirates",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "36'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Tshepo Mokoane",
+      "player_out": "D'Angelo Kazeem"
+    },
+    {
+      "minute": "19'",
+      "type": "yellow",
+      "player": "D'Angelo Kazeem",
+      "team": "Sekhukhune United"
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "12",
+      "away": "13"
+    },
+    {
+      "label": "Shots on target",
+      "home": "6",
+      "away": "3"
+    },
+    {
+      "label": "Corners",
+      "home": "8",
+      "away": "10"
+    },
+    {
+      "label": "Offsides",
+      "home": "8",
+      "away": "4"
+    },
+    {
+      "label": "Fouls",
+      "home": "6",
+      "away": "12"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Orlando Pirates",
+      "starting": [
+        {
+          "no": "24",
+          "name": "Sipho Chaine",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "36",
+          "name": "K Sebelebele",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "L Seema",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "N Ndaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "37",
+          "name": "S Zulu",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "Gamphani Lungu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "Oswin Appollis",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "S Selepe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "29",
+          "name": "M Mthiyane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "T Mokobodi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "9",
+          "name": "Y Mbuthuma",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "38",
+          "name": "M Padime",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "Deon Hotto",
+          "pos": "Substitute"
+        },
+        {
+          "no": "48",
+          "name": "S Masilela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "46",
+          "name": "C Dansin",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "S Dladla",
+          "pos": "Substitute"
+        },
+        {
+          "no": "43",
+          "name": "M Chabatsane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "45",
+          "name": "D Msendami",
+          "pos": "Substitute"
+        },
+        {
+          "no": "25",
+          "name": "B Radiopane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "T Moremi",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Sekhukhune United",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Toaster Nsabata",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "4",
+          "name": "Daniel Cardoso",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "T Matsimbi",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "B Ndlovu",
+          "pos": "Defender"
+        },
+        {
+          "no": "33",
+          "name": "Givemore Khupe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "Siphesihle Mkhize",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "36",
+          "name": "S Ndlozi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "29",
+          "name": "D Kazeem",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "L Mojela",
+          "pos": "Striker"
+        },
+        {
+          "no": "41",
+          "name": "B Muzeu",
+          "pos": "Striker"
+        },
+        {
+          "no": "11",
+          "name": "N Rammala",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "8",
+          "name": "O Phiri",
+          "pos": "Substitute"
+        },
+        {
+          "no": "31",
+          "name": "T Mokoane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "M Sapunga Mbara",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "A Mcaba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "T Mahlangu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Thato Khiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "Nyiko Mobbie",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

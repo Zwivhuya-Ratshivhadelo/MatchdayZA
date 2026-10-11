@@ -1,0 +1,224 @@
+{
+  "match_id": "2674022",
+  "comp": "betway-premiership",
+  "home": "Milford FC",
+  "away": "Richards Bay",
+  "updated": "2026-10-11T07:07:21+02:00",
+  "home_score": 5,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Milford FC",
+      "starting": [
+        {
+          "no": "32",
+          "name": "Siphamandla Hleza",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "14",
+          "name": "S Mdluli",
+          "pos": "Defender"
+        },
+        {
+          "no": "20",
+          "name": "S Siyaya",
+          "pos": "Defender"
+        },
+        {
+          "no": "13",
+          "name": "P Ngxongo",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "O Cele",
+          "pos": "Defender"
+        },
+        {
+          "no": "55",
+          "name": "C Mthethwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "M Zikakayo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "2",
+          "name": "B Sigomoshe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "5",
+          "name": "Vusumuzi Mthabela",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "M Chili",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "S Ndlabi",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "17",
+          "name": "J Gxakoshe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "M Mkhize",
+          "pos": "Substitute"
+        },
+        {
+          "no": "90",
+          "name": "S Masilela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "Y Nomandela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "K Khwanya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "L Nkosi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "S Joyi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "75",
+          "name": "T Mbunga",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "P Jwara",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Richards Bay",
+      "starting": [
+        {
+          "no": "32",
+          "name": "S Mtshali",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "25",
+          "name": "Simphiwe Mcineka",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "Thembela Sikhakhane",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "L Mabuya",
+          "pos": "Defender"
+        },
+        {
+          "no": "15",
+          "name": "M Ndelu",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "S Khumalo",
+          "pos": "Defender"
+        },
+        {
+          "no": "20",
+          "name": "M Mthembu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "31",
+          "name": "O Mbambo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "L Zikhali",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "19",
+          "name": "S Nzama",
+          "pos": "Striker"
+        },
+        {
+          "no": "27",
+          "name": "N Xulu",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "26",
+          "name": "W Ngidi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "77",
+          "name": "L Khumalo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "L Mahala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "T Ndelu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "37",
+          "name": "S Gwele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "N Ngcobo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "S Jali",
+          "pos": "Substitute"
+        },
+        {
+          "no": "30",
+          "name": "Sanele Barns",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "name": "NW Stream A",
   "slug": "nw-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28492",
-  "updated": "2026-10-11T06:52:05+02:00",
+  "updated": "2026-10-11T07:10:13+02:00",
   "log": [
     {
       "pos": 1,
@@ -152,7 +152,108 @@
       "pts": 0
     }
   ],
-  "results": [],
+  "results": [
+    {
+      "home": "Golden Palace FC",
+      "away": "Stilfontein Real Hearts FC",
+      "match_no": 6,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=6&s=l",
+      "date": "2026-09-26",
+      "home_score": 2,
+      "away_score": 5,
+      "status": "FT"
+    },
+    {
+      "home": "Gm5 United",
+      "away": "FC Milan",
+      "match_no": 5,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=5&s=l",
+      "date": "2026-09-26",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "The B Boys Academy",
+      "away": "Montshioa Swallows FC",
+      "match_no": 4,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=4&s=l",
+      "date": "2026-09-26",
+      "home_score": 1,
+      "away_score": 4,
+      "status": "FT"
+    },
+    {
+      "home": "Orkney Young Zebras Academy",
+      "away": "Indomitable Lions FC",
+      "match_no": 3,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=3&s=l",
+      "date": "2026-09-26",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Mphehli United",
+      "away": "Mogopela Wonderous",
+      "match_no": 1,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=1&s=l",
+      "date": "2026-09-26",
+      "home_score": 5,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Montshioa Swallows FC",
+      "away": "Mafikeng Rocks",
+      "match_no": 9,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=9&s=l",
+      "date": "2026-10-03",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Golden Palace FC",
+      "away": "Gm5 United",
+      "match_no": 12,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=12&s=l",
+      "date": "2026-10-03",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "FC Milan",
+      "away": "Orkney Young Zebras Academy",
+      "match_no": 10,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=10&s=l",
+      "date": "2026-10-03",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Indomitable Lions FC",
+      "away": "Mogopela Wonderous",
+      "match_no": 8,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=8&s=l",
+      "date": "2026-10-03",
+      "home_score": 5,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Nkamodira",
+      "away": "Mphehli United",
+      "match_no": 7,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=7&s=l",
+      "date": "2026-10-03",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    }
+  ],
   "fixtures": [
     {
       "home": "Montshioa Swallows FC",

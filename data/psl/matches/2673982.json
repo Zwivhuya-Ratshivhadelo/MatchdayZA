@@ -1,0 +1,323 @@
+{
+  "match_id": "2673982",
+  "comp": "betway-premiership",
+  "home": "Sekhukhune United",
+  "away": "Durban City",
+  "updated": "2026-10-11T07:08:23+02:00",
+  "home_score": 1,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+4'",
+      "type": "full_time"
+    },
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Bandile Shandu",
+      "player_out": "Fezile Gcaba"
+    },
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Seth Green",
+      "player_out": "Luphumlo Sifumba"
+    },
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Bongani-Junior Mthembu",
+      "player_out": "John Mokone"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "player": "Givemore Khupe",
+      "team": "Sekhukhune United"
+    },
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Thato Khiba",
+      "player_out": "Ellis Rammala"
+    },
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Nyiko Mobbie",
+      "player_out": "Lehlogonolo Mojela"
+    },
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Tashreeq Morris",
+      "player_out": "Samkelo Maseko"
+    },
+    {
+      "minute": "64'",
+      "type": "yellow",
+      "player": "Bright Ndlovu",
+      "team": "Sekhukhune United"
+    },
+    {
+      "minute": "47'",
+      "type": "yellow",
+      "player": "Tsepo Matsimbi",
+      "team": "Sekhukhune United"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Gastón Sirino",
+      "player_out": "Thabo Nodada"
+    },
+    {
+      "minute": "45+3'",
+      "type": "half_time"
+    },
+    {
+      "minute": "27'",
+      "type": "goal",
+      "player": "Bright Ndlovu",
+      "team": "Sekhukhune United",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Sekhukhune United",
+      "starting": [
+        {
+          "no": "30",
+          "name": "Melusi Buthelezi",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "28",
+          "name": "T Matsimbi",
+          "pos": "Defender"
+        },
+        {
+          "no": "29",
+          "name": "D Kazeem",
+          "pos": "Defender"
+        },
+        {
+          "no": "17",
+          "name": "T Mashiloane",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "Daniel Cardoso",
+          "pos": "Defender"
+        },
+        {
+          "no": "31",
+          "name": "T Mokoane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "Givemore Khupe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "Siphesihle Mkhize",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "L Mojela",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "3",
+          "name": "B Ndlovu",
+          "pos": "Striker"
+        },
+        {
+          "no": "11",
+          "name": "N Rammala",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "9",
+          "name": "T Mahlangu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "Nyiko Mobbie",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "O Mandi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "43",
+          "name": "S Makgalaka",
+          "pos": "Substitute"
+        },
+        {
+          "no": "36",
+          "name": "S Ndlozi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Thato Khiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "A Mcaba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "T Nkwana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "Toaster Nsabata",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Durban City",
+      "starting": [
+        {
+          "no": "33",
+          "name": "F Asare",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "4",
+          "name": "Fezile Gcaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "J Mokone",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "S Ncanana",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "Mfanafuthi Mkhize",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "Thabo Nodada",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "L Sifumba",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "Brooklyn Poggenpoel",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "23",
+          "name": "T Sanger",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "S Maseko",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "J Lwamba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "16",
+          "name": "L Makua",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Tashreeq Morris",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "Bandile Shandu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "Haashim Domingo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "B Mthembu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "34",
+          "name": "A Dreyer",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "L De Kock",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "Gastón Sirino",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "S Green",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

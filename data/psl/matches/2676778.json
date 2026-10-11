@@ -1,0 +1,354 @@
+{
+  "match_id": "2676778",
+  "comp": "mtn8",
+  "home": "Kaizer Chiefs",
+  "away": "Golden Arrows",
+  "updated": "2026-10-11T07:08:49+02:00",
+  "home_score": 0,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+4'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+2'",
+      "type": "yellow",
+      "player": "Siphesihle Ndlovu",
+      "team": "Kaizer Chiefs"
+    },
+    {
+      "minute": "87'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Dillan Solomons",
+      "player_out": "Luke Baartman"
+    },
+    {
+      "minute": "87'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Siphesihle Ndlovu",
+      "player_out": "Adolf Bitegeko"
+    },
+    {
+      "minute": "87'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Angelo Van Rooi",
+      "player_out": "Ronaldo Van Neel"
+    },
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Mduduzi Shabalala",
+      "player_out": "Mfundo Vilakazi"
+    },
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Jerome Karlese",
+      "player_out": "Philani Kumalo"
+    },
+    {
+      "minute": "78'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Thokozani Khumalo",
+      "player_out": "Sede Dion"
+    },
+    {
+      "minute": "63'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Langelihle Phili",
+      "player_out": "Nkosingiphile Ngcobo"
+    },
+    {
+      "minute": "63'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Etiosa Ighodaro",
+      "player_out": "Wandile Duba"
+    },
+    {
+      "minute": "53'",
+      "type": "goal",
+      "player": "Khulekani Shezi",
+      "team": "Golden Arrows",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45+1'",
+      "type": "half_time"
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "21",
+      "away": "7"
+    },
+    {
+      "label": "Shots on target",
+      "home": "4",
+      "away": "2"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "3"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Fouls",
+      "home": "12",
+      "away": "4"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Kaizer Chiefs",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Brandon Petersen",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "39",
+          "name": "Reeve Frosler",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "M Thabiso Monyane",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "Zitha Kwinika",
+          "pos": "Defender"
+        },
+        {
+          "no": "84",
+          "name": "IM Ferreira Dos Santos",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "Lebohang Maboe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "Nkosingiphile Ngcobo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "22",
+          "name": "AM Bitegeko",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "L Baartman",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "28",
+          "name": "M Vilakazi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "47",
+          "name": "W Duba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "8",
+          "name": "Siphesihle Ndlovu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Dillan Solomons",
+          "pos": "Substitute"
+        },
+        {
+          "no": "42",
+          "name": "Thabo Moloisane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "R Leaner",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "S Mthethwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "M Shabalala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "E Ighodaro",
+          "pos": "Substitute"
+        },
+        {
+          "no": "70",
+          "name": "L Phili",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "K Nkgwesa",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Golden Arrows",
+      "starting": [
+        {
+          "no": "34",
+          "name": "Edward Maova",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "3",
+          "name": "K Shezi",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "S Cele",
+          "pos": "Defender"
+        },
+        {
+          "no": "38",
+          "name": "N Mabaso",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "A Jiyane",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "N Dlamini",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "25",
+          "name": "A Maxwele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "41",
+          "name": "N Zwane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "36",
+          "name": "P Kumalo",
+          "pos": "Striker"
+        },
+        {
+          "no": "18",
+          "name": "S Dion",
+          "pos": "Striker"
+        },
+        {
+          "no": "28",
+          "name": "R Van Neel",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "44",
+          "name": "P Mbatha",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "Thakasani Mbanjwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "45",
+          "name": "K Rakosa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "TP Khumalo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "49",
+          "name": "N Gasa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "S Sithole",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "J Karlese",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "Themba Mantshiyane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "A Van Rooi",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

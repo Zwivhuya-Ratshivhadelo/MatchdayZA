@@ -1,0 +1,320 @@
+{
+  "match_id": "2633406",
+  "comp": "nedbank-cup",
+  "home": "Durban City",
+  "away": "TS Galaxy",
+  "updated": "2026-10-11T07:09:01+02:00",
+  "home_score": 2,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+5'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+2'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Letsie Koapeng",
+      "player_out": "Jean Lwamba"
+    },
+    {
+      "minute": "86'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Siphamandla Ngwenya",
+      "player_out": "Sphesihle Maduna"
+    },
+    {
+      "minute": "80'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Emmanuel Jalai",
+      "player_out": "Fezile Gcaba"
+    },
+    {
+      "minute": "71'",
+      "type": "goal",
+      "player": "Jean Lwamba",
+      "team": "Durban City",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Thabo Nodada",
+      "player_out": "Bokang Mokwena"
+    },
+    {
+      "minute": "64'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Nhlanhla Mgaga",
+      "player_out": "Mpho Mvelase"
+    },
+    {
+      "minute": "58'",
+      "type": "goal",
+      "player": "Mfanafuthi Mkhize",
+      "team": "Durban City",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "51'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "MacBeth Mahlangu",
+      "player_out": "Mlondi Mncwango"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Luphumlo Sifumba",
+      "player_out": "Haashim Domingo"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45+3'",
+      "type": "half_time"
+    },
+    {
+      "minute": "43'",
+      "type": "own_goal",
+      "player": "Jean Lwamba",
+      "team": "Durban City",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Durban City",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Darren Keet",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "5",
+          "name": "S Ncanana",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "Mfanafuthi Mkhize",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "Fezile Gcaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "Terrence Mashego",
+          "pos": "Defender"
+        },
+        {
+          "no": "10",
+          "name": "S Maseko",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "B Mokwena",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "Haashim Domingo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "Brooklyn Poggenpoel",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "K Jurgens",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "J Lwamba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "35",
+          "name": "L Sifumba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "F Asare",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "Letsie Koapeng",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "L De Kock",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "Thabo Nodada",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Sphiwe Mahlangu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "E Jalai",
+          "pos": "Substitute"
+        },
+        {
+          "no": "37",
+          "name": "R Maarman",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "Saziso Magawana",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "TS Galaxy",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Ira Tapé",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "9",
+          "name": "Junior Zindoga",
+          "pos": "Defender"
+        },
+        {
+          "no": "8",
+          "name": "Mlungisi Mbunjana",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "Kganyane Letsoenyo",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "I Salatiel Silva",
+          "pos": "Defender"
+        },
+        {
+          "no": "35",
+          "name": "M Mncwango",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "T Kakora",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "2",
+          "name": "Mpho Mvelase",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "Sphesihle Maduna",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "Victor Letsoalo",
+          "pos": "Striker"
+        },
+        {
+          "no": "27",
+          "name": "S Mahlambi",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "26",
+          "name": "N Nkosi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "45",
+          "name": "Veluyeke Zulu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Nhlanhla Mgaga",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "S Maseti",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "L Motaung",
+          "pos": "Substitute"
+        },
+        {
+          "no": "30",
+          "name": "S Ngwenya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "P Fisher",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "MacBeth Mahlangu",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

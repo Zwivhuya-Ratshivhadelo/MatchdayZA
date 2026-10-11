@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-11T06:51:17+02:00",
+  "updated": "2026-10-11T07:09:25+02:00",
   "log": [
     {
       "pos": 1,
@@ -152,7 +152,108 @@
       "pts": 0
     }
   ],
-  "results": [],
+  "results": [
+    {
+      "home": "La Masia FC",
+      "away": "Tembisa Hollywood Thunder",
+      "match_no": 4,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=4&s=l",
+      "date": "2026-10-02",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "JBM FC",
+      "away": "Boipatong Football Club",
+      "match_no": 1,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=1&s=l",
+      "date": "2026-10-02",
+      "home_score": 3,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Free Agents Football Club",
+      "away": "Rrr Rams Football Club",
+      "match_no": 6,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=6&s=l",
+      "date": "2026-10-03",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "University of Johannesburg FC",
+      "away": "Tshwane South College FC",
+      "match_no": 5,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=5&s=l",
+      "date": "2026-10-03",
+      "home_score": 3,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Lesco FC",
+      "away": "Dinoko City FC",
+      "match_no": 3,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=3&s=l",
+      "date": "2026-10-03",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Ssu M-17 FC",
+      "away": "Ben 10 FC",
+      "match_no": 2,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=2&s=l",
+      "date": "2026-10-03",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Tshwane South College FC",
+      "away": "Lesco FC",
+      "match_no": 10,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=10&s=l",
+      "date": "2026-10-09",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Free Agents Football Club",
+      "away": "University of Johannesburg FC",
+      "match_no": 12,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=12&s=l",
+      "date": "2026-10-09",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Tembisa Hollywood Thunder",
+      "away": "Ssu M-17 FC",
+      "match_no": 9,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=9&s=l",
+      "date": "2026-10-09",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Dinoko City FC",
+      "away": "Boipatong Football Club",
+      "match_no": 8,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=8&s=l",
+      "date": "2026-10-09",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
   "fixtures": [
     {
       "home": "JBM FC",

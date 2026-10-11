@@ -1,0 +1,352 @@
+{
+  "match_id": "2673983",
+  "comp": "betway-premiership",
+  "home": "Kruger United",
+  "away": "Kaizer Chiefs",
+  "updated": "2026-10-11T07:08:25+02:00",
+  "home_score": 1,
+  "away_score": 3,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+5'",
+      "type": "full_time"
+    },
+    {
+      "minute": "85'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Pule Mmodi",
+      "player_out": "Luke Baartman"
+    },
+    {
+      "minute": "85'",
+      "type": "yellow",
+      "player": "Khetukuthula Ndlovu",
+      "team": "Kruger United"
+    },
+    {
+      "minute": "81'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Mlungisi Zwane",
+      "player_out": "Aphiwe Mpothwe"
+    },
+    {
+      "minute": "78'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Nkosingiphile Ngcobo",
+      "player_out": "Ethan Chislett"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "player": "Boitumelo Malatjie",
+      "team": "Kruger United"
+    },
+    {
+      "minute": "74'",
+      "type": "yellow",
+      "player": "Luke Baartman",
+      "team": "Kaizer Chiefs"
+    },
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Sphiwe Mahlangu",
+      "player_out": "Motsie Matima"
+    },
+    {
+      "minute": "66'",
+      "type": "goal",
+      "player": "Wandile Duba",
+      "team": "Kaizer Chiefs",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "minute": "56'",
+      "type": "goal",
+      "player": "Wandile Duba",
+      "team": "Kaizer Chiefs",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Sibongiseni Mthethwa",
+      "player_out": "Siphesihle Ndlovu"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Wandile Duba",
+      "player_out": "Flávio Silva"
+    },
+    {
+      "minute": "45+4'",
+      "type": "half_time"
+    },
+    {
+      "minute": "45+1'",
+      "type": "goal",
+      "player": "Khetukuthula Ndlovu",
+      "team": "Kruger United",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "player": "Siphesihle Ndlovu",
+      "team": "Kaizer Chiefs"
+    },
+    {
+      "minute": "7'",
+      "type": "goal",
+      "player": "Flávio Silva",
+      "team": "Kaizer Chiefs",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Kruger United",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Marcel Dandjinou",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "26",
+          "name": "Katlego Mohamme",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "S Sibiya",
+          "pos": "Defender"
+        },
+        {
+          "no": "13",
+          "name": "Ebrahim Seedat",
+          "pos": "Defender"
+        },
+        {
+          "no": "12",
+          "name": "B Malatjie",
+          "pos": "Defender"
+        },
+        {
+          "no": "8",
+          "name": "Morne Nel",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "Motsie Mervyn Matima",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "28",
+          "name": "N Thwala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "22",
+          "name": "K Ndlovu",
+          "pos": "Striker"
+        },
+        {
+          "no": "50",
+          "name": "A Mpothwe",
+          "pos": "Striker"
+        },
+        {
+          "no": "10",
+          "name": "Ntsako Makhubela",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "31",
+          "name": "K Mkhonza",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Thulane Matthews Ndlela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Thendo Mukumela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "Shane Saralina",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "S Fakude",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "Sanele Tshabalala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "T Tavengwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "M Zwane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "Sphiwe Mahlangu",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Kaizer Chiefs",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Brandon Petersen",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "2",
+          "name": "M Thabiso Monyane",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "Zitha Kwinika",
+          "pos": "Defender"
+        },
+        {
+          "no": "39",
+          "name": "Reeve Frosler",
+          "pos": "Defender"
+        },
+        {
+          "no": "84",
+          "name": "IM Ferreira Dos Santos",
+          "pos": "Defender"
+        },
+        {
+          "no": "8",
+          "name": "Siphesihle Ndlovu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "L Baartman",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "28",
+          "name": "M Vilakazi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "23",
+          "name": "Ethan Chislett",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "6",
+          "name": "Lebohang Maboe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "77",
+          "name": "F Silva",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "5",
+          "name": "S Mthethwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "42",
+          "name": "Thabo Moloisane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Nkosingiphile Ngcobo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "K Nkgwesa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "E Ighodaro",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Dillan Solomons",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "Pule Mmodi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "47",
+          "name": "W Duba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "R Leaner",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

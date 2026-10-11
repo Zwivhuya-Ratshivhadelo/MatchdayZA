@@ -1,0 +1,386 @@
+{
+  "match_id": "2683353",
+  "comp": "mtn8",
+  "home": "Mamelodi Sundowns",
+  "away": "Golden Arrows",
+  "updated": "2026-10-11T07:08:45+02:00",
+  "home_score": 0,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+5'",
+      "type": "full_time"
+    },
+    {
+      "minute": "84'",
+      "type": "yellow",
+      "player": "Osborn Maluleke",
+      "team": "Golden Arrows"
+    },
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Angelo Van Rooi",
+      "player_out": "Nhlanhla Gasa"
+    },
+    {
+      "minute": "62'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Philani Kumalo",
+      "player_out": "Sabelo Sithole"
+    },
+    {
+      "minute": "62'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Thapelo Morena",
+      "player_out": "Siyanda Ndlovu"
+    },
+    {
+      "minute": "62'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Thokozani Khumalo",
+      "player_out": "Sede Dion"
+    },
+    {
+      "minute": "56'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Nuno Santos",
+      "player_out": "Cassius Mailula"
+    },
+    {
+      "minute": "55'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Sphelele Mkhulise",
+      "player_out": "Bathusi Aubaas"
+    },
+    {
+      "minute": "46'",
+      "type": "yellow",
+      "player": "Bathusi Aubaas",
+      "team": "Mamelodi Sundowns"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Brayan Léon",
+      "player_out": "Lebo Mothiba"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Tashreeq Matthews",
+      "player_out": "Bennet Mokoena"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Themba Mantshiyane",
+      "player_out": "Ntandoyenkosi Mabaso"
+    },
+    {
+      "minute": "45+7'",
+      "type": "half_time"
+    },
+    {
+      "minute": "43'",
+      "type": "yellow",
+      "player": "Kegan Johannes",
+      "team": "Mamelodi Sundowns"
+    },
+    {
+      "minute": "37'",
+      "type": "goal",
+      "player": "Sede Dion",
+      "team": "Golden Arrows",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "28'",
+      "type": "yellow",
+      "player": "Marcelo Allende",
+      "team": "Mamelodi Sundowns"
+    },
+    {
+      "minute": "17'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Thakasani Mbanjwa",
+      "player_out": "Edward Maova"
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "22",
+      "away": "5"
+    },
+    {
+      "label": "Shots on target",
+      "home": "6",
+      "away": "1"
+    },
+    {
+      "label": "Corners",
+      "home": "12",
+      "away": "0"
+    },
+    {
+      "label": "Offsides",
+      "home": "3",
+      "away": "2"
+    },
+    {
+      "label": "Fouls",
+      "home": "15",
+      "away": "9"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Mamelodi Sundowns",
+      "starting": [
+        {
+          "no": "31",
+          "name": "Ricardo Goss",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "42",
+          "name": "M Khoza",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "Aubrey Modiba",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "Zuko Mdunyelwa",
+          "pos": "Defender"
+        },
+        {
+          "no": "37",
+          "name": "Kegan Johannes",
+          "pos": "Defender"
+        },
+        {
+          "no": "15",
+          "name": "Bathusi Aubaas",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "38",
+          "name": "S Mthanti",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "46",
+          "name": "B Mokoena",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "C Mailula",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "M Allende",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "Lebo Mothiba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "21",
+          "name": "Sphelele Mkhulise",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "Denis Onyango",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "Fawaaz Basadien",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "T Matthews",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "Thapelo Morena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "B Léon",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "Mothobi Mvala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "Nuno Santos Valente Santos",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Themba Zwane",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Golden Arrows",
+      "starting": [
+        {
+          "no": "34",
+          "name": "Edward Maova",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "26",
+          "name": "E Agnikoi",
+          "pos": "Defender"
+        },
+        {
+          "no": "38",
+          "name": "N Mabaso",
+          "pos": "Defender"
+        },
+        {
+          "no": "20",
+          "name": "O Maluleke",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "K Shezi",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "N Dlamini",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "25",
+          "name": "A Maxwele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "41",
+          "name": "N Zwane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "S Dion",
+          "pos": "Striker"
+        },
+        {
+          "no": "29",
+          "name": "S Sithole",
+          "pos": "Striker"
+        },
+        {
+          "no": "49",
+          "name": "N Gasa",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "36",
+          "name": "P Kumalo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "J Karlese",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "Thakasani Mbanjwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "O Barry",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "Themba Mantshiyane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "47",
+          "name": "S Madonsela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "A Van Rooi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "TP Khumalo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "P Mbatha",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

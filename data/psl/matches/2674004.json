@@ -1,0 +1,229 @@
+{
+  "match_id": "2674004",
+  "comp": "betway-premiership",
+  "home": "Marumo Gallants",
+  "away": "TS Galaxy",
+  "updated": "2026-10-11T07:07:35+02:00",
+  "home_score": 2,
+  "away_score": 3,
+  "status": "FT",
+  "minute": null,
+  "events": [],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Marumo Gallants",
+      "starting": [
+        {
+          "no": "30",
+          "name": "E Lako",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "22",
+          "name": "Mbhazima Rikhotso",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "Y Madiba",
+          "pos": "Defender"
+        },
+        {
+          "no": "13",
+          "name": "S Ncube",
+          "pos": "Defender"
+        },
+        {
+          "no": "44",
+          "name": "M Sikakane",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "Diala Manaka",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "Katlego Otladisa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "T Mkhwanazi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "Ndabayithethwa Ndlondlo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "M Ndlovu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "31",
+          "name": "E Injili",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "27",
+          "name": "M Seketso",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "D Lukhele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "Kagiso Mlambo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Onke Moletshe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "Monde Mphambaniso",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "B Mabuza",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "Khomotso Marebane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "37",
+          "name": "N Ralenkoane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "93",
+          "name": "Thabiso Kutumela",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "TS Galaxy",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Ira Tapé",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "3",
+          "name": "M Mncwango",
+          "pos": "Defender"
+        },
+        {
+          "no": "45",
+          "name": "Veluyeke Zulu",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "L Motaung",
+          "pos": "Defender"
+        },
+        {
+          "no": "36",
+          "name": "C Mdevulana",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "13",
+          "name": "S Xulu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "6",
+          "name": "N Nkosi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "S Mahlambi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "2",
+          "name": "Mpho Mvelase",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "Victor Letsoalo",
+          "pos": "Striker"
+        },
+        {
+          "no": "19",
+          "name": "Sedwyn George",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "11",
+          "name": "A Williams",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "S Tati",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "S Maseti",
+          "pos": "Substitute"
+        },
+        {
+          "no": "28",
+          "name": "E Khumalo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "25",
+          "name": "K Mhlongo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "Sifiso Ngobeni",
+          "pos": "Substitute"
+        },
+        {
+          "no": "39",
+          "name": "N Ngwenya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "Mlungisi Mbunjana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "24",
+          "name": "L Mathebula",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

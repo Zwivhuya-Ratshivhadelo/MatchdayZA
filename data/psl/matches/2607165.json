@@ -1,0 +1,428 @@
+{
+  "match_id": "2607165",
+  "comp": "carling-knockout",
+  "home": "Golden Arrows",
+  "away": "TS Galaxy",
+  "updated": "2026-10-11T07:08:59+02:00",
+  "home_score": 2,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "105'",
+      "type": "extra_time"
+    },
+    {
+      "minute": "105'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Mory Keita",
+      "player_out": "Patrick Fisher"
+    },
+    {
+      "minute": "105'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Kganyane Letsoenyo",
+      "player_out": "Qobolwakhe Sibande"
+    },
+    {
+      "minute": "99'",
+      "type": "goal",
+      "player": "Ayabulela Maxwele",
+      "team": "Golden Arrows",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "97'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Mehdi Ouamri",
+      "player_out": "Mpho Mvelase"
+    },
+    {
+      "minute": "97'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Themba Mantshiyane",
+      "player_out": "Oumar Comara"
+    },
+    {
+      "minute": "97'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Jeffrey Dlamini",
+      "player_out": "Mlungisi Mbunjana"
+    },
+    {
+      "minute": "90'",
+      "type": "extra_time"
+    },
+    {
+      "minute": "90'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Shadrack Kobedi",
+      "player_out": "Nduduzo Sibiya"
+    },
+    {
+      "minute": "90'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Angelo Van Rooi",
+      "player_out": "Siyanda Mthanti"
+    },
+    {
+      "minute": "90+3'",
+      "type": "full_time"
+    },
+    {
+      "minute": "82'",
+      "type": "yellow",
+      "player": "Patrick Fisher",
+      "team": "TS Galaxy"
+    },
+    {
+      "minute": "74'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Nduduzo Sibiya",
+      "player_out": "Isaac Cissé"
+    },
+    {
+      "minute": "70'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Nhlanhla Mgaga",
+      "player_out": "Junior Zindoga"
+    },
+    {
+      "minute": "70'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Veluyeke Zulu",
+      "player_out": "MacBeth Mahlangu"
+    },
+    {
+      "minute": "54'",
+      "type": "yellow",
+      "player": "Siyanda Mthanti",
+      "team": "Golden Arrows"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Jerome Karlese",
+      "player_out": "Philani Kumalo"
+    },
+    {
+      "minute": "45+3'",
+      "type": "half_time"
+    },
+    {
+      "minute": "45+3'",
+      "type": "yellow",
+      "player": "Sphesihle Maduna",
+      "team": "TS Galaxy"
+    },
+    {
+      "minute": "44'",
+      "type": "own_goal",
+      "player": "MacBeth Mahlangu",
+      "team": "TS Galaxy",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "41'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Keenan Phillips",
+      "player_out": "Thokozani Lukhele"
+    },
+    {
+      "minute": "33'",
+      "type": "yellow",
+      "player": "MacBeth Mahlangu",
+      "team": "TS Galaxy"
+    },
+    {
+      "minute": "21'",
+      "type": "own_goal",
+      "player": "Sbonelo Cele",
+      "team": "Golden Arrows",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "7",
+      "away": "13"
+    },
+    {
+      "label": "Shots on target",
+      "home": "2",
+      "away": "3"
+    },
+    {
+      "label": "Corners",
+      "home": "7",
+      "away": "4"
+    },
+    {
+      "label": "Offsides",
+      "home": "5",
+      "away": "3"
+    },
+    {
+      "label": "Fouls",
+      "home": "10",
+      "away": "20"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Golden Arrows",
+      "starting": [
+        {
+          "no": "27",
+          "name": "Thakasani Mbanjwa",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "4",
+          "name": "A Jiyane",
+          "pos": "Defender"
+        },
+        {
+          "no": "16",
+          "name": "D Lukhele",
+          "pos": "Defender"
+        },
+        {
+          "no": "15",
+          "name": "O Comara",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "S Cele",
+          "pos": "Defender"
+        },
+        {
+          "no": "25",
+          "name": "A Maxwele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "24",
+          "name": "N Dlamini",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "19",
+          "name": "I Cissé",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "S Dion",
+          "pos": "Striker"
+        },
+        {
+          "no": "36",
+          "name": "P Kumalo",
+          "pos": "Striker"
+        },
+        {
+          "no": "8",
+          "name": "S Mthanti",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "29",
+          "name": "S Sithole",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "Themba Mantshiyane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "O Maluleke",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "Nduduzo Sibiya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "31",
+          "name": "Zakahle Ngcobo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "Shadrack Kobedi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "J Karlese",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "A Van Rooi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "Keenan Phillips",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "TS Galaxy",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Ira Tapé",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "7",
+          "name": "Q Sibande",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "MacBeth Mahlangu",
+          "pos": "Defender"
+        },
+        {
+          "no": "25",
+          "name": "K Ndamane",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "P Fisher",
+          "pos": "Defender"
+        },
+        {
+          "no": "10",
+          "name": "Sphesihle Maduna",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "2",
+          "name": "Mpho Mvelase",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "P Dithejane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "27",
+          "name": "S Mahlambi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "Mlungisi Mbunjana",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "9",
+          "name": "Junior Zindoga",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "1",
+          "name": "S Maseti",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "Kganyane Letsoenyo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "M Keita",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "L Motaung",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "Jeffrey Dlamini",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Nhlanhla Mgaga",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "Mehdi Ouamri",
+          "pos": "Substitute"
+        },
+        {
+          "no": "45",
+          "name": "Veluyeke Zulu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "Onke Moletshe",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

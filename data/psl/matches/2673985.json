@@ -1,0 +1,360 @@
+{
+  "match_id": "2673985",
+  "comp": "betway-premiership",
+  "home": "Siwelele",
+  "away": "TS Galaxy",
+  "updated": "2026-10-11T07:08:15+02:00",
+  "home_score": 2,
+  "away_score": 2,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+7'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+5'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Ira Tapé",
+      "player_out": "Sedwyn George"
+    },
+    {
+      "minute": "90+3'",
+      "type": "red",
+      "player": "Sipho Maseti",
+      "team": "TS Galaxy"
+    },
+    {
+      "minute": "89'",
+      "type": "yellow",
+      "player": "Thato Letshedi",
+      "team": "Siwelele"
+    },
+    {
+      "minute": "86'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Thato Letshedi",
+      "player_out": "Grant Margeman"
+    },
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Jordan Marks",
+      "player_out": "Neo Mokhachane"
+    },
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Manelis Mazibuko",
+      "player_out": "Maliele Pule"
+    },
+    {
+      "minute": "71'",
+      "type": "goal",
+      "player": "Veluyeke Zulu",
+      "team": "TS Galaxy",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "minute": "69'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Mlungisi Mbunjana",
+      "player_out": "Ntandoyenkosi Nkosi"
+    },
+    {
+      "minute": "64'",
+      "type": "yellow",
+      "player": "Mlondi Mncwango",
+      "team": "TS Galaxy"
+    },
+    {
+      "minute": "55'",
+      "type": "goal",
+      "player": "Maliele Pule",
+      "team": "Siwelele",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "51'",
+      "type": "penalty_goal",
+      "player": "Victor Letsoalo",
+      "team": "TS Galaxy",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Christian Saile",
+      "player_out": "Blessing Thulo"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Junior Zindoga",
+      "player_out": "Siyanda Xulu"
+    },
+    {
+      "minute": "45+5'",
+      "type": "half_time"
+    },
+    {
+      "minute": "29'",
+      "type": "goal",
+      "player": "Sphesihle Jeza",
+      "team": "Siwelele",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "23'",
+      "type": "yellow",
+      "player": "Grant Margeman",
+      "team": "Siwelele"
+    },
+    {
+      "minute": "12'",
+      "type": "yellow",
+      "player": "Maliele Pule",
+      "team": "Siwelele"
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Siwelele",
+      "starting": [
+        {
+          "no": "31",
+          "name": "G Phoko",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "4",
+          "name": "T Sesane",
+          "pos": "Defender"
+        },
+        {
+          "no": "33",
+          "name": "S Ndebele",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "Y Mfolozi",
+          "pos": "Defender"
+        },
+        {
+          "no": "29",
+          "name": "A Baliti",
+          "pos": "Defender"
+        },
+        {
+          "no": "20",
+          "name": "B Thulo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "23",
+          "name": "G Margeman",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "N Mokhachane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "Vincent Pule",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "26",
+          "name": "Shadrack Kobedi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "S Jeza",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "36",
+          "name": "T Letshedi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "C Basomboli",
+          "pos": "Substitute"
+        },
+        {
+          "no": "80",
+          "name": "Njabulo Ngcobo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "70",
+          "name": "J Clifford",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "K Lupalulele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "M Mazibuko",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "R Selaelo Rasebotja",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "T Mthombeni",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "J Marks",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "TS Galaxy",
+      "starting": [
+        {
+          "no": "1",
+          "name": "S Maseti",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "22",
+          "name": "L Motaung",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "M Mncwango",
+          "pos": "Defender"
+        },
+        {
+          "no": "45",
+          "name": "Veluyeke Zulu",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "N Nkosi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "14",
+          "name": "T Kakora",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "S Mahlambi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "13",
+          "name": "S Xulu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "2",
+          "name": "Mpho Mvelase",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "Victor Letsoalo",
+          "pos": "Striker"
+        },
+        {
+          "no": "19",
+          "name": "Sedwyn George",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "15",
+          "name": "M Rantoa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "Mlungisi Mbunjana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "MacBeth Mahlangu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "P Fisher",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "Ira Tapé",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "K Maake",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "Junior Zindoga",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "I Salatiel Silva",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

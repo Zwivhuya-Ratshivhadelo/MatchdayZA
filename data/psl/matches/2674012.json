@@ -1,0 +1,229 @@
+{
+  "match_id": "2674012",
+  "comp": "betway-premiership",
+  "home": "Chippa United",
+  "away": "Milford FC",
+  "updated": "2026-10-11T07:07:27+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Chippa United",
+      "starting": [
+        {
+          "no": "23",
+          "name": "Stanley Nwabali",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "35",
+          "name": "K Majadibodu",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "Abbubaker Mobara",
+          "pos": "Defender"
+        },
+        {
+          "no": "31",
+          "name": "I Jones",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "B Madingwane",
+          "pos": "Defender"
+        },
+        {
+          "no": "21",
+          "name": "Sammy Seabi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "Goodman Mosele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "A Tshobeni",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "Justice Figuareido",
+          "pos": "Striker"
+        },
+        {
+          "no": "40",
+          "name": "Muzomuhle Khanyi",
+          "pos": "Striker"
+        },
+        {
+          "no": "10",
+          "name": "A Matrose",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "29",
+          "name": "N Mlotshwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "S Mbhele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "E Sithole",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "M Carrim",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "O Tshaya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "K Mfecane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "I Bancé",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Seun Ndlovu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "Bongani Sam",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Milford FC",
+      "starting": [
+        {
+          "no": "16",
+          "name": "L Nkosi",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "14",
+          "name": "S Mdluli",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "Vusumuzi Mthabela",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "O Cele",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "T Bhengu",
+          "pos": "Defender"
+        },
+        {
+          "no": "35",
+          "name": "T Mabena",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "2",
+          "name": "B Sigomoshe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "55",
+          "name": "C Mthethwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "M Chili",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "M Zikakayo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "90",
+          "name": "S Masilela",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "75",
+          "name": "T Mbunga",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "S Joyi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "K Radebe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "K Khwanya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "Y Nomandela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "S Siyaya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "S Ndlabi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "30",
+          "name": "M Madondo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "J Gxakoshe",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

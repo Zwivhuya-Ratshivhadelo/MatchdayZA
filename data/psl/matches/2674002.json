@@ -1,0 +1,234 @@
+{
+  "match_id": "2674002",
+  "comp": "betway-premiership",
+  "home": "Kruger United",
+  "away": "Durban City",
+  "updated": "2026-10-11T07:07:37+02:00",
+  "home_score": 0,
+  "away_score": 2,
+  "status": "FT",
+  "minute": null,
+  "events": [],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Kruger United",
+      "starting": [
+        {
+          "no": "1",
+          "name": "F Ntwari",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "26",
+          "name": "Katlego Mohamme",
+          "pos": "Defender"
+        },
+        {
+          "no": "29",
+          "name": "S Fakude",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "S Sibiya",
+          "pos": "Defender"
+        },
+        {
+          "no": "13",
+          "name": "Ebrahim Seedat",
+          "pos": "Defender"
+        },
+        {
+          "no": "10",
+          "name": "Ntsako Makhubela",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "Morne Nel",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "B Malatjie",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "45",
+          "name": "Kwandakwensizwa Mngonyama",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "50",
+          "name": "A Mpothwe",
+          "pos": "Striker"
+        },
+        {
+          "no": "22",
+          "name": "K Ndlovu",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "44",
+          "name": "T Tavengwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "28",
+          "name": "N Thwala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "25",
+          "name": "T Sibanyoni",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "M Zwane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "47",
+          "name": "H Sereets",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "Marcel Dandjinou",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Wonderboy Makhubu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "Sphiwe Mahlangu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Thulane Matthews Ndlela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "Motsie Mervyn Matima",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Durban City",
+      "starting": [
+        {
+          "no": "33",
+          "name": "F Asare",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "22",
+          "name": "L De Kock",
+          "pos": "Defender"
+        },
+        {
+          "no": "27",
+          "name": "S Msomi",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "J Mokone",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "Bandile Shandu",
+          "pos": "Defender"
+        },
+        {
+          "no": "18",
+          "name": "Brooklyn Poggenpoel",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "Gastón Sirino",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "K Jurgens",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "23",
+          "name": "T Sanger",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "S Maseko",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "J Lwamba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "28",
+          "name": "E Brooks",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "S Ncanana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "34",
+          "name": "A Dreyer",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "L Sifumba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "Haashim Domingo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "A Doumbia",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "K Mofokeng",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "J Papier",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Tashreeq Morris",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

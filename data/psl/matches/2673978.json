@@ -1,0 +1,348 @@
+{
+  "match_id": "2673978",
+  "comp": "betway-premiership",
+  "home": "Orlando Pirates",
+  "away": "Milford FC",
+  "updated": "2026-10-11T07:08:19+02:00",
+  "home_score": 2,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+4'",
+      "type": "full_time"
+    },
+    {
+      "minute": "87'",
+      "type": "sub",
+      "team": "Milford",
+      "player_in": "Phakamani Ngxongo",
+      "player_out": "Mvelo Zikakayo"
+    },
+    {
+      "minute": "85'",
+      "type": "goal",
+      "player": "Tshepang Moremi",
+      "team": "Orlando Pirates",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Neo Rapoo",
+      "player_out": "Deon Hotto"
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Gamphani Lungu",
+      "player_out": "Kamogelo Sebelebele"
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Simphiwe Masilela",
+      "player_out": "Patrick Maswanganyi"
+    },
+    {
+      "minute": "67'",
+      "type": "yellow",
+      "player": "Mjabulise Mkhize",
+      "team": "Milford"
+    },
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Kabelo Kgositsile",
+      "player_out": "Yamela Mbuthuma"
+    },
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Boitumelo Radiopane",
+      "player_out": "Oswin Appollis"
+    },
+    {
+      "minute": "63'",
+      "type": "sub",
+      "team": "Milford",
+      "player_in": "Tonny Mbunga",
+      "player_out": "Khanyisani Radebe"
+    },
+    {
+      "minute": "63'",
+      "type": "sub",
+      "team": "Milford",
+      "player_in": "Mjabulise Mkhize",
+      "player_out": "Thabana Mabena"
+    },
+    {
+      "minute": "63'",
+      "type": "sub",
+      "team": "Milford",
+      "player_in": "Yanelisa Nomandela",
+      "player_out": "Menzi Chili"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Milford",
+      "player_in": "Sicelo Masilela",
+      "player_out": "Cebolenkosi Mthethwa"
+    },
+    {
+      "minute": "45+2'",
+      "type": "half_time"
+    },
+    {
+      "minute": "28'",
+      "type": "yellow",
+      "player": "Patrick Maswanganyi",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "24'",
+      "type": "goal",
+      "player": "Oswin Appollis",
+      "team": "Orlando Pirates",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Orlando Pirates",
+      "starting": [
+        {
+          "no": "24",
+          "name": "Sipho Chaine",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "6",
+          "name": "L Seema",
+          "pos": "Defender"
+        },
+        {
+          "no": "7",
+          "name": "Deon Hotto",
+          "pos": "Defender"
+        },
+        {
+          "no": "36",
+          "name": "K Sebelebele",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "Nkosinathi Sibisi",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "P Maswanganyi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "Oswin Appollis",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "16",
+          "name": "Thalente Mbatha",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "46",
+          "name": "C Dansin",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "T Moremi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "9",
+          "name": "Y Mbuthuma",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "37",
+          "name": "S Zulu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "M Mthiyane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "Gamphani Lungu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "N Rapoo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "25",
+          "name": "B Radiopane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "48",
+          "name": "S Masilela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "AF Mariko",
+          "pos": "Substitute"
+        },
+        {
+          "no": "49",
+          "name": "K Kgositlile Kgosietsile",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "S Dladla",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Milford FC",
+      "starting": [
+        {
+          "no": "32",
+          "name": "Siphamandla Hleza",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "14",
+          "name": "S Mdluli",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "T Bhengu",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "Vusumuzi Mthabela",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "O Cele",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "B Mthiyane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "M Chili",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "55",
+          "name": "C Mthethwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "M Zikakayo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "T Mabena",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "50",
+          "name": "K Radebe",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "16",
+          "name": "L Nkosi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "P Ngxongo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "Y Nomandela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "C Mbhele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "M Mkhize",
+          "pos": "Substitute"
+        },
+        {
+          "no": "90",
+          "name": "S Masilela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "75",
+          "name": "T Mbunga",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "S Siyaya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "P Jwara",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

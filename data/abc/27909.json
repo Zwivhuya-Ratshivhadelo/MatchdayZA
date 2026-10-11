@@ -5,7 +5,7 @@
   "name": "MP Stream B",
   "slug": "mp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27909",
-  "updated": "2026-10-11T06:51:59+02:00",
+  "updated": "2026-10-11T07:10:07+02:00",
   "log": [
     {
       "pos": 1,
@@ -140,7 +140,188 @@
       "pts": 0
     }
   ],
-  "results": [],
+  "results": [
+    {
+      "home": "KaMhlushwa Real Madrid",
+      "away": "Matsulu Chelsea FC",
+      "match_no": 4,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=4&s=l",
+      "date": "2026-09-12",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Junior Callies FC",
+      "away": "Oriental Spurs FC",
+      "match_no": 3,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=3&s=l",
+      "date": "2026-09-12",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Fernie Battalion FC",
+      "away": "Sibange Young Bucks FC",
+      "match_no": 2,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=2&s=l",
+      "date": "2026-09-12",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Dankie Son FC",
+      "away": "Zebras FC",
+      "match_no": 1,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=1&s=l",
+      "date": "2026-09-12",
+      "home_score": 2,
+      "away_score": 5,
+      "status": "FT"
+    },
+    {
+      "home": "Liver Brothers FC",
+      "away": "KaMhlushwa Real Madrid",
+      "match_no": 10,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=10&s=l",
+      "date": "2026-09-19",
+      "home_score": 3,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Luthuli Brigades FC",
+      "away": "Junior Callies FC",
+      "match_no": 9,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=9&s=l",
+      "date": "2026-09-19",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Oriental Spurs FC",
+      "away": "Dankie Son FC",
+      "match_no": 7,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=7&s=l",
+      "date": "2026-09-19",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Zebras FC",
+      "away": "Acornhoek United FC",
+      "match_no": 6,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=6&s=l",
+      "date": "2026-09-19",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Matsulu Chelsea FC",
+      "away": "Fernie Battalion FC",
+      "match_no": 8,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=8&s=l",
+      "date": "2026-09-20",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Fernie Battalion FC",
+      "away": "Liver Brothers FC",
+      "match_no": 14,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=14&s=l",
+      "date": "2026-09-26",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Dankie Son FC",
+      "away": "Luthuli Brigades FC",
+      "match_no": 13,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=13&s=l",
+      "date": "2026-09-26",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Zebras FC",
+      "away": "Oriental Spurs FC",
+      "match_no": 12,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=12&s=l",
+      "date": "2026-09-26",
+      "home_score": 0,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Acornhoek United FC",
+      "away": "Sibange Young Bucks FC",
+      "match_no": 11,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=11&s=l",
+      "date": "2026-09-26",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Junior Callies FC",
+      "away": "KaMhlushwa Real Madrid",
+      "match_no": 15,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=15&s=l",
+      "date": "2026-09-26",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Junior Callies FC",
+      "away": "Fernie Battalion FC",
+      "match_no": 20,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=20&s=l",
+      "date": "2026-10-03",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Luthuli Brigades FC",
+      "away": "Zebras FC",
+      "match_no": 18,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=18&s=l",
+      "date": "2026-10-03",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Matsulu Chelsea FC",
+      "away": "Sibange Young Bucks FC",
+      "match_no": 17,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=17&s=l",
+      "date": "2026-10-03",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Oriental Spurs FC",
+      "away": "Acornhoek United FC",
+      "match_no": 16,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=16&s=l",
+      "date": "2026-10-03",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
   "fixtures": [
     {
       "home": "Luthuli Brigades FC",

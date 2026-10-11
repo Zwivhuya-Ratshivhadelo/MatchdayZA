@@ -1,0 +1,372 @@
+{
+  "match_id": "2608237",
+  "comp": "carling-knockout",
+  "home": "Richards Bay",
+  "away": "Orlando Pirates",
+  "updated": "2026-10-11T07:08:54+02:00",
+  "home_score": 0,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+5'",
+      "type": "full_time"
+    },
+    {
+      "minute": "83'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Wandile Ngema",
+      "player_out": "Moses Mthembu"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "player": "Lindokuhle Zikhali",
+      "team": "Richards Bay"
+    },
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Cemran Dansin",
+      "player_out": "Masindi Nemtajela"
+    },
+    {
+      "minute": "71'",
+      "type": "yellow",
+      "player": "Sipho Chaine",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Deon Hotto",
+      "player_out": "Nkosikhona Ndaba"
+    },
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Sinoxolo Kwayiba",
+      "player_out": "Yamela Mbuthuma"
+    },
+    {
+      "minute": "58'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Thabiso Lebitso",
+      "player_out": "Deano van Rooyen"
+    },
+    {
+      "minute": "58'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Relebohile Mofokeng",
+      "player_out": "Sipho Mbule"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Lundi Mahala",
+      "player_out": "Gaba Mhango"
+    },
+    {
+      "minute": "45+2'",
+      "type": "half_time"
+    },
+    {
+      "minute": "42'",
+      "type": "goal",
+      "player": "Tshepang Moremi",
+      "team": "Orlando Pirates",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "34'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Mbulelo Nombengula",
+      "player_out": "Mfundo Thikazi"
+    },
+    {
+      "minute": "30'",
+      "type": "yellow",
+      "player": "Gaba Mhango",
+      "team": "Richards Bay"
+    },
+    {
+      "minute": "24'",
+      "type": "yellow",
+      "player": "Knox Mutizwa",
+      "team": "Richards Bay"
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "4",
+      "away": "16"
+    },
+    {
+      "label": "Shots on target",
+      "home": "1",
+      "away": "8"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "5"
+    },
+    {
+      "label": "Offsides",
+      "home": "6",
+      "away": "1"
+    },
+    {
+      "label": "Fouls",
+      "home": "12",
+      "away": "14"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Richards Bay",
+      "starting": [
+        {
+          "no": "1",
+          "name": "I Otieno",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "47",
+          "name": "S Khumalo",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "L Mabuya",
+          "pos": "Defender"
+        },
+        {
+          "no": "72",
+          "name": "Tshepo Mabua",
+          "pos": "Defender"
+        },
+        {
+          "no": "25",
+          "name": "Simphiwe Mcineka",
+          "pos": "Defender"
+        },
+        {
+          "no": "37",
+          "name": "S Zulu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "36",
+          "name": "L Zikhali",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "34",
+          "name": "Mfundo Thikazi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "M Mthembu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "G. Mhango",
+          "pos": "Striker"
+        },
+        {
+          "no": "18",
+          "name": "Knox Mutizwa",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "14",
+          "name": "L Mahala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "S Mtshali",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "K Mangolo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "46",
+          "name": "O Nzimande",
+          "pos": "Substitute"
+        },
+        {
+          "no": "75",
+          "name": "M Nombengula",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "T Ndelu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "H Vilakazi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "Thabani Zuke",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "W Ngema",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Orlando Pirates",
+      "starting": [
+        {
+          "no": "24",
+          "name": "Sipho Chaine",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "21",
+          "name": "Deano Van Rooyen",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "Nkosinathi Sibisi",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "N Ndaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "44",
+          "name": "M Mbokazi",
+          "pos": "Defender"
+        },
+        {
+          "no": "16",
+          "name": "Thalente Mbatha",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "M Nemtajela",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "23",
+          "name": "Sipho Mbule",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "9",
+          "name": "Y Mbuthuma",
+          "pos": "Striker"
+        },
+        {
+          "no": "12",
+          "name": "Oswin Appollis",
+          "pos": "Striker"
+        },
+        {
+          "no": "11",
+          "name": "T Moremi",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "38",
+          "name": "R Mofokeng",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "S Kwayiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "Melusi Buthelezi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "37",
+          "name": "Thabiso Lebitso",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "Deon Hotto",
+          "pos": "Substitute"
+        },
+        {
+          "no": "28",
+          "name": "P Maswanganyi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "Evidence Makgopa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "L Seema",
+          "pos": "Substitute"
+        },
+        {
+          "no": "46",
+          "name": "C Dansin",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

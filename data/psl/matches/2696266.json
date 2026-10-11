@@ -1,0 +1,431 @@
+{
+  "match_id": "2696266",
+  "comp": "mtn8",
+  "home": "Orlando Pirates",
+  "away": "Mamelodi Sundowns",
+  "updated": "2026-10-11T07:08:39+02:00",
+  "home_score": 0,
+  "away_score": 2,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+8'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+5'",
+      "type": "penalty_goal",
+      "player": "Iqraam Rayners",
+      "team": "Mamelodi Sundowns",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "90+3'",
+      "type": "penalty_won",
+      "team": "Mamelodi Sundowns",
+      "player": "Siyanda Ndlovu"
+    },
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "player": "Thabo Cele",
+      "team": "Mamelodi Sundowns"
+    },
+    {
+      "minute": "84'",
+      "type": "yellow",
+      "player": "Nkosinathi Sibisi",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "82'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Mohau Nkota",
+      "player_out": "Thalente Mbatha"
+    },
+    {
+      "minute": "82'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Siyanda Ndlovu",
+      "player_out": "Tashreeq Matthews"
+    },
+    {
+      "minute": "82'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Iqraam Rayners",
+      "player_out": "Brayan Léon"
+    },
+    {
+      "minute": "74'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Simphiwe Masilela",
+      "player_out": "Simphiwe Selepe"
+    },
+    {
+      "minute": "74'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Evidence Makgopa",
+      "player_out": "Yamela Mbuthuma"
+    },
+    {
+      "minute": "74'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Kabelo Kgositsile",
+      "player_out": "Tshepang Moremi"
+    },
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Thabo Cele",
+      "player_out": "Nuno Santos"
+    },
+    {
+      "minute": "62'",
+      "type": "penalty_saved",
+      "player": "Gamphani Lungu",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "59'",
+      "type": "penalty_won",
+      "team": "Orlando Pirates",
+      "player": "Yamela Mbuthuma"
+    },
+    {
+      "minute": "49'",
+      "type": "yellow",
+      "player": "Tshepang Moremi",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Oswin Appollis",
+      "player_out": "Kamogelo Sebelebele"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Divine Lunga",
+      "player_out": "Aubrey Modiba"
+    },
+    {
+      "minute": "45+8'",
+      "type": "half_time"
+    },
+    {
+      "minute": "45+3'",
+      "type": "yellow",
+      "player": "Khulumani Ndamane",
+      "team": "Mamelodi Sundowns"
+    },
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "player": "Kamogelo Sebelebele",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "41'",
+      "type": "yellow",
+      "player": "Aubrey Modiba",
+      "team": "Mamelodi Sundowns"
+    },
+    {
+      "minute": "38'",
+      "type": "yellow",
+      "player": "Tashreeq Matthews",
+      "team": "Mamelodi Sundowns"
+    },
+    {
+      "minute": "27'",
+      "type": "yellow",
+      "player": "Simphiwe Selepe",
+      "team": "Orlando Pirates"
+    },
+    {
+      "minute": "11'",
+      "type": "goal",
+      "player": "Teboho Mokoena",
+      "team": "Mamelodi Sundowns",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "16",
+      "away": "15"
+    },
+    {
+      "label": "Shots on target",
+      "home": "3",
+      "away": "5"
+    },
+    {
+      "label": "Corners",
+      "home": "8",
+      "away": "7"
+    },
+    {
+      "label": "Offsides",
+      "home": "3",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "11",
+      "away": "19"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "4",
+      "away": "4"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Orlando Pirates",
+      "starting": [
+        {
+          "no": "24",
+          "name": "Sipho Chaine",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "7",
+          "name": "Deon Hotto",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "L Seema",
+          "pos": "Defender"
+        },
+        {
+          "no": "36",
+          "name": "K Sebelebele",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "Nkosinathi Sibisi",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "Gamphani Lungu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "S Selepe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "16",
+          "name": "Thalente Mbatha",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "T Mokobodi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "T Moremi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "9",
+          "name": "Y Mbuthuma",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "49",
+          "name": "K Kgositlile Kgosietsile",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "N Ndaba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "M Nkota",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "M Mthiyane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "S Dladla",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "Evidence Makgopa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "37",
+          "name": "S Zulu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Oswin Appollis",
+          "pos": "Substitute"
+        },
+        {
+          "no": "48",
+          "name": "S Masilela",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Mamelodi Sundowns",
+      "starting": [
+        {
+          "no": "30",
+          "name": "Ronwen Williams",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "42",
+          "name": "M Khoza",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "K Ndamane",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "Aubrey Modiba",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "T Matuludi",
+          "pos": "Defender"
+        },
+        {
+          "no": "10",
+          "name": "Nuno Santos Valente Santos",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "M Allende",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "27",
+          "name": "Thapelo Morena",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "4",
+          "name": "Teboho Mokoena",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "T Matthews",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "B Léon",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "31",
+          "name": "Ricardo Goss",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "S Mthanti",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "C Mailula",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "A Van Wyk",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Divine Lunga",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "Iqraam Rayners",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "T Cele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "Mothobi Mvala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Themba Zwane",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}
