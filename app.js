@@ -343,13 +343,13 @@ function detailPanel(m, detail) {
         <div class="stat-bar"><i class="h" style="width:${(h / tot) * 100}%"></i><i class="a" style="width:${(a / tot) * 100}%"></i></div></div>`;
     }).join("")}</section>`);
   }
-  if (isPlayed(m) || events.length) {
-    const body = events.length ? `<ol class="timeline">${events.map((e) => {
+  if (events.length) {
+    const body = `<ol class="timeline">${events.map((e) => {
       if (PERIOD_TEXT[e.type]) return `<li class="ev-period"><span>${PERIOD_TEXT[e.type]}</span></li>`;
       const text = (EVENT_TEXT[e.type] || (() => ""))(e);
       const score = e.score ? `<b class="ev-score">${e.score[0]} - ${e.score[1]}</b>` : "";
       return `<li class="ev ev-${e.type}"><span class="ev-min">${esc(e.minute)}</span>${ICON[e.type] || ""}<span class="ev-text">${esc(text)}</span>${score}</li>`;
-    }).join("")}</ol>` : `<p class="empty">${m.status === "LIVE" ? "Key moments appear as the match goes on." : "No key moments were published for this match."}</p>`;
+    }).join("")}</ol>`;
     parts.push(`<section class="panel"><div class="panel-head"><h2>Key moments</h2></div>${body}</section>`);
   }
   if (lineups.length) {
@@ -359,8 +359,6 @@ function detailPanel(m, detail) {
       <h4>Starting XI</h4><ol class="lu-list">${list(t.starting)}</ol>
       ${t.subs.length ? `<h4>Substitutes</h4><ol class="lu-list">${list(t.subs)}</ol>` : ""}
     </div>`).join("")}</div></section>`);
-  } else if (!isPlayed(m)) {
-    parts.push(`<p class="empty panel-note">Line-ups appear here as soon as they are announced, usually about an hour before kick-off.</p>`);
   }
   return parts.join("");
 }
