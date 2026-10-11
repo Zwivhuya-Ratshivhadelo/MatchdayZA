@@ -17,6 +17,7 @@ from bs4 import BeautifulSoup
 
 import build
 import psl
+import scores365
 from common import DATA, fetch, load_json, match_key, now_sast, save_json, score_line
 
 WINDOWS = {"a": (0, 15 * 60 + 30), "b": (15 * 60 + 30, 17 * 60 + 30),
@@ -121,6 +122,7 @@ def run(window):
                 print(f"  tournament page failed: {e}")
         report = {"time": now.isoformat(timespec="seconds"), "links_found": len(links), "games": []}
         budget = [120]   # match pages we may look up by number in this poll
+        feed = None      # 365scores, fetched once per poll when a game has no PSL live coverage
         for g in games:
             key = match_key(g)
             entry = {"game": f"{g['home']} v {g['away']}", "kickoff": g["date"]}
@@ -137,6 +139,15 @@ def run(window):
                 print(f"  match page failed {link['url']}: {e}")
                 continue
             entry["page"] = (f"{d['status']} {d['home_score']}-{d['away_score']}, line-ups {len(d['lineups'])}" if d else "nothing yet")
+            # no live coverage on the PSL page after kick-off: take the score from 365scores
+            if (not d or d["status"] == "NS") and now >= g["kickoff"] - timedelta(minutes=5):
+                if feed is None:
+                    feed = scores365.games()
+                x = scores365.find(feed, g)
+                entry["365scores"] = f"{x['status']} {x['home_score']}-{x['away_score']} {x['minute'] or ''}" if x else "not found"
+                if x and x["status"] in ("LIVE", "FT"):
+                    d = {"home_score": x["home_score"], "away_score": x["away_score"], "status": x["status"],
+                         "minute": x["minute"], "events": [], "stats": [], "lineups": (d or {}).get("lineups", [])}
             if not d:
                 continue
             if d["status"] == "NS" or (now < g["kickoff"] and not d["events"]):

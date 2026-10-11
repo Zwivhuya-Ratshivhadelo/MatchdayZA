@@ -399,6 +399,30 @@ def drop_live(slug, match):
         save_json(path, comp)
 
 
+def fill_from_365():
+    """Final scores from 365scores for games the PSL hasn't posted a result for yet."""
+    import scores365
+    feed = [g for g in scores365.games() if g["status"] == "FT"]
+    for slug in scores365.COMPETITIONS:
+        comp = load_json(DATA / "psl" / f"{slug}.json", {})
+        done = {match_key(r) for r in comp.get("results", []) if r.get("status") == "FT"}
+        today = now_sast().date().isoformat()
+        waiting = [m for m in comp.get("fixtures", []) + comp.get("results", [])
+                   if match_key(m) not in done and (m.get("date") or "")[:10] <= today]
+        found = []
+        for m in waiting:
+            x = scores365.find(feed, m)
+            if x:
+                found.append({**{k: v for k, v in m.items() if k not in ("status", "minute", "latest", "home_score", "away_score")},
+                              "home_score": x["home_score"], "away_score": x["away_score"], "status": "FT"})
+        if found:
+            # take back any live copy, then store the results
+            comp["results"] = [r for r in comp.get("results", []) if match_key(r) not in {match_key(f) for f in found}]
+            save_json(DATA / "psl" / f"{slug}.json", comp)
+            store(slug, found, [])
+            print(f"365scores: {len(found)} final scores for {COMPETITIONS[slug]['name']}")
+
+
 def store(slug, results, fixtures, log=None):
     path = DATA / "psl" / f"{slug}.json"
     old = load_json(path, {})
@@ -450,6 +474,12 @@ def run():
         print(f"Match Centre: +{len(results)} results, +{len(fixtures)} fixtures -> {r}/{f}")
     except Exception as e:
         print(f"Match Centre skipped: {e}")
+
+    # Final scores the PSL hasn't posted yet (Championship)
+    try:
+        fill_from_365()
+    except Exception as e:
+        print(f"365scores skipped: {e}")
 
     # Fill gaps in the season by match number (for goal difference)
     fill_by_match_id()
