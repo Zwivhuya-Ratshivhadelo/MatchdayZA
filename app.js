@@ -452,6 +452,13 @@ document.addEventListener("click", (e) => {
   b.previousElementSibling?.classList.add("show-all");
   b.remove();
 });
+/* Back on a match page: return to the page the visitor came from on this site, else the competition */
+$all('[data-md="back"]').forEach((a) => a.addEventListener("click", (e) => {
+  if (document.referrer && new URL(document.referrer).origin === location.origin && history.length > 1) {
+    e.preventDefault();
+    history.back();
+  }
+}));
 /* Contact: the address is put together only when the button is tapped */
 $all('[data-md="email"]').forEach((b) => b.addEventListener("click", () => {
   location.href = `mailto:${b.dataset.u}@${b.dataset.d}`;

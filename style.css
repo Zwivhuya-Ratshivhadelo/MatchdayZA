@@ -427,4 +427,5 @@ a.mcard:hover { border-color: var(--green); }
 .standings tr.me td { background: var(--gold-soft); }
 .club-head { display: flex; align-items: center; gap: 12px; margin: 0 0 14px; }
 .club-head .crest { --size: 44px; }
-.game-top { padding-top: 18px; }
+.game-top { padding-top: 2px; }
+.game-top .back-link { margin: 14px 0 14px; }
