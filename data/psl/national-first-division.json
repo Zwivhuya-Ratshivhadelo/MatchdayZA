@@ -4,11 +4,12 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-11T07:07:08+02:00",
+  "updated": "2026-10-11T10:34:01+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Magesi FC",
+      "club": "Magesi_FC",
       "p": 5,
       "w": 4,
       "d": 1,
@@ -18,6 +19,7 @@
     {
       "pos": 2,
       "team": "Real Native FC",
+      "club": "Real_Native_FC",
       "p": 5,
       "w": 4,
       "d": 0,
@@ -27,6 +29,7 @@
     {
       "pos": 3,
       "team": "Leicesterford City FC",
+      "club": "Leicesterford_City_FC",
       "p": 5,
       "w": 3,
       "d": 1,
@@ -36,6 +39,7 @@
     {
       "pos": 4,
       "team": "Highbury",
+      "club": "Highbury",
       "p": 5,
       "w": 3,
       "d": 1,
@@ -45,6 +49,7 @@
     {
       "pos": 5,
       "team": "Hope",
+      "club": "Hope",
       "p": 5,
       "w": 3,
       "d": 0,
@@ -54,6 +59,7 @@
     {
       "pos": 6,
       "team": "Cape Town City FC",
+      "club": "Cape_Town_City_FC",
       "p": 5,
       "w": 2,
       "d": 2,
@@ -63,6 +69,7 @@
     {
       "pos": 7,
       "team": "Upington City",
+      "club": "Upington_City",
       "p": 5,
       "w": 2,
       "d": 2,
@@ -72,6 +79,7 @@
     {
       "pos": 8,
       "team": "Gomora United",
+      "club": "Gomora_United",
       "p": 5,
       "w": 2,
       "d": 2,
@@ -81,6 +89,7 @@
     {
       "pos": 9,
       "team": "Lerumo Lions",
+      "club": "Lerumo_Lions",
       "p": 5,
       "w": 2,
       "d": 1,
@@ -90,6 +99,7 @@
     {
       "pos": 10,
       "team": "Hungry Lions FC",
+      "club": "Hungry_Lions_FC",
       "p": 5,
       "w": 1,
       "d": 3,
@@ -99,6 +109,7 @@
     {
       "pos": 11,
       "team": "Pretoria University FC",
+      "club": "Pretoria_University_FC",
       "p": 5,
       "w": 1,
       "d": 2,
@@ -108,6 +119,7 @@
     {
       "pos": 12,
       "team": "Midlands Wanderers",
+      "club": "Midlands_Wanderers",
       "p": 5,
       "w": 1,
       "d": 1,
@@ -117,6 +129,7 @@
     {
       "pos": 13,
       "team": "North West University",
+      "club": "North_West_University",
       "p": 5,
       "w": 0,
       "d": 3,
@@ -126,6 +139,7 @@
     {
       "pos": 14,
       "team": "The Bees",
+      "club": "The_Bees",
       "p": 5,
       "w": 1,
       "d": 0,
@@ -135,6 +149,7 @@
     {
       "pos": 15,
       "team": "Orbit College FC",
+      "club": "Orbit_College_FC",
       "p": 5,
       "w": 0,
       "d": 2,
@@ -144,6 +159,7 @@
     {
       "pos": 16,
       "team": "Venda FC",
+      "club": "Venda_FC",
       "p": 5,
       "w": 0,
       "d": 1,
@@ -152,6 +168,380 @@
     }
   ],
   "results": [
+    {
+      "home": "Real Native FC",
+      "away": "Cape Town City FC",
+      "date": "2026-08-21",
+      "venue": "Solomon Mahlangu Stadium, KwaMhlanga",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019573",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019573-real-native-fc-vs-cape-town-city-fc"
+    },
+    {
+      "home": "Venda FC",
+      "away": "Lerumo Lions",
+      "date": "2026-08-21",
+      "venue": "Thohoyandou Stadium, Thohoyandou",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019576",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019576-venda-fc-vs-lerumo-lions"
+    },
+    {
+      "home": "Midlands Wanderers",
+      "away": "Magesi FC",
+      "date": "2026-08-22",
+      "venue": "Sugar Ray Xulu Stadium, Clermont",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019578",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019578-midlands-wanderers-vs-magesi-fc"
+    },
+    {
+      "home": "Leicesterford City FC",
+      "away": "Orbit College FC",
+      "date": "2026-08-22",
+      "venue": "Baroka FC Village, Lebowakgomo",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019577",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019577-leicesterford-city-fc-vs-orbit-colleg"
+    },
+    {
+      "home": "The Bees",
+      "away": "Highbury",
+      "date": "2026-08-22",
+      "venue": "Kanyamazane Stadium, Kanyamazane",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "FT",
+      "match_id": "3019580",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019580-the-bees-vs-highbury"
+    },
+    {
+      "home": "Hope",
+      "away": "Pretoria University FC",
+      "date": "2026-08-22",
+      "venue": "Athlone Stadium, Cape Town",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019574",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019574-hope-vs-pretoria-university-fc"
+    },
+    {
+      "home": "North West University",
+      "away": "Upington City",
+      "date": "2026-08-22",
+      "venue": "NWU Fanie Du Toit Sports Ground, Potchefstroom",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019620",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019620-north-west-university-vs-upington-cit"
+    },
+    {
+      "home": "Hungry Lions FC",
+      "away": "Gomora United",
+      "date": "2026-08-22",
+      "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "FT",
+      "match_id": "3019575",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019575-hungry-lions-fc-vs-gomora-united"
+    },
+    {
+      "home": "Highbury",
+      "away": "Hope",
+      "date": "2026-08-28",
+      "venue": "NMU (Madibaz) Stadium, Port Elizabeth",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019584",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019584-highbury-vs-hope"
+    },
+    {
+      "home": "Orbit College FC",
+      "away": "Hungry Lions FC",
+      "date": "2026-08-28",
+      "venue": "Olympia Park, Rustenburg, NW",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019581",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019581-orbit-college-fc-vs-hungry-lions-fc"
+    },
+    {
+      "home": "Magesi FC",
+      "away": "The Bees",
+      "date": "2026-08-29",
+      "venue": "Baroka FC Village, Lebowakgomo",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019616",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019616-magesi-fc-vs-the-bees"
+    },
+    {
+      "home": "Upington City",
+      "away": "Real Native FC",
+      "date": "2026-08-29",
+      "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019591",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019591-upington-city-vs-real-native-fc"
+    },
+    {
+      "home": "Gomora United",
+      "away": "Venda FC",
+      "date": "2026-08-29",
+      "venue": "Malamulele Stadium, Malamulele",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019588",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019588-gomora-united-vs-venda-fc"
+    },
+    {
+      "home": "Lerumo Lions",
+      "away": "North West University",
+      "date": "2026-08-29",
+      "venue": "Dobsonville Stadium, Soweto, Johannesburg",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019596",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019596-lerumo-lions-vs-north-west-university"
+    },
+    {
+      "home": "Pretoria University FC",
+      "away": "Midlands Wanderers",
+      "date": "2026-08-29",
+      "venue": "Tuks Stadium, Pretoria",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT",
+      "match_id": "3019595",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019595-pretoria-university-fc-vs-midlands-wa"
+    },
+    {
+      "home": "Cape Town City FC",
+      "away": "Leicesterford City FC",
+      "date": "2026-09-02",
+      "venue": "Athlone Stadium, Cape Town",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019625",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019625-cape-town-city-fc-vs-leicesterford-ci"
+    },
+    {
+      "home": "Real Native FC",
+      "away": "Midlands Wanderers",
+      "date": "2026-09-04",
+      "venue": "Solomon Mahlangu Stadium, KwaMhlanga",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019579",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019579-real-native-fc-vs-midlands-wanderers"
+    },
+    {
+      "home": "Leicesterford City FC",
+      "away": "Magesi FC",
+      "date": "2026-09-05",
+      "venue": "Baroka FC Village, Lebowakgomo",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "FT",
+      "match_id": "3019589",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019589-leicesterford-city-fc-vs-magesi-fc"
+    },
+    {
+      "home": "Upington City",
+      "away": "Highbury",
+      "date": "2026-09-05",
+      "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019684",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019684-upington-city-vs-highbury"
+    },
+    {
+      "home": "North West University",
+      "away": "Hope",
+      "date": "2026-09-05",
+      "venue": "NWU Fanie Du Toit Sports Ground, Potchefstroom",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019586",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019586-north-west-university-vs-hope"
+    },
+    {
+      "home": "Venda FC",
+      "away": "Pretoria University FC",
+      "date": "2026-09-05",
+      "venue": "Thohoyandou Stadium, Thohoyandou",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT",
+      "match_id": "3019657",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019657-venda-fc-vs-pretoria-university-fc"
+    },
+    {
+      "home": "Cape Town City FC",
+      "away": "Hungry Lions FC",
+      "date": "2026-09-06",
+      "venue": "Athlone Stadium, Cape Town",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019582",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019582-cape-town-city-fc-vs-hungry-lions-fc"
+    },
+    {
+      "home": "The Bees",
+      "away": "Gomora United",
+      "date": "2026-09-06",
+      "venue": "Kanyamazane Stadium, Kanyamazane",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019593",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019593-the-bees-vs-gomora-united"
+    },
+    {
+      "home": "Orbit College FC",
+      "away": "Lerumo Lions",
+      "date": "2026-09-08",
+      "venue": "Olympia Park, Rustenburg, NW",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "FT",
+      "match_id": "3028483",
+      "url": "https://www.psl.co.za/matchcentre/detail/3028483-orbit-college-fc-vs-lerumo-lions"
+    },
+    {
+      "home": "Lerumo Lions",
+      "away": "Real Native FC",
+      "date": "2026-09-12",
+      "venue": "UJ Soweto Campus, Pimville",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019583",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019583-lerumo-lions-vs-real-native-fc"
+    },
+    {
+      "home": "Gomora United",
+      "away": "Leicesterford City FC",
+      "date": "2026-09-12",
+      "venue": "Malamulele Stadium, Malamulele",
+      "home_score": 2,
+      "away_score": 4,
+      "status": "FT",
+      "match_id": "3019626",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019626-gomora-united-vs-leicesterford-city-f"
+    },
+    {
+      "home": "Venda FC",
+      "away": "Upington City",
+      "date": "2026-09-12",
+      "venue": "Thohoyandou Stadium, Thohoyandou",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "FT",
+      "match_id": "3019621",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019621-venda-fc-vs-upington-city"
+    },
+    {
+      "home": "Hungry Lions FC",
+      "away": "The Bees",
+      "date": "2026-09-12",
+      "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019698",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019698-hungry-lions-fc-vs-the-bees"
+    },
+    {
+      "home": "Pretoria University FC",
+      "away": "Orbit College FC",
+      "date": "2026-09-12",
+      "venue": "Tuks Stadium, Pretoria",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019737",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019737-pretoria-university-fc-vs-orbit-colle"
+    },
+    {
+      "home": "Midlands Wanderers",
+      "away": "North West University",
+      "date": "2026-09-12",
+      "venue": "Sugar Ray Xulu Stadium, Clermont",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019717",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019717-midlands-wanderers-vs-north-west-univ"
+    },
+    {
+      "home": "Highbury",
+      "away": "Magesi FC",
+      "date": "2026-09-13",
+      "venue": "NMU (Madibaz) Stadium, Port Elizabeth",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "3019628",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019628-highbury-vs-magesi-fc"
+    },
+    {
+      "home": "Hope",
+      "away": "Cape Town City FC",
+      "date": "2026-09-13",
+      "venue": "Athlone Stadium, Cape Town",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT",
+      "match_id": "3019644",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019644-hope-vs-cape-town-city-fc"
+    },
+    {
+      "home": "Real Native FC",
+      "away": "Venda FC",
+      "date": "2026-09-18",
+      "venue": "Solomon Mahlangu Stadium, KwaMhlanga",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019630",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019630-real-native-fc-vs-venda-fc"
+    },
+    {
+      "home": "Highbury",
+      "away": "Gomora United",
+      "date": "2026-09-18",
+      "venue": "NMU (Madibaz) Stadium, Port Elizabeth",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "3019613",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019613-highbury-vs-gomora-united"
+    },
     {
       "home": "Upington City",
       "away": "Pretoria University FC",

@@ -4,11 +4,12 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-11T07:07:16+02:00",
+  "updated": "2026-10-11T10:33:29+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Mamelodi Sundowns",
+      "club": "Mamelodi_Sundowns",
       "p": 8,
       "w": 6,
       "d": 2,
@@ -18,6 +19,7 @@
     {
       "pos": 2,
       "team": "Orlando Pirates",
+      "club": "Orlando_Pirates",
       "p": 7,
       "w": 6,
       "d": 1,
@@ -27,6 +29,7 @@
     {
       "pos": 3,
       "team": "AmaZulu FC",
+      "club": "AmaZulu_FC",
       "p": 7,
       "w": 5,
       "d": 1,
@@ -36,6 +39,7 @@
     {
       "pos": 4,
       "team": "Kaizer Chiefs",
+      "club": "Kaizer_Chiefs",
       "p": 7,
       "w": 3,
       "d": 4,
@@ -45,6 +49,7 @@
     {
       "pos": 5,
       "team": "Milford FC",
+      "club": "Milford_FC",
       "p": 8,
       "w": 3,
       "d": 3,
@@ -54,6 +59,7 @@
     {
       "pos": 6,
       "team": "Sekhukhune United",
+      "club": "Sekhukhune_United",
       "p": 7,
       "w": 3,
       "d": 2,
@@ -63,6 +69,7 @@
     {
       "pos": 7,
       "team": "Stellenbosch FC",
+      "club": "Stellenbosch_FC",
       "p": 7,
       "w": 2,
       "d": 3,
@@ -72,6 +79,7 @@
     {
       "pos": 8,
       "team": "Golden Arrows",
+      "club": "Golden_Arrows",
       "p": 7,
       "w": 1,
       "d": 5,
@@ -81,6 +89,7 @@
     {
       "pos": 9,
       "team": "Chippa United",
+      "club": "Chippa_United",
       "p": 7,
       "w": 1,
       "d": 5,
@@ -90,6 +99,7 @@
     {
       "pos": 10,
       "team": "Durban City",
+      "club": "Durban_City",
       "p": 7,
       "w": 1,
       "d": 4,
@@ -99,6 +109,7 @@
     {
       "pos": 11,
       "team": "Polokwane City",
+      "club": "Polokwane_City",
       "p": 7,
       "w": 1,
       "d": 4,
@@ -108,6 +119,7 @@
     {
       "pos": 12,
       "team": "TS Galaxy",
+      "club": "TS_Galaxy",
       "p": 7,
       "w": 1,
       "d": 3,
@@ -117,6 +129,7 @@
     {
       "pos": 13,
       "team": "Kruger United",
+      "club": "Kruger_United",
       "p": 7,
       "w": 1,
       "d": 1,
@@ -126,6 +139,7 @@
     {
       "pos": 14,
       "team": "Richards Bay",
+      "club": "Richards_Bay",
       "p": 7,
       "w": 0,
       "d": 3,
@@ -135,6 +149,7 @@
     {
       "pos": 15,
       "team": "Siwelele",
+      "club": "Siwelele",
       "p": 7,
       "w": 0,
       "d": 3,
@@ -144,6 +159,7 @@
     {
       "pos": 16,
       "team": "Marumo Gallants",
+      "club": "Marumo_Gallants",
       "p": 7,
       "w": 0,
       "d": 2,
