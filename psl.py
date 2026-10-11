@@ -119,7 +119,7 @@ def parse_logs(html):
             if re.fullmatch(r"[+-]?\d+", t):
                 nums.append(int(t))
         pos = re.match(r"\s*(\d+)", a.get_text())
-        entry = {"pos": int(pos.group(1)) if pos else None, "team": team}
+        entry = {"pos": int(pos.group(1)) if pos else None, "team": team, "club": m.group(1)}
         if len(nums) >= 8:
             p, w, d, l, gf, ga, gd, pts = nums[-8:]
             entry.update(p=p, w=w, d=d, l=l, gf=gf, ga=ga, gd=gd, pts=pts)
@@ -309,6 +309,35 @@ def fetch_missing_details(limit=60):
                     sample.write_text(html, encoding="utf-8")
 
 
+def fill_from_club_pages():
+    """Each club page lists that club's recent results. Read the pages of clubs whose games we
+    don't all have yet, so the season is complete (needed for goal difference)."""
+    for slug, meta in COMPETITIONS.items():
+        if not meta["league"]:
+            continue
+        comp = load_json(DATA / "psl" / f"{slug}.json", {})
+        log = comp.get("log", [])
+        teams = {slugify(r["team"]) for r in log}
+        have = {}
+        for r in comp.get("results", []):
+            if r.get("status") == "FT":
+                for t in (r["home"], r["away"]):
+                    have[slugify(t)] = have.get(slugify(t), 0) + 1
+        missing = [r for r in log if r.get("club") and have.get(slugify(r["team"]), 0) < r["p"]]
+        found = []
+        for r in missing:
+            try:
+                html = fetch(f"{BASE}/club/{r['club']}?league={slug}")
+            except Exception as e:
+                print(f"  club page failed {r['team']}: {e}")
+                continue
+            res, _ = parse_matches(html)
+            found += [m for m in res if slugify(m["home"]) in teams and slugify(m["away"]) in teams]
+        if found:
+            total, _ = store(slug, found, [])
+            print(f"Club pages {meta['name']}: checked {len(missing)} clubs -> {total} results stored")
+
+
 def store(slug, results, fixtures, log=None):
     path = DATA / "psl" / f"{slug}.json"
     old = load_json(path, {})
@@ -359,6 +388,9 @@ def run():
         print(f"Match Centre: +{len(results)} results, +{len(fixtures)} fixtures -> {r}/{f}")
     except Exception as e:
         print(f"Match Centre skipped: {e}")
+
+    # Fill gaps in the season from club pages (for goal difference)
+    fill_from_club_pages()
 
     # Timelines and stats for finished matches (a few per run, newest first)
     fetch_missing_details()
