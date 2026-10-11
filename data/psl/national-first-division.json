@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-11T17:34:43+02:00",
+  "updated": "2026-10-11T17:36:40+02:00",
   "log": [
     {
       "pos": 1,
@@ -616,7 +616,8 @@
       "date": "2026-10-11T15:30:00+02:00",
       "venue": "Malamulele Stadium, Malamulele",
       "match_id": "3019608",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019608"
+      "url": "https://www.psl.co.za/matchcentre/detail/3019608",
+      "status": "NS"
     },
     {
       "home": "Cape Town City FC",
@@ -624,7 +625,8 @@
       "date": "2026-10-11T15:30:00+02:00",
       "venue": "DHL Cape Town Stadium, Cape Town",
       "match_id": "3019759",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019759"
+      "url": "https://www.psl.co.za/matchcentre/detail/3019759",
+      "status": "NS"
     },
     {
       "home": "Gomora United",
