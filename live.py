@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 
 import build
 import psl
-from common import DATA, fetch, load_json, match_key, now_sast, score_line
+from common import DATA, fetch, load_json, match_key, now_sast, save_json, score_line
 
 WINDOWS = {"a": (0, 15 * 60 + 30), "b": (15 * 60 + 30, 17 * 60 + 30),
            "c": (17 * 60 + 30, 19 * 60 + 30), "d": (19 * 60 + 30, 24 * 60)}
@@ -72,6 +72,7 @@ def run(window):
         time.sleep(wait)
 
     finished, polls = set(), 0
+    status_path = DATA / "psl" / "_live_status.json"
     while now_sast() - start < MAX_RUNTIME:
         polls += 1
         now = now_sast()
@@ -81,11 +82,15 @@ def run(window):
                 links += psl._detail_links(BeautifulSoup(fetch(f"{psl.BASE}/tournament/{slug}"), "html.parser"))
             except Exception as e:
                 print(f"  tournament page failed: {e}")
+        report = {"time": now.isoformat(timespec="seconds"), "links_found": len(links), "games": []}
         for g in games:
             key = match_key(g)
+            entry = {"game": f"{g['home']} v {g['away']}", "kickoff": g["date"]}
+            report["games"].append(entry)
             if key in finished or now < g["kickoff"] - LEAD:
                 continue
             link = psl._find_link(links, g["home"], g["away"])
+            entry["match_page"] = link["url"] if link else None
             if not link:
                 continue
             try:
@@ -93,9 +98,10 @@ def run(window):
             except Exception as e:
                 print(f"  match page failed {link['url']}: {e}")
                 continue
+            entry["page"] = (f"{d['status']} {d['home_score']}-{d['away_score']}, line-ups {len(d['lineups'])}" if d else "nothing yet")
             if not d:
                 continue
-            if now < g["kickoff"] and not d["events"]:
+            if d["status"] == "NS" or (now < g["kickoff"] and not d["events"]):
                 # before kick-off: keep the line-ups, mark the fixture with its match page
                 d.update(status="NS", minute=None, home_score=None, away_score=None)
                 psl.save_match(link["id"], g["slug"], g["home"], g["away"], d)
@@ -111,6 +117,7 @@ def run(window):
             if d["status"] == "FT":
                 finished.add(key)
             print(f"  {score_line(m)} {d['status']} {d['minute'] or ''} | {m['latest'] or ''}")
+        save_json(status_path, report)
         if polls % PUBLISH_EVERY == 0:
             publish()
         if len(finished) == len(games) or now_sast() > last_end + timedelta(minutes=20):

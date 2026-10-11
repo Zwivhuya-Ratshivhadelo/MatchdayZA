@@ -206,9 +206,9 @@ def parse_detail(html):
         hs, as_ = int(scores[0]), int(scores[1])
     else:  # fallback: a "2 - 1" line anywhere on the page
         m = next((SCORE_RE.match(l) for l in _lines_of(soup) if SCORE_RE.match(l)), None)
-        if not m:
-            return None
-        hs, as_ = int(m.group(1)), int(m.group(2))
+        hs, as_ = (int(m.group(1)), int(m.group(2))) if m else (None, None)
+    if hs is None and not soup.select("table.line-ups"):
+        return None   # nothing on the page yet
     label_el = soup.select_one(".match-status")
     label = clean(label_el.get_text()) if label_el else ""
 
@@ -254,6 +254,9 @@ def parse_detail(html):
     finished = label.lower() in ("result", "full time", "ft") or any(e["type"] == "full_time" for e in events[:4])
     if not finished and MINUTE_RE.match(label):
         minute = label if label.endswith("'") else label + "'"
+    if hs is None:   # before kick-off: only line-ups
+        return {"home_score": None, "away_score": None, "status": "NS", "minute": None,
+                "events": [], "stats": [], "lineups": lineups}
     return {"home_score": hs, "away_score": as_, "status": "FT" if finished else "LIVE",
             "minute": None if finished else minute, "events": events, "stats": stats, "lineups": lineups}
 
