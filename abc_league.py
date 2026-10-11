@@ -123,7 +123,10 @@ def run():
         old = load_json(path, {})
         try:
             log = parse_log(fetch(f"{BASE}/leagues/view/?{q}"))
-            res, _ = parse_matches(fetch(f"{BASE}/league?{q}&tab=results"), s["stream_id"])
+            res_html = fetch(f"{BASE}/league?{q}&tab=results")
+            res, _ = parse_matches(res_html, s["stream_id"])
+            if not res and s is streams[0]:  # keep a copy to diagnose an empty results page
+                (DATA / "abc" / "_results_page_sample.html").write_text(res_html, encoding="utf-8")
             _, fix = parse_matches(fetch(f"{BASE}/league?{q}&tab=fixtures"), s["stream_id"])
         except Exception as e:
             problems.append(f"{s['name']}: {e}")
