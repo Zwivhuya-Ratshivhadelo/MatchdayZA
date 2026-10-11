@@ -46,6 +46,42 @@ def todays_games(window):
     return games
 
 
+IDS_PATH = DATA / "psl" / "_match_ids.json"   # match page number -> teams, found by looking pages up
+
+
+def id_link(g, budget):
+    """Find a game's match page by its number when no page links to it yet (fixtures have no links).
+    League match pages are numbered in a block per season; numbers we already looked at are remembered."""
+    ids = load_json(IDS_PATH, {})
+    h, a = psl.slugify(g["home"]), psl.slugify(g["away"])
+    for mid, t in ids.items():
+        if t.get("home") == h and t.get("away") == a:
+            return {"id": mid, "url": f"{psl.BASE}/matchcentre/detail/{mid}"}
+    comp = load_json(DATA / "psl" / f"{g['slug']}.json", {})
+    known = sorted(int(m["match_id"]) for m in comp.get("results", []) + comp.get("extra", [])
+                   if str(m.get("match_id", "")).isdigit())
+    if not known:
+        return None
+    first = known[0]
+    found = None
+    for mid in range(first, first + 260):
+        if budget[0] <= 0 or found:
+            break
+        if str(mid) in ids or mid in known:
+            continue
+        budget[0] -= 1
+        try:
+            names = psl._teams_of(fetch(f"{psl.BASE}/matchcentre/detail/{mid}"))
+        except Exception as e:
+            print(f"  match {mid} failed: {e}")
+            continue
+        ids[str(mid)] = {"home": psl.slugify(names[0]), "away": psl.slugify(names[1])} if len(names) >= 2 else {}
+        if ids[str(mid)].get("home") == h and ids[str(mid)].get("away") == a:
+            found = {"id": str(mid), "url": f"{psl.BASE}/matchcentre/detail/{mid}"}
+    save_json(IDS_PATH, ids)
+    return found
+
+
 def publish():
     """Push the latest data (only inside GitHub Actions)."""
     if os.environ.get("LIVE_DEPLOY") == "1":
@@ -83,13 +119,14 @@ def run(window):
             except Exception as e:
                 print(f"  tournament page failed: {e}")
         report = {"time": now.isoformat(timespec="seconds"), "links_found": len(links), "games": []}
+        budget = [120]   # match pages we may look up by number in this poll
         for g in games:
             key = match_key(g)
             entry = {"game": f"{g['home']} v {g['away']}", "kickoff": g["date"]}
             report["games"].append(entry)
             if key in finished or now < g["kickoff"] - LEAD:
                 continue
-            link = psl._find_link(links, g["home"], g["away"])
+            link = psl._find_link(links, g["home"], g["away"]) or id_link(g, budget)
             entry["match_page"] = link["url"] if link else None
             if not link:
                 continue

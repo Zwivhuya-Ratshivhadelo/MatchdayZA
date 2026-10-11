@@ -6,7 +6,7 @@ Runs inside the "Keep running" workflow for about 5.5 hours:
 Then it starts the next "Keep running" workflow and exits, so there is always one running.
 If GitHub's own schedule has started working, it stops chaining and leaves it to that.
 
-Run:  python keeper.py   (pushing a change to this file restarts it with the latest code)
+Run:  python keeper.py   (pushing a change to this file restarts it with the latest code.)
 """
 import json
 import os
