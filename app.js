@@ -163,9 +163,11 @@ function standingsTable(rows) {
 }
 
 /* Form and goal difference from stored results */
-function enrichLog(log, results) {
+function enrichLog(log, results, extra) {
   const games = {};
-  for (const r of [...(results || [])].sort(byDate)) {
+  const ids = new Set((results || []).map((r) => r.match_id).filter(Boolean));
+  const all = [...(results || []), ...(extra || []).filter((e) => !ids.has(e.match_id))];
+  for (const r of all.sort(byDate)) {
     if (r.status !== "FT") continue;
     (games[slug(r.home)] ||= []).push([r.home_score, r.away_score]);
     (games[slug(r.away)] ||= []).push([r.away_score, r.home_score]);
@@ -248,7 +250,7 @@ async function renderHome() {
 
     const hasLog = (comp.log || []).length > 0;
     $('[data-md="log-section"]').hidden = !hasLog;
-    $('[data-md="standings"]').innerHTML = hasLog ? standingsTable(enrichLog(comp.log, comp.results)) : "";
+    $('[data-md="standings"]').innerHTML = hasLog ? standingsTable(enrichLog(comp.log, comp.results, comp.extra)) : "";
 
     // pitch first with what we know, then the game's details once loaded
     const feat = $('[data-md="featured"]'), panel = $('[data-md="match-panel"]');

@@ -309,33 +309,75 @@ def fetch_missing_details(limit=60):
                     sample.write_text(html, encoding="utf-8")
 
 
-def fill_from_club_pages():
-    """Each club page lists that club's recent results. Read the pages of clubs whose games we
-    don't all have yet, so the season is complete (needed for goal difference)."""
+def _teams_of(html):
+    soup = BeautifulSoup(html, "html.parser")
+    return [clean(x.get_text()) for x in soup.select(".widget-game-result__team-name")][:2]
+
+
+def fill_by_match_id():
+    """League match pages have running numbers (8 games a round). When some clubs have fewer
+    results than games played, read the numbers we don't have yet, so goal difference adds up.
+    These extra games are kept apart (their match page has no date) and only feed the log."""
     for slug, meta in COMPETITIONS.items():
         if not meta["league"]:
             continue
-        comp = load_json(DATA / "psl" / f"{slug}.json", {})
+        path = DATA / "psl" / f"{slug}.json"
+        comp = load_json(path, {})
         log = comp.get("log", [])
-        teams = {slugify(r["team"]) for r in log}
-        have = {}
-        for r in comp.get("results", []):
-            if r.get("status") == "FT":
+        teams = {slugify(r["team"]): r["team"] for r in log}
+        results = [r for r in comp.get("results", []) if r.get("status") == "FT"]
+        known = {r["match_id"] for r in comp.get("results", []) + comp.get("fixtures", []) if r.get("match_id")}
+        extra = [e for e in comp.get("extra", []) if e["match_id"] not in known]
+        skip = set(comp.get("not_ours", []))
+
+        def counts():
+            c = {}
+            for r in results + extra:
                 for t in (r["home"], r["away"]):
-                    have[slugify(t)] = have.get(slugify(t), 0) + 1
-        missing = [r for r in log if r.get("club") and have.get(slugify(r["team"]), 0) < r["p"]]
-        found = []
-        for r in missing:
-            try:
-                html = fetch(f"{BASE}/club/{r['club']}?league={slug}")
-            except Exception as e:
-                print(f"  club page failed {r['team']}: {e}")
+                    c[slugify(t)] = c.get(slugify(t), 0) + 1
+            return c
+
+        def short():
+            c = counts()
+            return [r for r in log if c.get(slugify(r["team"]), 0) < r["p"]]
+
+        ids = sorted(int(i) for i in known if str(i).isdigit())
+        if not ids or not short():
+            continue
+        first = ids[0]
+        # rough date per round, from the games we do have
+        round_dates = {}
+        for r in results:
+            if str(r.get("match_id", "")).isdigit():
+                round_dates.setdefault((int(r["match_id"]) - first) // 8, []).append(r["date"])
+        top = max(i for i in ids if i - first < len(teams) * (len(teams) - 1)) + 16
+        have = known | {e["match_id"] for e in extra} | skip
+        for mid in range(first, top + 1):
+            if not short():
+                break
+            if str(mid) in have or mid in have:
                 continue
-            res, _ = parse_matches(html)
-            found += [m for m in res if slugify(m["home"]) in teams and slugify(m["away"]) in teams]
-        if found:
-            total, _ = store(slug, found, [])
-            print(f"Club pages {meta['name']}: checked {len(missing)} clubs -> {total} results stored")
+            try:
+                html = fetch(f"{BASE}/matchcentre/detail/{mid}")
+                d, names = parse_detail(html), _teams_of(html)
+            except Exception as e:
+                print(f"  match {mid} failed: {e}")
+                continue
+            if len(names) < 2 or slugify(names[0]) not in teams or slugify(names[1]) not in teams:
+                skip.add(mid)
+                continue
+            if not d or d["status"] != "FT":
+                continue
+            dates = sorted(round_dates.get((mid - first) // 8, [])) or [""]
+            extra.append({"match_id": str(mid), "home": teams[slugify(names[0])], "away": teams[slugify(names[1])],
+                          "home_score": d["home_score"], "away_score": d["away_score"], "status": "FT",
+                          "date": dates[len(dates) // 2]})
+            print(f"  {meta['name']} #{mid}: {names[0]} {d['home_score']}-{d['away_score']} {names[1]}")
+        comp["extra"], comp["not_ours"] = extra, sorted(skip)
+        save_json(path, comp)
+        left = short()
+        print(f"{meta['name']}: {len(extra)} extra games; "
+              + ("all clubs complete" if not left else "still short: " + ", ".join(r["team"] for r in left)))
 
 
 def store(slug, results, fixtures, log=None):
@@ -353,6 +395,7 @@ def store(slug, results, fixtures, log=None):
         "updated": now_sast().isoformat(timespec="seconds"),
         "log": log if log else old.get("log", []),
         "results": all_results, "fixtures": all_fixtures,
+        "extra": old.get("extra", []), "not_ours": old.get("not_ours", []),
     })
     return len(all_results), len(all_fixtures)
 
@@ -389,8 +432,8 @@ def run():
     except Exception as e:
         print(f"Match Centre skipped: {e}")
 
-    # Fill gaps in the season from club pages (for goal difference)
-    fill_from_club_pages()
+    # Fill gaps in the season by match number (for goal difference)
+    fill_by_match_id()
 
     # Timelines and stats for finished matches (a few per run, newest first)
     fetch_missing_details()
