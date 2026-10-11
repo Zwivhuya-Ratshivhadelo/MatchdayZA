@@ -2,21 +2,17 @@ name: Match-day live scores
 
 on:
   schedule:
-    - cron: "37 12 * * *"   # 14:37 SAST: games kicking off before 18:30
-    - cron: "7 17 * * *"    # 19:07 SAST: games kicking off 18:30 or later
+    - cron: "57 10 * * *"   # 12:57 SAST: games kicking off before 15:30
+    - cron: "13 12 * * *"   # 14:13 SAST: 15:30 to 17:29
+    - cron: "13 14 * * *"   # 16:13 SAST: 17:30 to 19:29
+    - cron: "13 16 * * *"   # 18:13 SAST: 19:30 or later
   workflow_dispatch:
-    inputs:
-      window:
-        description: "Which games to follow"
-        type: choice
-        options: [early, late]
-        default: early
 
 permissions:
   contents: write
 
 concurrency:
-  group: live-${{ github.event.schedule || inputs.window }}
+  group: live-${{ github.event.schedule || 'manual' }}
   cancel-in-progress: false
 
 jobs:
@@ -36,7 +32,11 @@ jobs:
 
       - name: Follow today's games
         run: |
-          if [ "${{ github.event.schedule }}" = "7 17 * * *" ]; then WINDOW=late
-          elif [ -n "${{ inputs.window }}" ]; then WINDOW="${{ inputs.window }}"
-          else WINDOW=early; fi
-          python live.py "$WINDOW"
+          case "${{ github.event.schedule }}" in
+            "57 10 * * *") W=a ;;
+            "13 12 * * *") W=b ;;
+            "13 14 * * *") W=c ;;
+            "13 16 * * *") W=d ;;
+            *) W="" ;;
+          esac
+          python live.py $W

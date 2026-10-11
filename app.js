@@ -99,8 +99,8 @@ function matchCard(m) {
   const right = live ? "" : kickoff(m) || "TBC";
   const row = (team, sc) => `<div class="mcard-row">${crest(team, 26)}<span class="code">${esc(team)}</span>${live ? `<span class="sc">${sc}</span>` : ""}</div>`;
   const inner = `<div class="mcard-top">${top}<span>${esc(right)}</span></div>${row(m.home, m.home_score)}${row(m.away, m.away_score)}`;
-  const url = live ? matchUrl(m) : null;
-  return url ? `<a class="mcard live" href="${url}">${inner}</a>` : `<div class="mcard ${live ? "live" : ""}">${inner}</div>`;
+  const url = matchUrl(m);   // live games, and upcoming games once their line-ups page exists
+  return url ? `<a class="mcard ${live ? "live" : ""}" href="${url}">${inner}</a>` : `<div class="mcard ${live ? "live" : ""}">${inner}</div>`;
 }
 
 /* Result card (LaLiga-style); opens the match page when a timeline exists */
@@ -305,13 +305,15 @@ async function renderMatch() {
     back.textContent = `Back to ${PSL[c].name}`;
   }
   const comps = await loadComps();
-  const summary = c ? (comps[c]?.results || []).find((m) => String(m.match_id) === String(id)) : null;
+  const all = c ? [...(comps[c]?.results || []), ...(comps[c]?.fixtures || [])] : [];
+  const summary = all.find((m) => String(m.match_id) === String(id)) || null;
   const detail = id ? await loadMatch(id) : null;
   const pitch = $('[data-md="match-pitch"]');
   if (!summary && !detail) { pitch.innerHTML = `<p class="empty">This match isn't available. Go back to <a href="index.html">the scores</a>.</p>`; return; }
 
   const m = { ...(detail || {}), ...(summary || {}), _comp: c };
-  if (detail) Object.assign(m, { home_score: detail.home_score, away_score: detail.away_score, status: detail.status, minute: detail.minute ?? m.minute });
+  if (detail && detail.status !== "NS") Object.assign(m, { home_score: detail.home_score, away_score: detail.away_score, status: detail.status, minute: detail.minute ?? m.minute });
+  if (detail?.status === "NS") m.status = "NS";
   m.latest = m.latest || null;
   document.title = `${m.home} v ${m.away} | MatchdayZA`;
   pitch.innerHTML = pitchCard(m, PSL[c]?.name || "", false);
@@ -323,7 +325,7 @@ async function renderMatch() {
     const text = (EVENT_TEXT[e.type] || (() => ""))(e);
     const score = e.score ? `<b class="ev-score">${e.score[0]} - ${e.score[1]}</b>` : "";
     return `<li class="ev ev-${e.type}"><span class="ev-min">${esc(e.minute)}</span>${ICON[e.type] || ""}<span class="ev-text">${esc(text)}</span>${score}</li>`;
-  }).join("")}</ol>` : `<p class="empty">${m.status === "LIVE" ? "The timeline appears as the match goes on." : isPlayed(m) ? "No commentary was published for this match." : "The timeline appears once the match kicks off."}</p>`;
+  }).join("")}</ol>` : `<p class="empty">${m.status === "LIVE" ? "The timeline appears as the match goes on." : isPlayed(m) ? "No key moments were published for this match." : "Key moments appear once the match kicks off."}</p>`;
 
   const stats = detail?.stats || [];
   $('[data-md="stats-section"]').hidden = !stats.length;
