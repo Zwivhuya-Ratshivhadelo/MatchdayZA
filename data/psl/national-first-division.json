@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-11T15:29:50+02:00",
+  "updated": "2026-10-11T15:32:01+02:00",
   "log": [
     {
       "pos": 1,
@@ -607,27 +607,31 @@
       "status": "FT",
       "match_id": "3019688",
       "url": "https://www.psl.co.za/matchcentre/detail/3019688-magesi-fc-vs-hungry-lions-fc"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Gomora United",
       "away": "Upington City",
       "date": "2026-10-11T15:30:00+02:00",
       "venue": "Malamulele Stadium, Malamulele",
-      "status": "NS",
       "match_id": "3019608",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019608"
+      "url": "https://www.psl.co.za/matchcentre/detail/3019608",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE"
     },
     {
       "home": "Cape Town City FC",
       "away": "The Bees",
       "date": "2026-10-11T15:30:00+02:00",
       "venue": "DHL Cape Town Stadium, Cape Town",
-      "status": "NS",
       "match_id": "3019759",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019759"
-    },
+      "url": "https://www.psl.co.za/matchcentre/detail/3019759",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Gomora United",
       "away": "Cape Town City FC",
