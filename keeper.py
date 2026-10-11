@@ -40,14 +40,19 @@ def gh_json(*args):
         return []
 
 
-def schedule_working():
-    """True when GitHub's own hourly schedule has run in the last 2 hours."""
-    runs = gh_json("run", "list", "--repo", REPO, "--workflow", "update.yml", "--event", "schedule",
+def schedule_working(workflow="update.yml", within=timedelta(hours=2)):
+    """True when GitHub's own schedule for this workflow has fired recently."""
+    runs = gh_json("run", "list", "--repo", REPO, "--workflow", workflow, "--event", "schedule",
                    "--limit", "1", "--json", "createdAt")
     if not runs:
         return False
     when = datetime.fromisoformat(runs[0]["createdAt"].replace("Z", "+00:00"))
-    return datetime.now(timezone.utc) - when < timedelta(hours=2)
+    return datetime.now(timezone.utc) - when < within
+
+
+def both_working():
+    """Hourly updates and match-day live runs both started by GitHub's own schedule."""
+    return schedule_working("update.yml") and schedule_working("live.yml", timedelta(hours=26))
 
 
 def pull():
@@ -85,15 +90,16 @@ def next_keeper():
 def main():
     start = now_sast()
     done_hours, done_windows = set(), set()
-    if schedule_working():
-        print("GitHub's own schedule is running; nothing to do.")
+    if both_working():
+        print("GitHub's own schedules are running; nothing to do.")
         return
     while now_sast() - start < RUN_FOR:
         now = now_sast()
         # live games first: the live loop runs until its games end
         for w, ko in sorted(kickoffs_today().items()):
             key = (now.date(), w)
-            if key not in done_windows and ko - LEAD <= now < ko + timedelta(hours=2):
+            if key not in done_windows and ko - LEAD <= now < ko + timedelta(hours=2) \
+                    and not schedule_working("live.yml", timedelta(hours=3)):
                 if ko + timedelta(hours=2, minutes=30) > start + JOB_LIMIT:
                     print("Not enough time left in this run for the live games; handing over.")
                     next_keeper()
@@ -106,11 +112,12 @@ def main():
         hour = (now.date(), now.hour)
         if now.minute >= UPDATE_MINUTE and hour not in done_hours:
             done_hours.add(hour)
-            update()
+            if not schedule_working():
+                update()
         time.sleep(60)
 
-    if schedule_working():
-        print("GitHub's own schedule is running now; not starting another keeper.")
+    if both_working():
+        print("GitHub's own schedules are running now; not starting another keeper.")
         return
     next_keeper()
 
