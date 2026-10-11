@@ -1,98 +1,30 @@
 [
   {
-    "url": "https://api.sofascore.app/api/v1/team/1119880/events/last/0",
-    "headers": "browser",
+    "url": "https://webws.365scores.com/web/games/results/?appTypeId=5&langId=1&timezoneName=Africa/Johannesburg&competitions=5822",
     "status": 200,
-    "size": 0,
-    "upington": false,
-    "around": ""
+    "size": 58308,
+    "upington": true,
+    "around": "{\"lastUpdateId\":5786698426,\"requestedUpdateId\":-1,\"ttl\":300,\"paging\":{\"previousPage\":\"/web/games/?langId=1&timezoneId=13&userCountryId=-1&apptype=5&competitions=5822&games=1&aftergame=4813826&direction=-1\",\"nextPage\":\"/web/games/?langId=1&timezoneId=13&userCountryId=-1&apptype=5&competitions=5822&games=1&aftergame=4813791&direction=1\"},\"summary\":{},\"sports\":[{\"id\":1,\"name\":\"Football\",\"nameForURL\":\"football\",\"drawSupport\":true,\"imageVersion\":1}],\"countries\":[{\"id\":134,\"name\":\"South Africa\",\"totalGames\":61,\"liveGames\":0,\"nameForURL\":\"south-africa\",\"imageVersion\":1,\"isNotReal\":false}],\"competitions\":[{\"id\":5822,\"countryId\":134,\"sportId\":1,\"name\":\"Championship\",\"hasStandings\":true,\"hasLiveStandings\":false,\"hasStandingsGroups\":false,\"hasBrackets\":false,\"nameForURL\":\"championship\",\"totalGames\":61,\"liveGames\":0,\"popularityRank\":94281,\"hasActiveGames\":true,\"imageVersion\":2,\"currentStageType\":1,\"competitorsType\":0,\"currentPhaseNum\":-1,\"currentSeasonNum\":16,\"currentStageNum\":1,\"hideOnCatalog\":false,\"hideOnSearch\":false,\"isInternational\":false}],\"competitors\":[{\"id\":90428,\"createdAt\":\"2025-08-25T12:39:12.12\",\"countryId\":134,\"sportId\":1,\"name\":\"Gomora United\",\"nameForURL\":\"gomora-united\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":77102,\"createdAt\":\"2023-09-02T02:20:51.95\",\"countryId\":134,\"sportId\":1,\"name\":\"Upington City\",\"nameForURL\":\"upington-city\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":51187,\"createdAt\":\"2018-01-25T13:53:19.713\",\"countryId\":134,\"sportId\":1,\"name\":\"Orbit College\",\"nameForURL\":\"orbit-college\",\"type\":1,\"popularityRank\":1,\"imageVersion\":3,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":82529,\"createdAt\":\"2024-08-24T09:36:30.913\",\"countryId\":134,\"sportId\":1,\"name\":\"Highbury\",\"longName\":\"Highbury FC\",\"nameForURL\":\"highbury\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":9814,\"countryId\":134,\"sportId\":1,\"name\":\"Pretoria University\",\"symbolicName\":\"PRE\",\"nameForURL\":\"pretoria-university\",\"type\":1,\"popularityRank\":11,\"imageVersion\":1,\"color\":\"#D9D9D9\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":90431,\"createdAt\":\"2025-08-25T12:42:44.32\",\"countryId\":134,\"sportId\":1,\"name\":\"Leicesterfield City\",\"nameForURL\":\"leicesterfield-city\",\"type\":1,\"popularityRank\":0,\"imageVersion\":1,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":90429,\"createdAt\":\"2025-08-25T12:39:49.46\",\"countryId\""
   },
   {
-    "url": "https://api.sofascore.app/api/v1/team/1119880/events/last/0",
-    "headers": "app",
+    "url": "https://webws.365scores.com/web/games/current/?appTypeId=5&langId=1&timezoneName=Africa/Johannesburg&competitions=5822",
     "status": 200,
-    "size": 0,
-    "upington": false,
-    "around": ""
+    "size": 33218,
+    "upington": true,
+    "around": "mpetitorsType\":0,\"currentPhaseNum\":-1,\"currentSeasonNum\":16,\"currentStageNum\":1,\"hideOnCatalog\":false,\"hideOnSearch\":false,\"isInternational\":false}],\"competitors\":[{\"id\":82529,\"createdAt\":\"2024-08-24T09:36:30.913Z\",\"countryId\":134,\"sportId\":1,\"name\":\"Highbury\",\"longName\":\"Highbury FC\",\"nameForURL\":\"highbury\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":90428,\"createdAt\":\"2025-08-25T12:39:12.12Z\",\"countryId\":134,\"sportId\":1,\"name\":\"Gomora United\",\"nameForURL\":\"gomora-united\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":7003,\"countryId\":134,\"sportId\":1,\"name\":\"Casric Stars Fc\",\"longName\":\"Free State Stars\",\"symbolicName\":\"FSS\",\"nameForURL\":\"casric-stars-fc\",\"type\":1,\"popularityRank\":21,\"imageVersion\":1,\"color\":\"#FF0000\",\"awayColor\":\"#FFFFFF\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":71510,\"createdAt\":\"2022-09-13T09:44:36.013Z\",\"countryId\":134,\"sportId\":1,\"name\":\"Venda Fc\",\"nameForURL\":\"venda-fc\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":77102,\"createdAt\":\"2023-09-02T02:20:51.95Z\",\"countryId\":134,\"sportId\":1,\"name\":\"Upington City\",\"nameForURL\":\"upington-city\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":9814,\"countryId\":134,\"sportId\":1,\"name\":\"Pretoria University\",\"symbolicName\":\"PRE\",\"nameForURL\":\"pretoria-university\",\"type\":1,\"popularityRank\":11,\"imageVersion\":1,\"color\":\"#D9D9D9\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":90427,\"createdAt\":\"2025-08-25T12:38:21.013Z\",\"countryId\":134,\"sportId\":1,\"name\":\"The Bees\",\"longName\":\"The Bees FC\",\"nameForURL\":\"the-bees\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":90430,\"createdAt\":\"2025-08-25T12:41:55.907Z\",\"countryId\":134,\"sportId\":1,\"name\":\"Lerumo Lions\",\"nameForURL\":\"lerumo-lions\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":90431,\"createdAt\":\"2025-08-25T12:42:44.32Z\",\"countryId\":134,\"sportId\":1,\"name\":\"Leicesterfield City\",\"nameForURL\":\"leicesterfield-city\",\"type\":1,\"popularityRank\":0,\"imageVersion\":1,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":90429,\"createdAt\":\"2025-08-25T12:39:49.46Z\",\"countryI"
   },
   {
-    "url": "https://api.sofascore.app/api/v1/team/1119880/events/last/0",
-    "headers": "plain",
+    "url": "https://webws.365scores.com/web/games/allscores/?appTypeId=5&langId=1&timezoneName=Africa/Johannesburg&startDate=11/10/2026&endDate=11/10/2026&sports=1",
     "status": 200,
-    "size": 0,
-    "upington": false,
-    "around": ""
+    "size": 1537602,
+    "upington": true,
+    "around": "popularityRank\":34,\"imageVersion\":1,\"color\":\"#FF6600\",\"mainCompetitionId\":554,\"hasSquad\":true,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":8233,\"countryId\":135,\"sportId\":1,\"name\":\"Stade Tunisien\",\"symbolicName\":\"ST\",\"nameForURL\":\"stade-tunisien\",\"type\":1,\"popularityRank\":92,\"imageVersion\":1,\"color\":\"#CC0000\",\"mainCompetitionId\":554,\"hasSquad\":true,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":8236,\"countryId\":135,\"sportId\":1,\"name\":\"Esperance Zarzis\",\"symbolicName\":\"ESZ\",\"nameForURL\":\"esperance-zarzis\",\"type\":1,\"popularityRank\":45,\"imageVersion\":1,\"color\":\"#FF0000\",\"mainCompetitionId\":554,\"hasSquad\":true,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":8242,\"countryId\":135,\"sportId\":1,\"name\":\"ES Hammam Sousse\",\"shortName\":\"Hamam-Sousse\",\"symbolicName\":\"EHS\",\"nameForURL\":\"es-hammam-sousse\",\"type\":1,\"popularityRank\":7,\"imageVersion\":3,\"color\":\"#21282D\",\"mainCompetitionId\":554,\"hasSquad\":true,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":90428,\"createdAt\":\"2025-08-25T12:39:12.12Z\",\"countryId\":134,\"sportId\":1,\"name\":\"Gomora United\",\"nameForURL\":\"gomora-united\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":77102,\"createdAt\":\"2023-09-02T02:20:51.95Z\",\"countryId\":134,\"sportId\":1,\"name\":\"Upington City\",\"nameForURL\":\"upington-city\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":5822,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":50315,\"createdAt\":\"2017-10-18T13:40:19.667Z\",\"countryId\":135,\"sportId\":1,\"name\":\"Oc Kerkennah\",\"nameForURL\":\"oc-kerkennah\",\"type\":1,\"popularityRank\":4,\"imageVersion\":3,\"color\":\"#21282D\",\"mainCompetitionId\":555,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":83735,\"createdAt\":\"2024-10-01T23:12:20.26Z\",\"countryId\":135,\"sportId\":1,\"name\":\"AS Agareb\",\"nameForURL\":\"as-agareb\",\"type\":1,\"popularityRank\":0,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":555,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":14330,\"countryId\":135,\"sportId\":1,\"name\":\"Sporting Ben Arous\",\"symbolicName\":\"SBA\",\"nameForURL\":\"sporting-ben-arous\",\"type\":1,\"popularityRank\":8,\"imageVersion\":2,\"color\":\"#21282D\",\"mainCompetitionId\":555,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":27712,\"createdAt\":\"2015-09-26T08:57:58.9Z\",\"countryId\":135,\"sportId\":1,\"name\":\"Union Tataouine\",\"symbolicName\":\"UST\",\"nameForURL\":\"union-tataouine\",\"type\":1,\"popularityRank\":19,\"imageVersion\":1,\"color\":\"#D9D9D9\",\"awayColor\":\"#FFFFFF\",\"mainCompetitionId\":555,\"hasTransfers\":false,\"competitorNum\":0,\"hideOnSearch\":false,\"hideOnCatalog\":false},{\"id\":14917,\"countryId\":135,\"sportId\":1,\"name\":\"AS Ari"
   },
   {
-    "url": "https://api.sofascore.com/api/v1/team/1119880/events/last/0",
-    "headers": "browser",
-    "status": 403,
-    "size": 48,
-    "upington": false,
-    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
-  },
-  {
-    "url": "https://api.sofascore.com/api/v1/team/1119880/events/last/0",
-    "headers": "app",
-    "status": 403,
-    "size": 48,
-    "upington": false,
-    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
-  },
-  {
-    "url": "https://api.sofascore.com/api/v1/team/1119880/events/last/0",
-    "headers": "plain",
-    "status": 403,
-    "size": 48,
-    "upington": false,
-    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
-  },
-  {
-    "url": "https://www.sofascore.com/api/v1/team/1119880/events/last/0",
-    "headers": "browser",
-    "status": 403,
-    "size": 48,
-    "upington": false,
-    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
-  },
-  {
-    "url": "https://www.sofascore.com/api/v1/team/1119880/events/last/0",
-    "headers": "app",
-    "status": 403,
-    "size": 48,
-    "upington": false,
-    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
-  },
-  {
-    "url": "https://www.sofascore.com/api/v1/team/1119880/events/last/0",
-    "headers": "plain",
-    "status": 403,
-    "size": 48,
-    "upington": false,
-    "around": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
-  },
-  {
-    "url": "https://api.sofascore.app/api/v1/sport/football/scheduled-events/2026-10-11",
-    "headers": "browser",
+    "url": "https://webws.365scores.com/web/game/?appTypeId=5&langId=1&timezoneName=Africa/Johannesburg&gameId=0&matchupId=77102-90428-5822",
     "status": 200,
-    "size": 0,
-    "upington": false,
-    "around": ""
-  },
-  {
-    "url": "https://api.sofascore.app/api/v1/sport/football/scheduled-events/2026-10-11",
-    "headers": "app",
-    "status": 200,
-    "size": 0,
-    "upington": false,
-    "around": ""
-  },
-  {
-    "url": "https://api.sofascore.app/api/v1/sport/football/scheduled-events/2026-10-11",
-    "headers": "plain",
-    "status": 200,
-    "size": 0,
-    "upington": false,
-    "around": ""
+    "size": 4693,
+    "upington": true,
+    "around": "{\"lastUpdateId\":5786698428,\"requestedUpdateId\":-1,\"ttl\":300,\"game\":{\"lineTypesIds\":[1,3,5,6,7,8,9,10,11,12,13,14,15,137,138,144,145],\"id\":4813791,\"sportId\":1,\"competitionId\":5822,\"statusId\":3,\"seasonNum\":16,\"stageNum\":1,\"roundNum\":6,\"roundName\":\"Round\",\"stageName\":\"Regular Season\",\"competitionDisplayName\":\"South Africa, Championship - Regular Season\",\"startTime\":\"2026-10-11T15:30:00+02:00\",\"statusGroup\":4,\"statusText\":\"Ended\",\"shortStatusText\":\"Ended\",\"gameTimeAndStatusDisplayType\":1,\"justEnded\":false,\"gameTime\":90.0,\"gameTimeDisplay\":\"\",\"preciseGameTime\":{\"minutes\":90,\"seconds\":0,\"autoProgress\":false,\"clockDirection\":1},\"winDescription\":\"\",\"homeCompetitor\":{\"id\":90428,\"createdAt\":\"2025-08-25T12:39:12.12Z\",\"countryId\":134,\"sportId\":1,\"name\":\"Gomora United\",\"score\":2.0,\"isQualified\":false,\"toQualify\":false,\"isWinner\":true,\"type\":1,\"recentMatches\":[4813791,4813801,4813808,4813810,4813822,4813825,4534221,4534223,4534248,4534333,4534229,4534230,4534233,4534239,4534240],\"nameForURL\":\"gomora-united\",\"imageVersion\":2,\"color\":\"#7f97ab\",\"mainCompetitionId\":5822},\"awayCompetitor\":{\"id\":77102,\"createdAt\":\"2023-09-02T02:20:51.95Z\",\"countryId\":134,\"sportId\":1,\"name\":\"Upington City\",\"score\":1.0,\"isQualified\":false,\"toQualify\":false,\"isWinner\":false,\"type\":1,\"recentMatches\":[4813791,4813797,4813806,4813809,4813816,4532125,4532124,4532129,4532133,4534231,4532138,4534336,4532143,4532206,4534245],\"nameForURL\":\"upington-city\",\"imageVersion\":2,\"color\":\"#c7d0d8\",\"mainCompetitionId\":5822},\"stages\":[{\"id\":7,\"name\":\"Halftime\",\"shortName\":\"HT\",\"homeCompetitorScore\":0.0,\"awayCompetitorScore\":0.0,\"isEnded\":true},{\"id\":9,\"name\":\"End of 90 Minutes\",\"shortName\":\"90 Min.\",\"homeCompetitorScore\":2.0,\"awayCompetitorScore\":1.0,\"isEnded\":true},{\"id\":1,\"name\":\"Current\",\"shortName\":\"Current\",\"homeCompetitorScore\":2.0,\"awayCompetitorScore\":1.0,\"isCurrent\":true,\"isEnded\":true}],\"events\":[{\"competitorId\":90428,\"statusId\":8,\"stageId\":9,\"order\":1,\"num\":1,\"gameTime\":50.0,\"addedTime\":0,\"gameTimeDisplay\":\"50'\",\"gameTimeAndStatusDisplayType\":2,\"isMajor\":true,\"eventType\":{\"id\":1,\"name\":\"Goal\",\"subTypeId\":1,\"subTypeName\":\"Field Goal\"}},{\"competitorId\":77102,\"statusId\":8,\"stageId\":9,\"order\":2,\"num\":2,\"gameTime\":82.0,\"addedTime\":0,\"gameTimeDisplay\":\"82'\",\"gameTimeAndStatusDisplayType\":2,\"isMajor\":true,\"eventType\":{\"id\":1,\"name\":\"Goal\",\"subTypeId\":1,\"subTypeName\":\"Field Goal\"}},{\"competitorId\":90428,\"statusId\":8,\"stageId\":9,\"order\":3,\"num\":3,\"gameTime\":90.0,\"addedTime\":0,\"gameTimeDisplay\":\"90'\",\"gameTimeAndStatusDisplayType\":2,\"isMajor\":true,\"eventType\":{\"id\":1,\"name\":\"Goal\",\"subTypeId\":1,\"subTypeName\":\"Field Goal\"}}],\"isHomeAwayInverted\":false,\"hasStats\":true,\"hasStandings\":t"
   }
 ]
