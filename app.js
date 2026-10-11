@@ -222,7 +222,7 @@ async function renderHome() {
   const setUrl = () => {
     const q = new URLSearchParams();
     if (chosen) q.set("m", chosen);
-    history.replaceState(null, "", q.toString() ? `?${q}` : location.pathname);
+    history.replaceState(null, "", location.pathname + (q.toString() ? `?${q}` : ""));
   };
 
   const draw = () => {
@@ -321,7 +321,7 @@ async function renderAbc() {
     $('[data-md="log-section"]').hidden = !hasLog;
     $('[data-md="standings"]').innerHTML = hasLog ? standingsTable(enrichLog(current.log, current.results)) : "";
   };
-  const go = () => { history.replaceState(null, "", `?s=${current.stream_id}`); draw(); };
+  const go = () => { history.replaceState(null, "", `${location.pathname}?s=${current.stream_id}`); draw(); };
   provSel.addEventListener("change", () => { current = streams.find((s) => (s.province || "Other") === provSel.value); go(); });
   streamSel.addEventListener("change", () => { current = streams.find((s) => s.stream_id === streamSel.value); go(); });
   draw();
