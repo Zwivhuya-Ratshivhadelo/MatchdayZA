@@ -6,28 +6,23 @@ import requests
 
 from common import DATA, save_json
 
-HEADERS = {
-    "browser": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
-                "Accept": "*/*", "Referer": "https://www.sofascore.com/", "Origin": "https://www.sofascore.com"},
-    "app": {"User-Agent": "okhttp/4.12.0", "Accept": "application/json"},
-    "plain": {},
-}
+H = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+     "Accept": "*/*", "Referer": "https://www.365scores.com/", "Origin": "https://www.365scores.com"}
 URLS = [
-    "https://api.sofascore.app/api/v1/team/1119880/events/last/0",
-    "https://api.sofascore.com/api/v1/team/1119880/events/last/0",
-    "https://www.sofascore.com/api/v1/team/1119880/events/last/0",
-    "https://api.sofascore.app/api/v1/sport/football/scheduled-events/2026-10-11",
+    "https://webws.365scores.com/web/games/results/?appTypeId=5&langId=1&timezoneName=Africa/Johannesburg&competitions=5822",
+    "https://webws.365scores.com/web/games/current/?appTypeId=5&langId=1&timezoneName=Africa/Johannesburg&competitions=5822",
+    "https://webws.365scores.com/web/games/allscores/?appTypeId=5&langId=1&timezoneName=Africa/Johannesburg&startDate=11/10/2026&endDate=11/10/2026&sports=1",
+    "https://webws.365scores.com/web/game/?appTypeId=5&langId=1&timezoneName=Africa/Johannesburg&gameId=0&matchupId=77102-90428-5822",
 ]
 out = []
 for u in URLS:
-    for name, h in HEADERS.items():
-        try:
-            r = requests.get(u, headers=h, timeout=30)
-            body = r.text
-            i = body.find("Upington")
-            out.append({"url": u, "headers": name, "status": r.status_code, "size": len(body),
-                        "upington": i >= 0, "around": body[max(0, i - 1200): i + 1200] if i >= 0 else body[:200]})
-        except Exception as e:
-            out.append({"url": u, "headers": name, "error": str(e)})
+    try:
+        r = requests.get(u, headers=H, timeout=30)
+        b = r.text
+        i = b.find("Upington")
+        out.append({"url": u, "status": r.status_code, "size": len(b), "upington": i >= 0,
+                    "around": b[max(0, i - 1500): i + 1500] if i >= 0 else b[:300]})
+    except Exception as e:
+        out.append({"url": u, "error": str(e)})
 save_json(DATA / "_probe.json", out)
 print(json.dumps([{k: v for k, v in o.items() if k != "around"} for o in out], indent=1))
