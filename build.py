@@ -444,6 +444,9 @@ def build_sitemap(urls):
     rows = "".join(f"  <url><loc>{SITE}{u}</loc><lastmod>{day}</lastmod></url>\n" for u in urls if not u.startswith("/match/"))
     rows += "".join(f"  <url><loc>{SITE}{u}</loc></url>\n" for u in urls if u.startswith("/match/"))
     rows += "".join(f"  <url><loc>{SITE}/{p}</loc></url>\n" for p in INFO_PAGES)
+    # plain-text copy (one address per line); Google accepts this format too
+    all_urls = [f"{SITE}{u}" for u in urls] + [f"{SITE}/{p}" for p in INFO_PAGES]
+    (ROOT / "sitemap.txt").write_text("\n".join(all_urls) + "\n", encoding="utf-8")
     (ROOT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n'
                                       '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                       f"{rows}</urlset>\n", encoding="utf-8")
