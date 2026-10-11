@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-11T23:23:32+02:00",
+  "updated": "2026-10-12T00:07:44+02:00",
   "log": [
     {
       "pos": 1,
@@ -621,15 +621,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Cape Town City FC",
-      "away": "The Bees",
-      "date": "2026-10-11T15:30:00+02:00",
-      "venue": "DHL Cape Town Stadium, Cape Town",
-      "match_id": "3019759",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019759",
-      "status": "NS"
-    },
     {
       "home": "Gomora United",
       "away": "Cape Town City FC",
