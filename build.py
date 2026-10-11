@@ -427,18 +427,10 @@ def build_match(m, comp_key, comps, template, svg, today):
         head = f'{g["home"]} vs {g["away"]} live score'
         desc = (f'{g["home"]} vs {g["away"]}, {comp_name}, {when}' + (f' at {kickoff(g)}' if kickoff(g) else "")
                 + '. Live score, stats, key moments and line-ups.')
-    teams = {slug(g["home"]), slug(g["away"])}
-    recent = sorted([{**r, "_comp": k} for k, c in comps.items() for r in c.get("results", [])
-                     if r.get("status") == "FT" and teams & {slug(r["home"]), slug(r["away"])} and game_key(r) != game_key(m)],
-                    key=lambda r: r.get("date") or "", reverse=True)[:12]
-    log = comp.get("log", [])
     page = fill(template, {
         "title": esc(f"{head} | {comp_name} | MatchdayZA"), "description": esc(desc),
         "canonical": SITE + url, "comp": comp_key, "key": esc(game_key(m)), "nav": nav(comp_key),
         "featured": pitch_card(g, comp_name, today, svg), "panel": detail_panel(detail),
-        "results": results_list(recent, False, lambda r: PAGES[r["_comp"]][1], True) or '<p class="empty">No results yet.</p>',
-        "standings": standings_table(enrich_log(log, comp.get("results", []), comp.get("extra")), True) if log else "",
-        "log_hidden": "" if log else " hidden",
     })
     write(url, page)
     return url
