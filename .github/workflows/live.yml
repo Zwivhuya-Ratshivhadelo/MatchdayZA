@@ -1,0 +1,42 @@
+name: Match-day live scores
+
+on:
+  schedule:
+    - cron: "37 12 * * *"   # 14:37 SAST: games kicking off before 18:30
+    - cron: "7 17 * * *"    # 19:07 SAST: games kicking off 18:30 or later
+  workflow_dispatch:
+    inputs:
+      window:
+        description: "Which games to follow"
+        type: choice
+        options: [early, late]
+        default: early
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-${{ github.event.schedule || inputs.window }}
+  cancel-in-progress: false
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      LIVE_DEPLOY: "1"
+      REQUEST_GAP: "1.5"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Follow today's games
+        run: |
+          if [ "${{ github.event.schedule }}" = "7 17 * * *" ]; then WINDOW=late
+          elif [ -n "${{ inputs.window }}" ]; then WINDOW="${{ inputs.window }}"
+          else WINDOW=early; fi
+          python live.py "$WINDOW"
