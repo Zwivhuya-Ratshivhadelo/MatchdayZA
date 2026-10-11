@@ -119,8 +119,11 @@ function resultCard(m, label, opts = {}) {
   const inner = `<div class="lc-bar"><span class="dt">${barDate(m)}</span><span>${live ? `<span class="pill-live">Live ${esc(m.minute || "")}</span>` : "FT"}</span></div>
     <div class="lc-body">${side(m.home)}<span class="lc-score">${m.home_score} - ${m.away_score}</span>${sideR(m.away)}</div>
     ${label ? `<div class="lc-comp">${esc(label)}</div>` : ""}`;
-  return opts.pick ? `<button type="button" class="lc pick" data-key="${esc(gameKey(m))}">${inner}<span class="lc-more">View match</span></button>`
-                   : `<article class="lc">${inner}</article>`;
+  // "View match" opens the game's own page (PSL games); tapping the rest of the card puts it on the pitch
+  const url = opts.link ? matchUrl(m) : null;
+  const more = url ? `<a class="lc-more" href="${url}">View match</a>` : "";
+  return opts.pick ? `<div class="lc pick" role="button" tabindex="0" data-key="${esc(gameKey(m))}">${inner}${more}</div>`
+                   : `<article class="lc">${inner}${more}</article>`;
 }
 
 /* PSL club names link to the club's page */
@@ -148,7 +151,7 @@ function pitchCard(m, compName) {
 
 function resultsList(box, list, labelOf, opts = {}) {
   if (!list.length) return false;
-  const cards = list.map((m, i) => resultCard(m, labelOf ? labelOf(m) : "", opts).replace(/^<(button|article) (type="button" )?class="lc/, (x) => (i >= RESULTS_SHOWN ? x + " extra" : x))).join("");
+  const cards = list.map((m, i) => resultCard(m, labelOf ? labelOf(m) : "", opts).replace(/^<(div|article) class="lc/, (x) => (i >= RESULTS_SHOWN ? x + " extra" : x))).join("");
   box.innerHTML = `<div class="rcards">${cards}</div>` +
     (list.length > RESULTS_SHOWN ? `<button class="more-btn" type="button">Show all results</button>` : "");
   const btn = box.querySelector(".more-btn");
@@ -270,7 +273,7 @@ async function renderBoard(view) {
 
     const done = results.filter((m) => m.status === "FT").sort(byDate).reverse();
     const resBox = $('[data-md="results"]');
-    if (!resultsList(resBox, done, v.labels ? compName : null, { pick: true })) resBox.innerHTML = `<p class="empty">No ${esc(v.name)} results yet.</p>`;
+    if (!resultsList(resBox, done, v.labels ? compName : null, { pick: true, link: true })) resBox.innerHTML = `<p class="empty">No ${esc(v.name)} results yet.</p>`;
 
     const log = v.log;
     $('[data-md="log-section"]').hidden = !log;
@@ -301,14 +304,17 @@ async function renderBoard(view) {
   };
 
   // tapping a next-match card or a result card puts that game on the pitch
-  document.addEventListener("click", (e) => {
+  const choose = (e) => {
+    if (e.target.closest("a")) return;          // links (View match, club names) open their page
     const card = e.target.closest("[data-key]");
     if (!card) return;
     chosen = card.dataset.key;
     setUrl();
     draw();
     if (card.classList.contains("lc")) $('[data-md="featured"]').scrollIntoView({ behavior: "smooth", block: "start" });
-  });
+  };
+  document.addEventListener("click", choose);
+  document.addEventListener("keydown", (e) => { if (e.key === "Enter" && e.target.matches?.("div[data-key]")) choose(e); });
   draw();
 }
 

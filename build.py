@@ -115,7 +115,7 @@ def team_link(team):
     return f'<a href="{club_url(team)}">{esc(team)}</a>' if slug(team) in CLUBS else esc(team)
 
 
-def result_card(m, extra=False, pick=False, label=""):
+def result_card(m, extra=False, pick=False, label="", link=False):
     def side(t):
         return f'<span class="lc-team"><b>{esc(t)}</b>{crest(t, 30)}</span>'
 
@@ -127,16 +127,17 @@ def result_card(m, extra=False, pick=False, label=""):
              f'{side_r(m["away"])}</div>'
              + (f'<div class="lc-comp">{esc(label)}</div>' if label else ""))
     ex = " extra" if extra else ""
+    url = match_url(m) if link else None
+    more = f'<a class="lc-more" href="{url}">View match</a>' if url else ""
     if pick:
-        return (f'<button type="button" class="lc{ex} pick" data-key="{esc(game_key(m))}">{inner}'
-                f'<span class="lc-more">View match</span></button>')
-    return f'<article class="lc{ex}">{inner}</article>'
+        return f'<div class="lc{ex} pick" role="button" tabindex="0" data-key="{esc(game_key(m))}">{inner}{more}</div>'
+    return f'<article class="lc{ex}">{inner}{more}</article>'
 
 
-def results_list(done, pick=False, label_of=None):
+def results_list(done, pick=False, label_of=None, link=False):
     if not done:
         return ""
-    cards = "".join(result_card(m, i >= RESULTS_SHOWN, pick, label_of(m) if label_of else "") for i, m in enumerate(done))
+    cards = "".join(result_card(m, i >= RESULTS_SHOWN, pick, label_of(m) if label_of else "", link) for i, m in enumerate(done))
     more = '<button class="more-btn" type="button">Show all results</button>' if len(done) > RESULTS_SHOWN else ""
     return f'<div class="rcards">{cards}</div>{more}'
 
@@ -248,7 +249,7 @@ def build_comp(slug_, template, svg, today):
         "h1": esc(f"{name} live scores,{league} fixtures and results"),
         "nav": nav(slug_), "next_title": "Live now" if live else "Next matches", "next": next_html,
         "featured": pitch_card(pick, name, today, svg) if pick else "",
-        "results": results_list(done, pick=True) or f'<p class="empty">No {esc(name)} results yet.</p>',
+        "results": results_list(done, pick=True, link=True) or f'<p class="empty">No {esc(name)} results yet.</p>',
         "standings": standings_table(enrich_log(log, results, comp.get("extra")), links=True) if log else "",
         "log_hidden": "" if log else " hidden",
     })
@@ -404,7 +405,7 @@ def build_club(club, comps, template, svg, today):
         "next": ("".join(match_card(m, today, True, game_key(m) == pick_key) for m in nxt) if nxt
                  else f'<p class="empty">No {esc(club)} matches scheduled yet.</p>'),
         "featured": pitch_card(pick, name_of(pick), today, svg) if pick else "",
-        "results": results_list(done, True, name_of) or f'<p class="empty">No {esc(club)} results yet.</p>',
+        "results": results_list(done, True, name_of, True) or f'<p class="empty">No {esc(club)} results yet.</p>',
         "standings": standings_table(enrich_log(lc.get("log", []), lc.get("results", []), lc.get("extra")), True, club) if league else "",
         "log_hidden": "" if league else " hidden",
     })
@@ -436,7 +437,7 @@ def build_match(m, comp_key, comps, template, svg, today):
         "title": esc(f"{head} | {comp_name} | MatchdayZA"), "description": esc(desc),
         "canonical": SITE + url, "comp": comp_key, "key": esc(game_key(m)), "nav": nav(comp_key),
         "featured": pitch_card(g, comp_name, today, svg), "panel": detail_panel(detail),
-        "results": results_list(recent, False, lambda r: PAGES[r["_comp"]][1]) or '<p class="empty">No results yet.</p>',
+        "results": results_list(recent, False, lambda r: PAGES[r["_comp"]][1], True) or '<p class="empty">No results yet.</p>',
         "standings": standings_table(enrich_log(log, comp.get("results", []), comp.get("extra")), True) if log else "",
         "log_hidden": "" if log else " hidden",
     })
