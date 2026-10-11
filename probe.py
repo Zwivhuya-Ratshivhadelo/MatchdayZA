@@ -18,7 +18,12 @@ try:
                      headers=UA, timeout=30)
     out["livescore_status"] = r.status_code
     stages = r.json().get("Stages", []) if r.ok else []
-    sa = [s for s in stages if "south africa" in (s.get("Cnm") or "").lower()]
+    out["livescore_stage_count"] = len(stages)
+    out["livescore_stage_keys"] = list(stages[0].keys()) if stages else None
+    out["livescore_countries"] = sorted({str(s.get("Cnm")) for s in stages})[:80]
+    def has_team(s):
+        return any(any(w in json.dumps(e).lower() for w in ("gomora", "bees", "upington")) for e in s.get("Events", []))
+    sa = [s for s in stages if "south africa" in (s.get("Cnm") or "").lower() or has_team(s)]
     out["livescore"] = [{"stage": s.get("Snm"), "comp": s.get("CompN") or s.get("Cnm"), "events": [
         {"id": e.get("Eid"), "home": (e.get("T1") or [{}])[0].get("Nm"), "away": (e.get("T2") or [{}])[0].get("Nm"),
          "score": f"{e.get('Tr1')}-{e.get('Tr2')}", "status": e.get("Eps"), "start": e.get("Esd")}
