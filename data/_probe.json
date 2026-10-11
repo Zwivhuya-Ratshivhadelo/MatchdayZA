@@ -1,0 +1,8 @@
+{
+  "day": "2026-10-11",
+  "livescore_status": 200,
+  "livescore": [],
+  "sofascore_status": 403,
+  "sofascore": [],
+  "sofascore_body": "{\"error\": {\"code\": 403, \"reason\": \"Forbidden\" }}"
+}
