@@ -4,7 +4,7 @@
   "short": "Nedbank Cup",
   "league": false,
   "source": "https://www.psl.co.za/tournament/nedbank-cup",
-  "updated": "2026-10-11T10:32:54+02:00",
+  "updated": "2026-10-11T11:54:44+02:00",
   "log": [],
   "results": [
     {
@@ -41,5 +41,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/2633406-durban-city-vs-ts-galaxy"
     }
   ],
-  "fixtures": []
+  "fixtures": [],
+  "extra": [],
+  "not_ours": []
 }

@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-11T10:33:29+02:00",
+  "updated": "2026-10-11T11:54:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -1440,5 +1440,206 @@
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "status": "NS"
     }
-  ]
+  ],
+  "extra": [
+    {
+      "match_id": "2674003",
+      "home": "Mamelodi Sundowns",
+      "away": "AmaZulu FC",
+      "home_score": 5,
+      "away_score": 2,
+      "status": "FT",
+      "date": "2026-08-26"
+    },
+    {
+      "match_id": "2674005",
+      "home": "Orlando Pirates",
+      "away": "Sekhukhune United",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT",
+      "date": "2026-08-26"
+    },
+    {
+      "match_id": "2674006",
+      "home": "Siwelele",
+      "away": "Chippa United",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT",
+      "date": "2026-08-26"
+    },
+    {
+      "match_id": "2674008",
+      "home": "Polokwane City",
+      "away": "Milford FC",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT",
+      "date": "2026-08-26"
+    },
+    {
+      "match_id": "2674010",
+      "home": "Marumo Gallants",
+      "away": "Polokwane City",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "FT",
+      "date": "2026-09-05"
+    },
+    {
+      "match_id": "2674011",
+      "home": "Richards Bay",
+      "away": "AmaZulu FC",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "FT",
+      "date": "2026-09-05"
+    },
+    {
+      "match_id": "2674013",
+      "home": "Kruger United",
+      "away": "Orlando Pirates",
+      "home_score": 0,
+      "away_score": 4,
+      "status": "FT",
+      "date": "2026-09-05"
+    },
+    {
+      "match_id": "2674015",
+      "home": "Kaizer Chiefs",
+      "away": "Siwelele",
+      "home_score": 3,
+      "away_score": 2,
+      "status": "FT",
+      "date": "2026-09-05"
+    },
+    {
+      "match_id": "2674017",
+      "home": "Durban City",
+      "away": "Stellenbosch FC",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT",
+      "date": "2026-09-05"
+    },
+    {
+      "match_id": "2674018",
+      "home": "Stellenbosch FC",
+      "away": "Sekhukhune United",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT",
+      "date": "2026-09-13"
+    },
+    {
+      "match_id": "2674019",
+      "home": "AmaZulu FC",
+      "away": "Marumo Gallants",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "date": "2026-09-13"
+    },
+    {
+      "match_id": "2674020",
+      "home": "Polokwane City",
+      "away": "Kaizer Chiefs",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT",
+      "date": "2026-09-13"
+    },
+    {
+      "match_id": "2674021",
+      "home": "Chippa United",
+      "away": "Mamelodi Sundowns",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT",
+      "date": "2026-09-13"
+    },
+    {
+      "match_id": "2674023",
+      "home": "Siwelele",
+      "away": "Golden Arrows",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT",
+      "date": "2026-09-13"
+    },
+    {
+      "match_id": "2674024",
+      "home": "TS Galaxy",
+      "away": "Kruger United",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "date": "2026-09-13"
+    },
+    {
+      "match_id": "2674025",
+      "home": "Orlando Pirates",
+      "away": "Durban City",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT",
+      "date": "2026-09-13"
+    },
+    {
+      "match_id": "2674026",
+      "home": "Richards Bay",
+      "away": "Sekhukhune United",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "FT",
+      "date": "2026-09-20"
+    },
+    {
+      "match_id": "2674028",
+      "home": "Kruger United",
+      "away": "Stellenbosch FC",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "date": "2026-09-20"
+    },
+    {
+      "match_id": "2674029",
+      "home": "Polokwane City",
+      "away": "AmaZulu FC",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "date": "2026-09-20"
+    },
+    {
+      "match_id": "2674031",
+      "home": "Milford FC",
+      "away": "Durban City",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT",
+      "date": "2026-09-20"
+    },
+    {
+      "match_id": "2674032",
+      "home": "TS Galaxy",
+      "away": "Chippa United",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "date": "2026-09-20"
+    },
+    {
+      "match_id": "2674033",
+      "home": "Marumo Gallants",
+      "away": "Orlando Pirates",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT",
+      "date": "2026-09-20"
+    }
+  ],
+  "not_ours": []
 }
