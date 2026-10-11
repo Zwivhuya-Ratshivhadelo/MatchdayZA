@@ -281,7 +281,7 @@ def save_match(match_id, slug, home, away, detail):
         "updated": now_sast().isoformat(timespec="seconds"), **detail})
 
 
-def fetch_missing_details(limit=12):
+def fetch_missing_details(limit=60):
     """Fetch match pages for finished results that have no saved timeline yet."""
     done = 0
     for slug in COMPETITIONS:
