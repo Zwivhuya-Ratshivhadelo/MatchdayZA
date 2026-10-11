@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en-ZA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MatchdayZA | SA football live scores, fixtures, results and logs</title>
+  <meta name="description" content="Live scores, fixtures, results and logs for the Betway Premiership, Motsepe Foundation Championship, MTN8, Carling Knockout, Nedbank Cup and ABC Motsepe League.">
+  <meta name="theme-color" content="#00563A">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="home">
+
+  <header class="site-header">
+    <div class="container header-row">
+      <div class="brand-row">
+        <button class="menu-btn" aria-expanded="false" aria-controls="main-nav" aria-label="Open menu">
+          <span></span><span></span><span></span>
+        </button>
+        <a class="wordmark" href="index.html">Matchday<span>ZA</span></a>
+      </div>
+      <nav id="main-nav" class="main-nav" aria-label="Main">
+        <div class="nav-item"><a href="index.html">Betway Premiership</a></div>
+        <div class="nav-item"><a href="index.html?c=national-first-division">Motsepe Foundation Championship</a></div>
+        <div class="nav-item">
+          <a href="index.html?c=mtn8">Cups</a>
+          <div class="dropdown">
+            <a href="index.html?c=mtn8">MTN8</a>
+            <a href="index.html?c=carling-knockout">Carling Knockout</a>
+            <a href="index.html?c=nedbank-cup">Nedbank Cup</a>
+          </div>
+        </div>
+        <div class="nav-item"><a href="abc.html">ABC Motsepe League</a></div>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Competition switch: the whole page follows it -->
+  <nav class="comp-switch" aria-label="Competitions">
+    <div class="container comp-switch-row" data-md="comp-switch"></div>
+  </nav>
+
+
+  <main>
+    <!-- Next matches bar -->
+    <section class="next-bar">
+      <div class="container">
+        <div class="next-head">
+          <h2>Next matches</h2>
+        </div>
+        <div class="next-scroll" data-md="next-matches"></div>
+      </div>
+    </section>
+
+    <!-- Featured match -->
+    <section class="container">
+      <div data-md="featured"></div>
+    </section>
+
+    <div class="container home-grid">
+      <section class="results-block">
+        <div class="panel-head">
+          <h2>Latest results</h2>
+        </div>
+        <div data-md="results"></div>
+      </section>
+
+      <section class="panel" data-md="log-section">
+        <div class="panel-head">
+          <h2>Log</h2>
+        </div>
+        <div data-md="standings"></div>
+      </section>
+    </div>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="wordmark" href="index.html">Matchday<span>ZA</span></a>
+        <p>South African football scores, fixtures, results and logs.</p>
+      </div>
+      <nav aria-label="Competitions">
+        <h3>Leagues</h3>
+        <a href="index.html">Betway Premiership</a>
+        <a href="index.html?c=national-first-division">Motsepe Foundation Championship</a>
+        <a href="abc.html">ABC Motsepe League</a>
+      </nav>
+      <nav aria-label="Cups">
+        <h3>Cups</h3>
+        <a href="index.html?c=mtn8">MTN8</a>
+        <a href="index.html?c=carling-knockout">Carling Knockout</a>
+        <a href="index.html?c=nedbank-cup">Nedbank Cup</a>
+      </nav>
+    </div>
+    <div class="container footer-base">
+      <span>&copy; <span data-md="year"></span> MatchdayZA</span>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
