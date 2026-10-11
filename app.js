@@ -199,9 +199,11 @@ function compNav(active) {
   switchRow(el, items, active, () => {});
 }
 
-function liveRefresh(on) {
+/* While games are live, fetch fresh data every minute and redraw in place.
+   The page itself is never reloaded, so ads are not refreshed. */
+function liveRefresh(on, update) {
   clearTimeout(window.__mdRefresh);
-  if (on && !window.MATCHDAY_DATA) window.__mdRefresh = setTimeout(() => location.reload(), 60000);
+  if (on && !window.MATCHDAY_DATA) window.__mdRefresh = setTimeout(update, 60000);
 }
 
 /* ---------- home: PSL competitions, one switch drives the page ---------- */
@@ -212,7 +214,7 @@ async function renderHome() {
     location.replace(PSL[param("c")].url + (m ? `?m=${encodeURIComponent(m)}` : ""));
     return;
   }
-  const comps = await loadComps();
+  let comps = await loadComps();
   const current = PSL[document.body.dataset.comp] ? document.body.dataset.comp : "betway-premiership";
   let chosen = param("m");          // the game on the pitch (from a tap, or a shared link)
   let drawToken = 0;
@@ -271,7 +273,14 @@ async function renderHome() {
       });
     }
 
-    liveRefresh(live.length > 0 || pick?.status === "LIVE");
+    liveRefresh(live.length > 0 || pick?.status === "LIVE", async () => {
+      const row = $('[data-md="next-matches"]'), x = row ? row.scrollLeft : 0;
+      const showAll = !!document.querySelector(".rcards.show-all");
+      comps = await loadComps();
+      draw();
+      if (row) row.scrollLeft = x;
+      if (showAll) { document.querySelector(".rcards")?.classList.add("show-all"); document.querySelector(".more-btn")?.remove(); }
+    });
   };
 
   // tapping a next-match card or a result card puts that game on the pitch
