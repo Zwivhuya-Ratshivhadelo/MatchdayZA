@@ -100,7 +100,22 @@ def match_card(m, today, pick=False, selected=False):
     return f'<div class="{cls}">{inner}</div>'
 
 
-def result_card(m, extra=False, pick=False):
+CLUBS = set()   # clubs with their own page (every club in a PSL league log)
+
+
+def club_url(name):
+    return f"/{slug(name)}/"
+
+
+def match_url(m):
+    return f"/match/{slug(m['home'])}-vs-{slug(m['away'])}-{m['date'][:10]}/" if m.get("date") else None
+
+
+def team_link(team):
+    return f'<a href="{club_url(team)}">{esc(team)}</a>' if slug(team) in CLUBS else esc(team)
+
+
+def result_card(m, extra=False, pick=False, label=""):
     def side(t):
         return f'<span class="lc-team"><b>{esc(t)}</b>{crest(t, 30)}</span>'
 
@@ -109,7 +124,8 @@ def result_card(m, extra=False, pick=False):
 
     inner = (f'<div class="lc-bar"><span class="dt">{bar_date(m)}</span><span>FT</span></div>'
              f'<div class="lc-body">{side(m["home"])}<span class="lc-score">{m["home_score"]} - {m["away_score"]}</span>'
-             f'{side_r(m["away"])}</div>')
+             f'{side_r(m["away"])}</div>'
+             + (f'<div class="lc-comp">{esc(label)}</div>' if label else ""))
     ex = " extra" if extra else ""
     if pick:
         return (f'<button type="button" class="lc{ex} pick" data-key="{esc(game_key(m))}">{inner}'
@@ -117,10 +133,10 @@ def result_card(m, extra=False, pick=False):
     return f'<article class="lc{ex}">{inner}</article>'
 
 
-def results_list(done, pick=False):
+def results_list(done, pick=False, label_of=None):
     if not done:
         return ""
-    cards = "".join(result_card(m, i >= RESULTS_SHOWN, pick) for i, m in enumerate(done))
+    cards = "".join(result_card(m, i >= RESULTS_SHOWN, pick, label_of(m) if label_of else "") for i, m in enumerate(done))
     more = '<button class="more-btn" type="button">Show all results</button>' if len(done) > RESULTS_SHOWN else ""
     return f'<div class="rcards">{cards}</div>{more}'
 
@@ -144,9 +160,9 @@ def pitch_card(m, comp_name, today, svg):
     return (f'<article class="featured">{svg}'
             f'<div class="featured-meta"><span class="featured-comp">{esc(comp_name)}</span></div>'
             f'<div class="featured-main">'
-            f'<div class="featured-team">{crest(m["home"])}<strong>{esc(m["home"])}</strong></div>'
+            f'<div class="featured-team">{crest(m["home"])}<strong>{team_link(m["home"])}</strong></div>'
             f'<div class="featured-score">{centre}</div>'
-            f'<div class="featured-team">{crest(m["away"])}<strong>{esc(m["away"])}</strong></div>'
+            f'<div class="featured-team">{crest(m["away"])}<strong>{team_link(m["away"])}</strong></div>'
             f'</div>{latest}{venue}</article>')
 
 
@@ -170,12 +186,13 @@ def enrich_log(log, results, extra=None):
     return rows
 
 
-def standings_table(rows):
+def standings_table(rows, links=False, highlight=None):
     def gd(v):
         return "–" if v is None else (f"+{v}" if v > 0 else str(v))
 
     body = "".join(
-        f'<tr><td class="pos">{r["pos"]}</td><td class="club"><div>{crest(r["team"])}{esc(r["team"])}</div></td>'
+        f'<tr{" class=" + chr(34) + "me" + chr(34) if highlight and slug(highlight) == slug(r["team"]) else ""}>'
+        f'<td class="pos">{r["pos"]}</td><td class="club"><div>{crest(r["team"])}{team_link(r["team"]) if links else esc(r["team"])}</div></td>'
         f'<td>{r["p"]}</td><td class="hide-sm">{r["w"]}</td><td class="hide-sm">{r["d"]}</td><td class="hide-sm">{r["l"]}</td>'
         f'<td>{gd(r["gd"])}</td><td class="pts">{r["pts"]}</td>'
         f'<td class="form hide-sm">{"".join(f"<span class={chr(34)}{f}{chr(34)}>{f}</span>" for f in r["form"])}</td></tr>'
@@ -232,12 +249,10 @@ def build_comp(slug_, template, svg, today):
         "nav": nav(slug_), "next_title": "Live now" if live else "Next matches", "next": next_html,
         "featured": pitch_card(pick, name, today, svg) if pick else "",
         "results": results_list(done, pick=True) or f'<p class="empty">No {esc(name)} results yet.</p>',
-        "standings": standings_table(enrich_log(log, results, comp.get("extra"))) if log else "",
+        "standings": standings_table(enrich_log(log, results, comp.get("extra")), links=True) if log else "",
         "log_hidden": "" if log else " hidden",
     })
-    path = ROOT / url.strip("/") / "index.html" if url != "/" else ROOT / "index.html"
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(page, encoding="utf-8")
+    write(url, page)
     return url
 
 
@@ -273,9 +288,166 @@ def build_abc(template, today):
     return "/abc.html"
 
 
+def write(url, page):
+    """Write a page at its address, only when it changed (keeps commits small)."""
+    path = ROOT / url.strip("/") / "index.html" if url != "/" else ROOT / "index.html"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if not path.exists() or path.read_text(encoding="utf-8") != page:
+        path.write_text(page, encoding="utf-8")
+
+
+# ---------- stats, key moments and line-ups (same as app.js detailPanel) ----------
+EVENT_TEXT = {
+    "goal": lambda e: f"Goal! {e.get('player')} ({e.get('team')})",
+    "penalty_goal": lambda e: f"Penalty scored by {e.get('player')} ({e.get('team')})",
+    "own_goal": lambda e: f"Own goal by {e.get('player')} ({e.get('team')})",
+    "penalty_saved": lambda e: f"Penalty saved, {e.get('player')} ({e.get('team')}) denied",
+    "penalty_missed": lambda e: f"Penalty missed by {e.get('player')} ({e.get('team')})",
+    "penalty_won": lambda e: f"Penalty to {e.get('team')}, {e.get('player')} fouled",
+    "yellow": lambda e: f"Yellow card, {e.get('player')} ({e.get('team')})",
+    "second_yellow": lambda e: f"Second yellow, {e.get('player')} ({e.get('team')}) sent off",
+    "red": lambda e: f"Red card, {e.get('player')} ({e.get('team')})",
+    "sub": lambda e: f"{e.get('team')}: {e.get('player_in')} on, {e.get('player_out')} off",
+    "var": lambda e: "VAR check",
+}
+PERIOD_TEXT = {"kickoff": "Kick-off", "half_time": "Half-time", "second_half": "Second half", "full_time": "Full time",
+               "extra_time": "Extra time", "shootout": "Penalty shootout"}
+ICON = {
+    "goal": '<span class="ev-ico goal">⚽</span>', "penalty_goal": '<span class="ev-ico goal">⚽</span>',
+    "own_goal": '<span class="ev-ico goal og">⚽</span>', "yellow": '<span class="ev-ico card y"></span>',
+    "red": '<span class="ev-ico card r"></span>', "second_yellow": '<span class="ev-ico card yr"></span>',
+    "sub": '<span class="ev-ico sub">⇄</span>', "penalty_saved": '<span class="ev-ico miss">✕</span>',
+    "penalty_missed": '<span class="ev-ico miss">✕</span>', "penalty_won": '<span class="ev-ico pen">P</span>',
+    "var": '<span class="ev-ico var">VAR</span>',
+}
+
+
+def detail_panel(detail):
+    if not detail:
+        return ""
+    parts = []
+    stats = detail.get("stats") or []
+    if stats:
+        rows = ""
+        for st in stats:
+            try:
+                h = float(str(st["home"]).rstrip("%")) or 0
+            except ValueError:
+                h = 0
+            try:
+                a = float(str(st["away"]).rstrip("%")) or 0
+            except ValueError:
+                a = 0
+            tot = (h + a) or 1
+            rows += (f'<div class="stat"><div class="stat-row"><b>{esc(st["home"])}</b><span>{esc(st["label"])}</span><b>{esc(st["away"])}</b></div>'
+                     f'<div class="stat-bar"><i class="h" style="width:{h / tot * 100:g}%"></i><i class="a" style="width:{a / tot * 100:g}%"></i></div></div>')
+        parts.append(f'<section class="panel"><div class="panel-head"><h2>Stats</h2></div>{rows}</section>')
+    events = detail.get("events") or []
+    if events:
+        items = ""
+        for e in events:
+            t = e.get("type")
+            if t in PERIOD_TEXT:
+                items += f'<li class="ev-period"><span>{PERIOD_TEXT[t]}</span></li>'
+                continue
+            text = EVENT_TEXT.get(t, lambda e: "")(e)
+            score = f'<b class="ev-score">{e["score"][0]} - {e["score"][1]}</b>' if e.get("score") else ""
+            items += (f'<li class="ev ev-{esc(t)}"><span class="ev-min">{esc(e.get("minute"))}</span>{ICON.get(t, "")}'
+                      f'<span class="ev-text">{esc(text)}</span>{score}</li>')
+        parts.append(f'<section class="panel"><div class="panel-head"><h2>Key moments</h2></div><ol class="timeline">{items}</ol></section>')
+    lineups = detail.get("lineups") or []
+    if lineups:
+        def lst(ps):
+            return "".join(f'<li><span class="lu-no">{esc(p.get("no"))}</span><span class="lu-name">{esc(p.get("name"))}</span>'
+                           f'<span class="lu-pos">{esc(p.get("pos"))}</span></li>' for p in ps)
+        teams = "".join(
+            f'<div class="lu-team"><h3>{crest(t["team"], 24)}{esc(t["team"])}</h3><h4>Starting XI</h4><ol class="lu-list">{lst(t["starting"])}</ol>'
+            + (f'<h4>Substitutes</h4><ol class="lu-list">{lst(t["subs"])}</ol>' if t.get("subs") else "") + "</div>"
+            for t in lineups)
+        parts.append(f'<section class="panel"><div class="panel-head"><h2>Line-ups</h2></div><div class="lineups">{teams}</div></section>')
+    return "".join(parts)
+
+
+def merge_detail(m, detail):
+    if detail and detail.get("status") != "NS":
+        return {**m, "home_score": detail.get("home_score"), "away_score": detail.get("away_score"),
+                "status": detail.get("status"), "minute": detail.get("minute") or m.get("minute")}
+    return dict(m)
+
+
+# ---------- club and match pages ----------
+def load_comps():
+    return {k: load_json(DATA / "psl" / f"{k}.json", {}) or {} for k in PAGES}
+
+
+def build_club(club, comps, template, svg, today):
+    s = slug(club)
+    fixtures, results = [], []
+    for k, comp in comps.items():
+        fixtures += [{**m, "_comp": k} for m in comp.get("fixtures", []) if s in (slug(m["home"]), slug(m["away"]))]
+        results += [{**m, "_comp": k} for m in comp.get("results", []) if s in (slug(m["home"]), slug(m["away"]))]
+    fixtures.sort(key=lambda m: m.get("date") or "")
+    live = [m for m in results if m.get("status") == "LIVE"]
+    done = sorted([m for m in results if m.get("status") == "FT"], key=lambda m: m.get("date") or "", reverse=True)
+    pick = (live[0] if live else None) or (fixtures[0] if fixtures else None) or (done[0] if done else None)
+    pick_key = game_key(pick) if pick else None
+    nxt = (live + fixtures)[:12]
+    league = next((k for k, c in comps.items() if any(slug(r["team"]) == s for r in c.get("log", []))), None)
+    lc = comps.get(league, {}) if league else {}
+    name_of = lambda m: PAGES[m["_comp"]][1]
+    page = fill(template, {
+        "title": esc(f"{club} fixtures, results and log | MatchdayZA"),
+        "description": esc(f"{club} live scores, fixtures, results and log position"
+                           + (f" in the {PAGES[league][1]}" if league else "") + ", with stats and line-ups for every game."),
+        "canonical": SITE + club_url(club), "club_name": esc(club), "club_crest": crest(club),
+        "nav": nav(None), "next_title": "Live now" if live else "Next matches",
+        "next": ("".join(match_card(m, today, True, game_key(m) == pick_key) for m in nxt) if nxt
+                 else f'<p class="empty">No {esc(club)} matches scheduled yet.</p>'),
+        "featured": pitch_card(pick, name_of(pick), today, svg) if pick else "",
+        "results": results_list(done, True, name_of) or f'<p class="empty">No {esc(club)} results yet.</p>',
+        "standings": standings_table(enrich_log(lc.get("log", []), lc.get("results", []), lc.get("extra")), True, club) if league else "",
+        "log_hidden": "" if league else " hidden",
+    })
+    write(club_url(club), page)
+    return club_url(club)
+
+
+def build_match(m, comp_key, comps, template, svg, today):
+    url = match_url(m)
+    comp = comps[comp_key]
+    comp_name = PAGES[comp_key][1]
+    detail = load_json(DATA / "psl" / "matches" / f"{m['match_id']}.json", None) if m.get("match_id") else None
+    g = merge_detail(m, detail)
+    d = parse_date(g)
+    when = f"{d:%-d %B %Y}" if d else ""
+    if g.get("status") == "FT":
+        head = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]}'
+        desc = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]}, {comp_name}, {when}. Stats, key moments and line-ups.'
+    else:
+        head = f'{g["home"]} vs {g["away"]} live score'
+        desc = (f'{g["home"]} vs {g["away"]}, {comp_name}, {when}' + (f' at {kickoff(g)}' if kickoff(g) else "")
+                + '. Live score, stats, key moments and line-ups.')
+    teams = {slug(g["home"]), slug(g["away"])}
+    recent = sorted([{**r, "_comp": k} for k, c in comps.items() for r in c.get("results", [])
+                     if r.get("status") == "FT" and teams & {slug(r["home"]), slug(r["away"])} and game_key(r) != game_key(m)],
+                    key=lambda r: r.get("date") or "", reverse=True)[:12]
+    log = comp.get("log", [])
+    page = fill(template, {
+        "title": esc(f"{head} | {comp_name} | MatchdayZA"), "description": esc(desc),
+        "canonical": SITE + url, "comp": comp_key, "key": esc(game_key(m)), "nav": nav(comp_key),
+        "featured": pitch_card(g, comp_name, today, svg), "panel": detail_panel(detail),
+        "results": results_list(recent, False, lambda r: PAGES[r["_comp"]][1]) or '<p class="empty">No results yet.</p>',
+        "standings": standings_table(enrich_log(log, comp.get("results", []), comp.get("extra")), True) if log else "",
+        "log_hidden": "" if log else " hidden",
+    })
+    write(url, page)
+    return url
+
+
 def build_sitemap(urls):
     day = now_sast().date().isoformat()
-    rows = "".join(f"  <url><loc>{SITE}{u}</loc><lastmod>{day}</lastmod></url>\n" for u in urls)
+    rows = "".join(f"  <url><loc>{SITE}{u}</loc><lastmod>{day}</lastmod></url>\n" for u in urls if not u.startswith("/match/"))
+    rows += "".join(f"  <url><loc>{SITE}{u}</loc></url>\n" for u in urls if u.startswith("/match/"))
     rows += "".join(f"  <url><loc>{SITE}/{p}</loc></url>\n" for p in INFO_PAGES)
     (ROOT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n'
                                       '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
@@ -287,10 +459,35 @@ def run():
     svg = pitch_svg()
     home_t = (ROOT / "templates" / "home.html").read_text(encoding="utf-8")
     abc_t = (ROOT / "templates" / "abc.html").read_text(encoding="utf-8")
+    comps = load_comps()
+    CLUBS.clear()
+    clubs = {}
+    for c in comps.values():
+        for r in c.get("log", []):
+            CLUBS.add(slug(r["team"]))
+            clubs.setdefault(slug(r["team"]), r["team"])
     urls = [build_comp(s, home_t, svg, today) for s in PAGES]
     urls.append(build_abc(abc_t, today))
-    build_sitemap(urls)
-    print("Built pages:", ", ".join(urls))
+
+    club_t = (ROOT / "templates" / "club.html").read_text(encoding="utf-8")
+    club_urls = [build_club(name, comps, club_t, svg, today) for name in clubs.values()]
+
+    game_t = (ROOT / "templates" / "game.html").read_text(encoding="utf-8")
+    match_urls = set()
+    for k, c in comps.items():
+        for m in c.get("results", []) + c.get("fixtures", []):
+            if m.get("date") and match_url(m) not in match_urls:
+                match_urls.add(build_match(m, k, comps, game_t, svg, today))
+    # remove pages of games that moved or no longer exist
+    mdir = ROOT / "match"
+    if mdir.exists():
+        for d in mdir.iterdir():
+            if d.is_dir() and f"/match/{d.name}/" not in match_urls:
+                for f in d.iterdir():
+                    f.unlink()
+                d.rmdir()
+    build_sitemap(urls + club_urls + sorted(match_urls))
+    print(f"Built {len(urls)} competition pages, {len(club_urls)} club pages, {len(match_urls)} match pages")
 
 
 if __name__ == "__main__":

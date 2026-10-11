@@ -75,10 +75,16 @@ const gameKey = (m) => (m.match_id ? `id${m.match_id}` : slug(`${(m.date || "").
 async function getJSON(path) {
   try { const r = await fetch(path, { cache: "no-cache" }); return r.ok ? r.json() : null; } catch { return null; }
 }
+/* Clubs that have their own page: every club in a PSL league log */
+const CLUBS = new Set();
+function setClubs(comps) {
+  for (const c of Object.values(comps)) for (const r of c?.log || []) CLUBS.add(slug(r.team));
+}
 async function loadComps() {
-  if (window.MATCHDAY_DATA) return window.MATCHDAY_DATA.comps;   // used by previews
+  if (window.MATCHDAY_DATA) { setClubs(window.MATCHDAY_DATA.comps); return window.MATCHDAY_DATA.comps; }
   const comps = {};
   await Promise.all(Object.keys(PSL).map(async (s) => { comps[s] = await getJSON(`data/psl/${s}.json`); }));
+  setClubs(comps);
   return comps;
 }
 async function loadStreams() {
@@ -117,6 +123,9 @@ function resultCard(m, label, opts = {}) {
                    : `<article class="lc">${inner}</article>`;
 }
 
+/* PSL club names link to the club's page */
+const teamLink = (team) => (CLUBS.has(slug(team)) ? `<a href="${clubUrl(team)}">${esc(team)}</a>` : esc(team));
+
 /* Featured match drawn on the pitch */
 function pitchCard(m, compName) {
   const played = isPlayed(m);
@@ -128,9 +137,9 @@ function pitchCard(m, compName) {
   const body = `${PITCH_SVG}
     <div class="featured-meta"><span class="featured-comp">${esc(compName)}</span></div>
     <div class="featured-main">
-      <div class="featured-team">${crest(m.home)}<strong>${esc(m.home)}</strong></div>
+      <div class="featured-team">${crest(m.home)}<strong>${teamLink(m.home)}</strong></div>
       <div class="featured-score">${centre}</div>
-      <div class="featured-team">${crest(m.away)}<strong>${esc(m.away)}</strong></div>
+      <div class="featured-team">${crest(m.away)}<strong>${teamLink(m.away)}</strong></div>
     </div>
     ${latest}
     ${m.venue ? `<div class="featured-venue">${esc(m.venue)}</div>` : ""}`;
@@ -147,10 +156,10 @@ function resultsList(box, list, labelOf, opts = {}) {
   return true;
 }
 
-function standingsTable(rows) {
-  const body = rows.map((r) => `<tr>
+function standingsTable(rows, opts = {}) {
+  const body = rows.map((r) => `<tr${opts.highlight && slug(opts.highlight) === slug(r.team) ? ' class="me"' : ""}>
     <td class="pos">${r.pos}</td>
-    <td class="club"><div>${crest(r.team)}${esc(r.team)}</div></td>
+    <td class="club"><div>${crest(r.team)}${opts.links ? teamLink(r.team) : esc(r.team)}</div></td>
     <td>${r.p}</td><td class="hide-sm">${r.w}</td><td class="hide-sm">${r.d}</td><td class="hide-sm">${r.l}</td>
     <td>${r.gd == null ? "–" : r.gd > 0 ? "+" + r.gd : r.gd}</td>
     <td class="pts">${r.pts}</td>
@@ -206,16 +215,28 @@ function liveRefresh(on, update) {
   if (on && !window.MATCHDAY_DATA) window.__mdRefresh = setTimeout(update, 60000);
 }
 
-/* ---------- home: PSL competitions, one switch drives the page ---------- */
-async function renderHome() {
-  // old ?c= links go to the competition's own page
-  if (PSL[param("c")] && param("c") !== document.body.dataset.comp) {
-    const m = param("m");
-    location.replace(PSL[param("c")].url + (m ? `?m=${encodeURIComponent(m)}` : ""));
-    return;
+/* Address of a club's page and a match's page (PSL clubs only) */
+const clubUrl = (name) => `/${slug(name)}/`;
+const matchUrl = (m) => (m.date ? `/match/${slug(m.home)}-vs-${slug(m.away)}-${m.date.slice(0, 10)}/` : null);
+
+/* All PSL games of one club, newest data first, each tagged with its competition */
+function clubGames(comps, club) {
+  const s = slug(club), fixtures = [], results = [];
+  for (const [k, comp] of Object.entries(comps)) {
+    for (const m of comp?.fixtures || []) if (slug(m.home) === s || slug(m.away) === s) fixtures.push({ ...m, _comp: k });
+    for (const m of comp?.results || []) if (slug(m.home) === s || slug(m.away) === s) results.push({ ...m, _comp: k });
   }
+  return { fixtures: fixtures.sort(byDate), results };
+}
+
+/* The competition log a club plays in */
+function clubLeague(comps, club) {
+  return Object.keys(PSL).find((k) => (comps[k]?.log || []).some((r) => slug(r.team) === slug(club)));
+}
+
+/* ---------- next matches, pitch, results and log: used by competition and club pages ---------- */
+async function renderBoard(view) {
   let comps = await loadComps();
-  const current = PSL[document.body.dataset.comp] ? document.body.dataset.comp : "betway-premiership";
   let chosen = param("m");          // the game on the pitch (from a tap, or a shared link)
   let drawToken = 0;
 
@@ -226,49 +247,45 @@ async function renderHome() {
   };
 
   const draw = () => {
-    const comp = comps[current] || {};
-    const name = PSL[current].name;
-    const tag = (m) => ((m._comp = current), m);
-    const fixtures = (comp.fixtures || []).map(tag).sort(byDate);
-    const results = (comp.results || []).map(tag);
+    const v = view(comps);
+    const fixtures = v.fixtures, results = v.results;
     const live = results.filter((m) => m.status === "LIVE");
     const games = [...live, ...fixtures, ...results];
-
-    compNav(current);
+    compNav(v.nav);
 
     // which game is on the pitch: the chosen one, else live, else next big-club game, else next game, else latest result
     const auto = live[0]
-      || fixtures.find((m) => BIG_CLUBS.includes(slug(m.home)) || BIG_CLUBS.includes(slug(m.away)))
+      || (v.bigFirst && fixtures.find((m) => BIG_CLUBS.includes(slug(m.home)) || BIG_CLUBS.includes(slug(m.away))))
       || fixtures[0] || [...results].sort(byDate).reverse()[0];
     const pick = games.find((m) => gameKey(m) === chosen) || auto;
     const pickKey = pick ? gameKey(pick) : null;
+    const compName = (m) => PSL[m._comp]?.name || "";
 
     const next = [...live, ...fixtures].slice(0, 12);
     const title = $('[data-md="next-title"]');
     if (title) title.textContent = live.length ? "Live now" : "Next matches";
     $('[data-md="next-matches"]').innerHTML = next.length
       ? next.map((m) => matchCard(m, { pick: true, selected: gameKey(m) === pickKey })).join("")
-      : `<p class="empty">No ${esc(name)} matches scheduled yet.</p>`;
+      : `<p class="empty">No ${esc(v.name)} matches scheduled yet.</p>`;
 
     const done = results.filter((m) => m.status === "FT").sort(byDate).reverse();
     const resBox = $('[data-md="results"]');
-    if (!resultsList(resBox, done, null, { pick: true })) resBox.innerHTML = `<p class="empty">No ${esc(name)} results yet.</p>`;
+    if (!resultsList(resBox, done, v.labels ? compName : null, { pick: true })) resBox.innerHTML = `<p class="empty">No ${esc(v.name)} results yet.</p>`;
 
-    const hasLog = (comp.log || []).length > 0;
-    $('[data-md="log-section"]').hidden = !hasLog;
-    $('[data-md="standings"]').innerHTML = hasLog ? standingsTable(enrichLog(comp.log, comp.results, comp.extra)) : "";
+    const log = v.log;
+    $('[data-md="log-section"]').hidden = !log;
+    $('[data-md="standings"]').innerHTML = log ? standingsTable(enrichLog(log.comp.log, log.comp.results, log.comp.extra), { links: true, highlight: v.highlight }) : "";
 
     // pitch first with what we know, then the game's details once loaded
     const feat = $('[data-md="featured"]'), panel = $('[data-md="match-panel"]');
-    feat.innerHTML = pick ? pitchCard(pick, name) : "";
+    feat.innerHTML = pick ? pitchCard(pick, compName(pick)) : "";
     panel.innerHTML = "";
     const token = ++drawToken;
     if (pick) {
       (pick.match_id ? loadMatch(pick.match_id) : Promise.resolve(null)).then((detail) => {
         if (token !== drawToken) return;   // the user picked another game meanwhile
-        const m = { ...pick };
-        if (detail && detail.status !== "NS") Object.assign(m, { home_score: detail.home_score, away_score: detail.away_score, status: detail.status, minute: detail.minute ?? m.minute });
-        if (detail) feat.innerHTML = pitchCard(m, name);
+        const m = mergeDetail(pick, detail);
+        if (detail) feat.innerHTML = pitchCard(m, compName(pick));
         panel.innerHTML = detailPanel(m, detail);
       });
     }
@@ -292,6 +309,58 @@ async function renderHome() {
     draw();
     if (card.classList.contains("lc")) $('[data-md="featured"]').scrollIntoView({ behavior: "smooth", block: "start" });
   });
+  draw();
+}
+
+const mergeDetail = (m, detail) => (detail && detail.status !== "NS"
+  ? { ...m, home_score: detail.home_score, away_score: detail.away_score, status: detail.status, minute: detail.minute ?? m.minute }
+  : { ...m });
+
+/* Competition page */
+function renderHome() {
+  // old ?c= links go to the competition's own page
+  if (PSL[param("c")] && param("c") !== document.body.dataset.comp) {
+    const m = param("m");
+    location.replace(PSL[param("c")].url + (m ? `?m=${encodeURIComponent(m)}` : ""));
+    return;
+  }
+  const current = PSL[document.body.dataset.comp] ? document.body.dataset.comp : "betway-premiership";
+  renderBoard((comps) => {
+    const comp = comps[current] || {};
+    const tag = (m) => ({ ...m, _comp: current });
+    return {
+      nav: current, name: PSL[current].name, bigFirst: true,
+      fixtures: (comp.fixtures || []).map(tag).sort(byDate), results: (comp.results || []).map(tag),
+      log: (comp.log || []).length ? { comp } : null,
+    };
+  });
+}
+
+/* Club page: the club's games in every PSL competition, and its league log */
+function renderClub() {
+  const club = document.body.dataset.clubName;
+  renderBoard((comps) => {
+    const { fixtures, results } = clubGames(comps, club);
+    const league = clubLeague(comps, club);
+    return { nav: null, name: club, labels: true, fixtures, results, highlight: club, log: league ? { comp: comps[league] } : null };
+  });
+}
+
+/* Match page: one game with its stats, key moments and line-ups, both clubs' recent results and the log */
+async function renderGame() {
+  const compKey = document.body.dataset.comp, key = document.body.dataset.key;
+  const draw = async () => {
+    const comps = await loadComps();
+    const comp = comps[compKey] || {};
+    compNav(compKey);
+    const g = [...(comp.results || []), ...(comp.fixtures || [])].find((m) => gameKey(m) === key || matchUrl(m) === location.pathname);
+    if (!g) return;   // keep what the page was built with
+    const detail = g.match_id ? await loadMatch(g.match_id) : null;
+    const m = mergeDetail(g, detail);
+    $('[data-md="featured"]').innerHTML = pitchCard(m, PSL[compKey].name);
+    $('[data-md="match-panel"]').innerHTML = detailPanel(m, detail);
+    liveRefresh(m.status === "LIVE", draw);
+  };
   draw();
 }
 
@@ -388,8 +457,15 @@ function renderMatch() {
 
 /* ---------- start ---------- */
 $all('[data-md="year"]').forEach((el) => (el.textContent = new Date().getFullYear()));
+/* "Show all results" works on built pages too */
+document.addEventListener("click", (e) => {
+  const b = e.target.closest(".more-btn");
+  if (!b) return;
+  b.previousElementSibling?.classList.add("show-all");
+  b.remove();
+});
 /* Contact: the address is put together only when the button is tapped */
 $all('[data-md="email"]').forEach((b) => b.addEventListener("click", () => {
   location.href = `mailto:${b.dataset.u}@${b.dataset.d}`;
 }));
-({ home: renderHome, abc: renderAbc, match: renderMatch, info: () => compNav(null) }[document.body.dataset.page] || renderHome)();
+({ home: renderHome, club: renderClub, game: renderGame, abc: renderAbc, match: renderMatch, info: () => compNav(null) }[document.body.dataset.page] || renderHome)();

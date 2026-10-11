@@ -3,9 +3,8 @@
 set -uo pipefail
 git config user.name "github-actions[bot]"
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-for d in data logos index.html abc.html sitemap.xml motsepe-foundation-championship mtn8 carling-knockout nedbank-cup; do
-  [ -e "$d" ] && git add "$d"
-done
+# data, logos and every built page (competition, club and match pages)
+git add -A
 if git diff --cached --quiet; then
   echo "No data changes."
   exit 0
