@@ -1,0 +1,823 @@
+{
+  "3019587": {
+    "home": "orbit-college",
+    "away": "midlands-wanderers"
+  },
+  "3019590": {
+    "home": "hungry-lions",
+    "away": "real-native"
+  },
+  "3019592": {
+    "home": "the-bees",
+    "away": "hope"
+  },
+  "3019594": {
+    "home": "venda",
+    "away": "the-bees"
+  },
+  "3019597": {
+    "home": "magesi",
+    "away": "lerumo-lions"
+  },
+  "3019598": {
+    "home": "hope",
+    "away": "magesi"
+  },
+  "3019599": {
+    "home": "nwu-soccer-institute",
+    "away": "university-of-pretoria"
+  },
+  "3019600": {
+    "home": "orbit-college",
+    "away": "cape-town-city"
+  },
+  "3019602": {
+    "home": "nwu-soccer-institute",
+    "away": "midlands-wanderers"
+  },
+  "3019603": {
+    "home": "leicesterford-city",
+    "away": "nwu-soccer-institute"
+  },
+  "3019604": {
+    "home": "highbury",
+    "away": "hungry-lions"
+  },
+  "3019605": {
+    "home": "midlands-wanderers",
+    "away": "hungry-lions"
+  },
+  "3019606": {
+    "home": "cape-town-city",
+    "away": "lerumo-lions"
+  },
+  "3019607": {
+    "home": "midlands-wanderers",
+    "away": "highbury"
+  },
+  "3019608": {
+    "home": "gomora-united",
+    "away": "upington-city"
+  },
+  "3019609": {
+    "home": "highbury",
+    "away": "venda"
+  },
+  "3019610": {
+    "home": "upington-city",
+    "away": "magesi"
+  },
+  "3019611": {
+    "home": "orbit-college",
+    "away": "upington-city"
+  },
+  "3019612": {
+    "home": "the-bees",
+    "away": "cape-town-city"
+  },
+  "3019614": {
+    "home": "lerumo-lions",
+    "away": "cape-town-city"
+  },
+  "3019615": {
+    "home": "hope",
+    "away": "gomora-united"
+  },
+  "3019617": {
+    "home": "venda",
+    "away": "magesi"
+  },
+  "3019618": {
+    "home": "leicesterford-city",
+    "away": "cape-town-city"
+  },
+  "3019619": {
+    "home": "midlands-wanderers",
+    "away": "cape-town-city"
+  },
+  "3019622": {
+    "home": "hope",
+    "away": "highbury"
+  },
+  "3019623": {
+    "home": "lerumo-lions",
+    "away": "hope"
+  },
+  "3019624": {
+    "home": "lerumo-lions",
+    "away": "midlands-wanderers"
+  },
+  "3019627": {
+    "home": "university-of-pretoria",
+    "away": "real-native"
+  },
+  "3019629": {
+    "home": "highbury",
+    "away": "leicesterford-city"
+  },
+  "3019631": {
+    "home": "magesi",
+    "away": "leicesterford-city"
+  },
+  "3019632": {
+    "home": "leicesterford-city",
+    "away": "the-bees"
+  },
+  "3019633": {
+    "home": "the-bees",
+    "away": "real-native"
+  },
+  "3019634": {
+    "home": "hope",
+    "away": "the-bees"
+  },
+  "3019635": {
+    "home": "real-native",
+    "away": "hungry-lions"
+  },
+  "3019636": {
+    "home": "highbury",
+    "away": "orbit-college"
+  },
+  "3019637": {
+    "home": "upington-city",
+    "away": "orbit-college"
+  },
+  "3019638": {},
+  "3019639": {
+    "home": "university-of-pretoria",
+    "away": "venda"
+  },
+  "3019640": {
+    "home": "venda",
+    "away": "hungry-lions"
+  },
+  "3019641": {
+    "home": "university-of-pretoria",
+    "away": "upington-city"
+  },
+  "3019642": {
+    "home": "nwu-soccer-institute",
+    "away": "the-bees"
+  },
+  "3019643": {
+    "home": "the-bees",
+    "away": "venda"
+  },
+  "3019645": {
+    "home": "leicesterford-city",
+    "away": "real-native"
+  },
+  "3019646": {
+    "home": "nwu-soccer-institute",
+    "away": "magesi"
+  },
+  "3019647": {
+    "home": "university-of-pretoria",
+    "away": "hungry-lions"
+  },
+  "3019648": {
+    "home": "hungry-lions",
+    "away": "leicesterford-city"
+  },
+  "3019649": {
+    "home": "university-of-pretoria",
+    "away": "cape-town-city"
+  },
+  "3019650": {
+    "home": "the-bees",
+    "away": "university-of-pretoria"
+  },
+  "3019651": {
+    "home": "venda",
+    "away": "cape-town-city"
+  },
+  "3019652": {
+    "home": "orbit-college",
+    "away": "venda"
+  },
+  "3019653": {
+    "home": "hungry-lions",
+    "away": "orbit-college"
+  },
+  "3019654": {
+    "home": "highbury",
+    "away": "midlands-wanderers"
+  },
+  "3019656": {
+    "home": "real-native",
+    "away": "highbury"
+  },
+  "3019658": {
+    "home": "hungry-lions",
+    "away": "hope"
+  },
+  "3019659": {
+    "home": "real-native",
+    "away": "magesi"
+  },
+  "3019660": {
+    "home": "orbit-college",
+    "away": "real-native"
+  },
+  "3019661": {
+    "home": "venda",
+    "away": "leicesterford-city"
+  },
+  "3019662": {
+    "home": "the-bees",
+    "away": "nwu-soccer-institute"
+  },
+  "3019664": {
+    "home": "cape-town-city",
+    "away": "upington-city"
+  },
+  "3019665": {
+    "home": "orbit-college",
+    "away": "nwu-soccer-institute"
+  },
+  "3019666": {
+    "home": "cape-town-city",
+    "away": "hope"
+  },
+  "3019667": {
+    "home": "magesi",
+    "away": "hope"
+  },
+  "3019668": {
+    "home": "university-of-pretoria",
+    "away": "magesi"
+  },
+  "3019669": {
+    "home": "midlands-wanderers",
+    "away": "hope"
+  },
+  "3019670": {
+    "home": "hungry-lions",
+    "away": "upington-city"
+  },
+  "3019671": {
+    "home": "magesi",
+    "away": "venda"
+  },
+  "3019673": {
+    "home": "gomora-united",
+    "away": "hope"
+  },
+  "3019674": {
+    "home": "gomora-united",
+    "away": "lerumo-lions"
+  },
+  "3019675": {
+    "home": "midlands-wanderers",
+    "away": "leicesterford-city"
+  },
+  "3019676": {
+    "home": "midlands-wanderers",
+    "away": "upington-city"
+  },
+  "3019677": {
+    "home": "nwu-soccer-institute",
+    "away": "venda"
+  },
+  "3019678": {
+    "home": "real-native",
+    "away": "university-of-pretoria"
+  },
+  "3019679": {
+    "home": "leicesterford-city",
+    "away": "hungry-lions"
+  },
+  "3019680": {
+    "home": "nwu-soccer-institute",
+    "away": "real-native"
+  },
+  "3019681": {
+    "home": "gomora-united",
+    "away": "magesi"
+  },
+  "3019682": {
+    "home": "upington-city",
+    "away": "venda"
+  },
+  "3019683": {
+    "home": "upington-city",
+    "away": "nwu-soccer-institute"
+  },
+  "3019685": {
+    "home": "venda",
+    "away": "nwu-soccer-institute"
+  },
+  "3019686": {
+    "home": "magesi",
+    "away": "nwu-soccer-institute"
+  },
+  "3019687": {
+    "home": "lerumo-lions",
+    "away": "university-of-pretoria"
+  },
+  "3019689": {
+    "home": "leicesterford-city",
+    "away": "hope"
+  },
+  "3019690": {
+    "home": "venda",
+    "away": "gomora-united"
+  },
+  "3019691": {
+    "home": "orbit-college",
+    "away": "leicesterford-city"
+  },
+  "3019692": {
+    "home": "midlands-wanderers",
+    "away": "real-native"
+  },
+  "3019693": {
+    "home": "highbury",
+    "away": "cape-town-city"
+  },
+  "3019694": {
+    "home": "cape-town-city",
+    "away": "highbury"
+  },
+  "3019695": {
+    "home": "nwu-soccer-institute",
+    "away": "highbury"
+  },
+  "3019696": {
+    "home": "cape-town-city",
+    "away": "magesi"
+  },
+  "3019697": {
+    "home": "university-of-pretoria",
+    "away": "highbury"
+  },
+  "3019699": {
+    "home": "midlands-wanderers",
+    "away": "university-of-pretoria"
+  },
+  "3019700": {
+    "home": "upington-city",
+    "away": "gomora-united"
+  },
+  "3019701": {
+    "home": "nwu-soccer-institute",
+    "away": "hungry-lions"
+  },
+  "3019702": {
+    "home": "midlands-wanderers",
+    "away": "venda"
+  },
+  "3019703": {
+    "home": "hungry-lions",
+    "away": "nwu-soccer-institute"
+  },
+  "3019704": {
+    "home": "hungry-lions",
+    "away": "venda"
+  },
+  "3019705": {
+    "home": "real-native",
+    "away": "gomora-united"
+  },
+  "3019706": {
+    "home": "magesi",
+    "away": "orbit-college"
+  },
+  "3019707": {
+    "home": "the-bees",
+    "away": "upington-city"
+  },
+  "3019708": {
+    "home": "real-native",
+    "away": "hope"
+  },
+  "3019709": {
+    "home": "midlands-wanderers",
+    "away": "the-bees"
+  },
+  "3019710": {
+    "home": "leicesterford-city",
+    "away": "highbury"
+  },
+  "3019711": {
+    "home": "university-of-pretoria",
+    "away": "lerumo-lions"
+  },
+  "3019712": {
+    "home": "hope",
+    "away": "lerumo-lions"
+  },
+  "3019713": {
+    "home": "gomora-united",
+    "away": "nwu-soccer-institute"
+  },
+  "3019714": {
+    "home": "hungry-lions",
+    "away": "lerumo-lions"
+  },
+  "3019715": {
+    "home": "hope",
+    "away": "hungry-lions"
+  },
+  "3019716": {
+    "home": "highbury",
+    "away": "university-of-pretoria"
+  },
+  "3019718": {
+    "home": "the-bees",
+    "away": "leicesterford-city"
+  },
+  "3019719": {
+    "home": "gomora-united",
+    "away": "highbury"
+  },
+  "3019720": {
+    "home": "hope",
+    "away": "midlands-wanderers"
+  },
+  "3019721": {
+    "home": "gomora-united",
+    "away": "real-native"
+  },
+  "3019722": {
+    "home": "hope",
+    "away": "venda"
+  },
+  "3019723": {
+    "home": "magesi",
+    "away": "gomora-united"
+  },
+  "3019724": {
+    "home": "real-native",
+    "away": "orbit-college"
+  },
+  "3019725": {
+    "home": "nwu-soccer-institute",
+    "away": "orbit-college"
+  },
+  "3019726": {
+    "home": "hope",
+    "away": "real-native"
+  },
+  "3019727": {
+    "home": "lerumo-lions",
+    "away": "orbit-college"
+  },
+  "3019728": {
+    "home": "leicesterford-city",
+    "away": "gomora-united"
+  },
+  "3019729": {
+    "home": "venda",
+    "away": "orbit-college"
+  },
+  "3019730": {
+    "home": "upington-city",
+    "away": "the-bees"
+  },
+  "3019731": {
+    "home": "leicesterford-city",
+    "away": "upington-city"
+  },
+  "3019732": {
+    "home": "cape-town-city",
+    "away": "midlands-wanderers"
+  },
+  "3019733": {
+    "home": "upington-city",
+    "away": "leicesterford-city"
+  },
+  "3019734": {
+    "home": "hungry-lions",
+    "away": "midlands-wanderers"
+  },
+  "3019735": {
+    "home": "lerumo-lions",
+    "away": "the-bees"
+  },
+  "3019736": {
+    "home": "university-of-pretoria",
+    "away": "gomora-united"
+  },
+  "3019738": {
+    "home": "university-of-pretoria",
+    "away": "nwu-soccer-institute"
+  },
+  "3019739": {
+    "home": "hungry-lions",
+    "away": "highbury"
+  },
+  "3019740": {
+    "home": "leicesterford-city",
+    "away": "lerumo-lions"
+  },
+  "3019741": {
+    "home": "lerumo-lions",
+    "away": "upington-city"
+  },
+  "3019742": {
+    "home": "orbit-college",
+    "away": "magesi"
+  },
+  "3019743": {
+    "home": "real-native",
+    "away": "leicesterford-city"
+  },
+  "3019744": {
+    "home": "hope",
+    "away": "upington-city"
+  },
+  "3019745": {
+    "home": "the-bees",
+    "away": "hungry-lions"
+  },
+  "3019746": {
+    "home": "real-native",
+    "away": "nwu-soccer-institute"
+  },
+  "3019747": {
+    "home": "orbit-college",
+    "away": "gomora-united"
+  },
+  "3019748": {
+    "home": "highbury",
+    "away": "real-native"
+  },
+  "3019749": {
+    "home": "gomora-united",
+    "away": "orbit-college"
+  },
+  "3019750": {
+    "home": "midlands-wanderers",
+    "away": "orbit-college"
+  },
+  "3019751": {
+    "home": "highbury",
+    "away": "upington-city"
+  },
+  "3019752": {
+    "home": "leicesterford-city",
+    "away": "venda"
+  },
+  "3019753": {
+    "home": "cape-town-city",
+    "away": "university-of-pretoria"
+  },
+  "3019754": {
+    "home": "hope",
+    "away": "leicesterford-city"
+  },
+  "3019755": {
+    "home": "upington-city",
+    "away": "cape-town-city"
+  },
+  "3019756": {
+    "home": "university-of-pretoria",
+    "away": "hope"
+  },
+  "3019757": {
+    "home": "university-of-pretoria",
+    "away": "the-bees"
+  },
+  "3019758": {
+    "home": "university-of-pretoria",
+    "away": "leicesterford-city"
+  },
+  "3019759": {
+    "home": "cape-town-city",
+    "away": "the-bees"
+  },
+  "3019760": {
+    "home": "orbit-college",
+    "away": "the-bees"
+  },
+  "3019761": {
+    "home": "venda",
+    "away": "real-native"
+  },
+  "3019762": {
+    "home": "venda",
+    "away": "hope"
+  },
+  "3019763": {
+    "home": "orbit-college",
+    "away": "university-of-pretoria"
+  },
+  "3019764": {
+    "home": "hungry-lions",
+    "away": "magesi"
+  },
+  "3019765": {
+    "home": "gomora-united",
+    "away": "hungry-lions"
+  },
+  "3019766": {
+    "home": "midlands-wanderers",
+    "away": "gomora-united"
+  },
+  "3019767": {
+    "home": "highbury",
+    "away": "the-bees"
+  },
+  "3019768": {
+    "home": "cape-town-city",
+    "away": "venda"
+  },
+  "3019769": {
+    "home": "the-bees",
+    "away": "midlands-wanderers"
+  },
+  "3019770": {
+    "home": "gomora-united",
+    "away": "midlands-wanderers"
+  },
+  "3019771": {
+    "home": "the-bees",
+    "away": "magesi"
+  },
+  "3019772": {
+    "home": "orbit-college",
+    "away": "highbury"
+  },
+  "3019773": {
+    "home": "the-bees",
+    "away": "orbit-college"
+  },
+  "3019774": {
+    "home": "cape-town-city",
+    "away": "gomora-united"
+  },
+  "3019775": {
+    "home": "lerumo-lions",
+    "away": "highbury"
+  },
+  "3019776": {
+    "home": "magesi",
+    "away": "real-native"
+  },
+  "3019777": {
+    "home": "gomora-united",
+    "away": "university-of-pretoria"
+  },
+  "3019778": {
+    "home": "lerumo-lions",
+    "away": "gomora-united"
+  },
+  "3019779": {
+    "home": "nwu-soccer-institute",
+    "away": "lerumo-lions"
+  },
+  "3019780": {
+    "home": "upington-city",
+    "away": "hope"
+  },
+  "3019781": {
+    "home": "gomora-united",
+    "away": "cape-town-city"
+  },
+  "3019782": {
+    "home": "lerumo-lions",
+    "away": "magesi"
+  },
+  "3019783": {
+    "home": "highbury",
+    "away": "lerumo-lions"
+  },
+  "3019784": {
+    "home": "real-native",
+    "away": "upington-city"
+  },
+  "3019785": {
+    "home": "hope",
+    "away": "nwu-soccer-institute"
+  },
+  "3019786": {
+    "home": "highbury",
+    "away": "nwu-soccer-institute"
+  },
+  "3019787": {
+    "home": "hungry-lions",
+    "away": "cape-town-city"
+  },
+  "3019788": {
+    "home": "midlands-wanderers",
+    "away": "lerumo-lions"
+  },
+  "3019789": {
+    "home": "upington-city",
+    "away": "midlands-wanderers"
+  },
+  "3019790": {
+    "home": "real-native",
+    "away": "lerumo-lions"
+  },
+  "3019791": {
+    "home": "upington-city",
+    "away": "lerumo-lions"
+  },
+  "3019792": {
+    "home": "magesi",
+    "away": "cape-town-city"
+  },
+  "3019793": {
+    "home": "venda",
+    "away": "highbury"
+  },
+  "3019794": {
+    "home": "real-native",
+    "away": "the-bees"
+  },
+  "3019795": {
+    "home": "nwu-soccer-institute",
+    "away": "leicesterford-city"
+  },
+  "3019796": {
+    "home": "magesi",
+    "away": "upington-city"
+  },
+  "3019797": {
+    "home": "magesi",
+    "away": "university-of-pretoria"
+  },
+  "3019798": {
+    "home": "hungry-lions",
+    "away": "university-of-pretoria"
+  },
+  "3019799": {
+    "home": "cape-town-city",
+    "away": "orbit-college"
+  },
+  "3019800": {
+    "home": "magesi",
+    "away": "highbury"
+  },
+  "3019801": {
+    "home": "lerumo-lions",
+    "away": "leicesterford-city"
+  },
+  "3019802": {
+    "home": "venda",
+    "away": "midlands-wanderers"
+  },
+  "3019803": {
+    "home": "leicesterford-city",
+    "away": "university-of-pretoria"
+  },
+  "3019804": {
+    "home": "lerumo-lions",
+    "away": "venda"
+  },
+  "3019805": {
+    "home": "gomora-united",
+    "away": "the-bees"
+  },
+  "3019806": {
+    "home": "upington-city",
+    "away": "hungry-lions"
+  },
+  "3019807": {
+    "home": "orbit-college",
+    "away": "hope"
+  },
+  "3019808": {
+    "home": "lerumo-lions",
+    "away": "hungry-lions"
+  },
+  "3019809": {
+    "home": "cape-town-city",
+    "away": "real-native"
+  },
+  "3019810": {
+    "home": "magesi",
+    "away": "midlands-wanderers"
+  },
+  "3019811": {
+    "home": "nwu-soccer-institute",
+    "away": "gomora-united"
+  },
+  "3019812": {
+    "home": "cape-town-city",
+    "away": "nwu-soccer-institute"
+  },
+  "3019813": {},
+  "3019814": {},
+  "3019815": {},
+  "3019816": {},
+  "3019817": {},
+  "3019818": {},
+  "3019819": {},
+  "3019820": {},
+  "3019821": {},
+  "3019822": {},
+  "3019823": {},
+  "3019824": {},
+  "3019825": {},
+  "3019826": {},
+  "3019827": {},
+  "3019828": {},
+  "3019829": {},
+  "3019830": {},
+  "3019831": {},
+  "3019832": {}
+}

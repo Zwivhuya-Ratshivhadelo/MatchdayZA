@@ -1,11 +1,12 @@
 {
-  "time": "2026-10-11T14:45:11+02:00",
+  "time": "2026-10-11T14:59:50+02:00",
   "links_found": 6,
   "games": [
     {
       "game": "Gomora United v Upington City",
       "kickoff": "2026-10-11T15:30:00+02:00",
-      "match_page": null
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019608",
+      "page": "LIVE 0-0, line-ups 0"
     },
     {
       "game": "Cape Town City FC v The Bees",
