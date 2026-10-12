@@ -267,11 +267,12 @@ def latest_line(events):
     """Short text for the newest key event (our wording, built from the facts)."""
     for e in events:
         t, p, team = e["type"], e.get("player", ""), e.get("team", "")
-        text = {"goal": f"Goal, {p} ({team})", "penalty_goal": f"Penalty scored, {p} ({team})",
-                "own_goal": f"Own goal, {p} ({team})", "penalty_saved": f"Penalty saved, {p} ({team}) denied",
-                "penalty_missed": f"Penalty missed, {p} ({team})", "penalty_won": f"Penalty to {team}",
-                "red": f"Red card, {p} ({team})", "second_yellow": f"Second yellow, {p} ({team}) sent off",
-                "yellow": f"Yellow card, {p} ({team})",
+        who = f"{p} ({team})" if p else team   # some sources give the club only
+        text = {"goal": f"Goal, {who}", "penalty_goal": f"Penalty scored, {who}",
+                "own_goal": f"Own goal, {who}", "penalty_saved": f"Penalty saved, {who} denied",
+                "penalty_missed": f"Penalty missed, {who}", "penalty_won": f"Penalty to {team}",
+                "red": f"Red card, {who}", "second_yellow": f"Second yellow, {who} sent off",
+                "yellow": f"Yellow card, {who}",
                 "sub": f"Sub, {team}: {e.get('player_in')} on for {e.get('player_out')}",
                 "half_time": "Half-time", "second_half": "Second half under way", "full_time": "Full time",
                 "kickoff": "Kick-off"}.get(t)
@@ -405,7 +406,8 @@ def fill_from_365():
     feed = [g for g in scores365.games() if g["status"] == "FT"]
     for slug in scores365.COMPETITIONS:
         comp = load_json(DATA / "psl" / f"{slug}.json", {})
-        done = {match_key(r) for r in comp.get("results", []) if r.get("status") == "FT"}
+        done = {match_key(r) for r in comp.get("results", []) if r.get("status") == "FT"
+                and (not r.get("match_id") or (load_json(DATA / "psl" / "matches" / f"{r['match_id']}.json", {}) or {}).get("events"))}
         today = now_sast().date().isoformat()
         waiting = [m for m in comp.get("fixtures", []) + comp.get("results", [])
                    if match_key(m) not in done and (m.get("date") or "")[:10] <= today]
@@ -415,6 +417,14 @@ def fill_from_365():
             if x:
                 found.append({**{k: v for k, v in m.items() if k not in ("status", "minute", "latest", "home_score", "away_score")},
                               "home_score": x["home_score"], "away_score": x["away_score"], "status": "FT"})
+                if m.get("match_id"):   # key moments for the match page (goals with minute and club)
+                    old = load_json(DATA / "psl" / "matches" / f"{m['match_id']}.json", {}) or {}
+                    if not old.get("events"):
+                        evs = scores365.events(x["id"], x["home"], x["away"], m["home"], m["away"])
+                        if evs or not old:
+                          save_match(m["match_id"], slug, m["home"], m["away"], {
+                              "home_score": x["home_score"], "away_score": x["away_score"], "status": "FT", "minute": None,
+                              "events": evs, "stats": old.get("stats", []), "lineups": old.get("lineups", [])})
         if found:
             # take back any live copy, then store the results
             comp["results"] = [r for r in comp.get("results", []) if match_key(r) not in {match_key(f) for f in found}]

@@ -404,16 +404,18 @@ async function renderAbc() {
 }
 
 /* ---------- match page: pitch header, timeline, stats ---------- */
+/* Without a player's name (some sources only give the club) the line names the club */
+const who = (e) => (e.player ? `${e.player} (${e.team})` : e.team);
 const EVENT_TEXT = {
-  goal: (e) => `Goal! ${e.player} (${e.team})`,
-  penalty_goal: (e) => `Penalty scored by ${e.player} (${e.team})`,
-  own_goal: (e) => `Own goal by ${e.player} (${e.team})`,
-  penalty_saved: (e) => `Penalty saved, ${e.player} (${e.team}) denied`,
-  penalty_missed: (e) => `Penalty missed by ${e.player} (${e.team})`,
-  penalty_won: (e) => `Penalty to ${e.team}, ${e.player} fouled`,
-  yellow: (e) => `Yellow card, ${e.player} (${e.team})`,
-  second_yellow: (e) => `Second yellow, ${e.player} (${e.team}) sent off`,
-  red: (e) => `Red card, ${e.player} (${e.team})`,
+  goal: (e) => (e.player ? `Goal! ${who(e)}` : `Goal, ${e.team}`),
+  penalty_goal: (e) => (e.player ? `Penalty scored by ${who(e)}` : `Penalty scored, ${e.team}`),
+  own_goal: (e) => (e.player ? `Own goal by ${who(e)}` : `Own goal, ${e.team}`),
+  penalty_saved: (e) => `Penalty saved, ${who(e)} denied`,
+  penalty_missed: (e) => (e.player ? `Penalty missed by ${who(e)}` : `Penalty missed, ${e.team}`),
+  penalty_won: (e) => (e.player ? `Penalty to ${e.team}, ${e.player} fouled` : `Penalty to ${e.team}`),
+  yellow: (e) => `Yellow card, ${who(e)}`,
+  second_yellow: (e) => `Second yellow, ${who(e)} sent off`,
+  red: (e) => `Red card, ${who(e)}`,
   sub: (e) => `${e.team}: ${e.player_in} on, ${e.player_out} off`,
   var: () => "VAR check",
 };

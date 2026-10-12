@@ -30,7 +30,7 @@ def _norm(g, slug):
         elif g.get("gameTime") and g["gameTime"] > 0:
             minute = f"{int(g['gameTime'])}'"
     hs, as_ = g["homeCompetitor"].get("score"), g["awayCompetitor"].get("score")
-    return {"slug": slug, "date": g.get("startTime"), "home": g["homeCompetitor"]["name"],
+    return {"id": g.get("id"), "slug": slug, "date": g.get("startTime"), "home": g["homeCompetitor"]["name"],
             "away": g["awayCompetitor"]["name"], "status": status, "minute": minute,
             "home_score": int(hs) if hs is not None and hs >= 0 and status != "NS" else None,
             "away_score": int(as_) if as_ is not None and as_ >= 0 and status != "NS" else None}
@@ -48,6 +48,45 @@ def games():
             except Exception as e:
                 print(f"  365scores {kind} failed: {e}")
     return list(out.values())
+
+
+EVENT_TYPES = {"goal": "goal", "own goal": "own_goal", "penalty": "penalty_goal",
+               "red card": "red", "second yellow card": "second_yellow", "yellow card": "yellow"}
+
+
+def events(game_id, home, away, home_name, away_name):
+    """Key moments (newest first): minute, kind and club. 365scores doesn't name players
+    for these games, so only the club is given."""
+    try:
+        r = requests.get(f"https://webws.365scores.com/web/game/?appTypeId=5&langId=1"
+                         f"&timezoneName=Africa/Johannesburg&gameId={game_id}", headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        g = r.json().get("game", {})
+    except Exception as e:
+        print(f"  365scores game {game_id} failed: {e}")
+        return []
+    names = {m.get("id"): m.get("name") for m in g.get("members", []) if m.get("id")}
+    teams = {g.get("homeCompetitor", {}).get("id"): home_name, g.get("awayCompetitor", {}).get("id"): away_name}
+    out, score = [], [0, 0]
+    for e in sorted(g.get("events", []), key=lambda e: e.get("order", 0)):
+        et = e.get("eventType", {})
+        name, sub = (et.get("name") or "").lower(), (et.get("subTypeName") or "").lower()
+        kind = EVENT_TYPES.get(sub) if sub in EVENT_TYPES else EVENT_TYPES.get(name)
+        if name == "goal" and "own" in sub:
+            kind = "own_goal"
+        elif name == "goal" and "penalt" in sub:
+            kind = "penalty_goal"
+        if not kind:
+            continue
+        team = teams.get(e.get("competitorId"), "")
+        ev = {"minute": e.get("gameTimeDisplay") or f"{int(e.get('gameTime', 0))}'", "type": kind, "team": team,
+              "player": names.get(e.get("playerId"), "")}
+        if kind in ("goal", "penalty_goal", "own_goal"):
+            scorer_home = (team == home_name) != (kind == "own_goal")
+            score[0 if scorer_home else 1] += 1
+            ev["score"] = list(score)
+        out.append(ev)
+    return list(reversed(out))
 
 
 def _same_club(a, b):

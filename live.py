@@ -147,7 +147,8 @@ def run(window):
                 entry["365scores"] = f"{x['status']} {x['home_score']}-{x['away_score']} {x['minute'] or ''}" if x else "not found"
                 if x and x["status"] in ("LIVE", "FT"):
                     d = {"home_score": x["home_score"], "away_score": x["away_score"], "status": x["status"],
-                         "minute": x["minute"], "events": [], "stats": [], "lineups": (d or {}).get("lineups", [])}
+                         "minute": x["minute"], "stats": [], "lineups": (d or {}).get("lineups", []),
+                         "events": scores365.events(x["id"], x["home"], x["away"], g["home"], g["away"])}
             if not d:
                 continue
             if d["status"] == "NS" or (now < g["kickoff"] and not d["events"]):

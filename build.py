@@ -298,16 +298,20 @@ def write(url, page):
 
 
 # ---------- stats, key moments and line-ups (same as app.js detailPanel) ----------
-EVENT_TEXT = {
-    "goal": lambda e: f"Goal! {e.get('player')} ({e.get('team')})",
-    "penalty_goal": lambda e: f"Penalty scored by {e.get('player')} ({e.get('team')})",
-    "own_goal": lambda e: f"Own goal by {e.get('player')} ({e.get('team')})",
-    "penalty_saved": lambda e: f"Penalty saved, {e.get('player')} ({e.get('team')}) denied",
-    "penalty_missed": lambda e: f"Penalty missed by {e.get('player')} ({e.get('team')})",
-    "penalty_won": lambda e: f"Penalty to {e.get('team')}, {e.get('player')} fouled",
-    "yellow": lambda e: f"Yellow card, {e.get('player')} ({e.get('team')})",
-    "second_yellow": lambda e: f"Second yellow, {e.get('player')} ({e.get('team')}) sent off",
-    "red": lambda e: f"Red card, {e.get('player')} ({e.get('team')})",
+def _who(e):
+    return f"{e.get('player')} ({e.get('team')})" if e.get("player") else f"{e.get('team')}"
+
+
+EVENT_TEXT = {   # without a player's name (some sources only give the club) the line names the club
+    "goal": lambda e: f"Goal! {_who(e)}" if e.get("player") else f"Goal, {e.get('team')}",
+    "penalty_goal": lambda e: f"Penalty scored by {_who(e)}" if e.get("player") else f"Penalty scored, {e.get('team')}",
+    "own_goal": lambda e: f"Own goal by {_who(e)}" if e.get("player") else f"Own goal, {e.get('team')}",
+    "penalty_saved": lambda e: f"Penalty saved, {_who(e)} denied",
+    "penalty_missed": lambda e: f"Penalty missed by {_who(e)}" if e.get("player") else f"Penalty missed, {e.get('team')}",
+    "penalty_won": lambda e: f"Penalty to {e.get('team')}, {e.get('player')} fouled" if e.get("player") else f"Penalty to {e.get('team')}",
+    "yellow": lambda e: f"Yellow card, {_who(e)}",
+    "second_yellow": lambda e: f"Second yellow, {_who(e)} sent off",
+    "red": lambda e: f"Red card, {_who(e)}",
     "sub": lambda e: f"{e.get('team')}: {e.get('player_in')} on, {e.get('player_out')} off",
     "var": lambda e: "VAR check",
 }
