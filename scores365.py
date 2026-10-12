@@ -40,13 +40,20 @@ def games():
     out = {}
     for slug, cid in COMPETITIONS.items():
         for kind in ("current", "results"):
-            try:
-                r = requests.get(URL.format(kind=kind, comps=cid), headers=HEADERS, timeout=30)
-                r.raise_for_status()
-                for g in r.json().get("games", []):
+            url, pages = URL.format(kind=kind, comps=cid), 0
+            while url and pages < (8 if kind == "results" else 1):   # results come in pages, newest first
+                pages += 1
+                try:
+                    r = requests.get(url, headers=HEADERS, timeout=30)
+                    r.raise_for_status()
+                    j = r.json()
+                except Exception as e:
+                    print(f"  365scores {kind} failed: {e}")
+                    break
+                for g in j.get("games", []):
                     out[g["id"]] = _norm(g, slug)
-            except Exception as e:
-                print(f"  365scores {kind} failed: {e}")
+                prev = (j.get("paging") or {}).get("previousPage")
+                url = f"https://webws.365scores.com{prev}" if prev else None
     return list(out.values())
 
 
