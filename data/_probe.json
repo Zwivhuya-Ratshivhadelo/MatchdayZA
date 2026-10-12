@@ -1,0 +1,341 @@
+{
+  "feed_games": 396,
+  "feed_dates": [
+    "2026-01-19",
+    "2026-01-20",
+    "2026-01-21",
+    "2026-01-23",
+    "2026-01-24",
+    "2026-01-25",
+    "2026-01-27",
+    "2026-01-28",
+    "2026-01-30",
+    "2026-01-31",
+    "2026-02-01",
+    "2026-02-03",
+    "2026-02-13",
+    "2026-02-14",
+    "2026-02-15",
+    "2026-02-18",
+    "2026-02-24",
+    "2026-02-27",
+    "2026-02-28",
+    "2026-03-01",
+    "2026-03-03",
+    "2026-03-04",
+    "2026-03-07",
+    "2026-03-08",
+    "2026-03-10",
+    "2026-03-11",
+    "2026-03-13",
+    "2026-03-14",
+    "2026-03-15",
+    "2026-03-17",
+    "2026-03-18",
+    "2026-03-20",
+    "2026-03-21",
+    "2026-03-22",
+    "2026-04-01",
+    "2026-04-03",
+    "2026-04-06",
+    "2026-04-07",
+    "2026-04-08",
+    "2026-04-10",
+    "2026-04-11",
+    "2026-04-12",
+    "2026-04-15",
+    "2026-04-17",
+    "2026-04-18",
+    "2026-04-19",
+    "2026-04-21",
+    "2026-04-22",
+    "2026-04-24",
+    "2026-04-25",
+    "2026-04-26",
+    "2026-04-29",
+    "2026-05-01",
+    "2026-05-02",
+    "2026-05-03",
+    "2026-05-05",
+    "2026-05-06",
+    "2026-05-08",
+    "2026-05-09",
+    "2026-05-10",
+    "2026-05-12",
+    "2026-05-16",
+    "2026-05-17",
+    "2026-05-23",
+    "2026-05-26",
+    "2026-05-30",
+    "2026-06-03",
+    "2026-06-06",
+    "2026-06-10",
+    "2026-06-13",
+    "2026-08-01",
+    "2026-08-02",
+    "2026-08-08",
+    "2026-08-09",
+    "2026-08-11",
+    "2026-08-12",
+    "2026-08-14",
+    "2026-08-15",
+    "2026-08-16",
+    "2026-08-19",
+    "2026-08-21",
+    "2026-08-22",
+    "2026-08-23",
+    "2026-08-25",
+    "2026-08-26",
+    "2026-08-28",
+    "2026-08-29",
+    "2026-08-30",
+    "2026-09-01",
+    "2026-09-02",
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06",
+    "2026-09-08",
+    "2026-09-09",
+    "2026-09-11",
+    "2026-09-12",
+    "2026-09-13",
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20",
+    "2026-10-10",
+    "2026-10-11",
+    "2026-10-13",
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-04"
+  ],
+  "games": [
+    {
+      "game": "2026-08-21 Real Native FC 2-1 Cape Town City FC",
+      "found": null,
+      "same_day": [
+        "Venda Fc v Lerumo Lions",
+        "Casric Stars Fc v Cape Town City FC"
+      ]
+    },
+    {
+      "game": "2026-08-22 Hope 1-0 Pretoria University FC",
+      "found": null,
+      "same_day": [
+        "The Bees v Highbury",
+        "Midlands Wanderers v Magesi FC",
+        "Leicesterfield City v Orbit College",
+        "Hungry Lions v Gomora United",
+        "Sekhukhune United v Orlando Pirates"
+      ]
+    },
+    {
+      "game": "2026-08-22 North West University 1-1 Upington City",
+      "found": null,
+      "same_day": [
+        "The Bees v Highbury",
+        "Midlands Wanderers v Magesi FC",
+        "Leicesterfield City v Orbit College",
+        "Hungry Lions v Gomora United",
+        "Sekhukhune United v Orlando Pirates"
+      ]
+    },
+    {
+      "game": "2026-08-22 Midlands Wanderers 0-1 Magesi FC",
+      "found": "2026-08-22 Midlands Wanderers 0-1 Magesi FC id 4813823",
+      "events": 0
+    },
+    {
+      "game": "2026-08-22 Leicesterford City FC 1-0 Orbit College FC",
+      "found": "2026-08-22 Leicesterfield City 1-0 Orbit College id 4813824",
+      "events": 0
+    },
+    {
+      "game": "2026-08-22 The Bees 1-2 Highbury",
+      "found": "2026-08-22 The Bees 1-2 Highbury id 4813821",
+      "events": 0
+    },
+    {
+      "game": "2026-08-22 Hungry Lions FC 2-2 Gomora United",
+      "found": "2026-08-22 Hungry Lions 2-2 Gomora United id 4813825",
+      "events": 0
+    },
+    {
+      "game": "2026-08-28 Highbury 1-0 Hope",
+      "found": null,
+      "same_day": [
+        "Orbit College v Hungry Lions"
+      ]
+    },
+    {
+      "game": "2026-08-29 Upington City 2-1 Real Native FC",
+      "found": null,
+      "same_day": [
+        "Upington City v Casric Stars Fc",
+        "Pretoria University v Midlands Wanderers",
+        "Magesi FC v The Bees",
+        "Gomora United v Venda Fc",
+        "Orlando Pirates v Sekhukhune United"
+      ]
+    },
+    {
+      "game": "2026-08-29 Lerumo Lions 2-0 North West University",
+      "found": null,
+      "same_day": [
+        "Upington City v Casric Stars Fc",
+        "Pretoria University v Midlands Wanderers",
+        "Magesi FC v The Bees",
+        "Gomora United v Venda Fc",
+        "Orlando Pirates v Sekhukhune United"
+      ]
+    },
+    {
+      "game": "2026-08-29 Gomora United 1-0 Venda FC",
+      "found": "2026-08-29 Gomora United 1-0 Venda Fc id 4813822",
+      "events": 0
+    },
+    {
+      "game": "2026-09-02 Cape Town City FC 1-1 Leicesterford City FC",
+      "found": "2026-09-02 Cape Town City FC 1-1 Leicesterfield City id 4813818",
+      "events": 0
+    },
+    {
+      "game": "2026-09-04 Real Native FC 1-0 Midlands Wanderers",
+      "found": null,
+      "same_day": [
+        "Casric Stars Fc v Midlands Wanderers",
+        "Marumo Gallants v Polokwane City",
+        "Richards Bay v AmaZulu"
+      ]
+    },
+    {
+      "game": "2026-09-05 North West University 0-1 Hope",
+      "found": null,
+      "same_day": [
+        "Upington City v Highbury",
+        "Leicesterfield City v Magesi FC",
+        "Venda Fc v Pretoria University",
+        "Sekhukhune United v TS Galaxy",
+        "Chippa United v Milford"
+      ]
+    },
+    {
+      "game": "2026-09-05 Upington City 0-1 Highbury",
+      "found": "2026-09-05 Upington City 0-1 Highbury id 4813809",
+      "events": 0
+    },
+    {
+      "game": "2026-09-05 Venda FC 0-2 Pretoria University FC",
+      "found": "2026-09-05 Venda Fc 0-2 Pretoria University id 4813814",
+      "events": 0
+    },
+    {
+      "game": "2026-09-06 Cape Town City FC 2-1 Hungry Lions FC",
+      "found": "2026-09-06 Cape Town City FC 2-1 Hungry Lions id 4813813",
+      "events": 0
+    },
+    {
+      "game": "2026-09-06 The Bees 0-1 Gomora United",
+      "found": "2026-09-06 The Bees 0-1 Gomora United id 4813810",
+      "events": 0
+    },
+    {
+      "game": "2026-09-08 Orbit College FC 1-2 Lerumo Lions",
+      "found": "2026-09-08 Orbit College 1-2 Lerumo Lions id 4813812",
+      "events": 0
+    },
+    {
+      "game": "2026-09-12 Lerumo Lions 0-1 Real Native FC",
+      "found": null,
+      "same_day": [
+        "Pretoria University v Orbit College",
+        "Lerumo Lions v Casric Stars Fc",
+        "Hungry Lions v The Bees",
+        "Venda Fc v Upington City",
+        "Gomora United v Leicesterfield City",
+        "Chippa United v Mamelodi Sundowns",
+        "Polokwane City v Kaizer Chiefs",
+        "AmaZulu v Marumo Gallants"
+      ]
+    },
+    {
+      "game": "2026-09-12 Midlands Wanderers 1-1 North West University",
+      "found": null,
+      "same_day": [
+        "Pretoria University v Orbit College",
+        "Lerumo Lions v Casric Stars Fc",
+        "Hungry Lions v The Bees",
+        "Venda Fc v Upington City",
+        "Gomora United v Leicesterfield City",
+        "Chippa United v Mamelodi Sundowns",
+        "Polokwane City v Kaizer Chiefs",
+        "AmaZulu v Marumo Gallants"
+      ]
+    },
+    {
+      "game": "2026-09-12 Gomora United 2-4 Leicesterford City FC",
+      "found": "2026-09-12 Gomora United 2-4 Leicesterfield City id 4813808",
+      "events": 0
+    },
+    {
+      "game": "2026-09-12 Venda FC 2-3 Upington City",
+      "found": "2026-09-12 Venda Fc 2-3 Upington City id 4813806",
+      "events": 0
+    },
+    {
+      "game": "2026-09-12 Hungry Lions FC 2-0 The Bees",
+      "found": "2026-09-12 Hungry Lions 2-0 The Bees id 4813805",
+      "events": 0
+    },
+    {
+      "game": "2026-09-13 Hope 0-2 Cape Town City FC",
+      "found": null,
+      "same_day": [
+        "Highbury v Magesi FC",
+        "TS Galaxy v Kruger United",
+        "Siwelele v Golden Arrows",
+        "Milford v Richards Bay"
+      ]
+    },
+    {
+      "game": "2026-09-13 Highbury 0-1 Magesi FC",
+      "found": "2026-09-13 Highbury 0-1 Magesi FC id 4813807",
+      "events": 0
+    },
+    {
+      "game": "2026-09-18 Real Native FC 2-0 Venda FC",
+      "found": null,
+      "same_day": [
+        "Highbury v Gomora United",
+        "Casric Stars Fc v Venda Fc"
+      ]
+    },
+    {
+      "game": "2026-09-19 Hope 1-0 Orbit College FC",
+      "found": null,
+      "same_day": [
+        "Upington City v Pretoria University",
+        "The Bees v Lerumo Lions",
+        "Leicesterfield City v Midlands Wanderers",
+        "Richards Bay v Sekhukhune United",
+        "Polokwane City v AmaZulu",
+        "Kruger United v Stellenbosch FC"
+      ]
+    },
+    {
+      "game": "2026-09-19 Upington City 3-3 Pretoria University FC",
+      "found": "2026-09-19 Upington City 3-3 Pretoria University id 4813797",
+      "events": 0
+    },
+    {
+      "game": "2026-09-19 The Bees 1-0 Lerumo Lions",
+      "found": "2026-09-19 The Bees 1-0 Lerumo Lions id 4813798",
+      "events": 0
+    }
+  ]
+}
