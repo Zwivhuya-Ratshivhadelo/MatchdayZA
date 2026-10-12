@@ -3,12 +3,23 @@
   "comp": "national-first-division",
   "home": "Magesi FC",
   "away": "The Bees",
-  "updated": "2026-10-11T10:34:52+02:00",
+  "updated": "2026-10-12T06:53:25+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "18'",
+      "type": "goal",
+      "team": "Magesi FC",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [],
   "lineups": []
 }
