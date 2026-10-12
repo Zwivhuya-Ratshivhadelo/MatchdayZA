@@ -1,0 +1,114 @@
+{
+  "status": 200,
+  "keys": [
+    "lineTypesIds",
+    "id",
+    "sportId",
+    "competitionId",
+    "statusId",
+    "seasonNum",
+    "stageNum",
+    "roundNum",
+    "roundName",
+    "stageName",
+    "competitionDisplayName",
+    "startTime",
+    "statusGroup",
+    "statusText",
+    "shortStatusText",
+    "gameTimeAndStatusDisplayType",
+    "justEnded",
+    "gameTime",
+    "gameTimeDisplay",
+    "preciseGameTime",
+    "winDescription",
+    "homeCompetitor",
+    "awayCompetitor",
+    "stages",
+    "events",
+    "isHomeAwayInverted",
+    "hasStats",
+    "hasStandings",
+    "standingsName",
+    "hasBrackets",
+    "hasPreviousMeetings",
+    "hasRecentMatches",
+    "hasBets",
+    "hasPlayerBets",
+    "hasPointByPoint",
+    "venue",
+    "members",
+    "promotedPredictions",
+    "gameStageHasTable",
+    "hasTrends",
+    "hasTopTrends"
+  ],
+  "events": [
+    {
+      "competitorId": 90428,
+      "statusId": 8,
+      "stageId": 9,
+      "order": 1,
+      "num": 1,
+      "gameTime": 50.0,
+      "addedTime": 0,
+      "gameTimeDisplay": "50'",
+      "gameTimeAndStatusDisplayType": 2,
+      "isMajor": true,
+      "eventType": {
+        "id": 1,
+        "name": "Goal",
+        "subTypeId": 1,
+        "subTypeName": "Field Goal"
+      }
+    },
+    {
+      "competitorId": 77102,
+      "statusId": 8,
+      "stageId": 9,
+      "order": 2,
+      "num": 2,
+      "gameTime": 82.0,
+      "addedTime": 0,
+      "gameTimeDisplay": "82'",
+      "gameTimeAndStatusDisplayType": 2,
+      "isMajor": true,
+      "eventType": {
+        "id": 1,
+        "name": "Goal",
+        "subTypeId": 1,
+        "subTypeName": "Field Goal"
+      }
+    },
+    {
+      "competitorId": 90428,
+      "statusId": 8,
+      "stageId": 9,
+      "order": 3,
+      "num": 3,
+      "gameTime": 90.0,
+      "addedTime": 0,
+      "gameTimeDisplay": "90'",
+      "gameTimeAndStatusDisplayType": 2,
+      "isMajor": true,
+      "eventType": {
+        "id": 1,
+        "name": "Goal",
+        "subTypeId": 1,
+        "subTypeName": "Field Goal"
+      }
+    }
+  ],
+  "members": [
+    {
+      "id": null,
+      "name": null,
+      "shortName": null,
+      "competitorId": 90428,
+      "jerseyNumber": null
+    }
+  ],
+  "home_lineup_keys": [],
+  "home_lineup_sample": "null",
+  "stats": "null"
+}
