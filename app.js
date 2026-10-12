@@ -75,6 +75,13 @@ const gameKey = (m) => (m.match_id ? `id${m.match_id}` : slug(`${(m.date || "").
 async function getJSON(path) {
   try { const r = await fetch(path, { cache: "no-cache" }); return r.ok ? r.json() : null; } catch { return null; }
 }
+/* Goal scorers per game: match number -> [home lines, away lines], e.g. "Mokoena 11', 67'" */
+const SCORERS = {};
+function scorersHtml(m, side, cls) {
+  const lst = (m.match_id && SCORERS[m.match_id]?.[side]) || [];
+  return lst.length ? `<span class="${cls}">${lst.map((x) => `<span>${esc(x)}</span>`).join("")}</span>` : "";
+}
+
 /* Clubs that have their own page: every club in a PSL league log */
 const CLUBS = new Set();
 function setClubs(comps) {
@@ -83,7 +90,11 @@ function setClubs(comps) {
 async function loadComps() {
   if (window.MATCHDAY_DATA) { setClubs(window.MATCHDAY_DATA.comps); return window.MATCHDAY_DATA.comps; }
   const comps = {};
-  await Promise.all(Object.keys(PSL).map(async (s) => { comps[s] = await getJSON(`data/psl/${s}.json`); }));
+  const [, sc] = await Promise.all([
+    Promise.all(Object.keys(PSL).map(async (s) => { comps[s] = await getJSON(`data/psl/${s}.json`); })),
+    getJSON("data/psl/scorers.json"),
+  ]);
+  Object.assign(SCORERS, sc || {});
   setClubs(comps);
   return comps;
 }
@@ -118,6 +129,7 @@ function resultCard(m, label, opts = {}) {
   const sideR = (team) => `<span class="lc-team">${crest(team, 30)}<b>${esc(team)}</b></span>`;
   const inner = `<div class="lc-bar"><span class="dt">${barDate(m)}</span><span>${live ? `<span class="pill-live">Live ${esc(m.minute || "")}</span>` : "FT"}</span></div>
     <div class="lc-body">${side(m.home)}<span class="lc-score">${m.home_score} - ${m.away_score}</span>${sideR(m.away)}</div>
+    ${m.match_id && SCORERS[m.match_id] ? `<div class="lc-scorers">${scorersHtml(m, 0, "h") || "<span></span>"}${scorersHtml(m, 1, "a") || "<span></span>"}</div>` : ""}
     ${label ? `<div class="lc-comp">${esc(label)}</div>` : ""}`;
   const url = opts.link ? matchUrl(m) : null;
   return url ? `<a href="${url}" class="lc">${inner}<span class="lc-more">View match</span></a>`
@@ -138,9 +150,9 @@ function pitchCard(m, compName) {
   const body = `${PITCH_SVG}
     <div class="featured-meta"><span class="featured-comp">${esc(compName)}</span></div>
     <div class="featured-main">
-      <div class="featured-team">${crest(m.home)}<strong>${teamLink(m.home)}</strong></div>
+      <div class="featured-team">${crest(m.home)}<strong>${teamLink(m.home)}</strong>${played ? scorersHtml(m, 0, "scorers") : ""}</div>
       <div class="featured-score">${centre}</div>
-      <div class="featured-team">${crest(m.away)}<strong>${teamLink(m.away)}</strong></div>
+      <div class="featured-team">${crest(m.away)}<strong>${teamLink(m.away)}</strong>${played ? scorersHtml(m, 1, "scorers") : ""}</div>
     </div>
     ${latest}
     ${m.venue ? `<div class="featured-venue">${esc(m.venue)}</div>` : ""}`;

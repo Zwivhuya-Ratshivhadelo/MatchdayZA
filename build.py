@@ -10,7 +10,7 @@ import html
 import re
 from datetime import datetime, timedelta
 
-from common import DATA, ROOT, load_json, now_sast, slugify
+from common import DATA, ROOT, load_json, now_sast, save_json, slugify
 
 SITE = "https://www.matchdayza.co.za"
 PAGES = {   # data slug -> (address, name)
@@ -125,6 +125,8 @@ def result_card(m, extra=False, pick=False, label="", link=False):
     inner = (f'<div class="lc-bar"><span class="dt">{bar_date(m)}</span><span>FT</span></div>'
              f'<div class="lc-body">{side(m["home"])}<span class="lc-score">{m["home_score"]} - {m["away_score"]}</span>'
              f'{side_r(m["away"])}</div>'
+             + (f'<div class="lc-scorers">{scorers_html(m, 0, "h") or "<span></span>"}{scorers_html(m, 1, "a") or "<span></span>"}</div>'
+                if SCORERS.get(str(m.get("match_id"))) else "")
              + (f'<div class="lc-comp">{esc(label)}</div>' if label else ""))
     ex = " extra" if extra else ""
     url = match_url(m) if (link or pick) else None   # the card opens the game's own page
@@ -160,9 +162,9 @@ def pitch_card(m, comp_name, today, svg):
     return (f'<article class="featured">{svg}'
             f'<div class="featured-meta"><span class="featured-comp">{esc(comp_name)}</span></div>'
             f'<div class="featured-main">'
-            f'<div class="featured-team">{crest(m["home"])}<strong>{team_link(m["home"])}</strong></div>'
+            f'<div class="featured-team">{crest(m["home"])}<strong>{team_link(m["home"])}</strong>{scorers_html(m, 0, "scorers") if played else ""}</div>'
             f'<div class="featured-score">{centre}</div>'
-            f'<div class="featured-team">{crest(m["away"])}<strong>{team_link(m["away"])}</strong></div>'
+            f'<div class="featured-team">{crest(m["away"])}<strong>{team_link(m["away"])}</strong>{scorers_html(m, 1, "scorers") if played else ""}</div>'
             f'</div>{latest}{venue}</article>')
 
 
@@ -373,6 +375,66 @@ def detail_panel(detail):
     return "".join(parts)
 
 
+# ---------- goal scorers (under each club, like score sites do) ----------
+GOAL_TYPES = ("goal", "penalty_goal", "own_goal")
+
+
+def scorer_lists(detail, home, away):
+    """[home scorers, away scorers] as short lines, e.g. "Mokoena 11', 67'" or "50'" when no name is known."""
+    goals = [e for e in (detail or {}).get("events", []) if e.get("type") in GOAL_TYPES]
+    goals.reverse()   # events are stored newest first
+    sides = ([], [])
+    prev = [0, 0]
+    for e in goals:
+        sc = e.get("score")
+        if sc and len(sc) == 2 and (sc[0] != prev[0] or sc[1] != prev[1]):
+            side = 0 if sc[0] > prev[0] else 1
+            prev = list(sc)
+        else:   # no running score: go by the club (an own goal counts for the other side)
+            own = slug(e.get("team")) in (slug(home), slug(away))
+            side = 0 if slug(e.get("team")) == slug(home) else 1
+            if e["type"] == "own_goal" and own:
+                side = 1 - side
+        name = (e.get("player") or "").split()[-1] if e.get("player") else ""
+        tag = " (pen)" if e["type"] == "penalty_goal" else " (og)" if e["type"] == "own_goal" else ""
+        sides[side].append((name, f"{e.get('minute', '')}{tag}"))
+    out = []
+    for lst in sides:
+        lines, order = {}, []
+        for name, minute in lst:
+            if name not in lines:
+                lines[name] = []
+                order.append(name)
+            lines[name].append(minute)
+        out.append([f"{n} {', '.join(lines[n])}".strip() for n in order])
+    return out
+
+
+def build_scorers(comps):
+    """data/psl/scorers.json: match number -> [home scorers, away scorers], read by app.js."""
+    out = {}
+    for c in comps.values():
+        for m in c.get("results", []):
+            if not m.get("match_id"):
+                continue
+            d = load_json(DATA / "psl" / "matches" / f"{m['match_id']}.json", None)
+            lists = scorer_lists(d, m["home"], m["away"]) if d else [[], []]
+            if lists[0] or lists[1]:
+                out[str(m["match_id"])] = lists
+    path = DATA / "psl" / "scorers.json"
+    if load_json(path, None) != out:
+        save_json(path, out)
+    return out
+
+
+SCORERS = {}
+
+
+def scorers_html(m, side, cls):
+    lst = SCORERS.get(str(m.get("match_id")), [[], []])[side] if m.get("match_id") else []
+    return f'<span class="{cls}">' + "".join(f"<span>{esc(x)}</span>" for x in lst) + "</span>" if lst else ""
+
+
 def merge_detail(m, detail):
     if detail and detail.get("status") != "NS":
         return {**m, "home_score": detail.get("home_score"), "away_score": detail.get("away_score"),
@@ -465,6 +527,8 @@ def run():
     home_t = (ROOT / "templates" / "home.html").read_text(encoding="utf-8")
     abc_t = (ROOT / "templates" / "abc.html").read_text(encoding="utf-8")
     comps = load_comps()
+    SCORERS.clear()
+    SCORERS.update(build_scorers(comps))
     CLUBS.clear()
     clubs = {}
     for c in comps.values():

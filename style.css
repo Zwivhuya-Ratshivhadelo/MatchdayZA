@@ -430,3 +430,11 @@ button.mcard:hover { border-color: var(--green); }
 .club-head .crest { --size: 44px; }
 .game-top { padding-top: 2px; }
 .game-top .back-link { margin: 14px 0 14px; }
+
+/* Goal scorers under each club */
+.featured-team .scorers { display: grid; gap: 2px; font-size: 13px; font-weight: 600; line-height: 1.25; color: rgba(255, 255, 255, .88); }
+.lc-scorers { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 64px; padding: 0 16px 14px; margin-top: -8px;
+  font-size: 13px; line-height: 1.35; color: var(--muted); }
+.lc-scorers > span { display: grid; gap: 1px; }
+.lc-scorers .h { text-align: right; }
+@media (max-width: 480px) { .lc-scorers { column-gap: 52px; padding: 0 12px 12px; font-size: 12px; } }
