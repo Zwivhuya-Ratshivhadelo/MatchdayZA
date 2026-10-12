@@ -3,12 +3,33 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "Richards Bay",
-  "updated": "2026-10-11T07:07:53+02:00",
+  "updated": "2026-10-12T06:50:25+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "69'",
+      "type": "own_goal",
+      "team": "Durban City",
+      "player": "T. Sikhakhane",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "9'",
+      "type": "goal",
+      "team": "Richards Bay",
+      "player": "Nqaba Xulu",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
   "stats": [],
   "lineups": []
 }

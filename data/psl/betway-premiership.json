@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-12T06:21:12+02:00",
+  "updated": "2026-10-12T06:50:25+02:00",
   "log": [
     {
       "pos": 1,
@@ -345,17 +345,6 @@
       "status": "FT"
     },
     {
-      "home": "Durban City",
-      "away": "Richards Bay",
-      "date": "2026-08-15",
-      "venue": "Chatsworth Stadium, Chatsworth",
-      "match_id": "2673994",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673994-durban-city-vs-richards-bay",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "FT"
-    },
-    {
       "home": "Milford FC",
       "away": "Kruger United",
       "date": "2026-08-15",
@@ -395,6 +384,17 @@
       "venue": "FNB Stadium, Johannesburg",
       "match_id": "2673997",
       "url": "https://www.psl.co.za/matchcentre/detail/2673997-kaizer-chiefs-vs-mamelodi-sundowns",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Durban City",
+      "away": "Richards Bay",
+      "date": "2026-08-15",
+      "venue": "Chatsworth Stadium, Chatsworth",
+      "match_id": "2673994",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673994-durban-city-vs-richards-bay",
       "home_score": 1,
       "away_score": 1,
       "status": "FT"

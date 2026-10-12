@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-12T06:20:56+02:00",
+  "updated": "2026-10-12T06:50:25+02:00",
   "log": [
     {
       "pos": 1,
@@ -301,6 +301,17 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019596-lerumo-lions-vs-north-west-university"
     },
     {
+      "home": "Pretoria University FC",
+      "away": "Midlands Wanderers",
+      "date": "2026-08-29",
+      "venue": "Tuks Stadium, Pretoria",
+      "match_id": "3019595",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019595-pretoria-university-fc-vs-midlands-wa",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
       "home": "Magesi FC",
       "away": "The Bees",
       "date": "2026-08-29",
@@ -320,17 +331,6 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019588-gomora-united-vs-venda-fc",
       "home_score": 1,
       "away_score": 0,
-      "status": "FT"
-    },
-    {
-      "home": "Pretoria University FC",
-      "away": "Midlands Wanderers",
-      "date": "2026-08-29",
-      "venue": "Tuks Stadium, Pretoria",
-      "match_id": "3019595",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019595-pretoria-university-fc-vs-midlands-wa",
-      "home_score": 0,
-      "away_score": 2,
       "status": "FT"
     },
     {
@@ -565,6 +565,17 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019663-north-west-university-vs-cape-town-ci"
     },
     {
+      "home": "Leicesterford City FC",
+      "away": "Midlands Wanderers",
+      "date": "2026-09-19",
+      "venue": "Lucas Masterpieces Moripe Stadium, Pretoria, GT",
+      "match_id": "3019672",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019672-leicesterford-city-fc-vs-midlands-wan",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
       "home": "Upington City",
       "away": "Pretoria University FC",
       "date": "2026-09-19",
@@ -582,17 +593,6 @@
       "venue": "Kanyamazane Stadium, Kanyamazane",
       "match_id": "3019655",
       "url": "https://www.psl.co.za/matchcentre/detail/3019655-the-bees-vs-lerumo-lions",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "FT"
-    },
-    {
-      "home": "Leicesterford City FC",
-      "away": "Midlands Wanderers",
-      "date": "2026-09-19",
-      "venue": "Lucas Masterpieces Moripe Stadium, Pretoria, GT",
-      "match_id": "3019672",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019672-leicesterford-city-fc-vs-midlands-wan",
       "home_score": 1,
       "away_score": 0,
       "status": "FT"
