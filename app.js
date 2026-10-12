@@ -361,7 +361,7 @@ function renderClub() {
   });
 }
 
-/* Match page: one game with its stats, key moments and line-ups, both clubs' recent results and the log */
+/* Match page: one game with its stats, commentary and line-ups, both clubs' recent results and the log */
 async function renderGame() {
   const compKey = document.body.dataset.comp, key = document.body.dataset.key;
   const draw = async () => {
@@ -439,7 +439,7 @@ const ICON = {
   penalty_won: '<span class="ev-ico pen">P</span>', var: '<span class="ev-ico var">VAR</span>',
 };
 
-/* Stats, key moments and line-ups for the game on the pitch */
+/* Stats, commentary and line-ups for the game on the pitch */
 function detailPanel(m, detail) {
   const events = detail?.events || [], stats = detail?.stats || [], lineups = detail?.lineups || [];
   const parts = [];
@@ -450,14 +450,15 @@ function detailPanel(m, detail) {
         <div class="stat-bar"><i class="h" style="width:${(h / tot) * 100}%"></i><i class="a" style="width:${(a / tot) * 100}%"></i></div></div>`;
     }).join("")}</section>`);
   }
-  if (events.length) {
+  // commentary only when the source had real commentary (named players or match periods), not just goal times
+  if (events.some((e) => e.player || e.player_in || PERIOD_TEXT[e.type])) {
     const body = `<ol class="timeline">${events.map((e) => {
       if (PERIOD_TEXT[e.type]) return `<li class="ev-period"><span>${PERIOD_TEXT[e.type]}</span></li>`;
       const text = (EVENT_TEXT[e.type] || (() => ""))(e);
       const score = e.score ? `<b class="ev-score">${e.score[0]} - ${e.score[1]}</b>` : "";
       return `<li class="ev ev-${e.type}"><span class="ev-min">${esc(e.minute)}</span>${ICON[e.type] || ""}<span class="ev-text">${esc(text)}</span>${score}</li>`;
     }).join("")}</ol>`;
-    parts.push(`<section class="panel"><div class="panel-head"><h2>Key moments</h2></div>${body}</section>`);
+    parts.push(`<section class="panel"><div class="panel-head"><h2>Commentary</h2></div>${body}</section>`);
   }
   if (lineups.length) {
     const list = (ps) => ps.map((p) => `<li><span class="lu-no">${esc(p.no)}</span><span class="lu-name">${esc(p.name)}</span><span class="lu-pos">${esc(p.pos)}</span></li>`).join("");

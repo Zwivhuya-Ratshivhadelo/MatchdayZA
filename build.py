@@ -245,7 +245,7 @@ def build_comp(slug_, template, svg, today):
              else f"{name} fixtures and results | MatchdayZA")
     if slug_ == "betway-premiership":
         title = "MatchdayZA | Betway Premiership live scores, log, fixtures and results"
-    desc = f"{name} live scores,{league} fixtures and results. Follow every game with stats, key moments and line-ups."
+    desc = f"{name} live scores,{league} fixtures and results. Follow every game with stats, commentary and line-ups."
     page = fill(template, {
         "title": esc(title), "description": esc(desc), "canonical": SITE + url, "comp": slug_,
         "h1": esc(f"{name} live scores,{league} fixtures and results"),
@@ -299,7 +299,7 @@ def write(url, page):
         path.write_text(page, encoding="utf-8")
 
 
-# ---------- stats, key moments and line-ups (same as app.js detailPanel) ----------
+# ---------- stats, commentary and line-ups (same as app.js detailPanel) ----------
 def _who(e):
     return f"{e.get('player')} ({e.get('team')})" if e.get("player") else f"{e.get('team')}"
 
@@ -350,7 +350,8 @@ def detail_panel(detail):
                      f'<div class="stat-bar"><i class="h" style="width:{h / tot * 100:g}%"></i><i class="a" style="width:{a / tot * 100:g}%"></i></div></div>')
         parts.append(f'<section class="panel"><div class="panel-head"><h2>Stats</h2></div>{rows}</section>')
     events = detail.get("events") or []
-    if events:
+    # commentary only when the source had real commentary (named players or match periods), not just goal times
+    if any(e.get("player") or e.get("player_in") or e.get("type") in PERIOD_TEXT for e in events):
         items = ""
         for e in events:
             t = e.get("type")
@@ -361,7 +362,7 @@ def detail_panel(detail):
             score = f'<b class="ev-score">{e["score"][0]} - {e["score"][1]}</b>' if e.get("score") else ""
             items += (f'<li class="ev ev-{esc(t)}"><span class="ev-min">{esc(e.get("minute"))}</span>{ICON.get(t, "")}'
                       f'<span class="ev-text">{esc(text)}</span>{score}</li>')
-        parts.append(f'<section class="panel"><div class="panel-head"><h2>Key moments</h2></div><ol class="timeline">{items}</ol></section>')
+        parts.append(f'<section class="panel"><div class="panel-head"><h2>Commentary</h2></div><ol class="timeline">{items}</ol></section>')
     lineups = detail.get("lineups") or []
     if lineups:
         def lst(ps):
@@ -490,14 +491,14 @@ def build_match(m, comp_key, comps, template, svg, today):
     when = f"{d:%-d %B %Y}" if d else ""
     if g.get("status") == "LIVE":
         head = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]} Live Score'
-        desc = f'{head}, {comp_name}. Key moments, stats and line-ups as it happens.'
+        desc = f'{head}, {comp_name}. Commentary, stats and line-ups as it happens.'
     elif g.get("status") == "FT":
         head = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]}'
-        desc = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]}, {comp_name}, {when}. Stats, key moments and line-ups.'
+        desc = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]}, {comp_name}, {when}. Stats, commentary and line-ups.'
     else:
         head = f'{g["home"]} vs {g["away"]} Live Score'
         desc = (f'{g["home"]} vs {g["away"]}, {comp_name}, {when}' + (f' at {kickoff(g)}' if kickoff(g) else "")
-                + '. Live score, stats, key moments and line-ups.')
+                + '. Live score, stats, commentary and line-ups.')
     page = fill(template, {
         "title": esc(f"{head} | {comp_name} | MatchdayZA"), "description": esc(desc),
         "canonical": SITE + url, "comp": comp_key, "key": esc(game_key(m)), "nav": nav(comp_key),
