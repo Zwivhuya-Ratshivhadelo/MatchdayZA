@@ -1,10 +1,9 @@
 name: Site
 
-# Every 10 minutes: update the site when it's due (about hourly) and follow PSL games live.
-# GitHub skips some scheduled runs, so many short checks keep it reliable; most finish in seconds.
+# Started every 10 minutes by cron-job.org (GitHub's own scheduler skips too many runs).
+# Each run updates the site when it's due (about hourly) or follows PSL games live;
+# most finish in seconds.
 on:
-  schedule:
-    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 permissions:
