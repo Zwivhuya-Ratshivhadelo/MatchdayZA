@@ -5,7 +5,7 @@
   "name": "WC Stream A",
   "slug": "wc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28002",
-  "updated": "2026-10-11T22:58:22+02:00",
+  "updated": "2026-10-12T18:05:23+02:00",
   "log": [
     {
       "pos": 1,
@@ -395,14 +395,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Saxon Rovers FC",
-      "away": "Seaside Spurs FC",
-      "match_no": 32,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=32&s=l",
-      "date": "2026-10-11T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Santos FC",
       "away": "FN Rangers",

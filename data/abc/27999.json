@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-11T22:57:37+02:00",
+  "updated": "2026-10-12T18:04:28+02:00",
   "log": [
     {
       "pos": 1,
@@ -81,15 +81,15 @@
     },
     {
       "pos": 7,
-      "team": "La Masia FC",
+      "team": "Rrr Rams Football Club",
       "p": 2,
-      "w": 1,
-      "d": 0,
-      "l": 1,
-      "gf": 1,
+      "w": 0,
+      "d": 2,
+      "l": 0,
+      "gf": 2,
       "ga": 2,
-      "gd": -1,
-      "pts": 3
+      "gd": 0,
+      "pts": 2
     },
     {
       "pos": 8,
@@ -117,14 +117,14 @@
     },
     {
       "pos": 10,
-      "team": "Rrr Rams Football Club",
+      "team": "La Masia FC",
       "p": 2,
       "w": 0,
       "d": 1,
       "l": 1,
       "gf": 1,
-      "ga": 2,
-      "gd": -1,
+      "ga": 3,
+      "gd": -2,
       "pts": 1
     },
     {
@@ -259,7 +259,7 @@
       "match_no": 11,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=11&s=l",
       "date": "2026-10-10",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 1,
       "status": "FT"
     },
