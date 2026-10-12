@@ -3,12 +3,49 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-11T07:07:19+02:00",
+  "updated": "2026-10-12T06:21:12+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "80'",
+      "type": "yellow",
+      "team": "Kaizer Chiefs",
+      "player": "Sibongiseni Mthethwa"
+    },
+    {
+      "minute": "67'",
+      "type": "yellow",
+      "team": "Kaizer Chiefs",
+      "player": "A. Bitegeko"
+    },
+    {
+      "minute": "54'",
+      "type": "yellow",
+      "team": "Kaizer Chiefs",
+      "player": "T. Moloisane"
+    },
+    {
+      "minute": "53'",
+      "type": "yellow",
+      "team": "Golden Arrows",
+      "player": "N. Dlamini"
+    },
+    {
+      "minute": "35'",
+      "type": "yellow",
+      "team": "Golden Arrows",
+      "player": "S. Dion"
+    },
+    {
+      "minute": "34'",
+      "type": "yellow",
+      "team": "Golden Arrows",
+      "player": "Osborn Maluleke"
+    }
+  ],
   "stats": [],
   "lineups": [
     {

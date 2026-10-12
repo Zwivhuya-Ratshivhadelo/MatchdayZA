@@ -4,7 +4,7 @@
   "short": "MTN8",
   "league": false,
   "source": "https://www.psl.co.za/tournament/mtn8",
-  "updated": "2026-10-12T03:24:54+02:00",
+  "updated": "2026-10-12T06:21:12+02:00",
   "log": [],
   "results": [
     {
@@ -23,11 +23,11 @@
       "away": "Orlando Pirates",
       "date": "2026-08-22",
       "venue": "Old Peter Mokaba Stadium, Polokwane",
+      "match_id": "2683352",
+      "url": "https://www.psl.co.za/matchcentre/detail/2683352-sekhukhune-united-vs-orlando-pirates",
       "home_score": 0,
       "away_score": 1,
-      "status": "FT",
-      "match_id": "2683352",
-      "url": "https://www.psl.co.za/matchcentre/detail/2683352-sekhukhune-united-vs-orlando-pirates"
+      "status": "FT"
     },
     {
       "home": "Mamelodi Sundowns",

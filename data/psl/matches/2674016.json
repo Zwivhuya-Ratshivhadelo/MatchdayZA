@@ -3,12 +3,55 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-11T07:07:25+02:00",
+  "updated": "2026-10-12T06:21:12+02:00",
   "home_score": 1,
   "away_score": 2,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "Golden Arrows",
+      "player": "A. Van Rooi"
+    },
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Iqraam Rayners"
+    },
+    {
+      "minute": "88'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Teboho Mokoena",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "Golden Arrows",
+      "player": "S. Dion",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "14'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Siyanda Ndlovu",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
   "stats": [],
   "lineups": [
     {

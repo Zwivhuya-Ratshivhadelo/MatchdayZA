@@ -3,12 +3,41 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Siwelele",
-  "updated": "2026-10-11T07:07:57+02:00",
+  "updated": "2026-10-12T06:20:57+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "89'",
+      "type": "second_yellow",
+      "team": "Siwelele",
+      "player": "Thabiso Sesane"
+    },
+    {
+      "minute": "77'",
+      "type": "goal",
+      "team": "Milford FC",
+      "player": "Menzi Chili",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "58'",
+      "type": "yellow",
+      "team": "Siwelele",
+      "player": "Sphesihle Jeza"
+    },
+    {
+      "minute": "53'",
+      "type": "yellow",
+      "team": "Siwelele",
+      "player": "Thabiso Sesane"
+    }
+  ],
   "stats": [],
   "lineups": []
 }

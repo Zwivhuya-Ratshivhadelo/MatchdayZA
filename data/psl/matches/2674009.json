@@ -3,12 +3,83 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-11T07:07:31+02:00",
+  "updated": "2026-10-12T06:21:11+02:00",
   "home_score": 2,
   "away_score": 2,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "Richards Bay",
+      "player": "Sanele Barns"
+    },
+    {
+      "minute": "77'",
+      "type": "goal",
+      "team": "Kaizer Chiefs",
+      "player": "Siphesihle Ndlovu",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "minute": "39'",
+      "type": "goal",
+      "team": "Richards Bay",
+      "player": "Nqaba Xulu",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "31'",
+      "type": "yellow",
+      "team": "Kaizer Chiefs",
+      "player": "Pule Mmodi"
+    },
+    {
+      "minute": "28'",
+      "type": "yellow",
+      "team": "Richards Bay",
+      "player": "Moses Mthembu"
+    },
+    {
+      "minute": "26'",
+      "type": "yellow",
+      "team": "Richards Bay",
+      "player": "B. Nashixwa"
+    },
+    {
+      "minute": "19'",
+      "type": "penalty_goal",
+      "team": "Kaizer Chiefs",
+      "player": "Lebohang Maboe",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "15'",
+      "type": "yellow",
+      "team": "Richards Bay",
+      "player": "L. Mabuya"
+    },
+    {
+      "minute": "8'",
+      "type": "goal",
+      "team": "Richards Bay",
+      "player": "Nqaba Xulu",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [],
   "lineups": [
     {

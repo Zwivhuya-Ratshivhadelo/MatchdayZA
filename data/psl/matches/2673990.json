@@ -3,12 +3,79 @@
   "comp": "betway-premiership",
   "home": "Polokwane City",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-11T07:08:07+02:00",
+  "updated": "2026-10-12T06:20:57+02:00",
   "home_score": 3,
   "away_score": 3,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "81'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Luthando Vena"
+    },
+    {
+      "minute": "80'",
+      "type": "own_goal",
+      "team": "Stellenbosch FC",
+      "player": "L. Mathebula",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "minute": "75'",
+      "type": "goal",
+      "team": "Polokwane City",
+      "player": "Raymond Daniels",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "minute": "67'",
+      "type": "goal",
+      "team": "Polokwane City",
+      "player": "S. Manthosi",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "minute": "60'",
+      "type": "goal",
+      "team": "Stellenbosch FC",
+      "player": "Devin Titus",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "minute": "22'",
+      "type": "goal",
+      "team": "Stellenbosch FC",
+      "player": "S. Kwayiba",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "16'",
+      "type": "goal",
+      "team": "Polokwane City",
+      "player": "Giovanni Philander",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [],
   "lineups": []
 }

@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-12T03:25:00+02:00",
+  "updated": "2026-10-12T06:21:12+02:00",
   "log": [
     {
       "pos": 1,
@@ -217,11 +217,11 @@
       "away": "AmaZulu FC",
       "date": "2026-08-01",
       "venue": "Sugar Ray Xulu Stadium, Clermont",
+      "match_id": "2673980",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673980-stellenbosch-fc-vs-amazulu-fc",
       "home_score": 0,
       "away_score": 1,
-      "status": "FT",
-      "match_id": "2673980",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673980-stellenbosch-fc-vs-amazulu-fc"
+      "status": "FT"
     },
     {
       "home": "Siwelele",
@@ -250,297 +250,297 @@
       "away": "Richards Bay",
       "date": "2026-08-11",
       "venue": "Dobsonville Stadium, Soweto, Johannesburg",
+      "match_id": "2673987",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673987-chippa-united-vs-richards-bay",
       "home_score": 1,
       "away_score": 1,
-      "status": "FT",
-      "match_id": "2673987",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673987-chippa-united-vs-richards-bay"
+      "status": "FT"
     },
     {
       "home": "Marumo Gallants",
       "away": "Kruger United",
       "date": "2026-08-11",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
+      "match_id": "2673989",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673989-marumo-gallants-vs-kruger-united",
       "home_score": 0,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2673989",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673989-marumo-gallants-vs-kruger-united"
+      "status": "FT"
     },
     {
       "home": "Polokwane City",
       "away": "Stellenbosch FC",
       "date": "2026-08-11",
       "venue": "Seshego Stadium, Polokwane",
+      "match_id": "2673990",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673990-polokwane-city-vs-stellenbosch-fc",
       "home_score": 3,
       "away_score": 3,
-      "status": "FT",
-      "match_id": "2673990",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673990-polokwane-city-vs-stellenbosch-fc"
+      "status": "FT"
     },
     {
       "home": "TS Galaxy",
       "away": "Mamelodi Sundowns",
       "date": "2026-08-11",
       "venue": "Mbombela Stadium, Nelspruit",
+      "match_id": "2673993",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673993-ts-galaxy-vs-mamelodi-sundowns",
       "home_score": 2,
       "away_score": 3,
-      "status": "FT",
-      "match_id": "2673993",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673993-ts-galaxy-vs-mamelodi-sundowns"
+      "status": "FT"
     },
     {
       "home": "AmaZulu FC",
       "away": "Orlando Pirates",
       "date": "2026-08-12",
       "venue": "Jonsson Kings Park Stadium, Durban, KN",
+      "match_id": "2673986",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673986-amazulu-fc-vs-orlando-pirates",
       "home_score": 1,
       "away_score": 1,
-      "status": "FT",
-      "match_id": "2673986",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673986-amazulu-fc-vs-orlando-pirates"
+      "status": "FT"
     },
     {
       "home": "Durban City",
       "away": "Golden Arrows",
       "date": "2026-08-12",
       "venue": "Chatsworth Stadium, Chatsworth",
+      "match_id": "2673988",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673988-durban-city-vs-golden-arrows",
       "home_score": 0,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2673988",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673988-durban-city-vs-golden-arrows"
+      "status": "FT"
     },
     {
       "home": "Kaizer Chiefs",
       "away": "Sekhukhune United",
       "date": "2026-08-12",
       "venue": "FNB Stadium, Johannesburg",
+      "match_id": "2673991",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673991-kaizer-chiefs-vs-sekhukhune-united",
       "home_score": 2,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2673991",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673991-kaizer-chiefs-vs-sekhukhune-united"
+      "status": "FT"
     },
     {
       "home": "Milford FC",
       "away": "Siwelele",
       "date": "2026-08-12",
       "venue": "Richards Bay Stadium, Richards Bay",
+      "match_id": "2673992",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673992-milford-fc-vs-siwelele",
       "home_score": 1,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2673992",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673992-milford-fc-vs-siwelele"
+      "status": "FT"
     },
     {
       "home": "Stellenbosch FC",
       "away": "Marumo Gallants",
       "date": "2026-08-14",
       "venue": "Athlone Stadium, Cape Town",
+      "match_id": "2673995",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673995-stellenbosch-fc-vs-marumo-gallants",
       "home_score": 3,
       "away_score": 1,
-      "status": "FT",
-      "match_id": "2673995",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673995-stellenbosch-fc-vs-marumo-gallants"
+      "status": "FT"
     },
     {
       "home": "Durban City",
       "away": "Richards Bay",
       "date": "2026-08-15",
       "venue": "Chatsworth Stadium, Chatsworth",
+      "match_id": "2673994",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673994-durban-city-vs-richards-bay",
       "home_score": 1,
       "away_score": 1,
-      "status": "FT",
-      "match_id": "2673994",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673994-durban-city-vs-richards-bay"
+      "status": "FT"
     },
     {
       "home": "Milford FC",
       "away": "Kruger United",
       "date": "2026-08-15",
       "venue": "Sugar Ray Xulu Stadium, Clermont",
+      "match_id": "2673999",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673999-milford-fc-vs-kruger-united",
       "home_score": 2,
       "away_score": 1,
-      "status": "FT",
-      "match_id": "2673999",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673999-milford-fc-vs-kruger-united"
+      "status": "FT"
     },
     {
       "home": "Sekhukhune United",
       "away": "Polokwane City",
       "date": "2026-08-15",
       "venue": "Seshego Stadium, Polokwane",
+      "match_id": "2673998",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673998-sekhukhune-united-vs-polokwane-city",
       "home_score": 2,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2673998",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673998-sekhukhune-united-vs-polokwane-city"
+      "status": "FT"
     },
     {
       "home": "AmaZulu FC",
       "away": "Siwelele",
       "date": "2026-08-15",
       "venue": "Jonsson Kings Park Stadium, Durban, KN",
+      "match_id": "2673996",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673996-amazulu-fc-vs-siwelele",
       "home_score": 2,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2673996",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673996-amazulu-fc-vs-siwelele"
+      "status": "FT"
     },
     {
       "home": "Kaizer Chiefs",
       "away": "Mamelodi Sundowns",
       "date": "2026-08-15",
       "venue": "FNB Stadium, Johannesburg",
+      "match_id": "2673997",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673997-kaizer-chiefs-vs-mamelodi-sundowns",
       "home_score": 1,
       "away_score": 1,
-      "status": "FT",
-      "match_id": "2673997",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673997-kaizer-chiefs-vs-mamelodi-sundowns"
+      "status": "FT"
     },
     {
       "home": "TS Galaxy",
       "away": "Golden Arrows",
       "date": "2026-08-16",
       "venue": "Solomon Mahlangu Stadium, KwaMhlanga",
+      "match_id": "2674000",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674000-ts-galaxy-vs-golden-arrows",
       "home_score": 0,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2674000",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674000-ts-galaxy-vs-golden-arrows"
+      "status": "FT"
     },
     {
       "home": "Chippa United",
       "away": "Orlando Pirates",
       "date": "2026-08-16",
       "venue": "Jonsson Kings Park Stadium, Durban, KN",
+      "match_id": "2674001",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674001-chippa-united-vs-orlando-pirates",
       "home_score": 0,
       "away_score": 3,
-      "status": "FT",
-      "match_id": "2674001",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674001-chippa-united-vs-orlando-pirates"
+      "status": "FT"
     },
     {
       "home": "Mamelodi Sundowns",
       "away": "Marumo Gallants",
       "date": "2026-08-19",
       "venue": "Loftus Versfeld Stadium, Pretoria",
+      "match_id": "2673981",
+      "url": "https://www.psl.co.za/matchcentre/detail/2673981-mamelodi-sundowns-vs-marumo-gallants",
       "home_score": 2,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2673981",
-      "url": "https://www.psl.co.za/matchcentre/detail/2673981-mamelodi-sundowns-vs-marumo-gallants"
+      "status": "FT"
     },
     {
       "home": "Kruger United",
       "away": "Durban City",
       "date": "2026-08-25",
       "venue": "Mbombela Stadium, Nelspruit",
+      "match_id": "2674002",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674002-kruger-united-vs-durban-city",
       "home_score": 0,
       "away_score": 2,
-      "status": "FT",
-      "match_id": "2674002",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674002-kruger-united-vs-durban-city"
+      "status": "FT"
     },
     {
       "home": "Marumo Gallants",
       "away": "TS Galaxy",
       "date": "2026-08-25",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
+      "match_id": "2674004",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674004-marumo-gallants-vs-ts-galaxy",
       "home_score": 2,
       "away_score": 3,
-      "status": "FT",
-      "match_id": "2674004",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674004-marumo-gallants-vs-ts-galaxy"
+      "status": "FT"
     },
     {
       "home": "Golden Arrows",
       "away": "Stellenbosch FC",
       "date": "2026-08-26",
       "venue": "King Goodwill Zwelithini Stadium, Durban",
+      "match_id": "2674007",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674007-golden-arrows-vs-stellenbosch-fc",
       "home_score": 1,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2674007",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674007-golden-arrows-vs-stellenbosch-fc"
+      "status": "FT"
     },
     {
       "home": "Richards Bay",
       "away": "Kaizer Chiefs",
       "date": "2026-08-26",
       "venue": "Princess Magogo Stadium, Durban",
+      "match_id": "2674009",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674009-richards-bay-vs-kaizer-chiefs",
       "home_score": 2,
       "away_score": 2,
-      "status": "FT",
-      "match_id": "2674009",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674009-richards-bay-vs-kaizer-chiefs"
+      "status": "FT"
     },
     {
       "home": "Sekhukhune United",
       "away": "TS Galaxy",
       "date": "2026-09-05",
       "venue": "Old Peter Mokaba Stadium, Polokwane",
+      "match_id": "2674014",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674014-sekhukhune-united-vs-ts-galaxy",
       "home_score": 0,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2674014",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674014-sekhukhune-united-vs-ts-galaxy"
+      "status": "FT"
     },
     {
       "home": "Chippa United",
       "away": "Milford FC",
       "date": "2026-09-05",
       "venue": "Buffalo City Stadium, East London, South Africa",
+      "match_id": "2674012",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674012-chippa-united-vs-milford-fc",
       "home_score": 0,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2674012",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674012-chippa-united-vs-milford-fc"
+      "status": "FT"
     },
     {
       "home": "Golden Arrows",
       "away": "Mamelodi Sundowns",
       "date": "2026-09-06",
       "venue": "King Goodwill Zwelithini Stadium, Durban",
+      "match_id": "2674016",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674016-golden-arrows-vs-mamelodi-sundowns",
       "home_score": 1,
       "away_score": 2,
-      "status": "FT",
-      "match_id": "2674016",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674016-golden-arrows-vs-mamelodi-sundowns"
+      "status": "FT"
     },
     {
       "home": "Mamelodi Sundowns",
       "away": "Siwelele",
       "date": "2026-09-09",
       "venue": "Loftus Versfeld Stadium, Pretoria",
+      "match_id": "2674030",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674030-mamelodi-sundowns-vs-siwelele",
       "home_score": 3,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2674030",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674030-mamelodi-sundowns-vs-siwelele"
+      "status": "FT"
     },
     {
       "home": "Milford FC",
       "away": "Richards Bay",
       "date": "2026-09-13",
       "venue": "Sugar Ray Xulu Stadium, Clermont",
+      "match_id": "2674022",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674022-milford-fc-vs-richards-bay",
       "home_score": 5,
       "away_score": 1,
-      "status": "FT",
-      "match_id": "2674022",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674022-milford-fc-vs-richards-bay"
+      "status": "FT"
     },
     {
       "home": "Golden Arrows",
       "away": "Kaizer Chiefs",
       "date": "2026-09-20",
       "venue": "Mbombela Stadium, Nelspruit",
+      "match_id": "2674027",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674027-golden-arrows-vs-kaizer-chiefs",
       "home_score": 0,
       "away_score": 0,
-      "status": "FT",
-      "match_id": "2674027",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674027-golden-arrows-vs-kaizer-chiefs"
+      "status": "FT"
     }
   ],
   "fixtures": [

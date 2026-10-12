@@ -3,12 +3,81 @@
   "comp": "betway-premiership",
   "home": "TS Galaxy",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-11T07:08:05+02:00",
+  "updated": "2026-10-12T06:20:57+02:00",
   "home_score": 2,
   "away_score": 3,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Sphelele Mkhulise",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "minute": "88'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Sphelele Mkhulise",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "minute": "83'",
+      "type": "yellow",
+      "team": "TS Galaxy",
+      "player": "Seluleko Mahlambi"
+    },
+    {
+      "minute": "77'",
+      "type": "own_goal",
+      "team": "TS Galaxy",
+      "player": "Ronwen Williams",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "minute": "37'",
+      "type": "yellow",
+      "team": "TS Galaxy",
+      "player": "Lentswe Motaung"
+    },
+    {
+      "minute": "33'",
+      "type": "goal",
+      "team": "TS Galaxy",
+      "player": "V. Letsoalo",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "26'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Khuliso Mudau"
+    },
+    {
+      "minute": "7'",
+      "type": "penalty_goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Brayan Leon",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
   "stats": [],
   "lineups": []
 }

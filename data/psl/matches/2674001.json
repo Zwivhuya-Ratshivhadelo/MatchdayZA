@@ -3,12 +3,67 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Orlando Pirates",
-  "updated": "2026-10-11T07:07:41+02:00",
+  "updated": "2026-10-12T06:21:08+02:00",
   "home_score": 0,
   "away_score": 3,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "89'",
+      "type": "yellow",
+      "team": "Orlando Pirates",
+      "player": "Mthiyane"
+    },
+    {
+      "minute": "87'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Daniel Msendami",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "minute": "86'",
+      "type": "yellow",
+      "team": "Chippa United",
+      "player": "Asanele Bonani"
+    },
+    {
+      "minute": "64'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Lebone Seema",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "60'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "G. Lungu",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "42'",
+      "type": "yellow",
+      "team": "Orlando Pirates",
+      "player": "Patrick Maswanganyi"
+    },
+    {
+      "minute": "42'",
+      "type": "yellow",
+      "team": "Chippa United",
+      "player": "Imraan Jones"
+    }
+  ],
   "stats": [],
   "lineups": []
 }

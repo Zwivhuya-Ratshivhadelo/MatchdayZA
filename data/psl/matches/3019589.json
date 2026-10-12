@@ -3,12 +3,53 @@
   "comp": "national-first-division",
   "home": "Leicesterford City FC",
   "away": "Magesi FC",
-  "updated": "2026-10-11T10:34:38+02:00",
+  "updated": "2026-10-12T06:20:42+02:00",
   "home_score": 1,
   "away_score": 3,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "85'",
+      "type": "goal",
+      "team": "Magesi FC",
+      "player": "",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "minute": "82'",
+      "type": "goal",
+      "team": "Magesi FC",
+      "player": "",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "minute": "56'",
+      "type": "goal",
+      "team": "Magesi FC",
+      "player": "",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "38'",
+      "type": "goal",
+      "team": "Leicesterford City FC",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [],
   "lineups": []
 }

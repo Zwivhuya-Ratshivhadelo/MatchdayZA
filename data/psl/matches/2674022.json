@@ -3,12 +3,85 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Richards Bay",
-  "updated": "2026-10-11T07:07:21+02:00",
+  "updated": "2026-10-12T06:21:12+02:00",
   "home_score": 5,
   "away_score": 1,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Milford FC",
+      "player": "Jabulile Gxakoshe",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "minute": "84'",
+      "type": "goal",
+      "team": "Milford FC",
+      "player": "Phakamani Jwara",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "minute": "82'",
+      "type": "yellow",
+      "team": "Milford FC",
+      "player": "Sicelo Masilela"
+    },
+    {
+      "minute": "77'",
+      "type": "goal",
+      "team": "Richards Bay",
+      "player": "M. Ndelu",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "minute": "54'",
+      "type": "goal",
+      "team": "Milford FC",
+      "player": "Mvelo Zikakayo",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "Milford FC",
+      "player": "Mvelo Zikakayo",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "28'",
+      "type": "penalty_goal",
+      "team": "Milford FC",
+      "player": "Siphosethu Ndlabi",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "24'",
+      "type": "red",
+      "team": "Richards Bay",
+      "player": "L. Zikhali"
+    }
+  ],
   "stats": [],
   "lineups": [
     {

@@ -3,12 +3,51 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Siwelele",
-  "updated": "2026-10-11T07:07:47+02:00",
+  "updated": "2026-10-12T06:21:07+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "48'",
+      "type": "yellow",
+      "team": "AmaZulu FC",
+      "player": "Siyanda Hlangabeza"
+    },
+    {
+      "minute": "47'",
+      "type": "yellow",
+      "team": "Siwelele",
+      "player": "N. Mokhachane"
+    },
+    {
+      "minute": "31'",
+      "type": "goal",
+      "team": "AmaZulu FC",
+      "player": "Thandolwenkosi Ngwenya",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "22'",
+      "type": "yellow",
+      "team": "Siwelele",
+      "player": "Tebogo Potsane"
+    },
+    {
+      "minute": "20'",
+      "type": "goal",
+      "team": "AmaZulu FC",
+      "player": "Mondli Mbanjwa",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [],
   "lineups": []
 }

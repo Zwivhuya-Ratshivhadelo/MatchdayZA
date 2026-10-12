@@ -3,12 +3,47 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-11T07:07:34+02:00",
+  "updated": "2026-10-12T06:21:10+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "70'",
+      "type": "goal",
+      "team": "Golden Arrows",
+      "player": "S. Dion",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "67'",
+      "type": "yellow",
+      "team": "Golden Arrows",
+      "player": "Ayabulela Maxwele"
+    },
+    {
+      "minute": "62'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Luthando Vena"
+    },
+    {
+      "minute": "61'",
+      "type": "yellow",
+      "team": "Golden Arrows",
+      "player": "Themba Mantshiyane"
+    },
+    {
+      "minute": "39'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Siviwe Nkwali"
+    }
+  ],
   "stats": [],
   "lineups": [
     {

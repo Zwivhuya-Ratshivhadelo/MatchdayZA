@@ -3,12 +3,39 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Orlando Pirates",
-  "updated": "2026-10-11T07:08:03+02:00",
+  "updated": "2026-10-12T06:20:57+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "51'",
+      "type": "yellow",
+      "team": "AmaZulu FC",
+      "player": "Thandolwenkosi Ngwenya"
+    },
+    {
+      "minute": "45'",
+      "type": "penalty_goal",
+      "team": "AmaZulu FC",
+      "player": "Thandolwenkosi Ngwenya",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Tshepang Moremi",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
   "stats": [],
   "lineups": []
 }

@@ -3,12 +3,69 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Durban City",
-  "updated": "2026-10-11T07:07:37+02:00",
+  "updated": "2026-10-12T06:21:08+02:00",
   "home_score": 0,
   "away_score": 2,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "88'",
+      "type": "yellow",
+      "team": "Durban City",
+      "player": "S. Ncanana"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "Sidney Fakude"
+    },
+    {
+      "minute": "50'",
+      "type": "goal",
+      "team": "Durban City",
+      "player": "G. Sirino",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "K. Mngonyama"
+    },
+    {
+      "minute": "43'",
+      "type": "yellow",
+      "team": "Durban City",
+      "player": "G. Sirino"
+    },
+    {
+      "minute": "28'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "Ebrahim Seedat"
+    },
+    {
+      "minute": "23'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "N. Makhubela"
+    },
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "Durban City",
+      "player": "Jean Lwamba",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
   "stats": [],
   "lineups": [
     {

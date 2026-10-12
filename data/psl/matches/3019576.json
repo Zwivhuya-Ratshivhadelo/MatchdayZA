@@ -3,12 +3,33 @@
   "comp": "national-first-division",
   "home": "Venda FC",
   "away": "Lerumo Lions",
-  "updated": "2026-10-11T10:35:12+02:00",
+  "updated": "2026-10-12T06:20:11+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "52'",
+      "type": "goal",
+      "team": "Venda FC",
+      "player": "",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "30'",
+      "type": "goal",
+      "team": "Lerumo Lions",
+      "player": "",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
   "stats": [],
   "lineups": []
 }

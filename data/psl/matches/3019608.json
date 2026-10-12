@@ -3,12 +3,43 @@
   "comp": "national-first-division",
   "home": "Gomora United",
   "away": "Upington City",
-  "updated": "2026-10-11T17:34:41+02:00",
-  "home_score": null,
-  "away_score": null,
-  "status": "NS",
+  "updated": "2026-10-12T06:20:56+02:00",
+  "home_score": 2,
+  "away_score": 1,
+  "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Gomora United",
+      "player": "",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "82'",
+      "type": "goal",
+      "team": "Upington City",
+      "player": "",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "50'",
+      "type": "goal",
+      "team": "Gomora United",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [],
   "lineups": []
 }

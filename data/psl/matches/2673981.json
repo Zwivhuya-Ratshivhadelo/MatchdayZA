@@ -3,12 +3,39 @@
   "comp": "betway-premiership",
   "home": "Mamelodi Sundowns",
   "away": "Marumo Gallants",
-  "updated": "2026-10-11T07:07:39+02:00",
+  "updated": "2026-10-12T06:21:08+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "67'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "C. Mailula",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "32'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Malibongwe Khoza"
+    },
+    {
+      "minute": "21'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Malibongwe Khoza",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [],
   "lineups": [
     {

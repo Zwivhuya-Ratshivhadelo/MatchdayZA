@@ -3,12 +3,49 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Kruger United",
-  "updated": "2026-10-11T07:08:10+02:00",
+  "updated": "2026-10-12T06:20:57+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "90'",
+      "type": "second_yellow",
+      "team": "Kruger United",
+      "player": "Thendo Mukumela"
+    },
+    {
+      "minute": "73'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "Nkosinathi Thwala"
+    },
+    {
+      "minute": "73'",
+      "type": "yellow",
+      "team": "Marumo Gallants",
+      "player": "Katlego Otladisa"
+    },
+    {
+      "minute": "70'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "Ebrahim Seedat"
+    },
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "team": "Marumo Gallants",
+      "player": "M. Sikakane"
+    },
+    {
+      "minute": "14'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "Thendo Mukumela"
+    }
+  ],
   "stats": [],
   "lineups": []
 }

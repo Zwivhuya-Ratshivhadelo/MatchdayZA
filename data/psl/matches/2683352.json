@@ -1,0 +1,49 @@
+{
+  "match_id": "2683352",
+  "comp": "mtn8",
+  "home": "Sekhukhune United",
+  "away": "Orlando Pirates",
+  "updated": "2026-10-12T06:21:12+02:00",
+  "home_score": 0,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "89'",
+      "type": "yellow",
+      "team": "Orlando Pirates",
+      "player": "N. Rapoo"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "team": "Sekhukhune United",
+      "player": "Daniel Cardoso"
+    },
+    {
+      "minute": "75'",
+      "type": "yellow",
+      "team": "Orlando Pirates",
+      "player": "C. Dansin"
+    },
+    {
+      "minute": "43'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Deon Hotto",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "16'",
+      "type": "yellow",
+      "team": "Sekhukhune United",
+      "player": "T. Matsimbi"
+    }
+  ],
+  "stats": [],
+  "lineups": []
+}

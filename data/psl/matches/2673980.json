@@ -1,0 +1,61 @@
+{
+  "match_id": "2673980",
+  "comp": "betway-premiership",
+  "home": "Stellenbosch FC",
+  "away": "AmaZulu FC",
+  "updated": "2026-10-12T06:20:57+02:00",
+  "home_score": 0,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "AmaZulu FC",
+      "player": "Thapelo Matlhoko"
+    },
+    {
+      "minute": "61'",
+      "type": "yellow",
+      "team": "AmaZulu FC",
+      "player": "Taariq Fielies"
+    },
+    {
+      "minute": "59'",
+      "type": "penalty_goal",
+      "team": "AmaZulu FC",
+      "player": "Thandolwenkosi Ngwenya",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "56'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Taariq Fielies"
+    },
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Luthando Vena"
+    },
+    {
+      "minute": "32'",
+      "type": "yellow",
+      "team": "AmaZulu FC",
+      "player": "Siphamandla Zikhali"
+    },
+    {
+      "minute": "24'",
+      "type": "yellow",
+      "team": "AmaZulu FC",
+      "player": "Athini Maqokola"
+    }
+  ],
+  "stats": [],
+  "lineups": []
+}

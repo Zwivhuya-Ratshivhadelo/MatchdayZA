@@ -3,12 +3,85 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Kruger United",
-  "updated": "2026-10-11T07:07:51+02:00",
+  "updated": "2026-10-12T06:21:07+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "Sipho Sibiya"
+    },
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "Milford FC",
+      "player": "Thabana Mabena",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "70'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "Katlego Mohamme"
+    },
+    {
+      "minute": "68'",
+      "type": "goal",
+      "team": "Milford FC",
+      "player": "Sicelo Masilela",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "54'",
+      "type": "yellow",
+      "team": "Milford FC",
+      "player": "Cebolenkosi Mthethwa"
+    },
+    {
+      "minute": "51'",
+      "type": "goal",
+      "team": "Kruger United",
+      "player": "Khetukuthula Ndlovu",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "44'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "Morne Nel"
+    },
+    {
+      "minute": "42'",
+      "type": "red",
+      "team": "Milford FC",
+      "player": "Menzi Chili"
+    },
+    {
+      "minute": "38'",
+      "type": "yellow",
+      "team": "Milford FC",
+      "player": "Jabulile Gxakoshe"
+    },
+    {
+      "minute": "28'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "K. Mngonyama"
+    }
+  ],
   "stats": [],
   "lineups": []
 }

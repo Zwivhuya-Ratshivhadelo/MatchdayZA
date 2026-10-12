@@ -3,12 +3,81 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-11T07:07:45+02:00",
+  "updated": "2026-10-12T06:21:07+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "88'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Bennet Mokoena"
+    },
+    {
+      "minute": "75'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "C. Mailula",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "71'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Tashreeq Matthews"
+    },
+    {
+      "minute": "71'",
+      "type": "yellow",
+      "team": "Kaizer Chiefs",
+      "player": "Zitha Kwinika"
+    },
+    {
+      "minute": "64'",
+      "type": "yellow",
+      "team": "Kaizer Chiefs",
+      "player": "L. Phili"
+    },
+    {
+      "minute": "63'",
+      "type": "goal",
+      "team": "Kaizer Chiefs",
+      "player": "Langelihle Phili",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Bathusi Aubaas"
+    },
+    {
+      "minute": "34'",
+      "type": "yellow",
+      "team": "Kaizer Chiefs",
+      "player": "Brendon Moloisane"
+    },
+    {
+      "minute": "26'",
+      "type": "yellow",
+      "team": "Kaizer Chiefs",
+      "player": "Inácio Miguel"
+    },
+    {
+      "minute": "18'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Brayan Leon"
+    }
+  ],
   "stats": [],
   "lineups": []
 }

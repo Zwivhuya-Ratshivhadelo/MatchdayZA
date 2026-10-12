@@ -3,12 +3,63 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Polokwane City",
-  "updated": "2026-10-11T07:07:49+02:00",
+  "updated": "2026-10-12T06:21:07+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "FT",
   "minute": null,
-  "events": [],
+  "events": [
+    {
+      "minute": "86'",
+      "type": "yellow",
+      "team": "Polokwane City",
+      "player": "Banele Mnguni"
+    },
+    {
+      "minute": "76'",
+      "type": "yellow",
+      "team": "Sekhukhune United",
+      "player": "Ngoanamello Rammala"
+    },
+    {
+      "minute": "73'",
+      "type": "yellow",
+      "team": "Polokwane City",
+      "player": "Abram Mashele"
+    },
+    {
+      "minute": "46'",
+      "type": "yellow",
+      "team": "Sekhukhune United",
+      "player": "Bright Ndlovu"
+    },
+    {
+      "minute": "42'",
+      "type": "yellow",
+      "team": "Polokwane City",
+      "player": "Manuel Kambala"
+    },
+    {
+      "minute": "20'",
+      "type": "goal",
+      "team": "Sekhukhune United",
+      "player": "Ngoanamello Rammala",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "8'",
+      "type": "goal",
+      "team": "Sekhukhune United",
+      "player": "Tshepo Mokoane",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [],
   "lineups": []
 }
