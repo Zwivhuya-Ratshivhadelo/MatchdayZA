@@ -103,7 +103,14 @@ def _same_club(a, b):
 
 def find(feed, m):
     day = (m.get("date") or "")[:10]
-    for g in feed:
-        if (g["date"] or "")[:10] == day and _same_club(g["home"], m["home"]) and _same_club(g["away"], m["away"]):
+    same_day = [g for g in feed if (g["date"] or "")[:10] == day]
+    for g in same_day:
+        if _same_club(g["home"], m["home"]) and _same_club(g["away"], m["away"]):
             return g
-    return None
+    # some clubs go by another name there (e.g. after a rename): accept a game on the same day
+    # where one club matches, the other club matches none of that day's games, and the kick-off agrees
+    t = (m.get("date") or "")[11:16]
+    loose = [g for g in same_day
+             if (_same_club(g["home"], m["home"]) or _same_club(g["away"], m["away"]))
+             and (not t or (g["date"] or "")[11:16] == t)]
+    return loose[0] if len(loose) == 1 else None
