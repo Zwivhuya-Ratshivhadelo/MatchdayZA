@@ -1,9 +1,9 @@
-name: Update site 
+name: Update site
 
+# Run workflow = update everything now (scores, ABC Motsepe League, club logos).
+# The regular updates are done by the "Site" workflow.
 on:
-  schedule:
-    - cron: "23 * * * *"   # every hour
-  workflow_dispatch:       # Run workflow = update everything now
+  workflow_dispatch:
 
 permissions:
   contents: write
