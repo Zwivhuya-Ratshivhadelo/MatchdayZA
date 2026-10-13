@@ -28,6 +28,12 @@ def _norm(g, slug):
         shown = (g.get("gameTimeDisplay") or "").strip()
         if re.fullmatch(r"(?i)ht|half[\s-]?time|halftime", text) or re.fullmatch(r"(?i)ht", shown):
             minute = "HT"
+        elif (g.get("preciseGameTime") or {}).get("minutes") is not None and \
+                ((text.lower().startswith("1st") and g["preciseGameTime"]["minutes"] >= 45) or g["preciseGameTime"]["minutes"] >= 90):
+            # added time: the feed's clock keeps running past 45/90, shown the usual way (90+3')
+            base = 45 if text.lower().startswith("1st") else 90
+            extra = g["preciseGameTime"]["minutes"] - base + 1
+            minute = f"{base}+{extra}'" if extra > 0 else f"{base}'"
         elif shown and re.search(r"\d", shown):
             minute = shown if shown.endswith("'") else shown + "'"
         elif g.get("gameTime") and g["gameTime"] > 0:
