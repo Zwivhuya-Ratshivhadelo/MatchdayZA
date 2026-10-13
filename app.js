@@ -604,6 +604,40 @@ function renderMatch() {
 
 /* ---------- start ---------- */
 $all('[data-md="year"]').forEach((el) => (el.textContent = new Date().getFullYear()));
+/* ---------- add to home screen: a quiet line under the competitions, shown once in a while ---------- */
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").catch(() => {});
+(function installHint() {
+  const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  const key = "md-install-hidden";
+  let hiddenAt = 0;
+  try { hiddenAt = +localStorage.getItem(key) || 0; } catch { /* private mode */ }
+  if (standalone || Date.now() - hiddenAt < 14 * 864e5) return;
+  const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) && !/crios|fxios/i.test(navigator.userAgent);
+  let deferred = null;
+  const show = () => {
+    if (document.querySelector(".install-hint")) return;
+    const bar = document.createElement("div");
+    bar.className = "install-hint";
+    bar.innerHTML = `<div class="container install-row">
+      <span>${ios ? "Add MatchdayZA to your home screen: tap Share, then Add to Home Screen" : "Get MatchdayZA on your home screen"}</span>
+      ${ios ? "" : '<button type="button" class="install-add">Add</button>'}
+      <button type="button" class="install-close" aria-label="Close">×</button></div>`;
+    (document.querySelector(".comp-switch") || document.querySelector(".site-header"))?.after(bar);
+    const hide = () => { bar.remove(); try { localStorage.setItem(key, String(Date.now())); } catch { /* ignore */ } };
+    bar.querySelector(".install-close").addEventListener("click", hide);
+    bar.querySelector(".install-add")?.addEventListener("click", async () => {
+      if (!deferred) return hide();
+      deferred.prompt();
+      await deferred.userChoice.catch(() => null);
+      deferred = null;
+      hide();
+    });
+  };
+  addEventListener("beforeinstallprompt", (e) => { e.preventDefault(); deferred = e; setTimeout(show, 6000); });
+  if (ios) setTimeout(show, 6000);
+  addEventListener("appinstalled", () => document.querySelector(".install-hint")?.remove());
+})();
+
 /* "Show all results" works on built pages too */
 document.addEventListener("click", (e) => {
   const b = e.target.closest(".more-btn");

@@ -449,3 +449,10 @@ button.mcard:hover { border-color: var(--green); }
   font-size: 14px; font-weight: 700; }
 .goals-strip > div { display: grid; gap: 4px; align-content: start; }
 .goals-strip .a { text-align: right; }
+
+/* Add to home screen: one quiet line under the competitions */
+.install-hint { background: var(--white); border-bottom: 1px solid var(--line); }
+.install-row { display: flex; align-items: center; gap: 10px; padding-top: 8px; padding-bottom: 8px; font-size: 13px; color: var(--muted); }
+.install-row span { flex: 1; min-width: 0; }
+.install-add { border: 0; background: none; color: var(--green); font: inherit; font-weight: 800; font-size: 14px; padding: 6px 4px; cursor: pointer; }
+.install-close { border: 0; background: none; color: var(--muted); font-size: 20px; line-height: 1; padding: 4px 2px 6px; cursor: pointer; }
