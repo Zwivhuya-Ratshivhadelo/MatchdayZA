@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T21:18:59+02:00",
+  "updated": "2026-10-13T21:21:32+02:00",
   "log": [
     {
       "pos": 1,
@@ -552,7 +552,7 @@
       "home_score": 1,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "89'",
+      "minute": "90+2'",
       "latest": "72' Goal, Haashim Domingo (Durban City)"
     },
     {
@@ -565,7 +565,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "89'",
+      "minute": "90+1'",
       "latest": "88' Yellow card, Terrence Mashego (Stellenbosch FC)"
     },
     {
@@ -579,7 +579,7 @@
       "away_score": 4,
       "status": "LIVE",
       "latest": "79' Yellow card, Fawaaz Basadien (Mamelodi Sundowns)",
-      "minute": "88'"
+      "minute": "90+1'"
     },
     {
       "home": "Orlando Pirates",
@@ -591,7 +591,7 @@
       "home_score": 3,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "87'",
+      "minute": "89'",
       "latest": "76' Goal, Simphiwe Masilela (Orlando Pirates)"
     }
   ],

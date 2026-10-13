@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-13T21:18:57+02:00",
+  "updated": "2026-10-13T21:21:31+02:00",
   "home_score": 1,
   "away_score": 4,
   "status": "LIVE",
-  "minute": "88'",
+  "minute": "90+1'",
   "events": [
     {
       "minute": "79'",
@@ -69,8 +69,8 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "24%",
-      "away": "76%"
+      "home": "25%",
+      "away": "75%"
     },
     {
       "label": "Attacks",
@@ -84,13 +84,13 @@
     },
     {
       "label": "Free Kicks",
-      "home": "16",
+      "home": "17",
       "away": "6"
     },
     {
       "label": "Offsides",
       "home": "1",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Throw-Ins",
@@ -129,8 +129,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "180",
-      "away": "702"
+      "home": "188",
+      "away": "706"
     },
     {
       "label": "Shots Off Target",
@@ -154,8 +154,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "239",
-      "away": "748"
+      "home": "247",
+      "away": "752"
     },
     {
       "label": "Shots Outside The Box",
@@ -169,22 +169,22 @@
     },
     {
       "label": "Crosses Completed",
-      "home": "1/8 (12%)",
+      "home": "1/9 (11%)",
       "away": "9/26 (35%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "140",
-      "away": "307"
+      "home": "141",
+      "away": "311"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "107",
+      "home": "115",
       "away": "467"
     },
     {
       "label": "Long Passes Completed",
-      "home": "13/43 (30%)",
+      "home": "14/44 (32%)",
       "away": "33/41 (80%)"
     },
     {
@@ -194,13 +194,13 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "24",
+      "home": "31",
       "away": "154"
     },
     {
       "label": "Backward Passes",
       "home": "44",
-      "away": "133"
+      "away": "134"
     },
     {
       "label": "Interceptions",
@@ -220,26 +220,26 @@
     {
       "label": "Clearances",
       "home": "27",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Duels Won",
-      "home": "32",
-      "away": "23"
+      "home": "34",
+      "away": "24"
     },
     {
       "label": "Aerial Duels Won",
-      "home": "2/10 (20%)",
-      "away": "8/10 (80%)"
+      "home": "3/12 (25%)",
+      "away": "9/12 (75%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "30/45 (67%)",
-      "away": "15/44 (34%)"
+      "home": "31/46 (67%)",
+      "away": "15/46 (33%)"
     },
     {
       "label": "Was Fouled",
-      "home": "16",
+      "home": "17",
       "away": "6"
     },
     {
@@ -259,17 +259,17 @@
     },
     {
       "label": "Possession Lost",
-      "home": "79",
-      "away": "90"
+      "home": "80",
+      "away": "91"
     },
     {
       "label": "Fouls",
       "home": "6",
-      "away": "15"
+      "away": "17"
     },
     {
       "label": "Substitutions",
-      "home": "3",
+      "home": "4",
       "away": "5"
     }
   ],
