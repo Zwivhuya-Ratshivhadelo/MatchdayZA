@@ -245,7 +245,7 @@ def build_comp(slug_, template, svg, today):
              else f"{name} fixtures and results | MatchdayZA")
     if slug_ == "betway-premiership":
         title = "MatchdayZA | Betway Premiership live scores, log, fixtures and results"
-    desc = f"{name} live scores,{league} fixtures and results. Follow every game with stats, commentary and line-ups."
+    desc = f"{name} live scores,{league} fixtures and results. Follow every game with goals, stats and line-ups."
     page = fill(template, {
         "title": esc(title), "description": esc(desc), "canonical": SITE + url, "comp": slug_,
         "h1": esc(f"{name} live scores,{league} fixtures and results"),
@@ -357,7 +357,6 @@ def detail_panel(detail, m=None):
                      f'<div class="stat-bar">{bar}</div></div>')
         parts.append(f'<section class="panel"><div class="panel-head"><h2>Stats</h2></div>{rows}</section>')
     events = detail.get("events") or []
-    # commentary only when the source had real commentary (named players or match periods), not just goal times
     # commentary only when the source wrote real commentary (it marks kick-off, half-time and subs);
     # a bare list of goals and cards isn't commentary, and the goals already show under the pitch
     if any(e.get("type") in PERIOD_TEXT or e.get("type") == "sub" for e in events):
@@ -500,14 +499,14 @@ def build_match(m, comp_key, comps, template, svg, today):
     when = f"{d:%-d %B %Y}" if d else ""
     if g.get("status") == "LIVE":
         head = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]} Live Score'
-        desc = f'{head}, {comp_name}. Commentary, stats and line-ups as it happens.'
+        desc = f'{head}, {comp_name}. Goals, stats and line-ups as it happens.'
     elif g.get("status") == "FT":
         head = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]}'
-        desc = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]}, {comp_name}, {when}. Stats, commentary and line-ups.'
+        desc = f'{g["home"]} {g["home_score"]}-{g["away_score"]} {g["away"]}, {comp_name}, {when}. Goals, stats and line-ups.'
     else:
         head = f'{g["home"]} vs {g["away"]} Live Score'
         desc = (f'{g["home"]} vs {g["away"]}, {comp_name}, {when}' + (f' at {kickoff(g)}' if kickoff(g) else "")
-                + '. Live score, stats, commentary and line-ups.')
+                + '. Live score, goals, stats and line-ups.')
     page = fill(template, {
         "title": esc(f"{head} | {comp_name} | MatchdayZA"), "description": esc(desc),
         "canonical": SITE + url, "comp": comp_key, "key": esc(game_key(m)), "nav": nav(comp_key),
