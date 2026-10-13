@@ -507,21 +507,6 @@ def code(name):
     return CODES.get(slug(name)) or re.sub(r"[^A-Za-z]", "", name)[:3].upper()
 
 
-def write_match_manifest(m, url):
-    """Each match page can be pinned to a home screen as its own icon that opens that match."""
-    import json
-    man = {"name": f'{m["home"]} vs {m["away"]}', "short_name": f'{code(m["home"])} v {code(m["away"])}',
-           "id": url, "start_url": url, "scope": url, "display": "standalone",
-           "background_color": "#00563A", "theme_color": "#00563A",
-           "icons": [{"src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
-                     {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
-    path = ROOT / url.strip("/") / "manifest.webmanifest"
-    path.parent.mkdir(parents=True, exist_ok=True)
-    text = json.dumps(man, ensure_ascii=False, indent=1)
-    if not path.exists() or path.read_text(encoding="utf-8") != text:
-        path.write_text(text, encoding="utf-8")
-
-
 def build_match(m, comp_key, comps, template, svg, today):
     url = match_url(m)
     comp = comps[comp_key]
