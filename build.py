@@ -250,7 +250,7 @@ def build_comp(slug_, template, svg, today):
         "title": esc(title), "description": esc(desc), "canonical": SITE + url, "comp": slug_,
         "h1": esc(f"{name} live scores,{league} fixtures and results"),
         "nav": nav(slug_), "next_title": "Live Score" if live else "Next matches", "next": next_html,
-        "featured": pitch_card(pick, name, today, svg) if pick else "",
+        "featured": pitch_card(pick, name, today, svg) + goals_strip(pick) if pick else "",
         "results": results_list(done, pick=True, link=True) or f'<p class="empty">No {esc(name)} results yet.</p>',
         "standings": standings_table(enrich_log(log, results, comp.get("extra")), links=True) if log else "",
         "log_hidden": "" if log else " hidden",
@@ -331,10 +331,6 @@ ICON = {
 
 def detail_panel(detail, m=None):
     parts = []
-    sc = SCORERS.get(str(m.get("match_id"))) if m and m.get("match_id") else None
-    if sc and (sc[0] or sc[1]):   # goals under the pitch: each club's scorers with the minute
-        col = lambda lst, cls: f'<div class="{cls}">' + "".join(f"<span>⚽ {esc(x)}</span>" for x in lst) + "</div>"
-        parts.append(f'<div class="goals-strip">{col(sc[0], "h")}{col(sc[1], "a")}</div>')   # under the pitch, no panel
     if not detail:
         return "".join(parts)
     stats = detail.get("stats") or []
@@ -438,6 +434,15 @@ def build_scorers(comps):
 SCORERS = {}
 
 
+def goals_strip(m):
+    """Scorers straight under the pitch: home left, away right."""
+    sc = SCORERS.get(str(m.get("match_id"))) if m.get("match_id") else None
+    if not sc or not (sc[0] or sc[1]) or m.get("status") not in ("LIVE", "FT"):
+        return ""
+    col = lambda lst, cls: f'<div class="{cls}">' + "".join(f"<span>⚽ {esc(x)}</span>" for x in lst) + "</div>"
+    return f'<div class="goals-strip">{col(sc[0], "h")}{col(sc[1], "a")}</div>'
+
+
 def scorers_html(m, side, cls):
     lst = SCORERS.get(str(m.get("match_id")), [[], []])[side] if m.get("match_id") else []
     return f'<span class="{cls}">' + "".join(f"<span>{esc(x)}</span>" for x in lst) + "</span>" if lst else ""
@@ -479,7 +484,7 @@ def build_club(club, comps, template, svg, today):
         "nav": nav(None), "next_title": "Live Score" if live else "Next matches",
         "next": ("".join(match_card(m, today, True, game_key(m) == pick_key) for m in nxt) if nxt
                  else f'<p class="empty">No {esc(club)} matches scheduled yet.</p>'),
-        "featured": pitch_card(pick, name_of(pick), today, svg) if pick else "",
+        "featured": pitch_card(pick, name_of(pick), today, svg) + goals_strip(pick) if pick else "",
         "results": results_list(done, True, name_of, True) or f'<p class="empty">No {esc(club)} results yet.</p>',
         "standings": standings_table(enrich_log(lc.get("log", []), lc.get("results", []), lc.get("extra")), True, club) if league else "",
         "log_hidden": "" if league else " hidden",
@@ -510,7 +515,7 @@ def build_match(m, comp_key, comps, template, svg, today):
         "title": esc(f"{head} | {comp_name} | MatchdayZA"), "description": esc(desc),
         "canonical": SITE + url, "comp": comp_key, "key": esc(game_key(m)), "nav": nav(comp_key),
         "back": PAGES[comp_key][0],
-        "featured": pitch_card(g, comp_name, today, svg), "panel": detail_panel(detail, g),
+        "featured": pitch_card(g, comp_name, today, svg) + goals_strip(g), "panel": detail_panel(detail, g),
     })
     write(url, page)
     return url

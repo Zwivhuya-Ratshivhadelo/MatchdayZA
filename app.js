@@ -136,6 +136,14 @@ function resultCard(m, label, opts = {}) {
              : `<article class="lc">${inner}</article>`;
 }
 
+/* scorers under the pitch, drawn together with it: live from the feed, else from the site's data */
+function goalsStrip(m) {
+  const sc = FEED[gameKey(m)]?.scorers || (m.match_id && SCORERS[m.match_id]);
+  if (!sc || !(sc[0].length || sc[1].length) || !isPlayed(m)) return "";
+  const col = (lst, cls) => `<div class="${cls}">${lst.map((x) => `<span>⚽ ${esc(x)}</span>`).join("")}</div>`;
+  return `<div class="goals-strip">${col(sc[0], "h")}${col(sc[1], "a")}</div>`;
+}
+
 /* PSL club names link to the club's page */
 const teamLink = (team) => (CLUBS.has(slug(team)) ? `<a href="${clubUrl(team)}">${esc(team)}</a>` : esc(team));
 
@@ -268,7 +276,7 @@ function feedNorm(g) {
     else if (g.gameTime > 0) minute = `${Math.floor(g.gameTime)}'`;
   }
   const sc = (x) => (x != null && x >= 0 && status !== "NS" ? Math.round(x) : null);
-  return { date: g.startTime, home: g.homeCompetitor?.name, away: g.awayCompetitor?.name, status, minute,
+  return { id: g.id, homeId: g.homeCompetitor?.id, date: g.startTime, home: g.homeCompetitor?.name, away: g.awayCompetitor?.name, status, minute,
            home_score: sc(g.homeCompetitor?.score), away_score: sc(g.awayCompetitor?.score) };
 }
 const clubKey = (s) => slug(s).replace(/(^fc-|-fc$)/g, "");
@@ -307,13 +315,44 @@ async function feedPoll(games) {
       for (const m of games.filter((g) => g._comp === k)) {
         const f = feedFind(list, m);
         if (!f || f.status === "NS") continue;
-        const v = { status: f.status, minute: f.minute, home_score: f.home_score, away_score: f.away_score };
         const key = gameKey(m);
+        const v = { status: f.status, minute: f.minute, home_score: f.home_score, away_score: f.away_score };
+        // scorers straight from the feed while the game is on (or when the score has moved)
+        const prev = FEED[key];
+        if (f.status === "LIVE" || !prev?.scorers || prev.home_score !== f.home_score || prev.away_score !== f.away_score) {
+          const sc = await feedScorers(f.id, f.homeId);
+          if (sc) v.scorers = sc;
+          else if (prev?.scorers) v.scorers = prev.scorers;
+        } else if (prev?.scorers) v.scorers = prev.scorers;
         if (JSON.stringify(FEED[key]) !== JSON.stringify(v)) { FEED[key] = v; changed = true; }
       }
     } catch { /* the site's own data still shows */ }
   }));
   return changed;
+}
+/* each club's scorers from the feed's goal list: "Rayners 37'", "Mokoena 11', 67'", "(pen)", "(og)" */
+async function feedScorers(id, homeId) {
+  try {
+    const r = await fetch(`https://webws.365scores.com/web/game/?appTypeId=5&langId=1&timezoneName=Africa/Johannesburg&gameId=${id}`);
+    if (!r.ok) return null;
+    const g = (await r.json()).game || {};
+    const names = Object.fromEntries((g.members || []).filter((x) => x.id).map((x) => [x.id, x.name || ""]));
+    const sides = [[], []];
+    for (const e of [...(g.events || [])].sort((a, b) => (a.order || 0) - (b.order || 0))) {
+      const t = e.eventType || {}, kind = (t.name || "").toLowerCase(), sub = (t.subTypeName || "").toLowerCase();
+      if (kind !== "goal") continue;
+      const own = sub.includes("own"), pen = sub.includes("penalt");
+      let side = e.competitorId === homeId ? 0 : 1;
+      if (own) side = 1 - side;
+      const name = (names[e.playerId] || "").split(/\s+/).pop() || "";
+      sides[side].push([name, `${e.gameTimeDisplay || `${Math.round(e.gameTime || 0)}'`}${pen ? " (pen)" : own ? " (og)" : ""}`]);
+    }
+    return sides.map((lst) => {
+      const order = [], by = {};
+      for (const [n, mm] of lst) { if (!(n in by)) { by[n] = []; order.push(n); } by[n].push(mm); }
+      return order.map((n) => `${n} ${by[n].join(", ")}`.trim());
+    });
+  } catch { return null; }
 }
 const withFeed = (m) => (FEED[gameKey(m)] ? { ...m, ...FEED[gameKey(m)] } : m);
 function startFeed(getComps, redraw) {
@@ -374,14 +413,14 @@ async function renderBoard(view) {
 
     // pitch first with what we know, then the game's details once loaded
     const feat = $('[data-md="featured"]'), panel = $('[data-md="match-panel"]');
-    feat.innerHTML = pick ? pitchCard(pick, compName(pick)) : "";
+    feat.innerHTML = pick ? pitchCard(pick, compName(pick)) + goalsStrip(pick) : "";
     panel.innerHTML = "";
     const token = ++drawToken;
     if (pick) {
       (pick.match_id ? loadMatch(pick.match_id) : Promise.resolve(null)).then((detail) => {
         if (token !== drawToken) return;   // the user picked another game meanwhile
         const m = withFeed(mergeDetail(pick, detail));
-        if (detail) feat.innerHTML = pitchCard(m, compName(pick));
+        if (detail) feat.innerHTML = pitchCard(m, compName(pick)) + goalsStrip(m);
         panel.innerHTML = detailPanel(m, detail);
       });
     }
@@ -454,7 +493,7 @@ async function renderGame() {
     if (!g) return;   // keep what the page was built with
     const detail = g.match_id ? await loadMatch(g.match_id) : null;
     const m = withFeed(mergeDetail(g, detail));
-    $('[data-md="featured"]').innerHTML = pitchCard(m, PSL[compKey].name);
+    $('[data-md="featured"]').innerHTML = pitchCard(m, PSL[compKey].name) + goalsStrip(m);
     $('[data-md="match-panel"]').innerHTML = detailPanel(m, detail);
     // the tab title follows the game: "Live Score" with the score while it is on
     const name = PSL[compKey].name;
@@ -526,12 +565,6 @@ const ICON = {
 function detailPanel(m, detail) {
   const events = detail?.events || [], stats = detail?.stats || [], lineups = detail?.lineups || [];
   const parts = [];
-  // goals under the pitch: each club's scorers with the minute
-  const sc = m.match_id && SCORERS[m.match_id];
-  if (sc && (sc[0].length || sc[1].length)) {   // straight under the pitch, each club's side, no panel
-    const col = (lst, cls) => `<div class="${cls}">${lst.map((x) => `<span>⚽ ${esc(x)}</span>`).join("")}</div>`;
-    parts.push(`<div class="goals-strip">${col(sc[0], "h")}${col(sc[1], "a")}</div>`);
-  }
   if (stats.length) {
     parts.push(`<section class="panel"><div class="panel-head"><h2>Stats</h2></div>${stats.map((st) => {
       const h = parseFloat(st.home) || 0, a = parseFloat(st.away) || 0, tot = h + a || 1;
