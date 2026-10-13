@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T20:50:51+02:00",
+  "updated": "2026-10-13T20:53:24+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "61'",
+  "minute": "63'",
   "events": [
+    {
+      "minute": "61'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Luthando Vena"
+    },
     {
       "minute": "58'",
       "type": "goal",
@@ -45,12 +51,12 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "66%",
-      "away": "34%"
+      "home": "65%",
+      "away": "35%"
     },
     {
       "label": "Attacks",
-      "home": "70",
+      "home": "73",
       "away": "65"
     },
     {
@@ -60,7 +66,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "12",
+      "home": "13",
       "away": "9"
     },
     {
@@ -71,17 +77,17 @@
     {
       "label": "Throw-Ins",
       "home": "14",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Goal Kicks",
       "home": "5",
-      "away": "8"
+      "away": "9"
     },
     {
       "label": "Yellow Cards",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",
@@ -105,8 +111,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "274",
-      "away": "110"
+      "home": "279",
+      "away": "120"
     },
     {
       "label": "Shots Off Target",
@@ -130,8 +136,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "342",
-      "away": "172"
+      "home": "350",
+      "away": "183"
     },
     {
       "label": "Shots Outside The Box",
@@ -150,17 +156,17 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "205",
-      "away": "66"
+      "home": "209",
+      "away": "70"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "142",
-      "away": "116"
+      "home": "146",
+      "away": "123"
     },
     {
       "label": "Long Passes Completed",
-      "home": "10/30 (33%)",
+      "home": "11/32 (34%)",
       "away": "15/47 (32%)"
     },
     {
@@ -170,8 +176,8 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "32",
-      "away": "26"
+      "home": "31",
+      "away": "30"
     },
     {
       "label": "Backward Passes",
@@ -190,7 +196,7 @@
     },
     {
       "label": "Tackles Won",
-      "home": "3/4 (75%)",
+      "home": "5/6 (83%)",
       "away": "5/8 (62%)"
     },
     {
@@ -200,7 +206,7 @@
     },
     {
       "label": "Duels Won",
-      "home": "38",
+      "home": "42",
       "away": "26"
     },
     {
@@ -210,23 +216,23 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "19/40 (48%)",
-      "away": "21/40 (52%)"
+      "home": "23/44 (52%)",
+      "away": "21/44 (48%)"
     },
     {
       "label": "Was Fouled",
-      "home": "12",
+      "home": "13",
       "away": "9"
     },
     {
       "label": "Successful Dribbles",
-      "home": "3/7 (43%)",
-      "away": "4/4 (100%)"
+      "home": "4/8 (50%)",
+      "away": "4/6 (67%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "4",
-      "away": "0"
+      "away": "2"
     },
     {
       "label": "Final Third Possession Won",
@@ -235,18 +241,18 @@
     },
     {
       "label": "Possession Lost",
-      "home": "94",
-      "away": "94"
+      "home": "97",
+      "away": "98"
     },
     {
       "label": "Fouls",
       "home": "10",
-      "away": "13"
+      "away": "14"
     },
     {
       "label": "Substitutions",
       "home": "0",
-      "away": "0"
+      "away": "1"
     }
   ],
   "lineups": [
