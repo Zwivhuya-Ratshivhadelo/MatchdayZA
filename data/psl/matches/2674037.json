@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T20:22:42+02:00",
+  "updated": "2026-10-13T20:25:16+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
@@ -70,7 +70,7 @@
     },
     {
       "label": "Total Shots",
-      "home": "4",
+      "home": "5",
       "away": "3"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "label": "Shots Blocked",
-      "home": "1",
+      "home": "2",
       "away": "1"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "label": "Shots Outside The Box",
-      "home": "0",
+      "home": "1",
       "away": "1"
     },
     {
@@ -156,7 +156,7 @@
     {
       "label": "Backward Passes",
       "home": "24",
-      "away": "16"
+      "away": "17"
     },
     {
       "label": "Interceptions",
@@ -180,17 +180,17 @@
     },
     {
       "label": "Duels Won",
-      "home": "29",
+      "home": "31",
       "away": "21"
     },
     {
       "label": "Aerial Duels Won",
-      "home": "13/18 (72%)",
+      "home": "14/19 (74%)",
       "away": "5/19 (26%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "16/32 (50%)",
+      "home": "17/33 (52%)",
       "away": "16/33 (48%)"
     },
     {
@@ -200,7 +200,7 @@
     },
     {
       "label": "Successful Dribbles",
-      "home": "2/4 (50%)",
+      "home": "3/5 (60%)",
       "away": "3/3 (100%)"
     },
     {

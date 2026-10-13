@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:22:45+02:00",
+  "updated": "2026-10-13T20:25:21+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
@@ -95,8 +95,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "224",
-      "away": "231"
+      "home": "225",
+      "away": "232"
     },
     {
       "label": "Shots Off Target",
@@ -120,8 +120,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "267",
-      "away": "272"
+      "home": "268",
+      "away": "273"
     },
     {
       "label": "Shots Outside The Box",
@@ -131,21 +131,21 @@
     {
       "label": "Passes Own Half",
       "home": "162",
-      "away": "142"
+      "away": "143"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "105",
+      "home": "106",
       "away": "134"
     },
     {
       "label": "Long Passes Completed",
-      "home": "14/30 (47%)",
+      "home": "15/31 (48%)",
       "away": "21/37 (57%)"
     },
     {
       "label": "Key Passes",
-      "home": "2",
+      "home": "3",
       "away": "2"
     },
     {
