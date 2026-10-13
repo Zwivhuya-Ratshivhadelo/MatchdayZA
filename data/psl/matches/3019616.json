@@ -3,7 +3,7 @@
   "comp": "national-first-division",
   "home": "Magesi FC",
   "away": "The Bees",
-  "updated": "2026-10-12T06:53:25+02:00",
+  "updated": "2026-10-13T17:30:24+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "FT",
@@ -20,6 +20,28 @@
       ]
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    },
+    {
+      "label": "Attacks",
+      "home": "57",
+      "away": "60"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "2"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

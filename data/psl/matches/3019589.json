@@ -3,7 +3,7 @@
   "comp": "national-first-division",
   "home": "Leicesterford City FC",
   "away": "Magesi FC",
-  "updated": "2026-10-12T06:20:42+02:00",
+  "updated": "2026-10-13T17:30:26+02:00",
   "home_score": 1,
   "away_score": 3,
   "status": "FT",
@@ -50,6 +50,28 @@
       ]
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "40%",
+      "away": "60%"
+    },
+    {
+      "label": "Attacks",
+      "home": "34",
+      "away": "42"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

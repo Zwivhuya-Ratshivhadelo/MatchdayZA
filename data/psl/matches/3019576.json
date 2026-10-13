@@ -3,7 +3,7 @@
   "comp": "national-first-division",
   "home": "Venda FC",
   "away": "Lerumo Lions",
-  "updated": "2026-10-12T06:20:11+02:00",
+  "updated": "2026-10-13T17:30:23+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "FT",
@@ -30,6 +30,53 @@
       ]
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "54%",
+      "away": "46%"
+    },
+    {
+      "label": "Attacks",
+      "home": "80",
+      "away": "77"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "7",
+      "away": "18"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "24",
+      "away": "28"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "10",
+      "away": "12"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

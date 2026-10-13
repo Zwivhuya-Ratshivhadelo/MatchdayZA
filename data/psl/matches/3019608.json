@@ -3,7 +3,7 @@
   "comp": "national-first-division",
   "home": "Gomora United",
   "away": "Upington City",
-  "updated": "2026-10-12T06:20:56+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "FT",
@@ -40,6 +40,53 @@
       ]
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "40%",
+      "away": "60%"
+    },
+    {
+      "label": "Attacks",
+      "home": "97",
+      "away": "104"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "4"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "8",
+      "away": "12"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "20",
+      "away": "9"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "4",
+      "away": "5"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "6",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

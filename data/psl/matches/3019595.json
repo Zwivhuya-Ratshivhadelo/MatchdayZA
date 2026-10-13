@@ -3,7 +3,7 @@
   "comp": "national-first-division",
   "home": "Pretoria University FC",
   "away": "Midlands Wanderers",
-  "updated": "2026-10-12T06:20:42+02:00",
+  "updated": "2026-10-13T17:30:24+02:00",
   "home_score": 0,
   "away_score": 2,
   "status": "FT",
@@ -30,6 +30,33 @@
       ]
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "51%",
+      "away": "49%"
+    },
+    {
+      "label": "Attacks",
+      "home": "116",
+      "away": "108"
+    },
+    {
+      "label": "Corners",
+      "home": "11",
+      "away": "3"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "8",
+      "away": "11"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

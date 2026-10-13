@@ -3,12 +3,19 @@
   "comp": "national-first-division",
   "home": "Orbit College FC",
   "away": "Lerumo Lions",
-  "updated": "2026-10-11T10:34:26+02:00",
+  "updated": "2026-10-13T17:30:26+02:00",
   "home_score": 1,
   "away_score": 2,
   "status": "FT",
   "minute": null,
   "events": [],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

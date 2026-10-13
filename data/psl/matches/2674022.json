@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Richards Bay",
-  "updated": "2026-10-12T06:21:12+02:00",
+  "updated": "2026-10-13T17:30:30+02:00",
   "home_score": 5,
   "away_score": 1,
   "status": "FT",
@@ -82,7 +82,213 @@
       "player": "L. Zikhali"
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "62%",
+      "away": "38%"
+    },
+    {
+      "label": "Attacks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Corners",
+      "home": "6",
+      "away": "6"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "12",
+      "away": "11"
+    },
+    {
+      "label": "Offsides",
+      "home": "5",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "16",
+      "away": "21"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "3",
+      "away": "6"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Total Shots",
+      "home": "13",
+      "away": "11"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "7",
+      "away": "3"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "6",
+      "away": "1"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "573",
+      "away": "312"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "6",
+      "away": "5"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "11",
+      "away": "6"
+    },
+    {
+      "label": "Total Passes",
+      "home": "634",
+      "away": "376"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "2",
+      "away": "5"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "2/9 (22%)",
+      "away": "2/18 (11%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "397",
+      "away": "164"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "246",
+      "away": "230"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "30/41 (73%)",
+      "away": "25/60 (42%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "10",
+      "away": "5"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "61",
+      "away": "80"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "107",
+      "away": "66"
+    },
+    {
+      "label": "Interceptions",
+      "home": "5",
+      "away": "10"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "10/13 (77%)",
+      "away": "6/11 (55%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "16",
+      "away": "14"
+    },
+    {
+      "label": "Duels Won",
+      "home": "39",
+      "away": "29"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "7/9 (78%)",
+      "away": "2/9 (22%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "32/59 (54%)",
+      "away": "27/59 (46%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "12",
+      "away": "11"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "7/12 (58%)",
+      "away": "5/10 (50%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "5",
+      "away": "5"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "1",
+      "away": "5"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "107",
+      "away": "116"
+    },
+    {
+      "label": "Fouls",
+      "home": "11",
+      "away": "12"
+    },
+    {
+      "label": "Substitutions",
+      "home": "5",
+      "away": "4"
+    }
+  ],
   "lineups": [
     {
       "team": "Milford FC",
@@ -293,5 +499,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

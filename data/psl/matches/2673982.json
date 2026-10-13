@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Durban City",
-  "updated": "2026-10-11T07:08:23+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "FT",
@@ -103,7 +103,208 @@
       "type": "kickoff"
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "38%",
+      "away": "62%"
+    },
+    {
+      "label": "Attacks",
+      "home": "100",
+      "away": "125"
+    },
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "6"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "11",
+      "away": "18"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "5"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "23",
+      "away": "29"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "8",
+      "away": "8"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "9",
+      "away": "8"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "202",
+      "away": "385"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "2",
+      "away": "4"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "3",
+      "away": "5"
+    },
+    {
+      "label": "Total Passes",
+      "home": "305",
+      "away": "490"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "6",
+      "away": "3"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "1/12 (8%)",
+      "away": "2/21 (10%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "109",
+      "away": "267"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "208",
+      "away": "244"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "19/67 (28%)",
+      "away": "23/56 (41%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "7",
+      "away": "4"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "71",
+      "away": "65"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "41",
+      "away": "76"
+    },
+    {
+      "label": "Interceptions",
+      "home": "4",
+      "away": "9"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "3",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "10/14 (71%)",
+      "away": "9/11 (82%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "38",
+      "away": "10"
+    },
+    {
+      "label": "Duels Won",
+      "home": "43",
+      "away": "57"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "14/39 (36%)",
+      "away": "25/39 (64%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "29/61 (48%)",
+      "away": "32/61 (52%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "11",
+      "away": "18"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "4/9 (44%)",
+      "away": "3/10 (30%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "5",
+      "away": "7"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "4",
+      "away": "2"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "158",
+      "away": "168"
+    },
+    {
+      "label": "Fouls",
+      "home": "19",
+      "away": "11"
+    },
+    {
+      "label": "Substitutions",
+      "home": "2",
+      "away": "5"
+    }
+  ],
   "lineups": [
     {
       "team": "Sekhukhune United",
@@ -319,5 +520,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

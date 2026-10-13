@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Durban City",
-  "updated": "2026-10-12T06:21:08+02:00",
+  "updated": "2026-10-13T17:30:29+02:00",
   "home_score": 0,
   "away_score": 2,
   "status": "FT",
@@ -66,7 +66,213 @@
       ]
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "53%",
+      "away": "47%"
+    },
+    {
+      "label": "Attacks",
+      "home": "62",
+      "away": "53"
+    },
+    {
+      "label": "Corners",
+      "home": "13",
+      "away": "2"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "10",
+      "away": "13"
+    },
+    {
+      "label": "Offsides",
+      "home": "9",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "31",
+      "away": "20"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "4",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "4",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "20",
+      "away": "11"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "6",
+      "away": "6"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "3",
+      "away": "3"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "278",
+      "away": "242"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "8",
+      "away": "4"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "6",
+      "away": "1"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "13",
+      "away": "8"
+    },
+    {
+      "label": "Total Passes",
+      "home": "368",
+      "away": "346"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "7",
+      "away": "3"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "8/33 (24%)",
+      "away": "5/10 (50%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "175",
+      "away": "142"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "226",
+      "away": "214"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "22/56 (39%)",
+      "away": "43/92 (47%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "14",
+      "away": "7"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "52",
+      "away": "67"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "53",
+      "away": "49"
+    },
+    {
+      "label": "Interceptions",
+      "home": "9",
+      "away": "9"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "4",
+      "away": "5"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "11/16 (69%)",
+      "away": "17/20 (85%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "17",
+      "away": "49"
+    },
+    {
+      "label": "Duels Won",
+      "home": "66",
+      "away": "68"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "31/61 (51%)",
+      "away": "30/61 (49%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "35/73 (48%)",
+      "away": "38/73 (52%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "10",
+      "away": "13"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "9/19 (47%)",
+      "away": "5/14 (36%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "10",
+      "away": "9"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "5",
+      "away": "2"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "178",
+      "away": "150"
+    },
+    {
+      "label": "Fouls",
+      "home": "15",
+      "away": "10"
+    },
+    {
+      "label": "Substitutions",
+      "home": "4",
+      "away": "5"
+    }
+  ],
   "lineups": [
     {
       "team": "Kruger United",
@@ -287,5 +493,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

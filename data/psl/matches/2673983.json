@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-11T07:08:25+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "home_score": 1,
   "away_score": 3,
   "status": "FT",
@@ -132,7 +132,208 @@
       "type": "kickoff"
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "40%",
+      "away": "60%"
+    },
+    {
+      "label": "Attacks",
+      "home": "75",
+      "away": "114"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "18",
+      "away": "15"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "23",
+      "away": "21"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "5",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "7",
+      "away": "13"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "4",
+      "away": "6"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "2"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "265",
+      "away": "441"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "3",
+      "away": "4"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "4",
+      "away": "6"
+    },
+    {
+      "label": "Total Passes",
+      "home": "339",
+      "away": "515"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "3",
+      "away": "7"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "2/12 (17%)",
+      "away": "4/15 (27%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "188",
+      "away": "241"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "163",
+      "away": "289"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "11/38 (29%)",
+      "away": "27/65 (42%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "5",
+      "away": "9"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "36",
+      "away": "86"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "37",
+      "away": "120"
+    },
+    {
+      "label": "Interceptions",
+      "home": "13",
+      "away": "15"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "3",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "8/15 (53%)",
+      "away": "14/17 (82%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "24",
+      "away": "13"
+    },
+    {
+      "label": "Duels Won",
+      "home": "45",
+      "away": "48"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "8/16 (50%)",
+      "away": "8/16 (50%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "37/77 (48%)",
+      "away": "40/77 (52%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "18",
+      "away": "15"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "4/9 (44%)",
+      "away": "8/12 (67%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "5",
+      "away": "4"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "3",
+      "away": "3"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "123",
+      "away": "120"
+    },
+    {
+      "label": "Fouls",
+      "home": "15",
+      "away": "18"
+    },
+    {
+      "label": "Substitutions",
+      "home": "2",
+      "away": "4"
+    }
+  ],
   "lineups": [
     {
       "team": "Kruger United",
@@ -348,5 +549,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

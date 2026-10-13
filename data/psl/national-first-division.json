@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-13T17:26:54+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "log": [
     {
       "pos": 1,
@@ -675,6 +675,11 @@
       "date": "2026-10-17T15:30:00+02:00",
       "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
       "status": "NS"
+    },
+    {
+      "home": "Pretoria University FC",
+      "away": "Hungry Lions FC",
+      "date": "2026-10-17T15:30:00+02:00"
     }
   ],
   "extra": [],

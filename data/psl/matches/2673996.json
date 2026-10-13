@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Siwelele",
-  "updated": "2026-10-12T06:21:07+02:00",
+  "updated": "2026-10-13T17:30:29+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "FT",
@@ -48,6 +48,213 @@
       ]
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "36%",
+      "away": "64%"
+    },
+    {
+      "label": "Attacks",
+      "home": "90",
+      "away": "98"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "5"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "6",
+      "away": "6"
+    },
+    {
+      "label": "Offsides",
+      "home": "4",
+      "away": "1"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "20",
+      "away": "26"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "17",
+      "away": "6"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "9",
+      "away": "19"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "5",
+      "away": "7"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "4",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "271",
+      "away": "556"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "3",
+      "away": "8"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "1",
+      "away": "4"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "7",
+      "away": "6"
+    },
+    {
+      "label": "Total Passes",
+      "home": "361",
+      "away": "639"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "2",
+      "away": "13"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "2/8 (25%)",
+      "away": "3/18 (17%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "204",
+      "away": "289"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "165",
+      "away": "368"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "36/74 (49%)",
+      "away": "40/78 (51%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "7",
+      "away": "15"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "47",
+      "away": "128"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "63",
+      "away": "118"
+    },
+    {
+      "label": "Interceptions",
+      "home": "9",
+      "away": "11"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "6",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "13/16 (81%)",
+      "away": "13/19 (68%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "27",
+      "away": "14"
+    },
+    {
+      "label": "Duels Won",
+      "home": "46",
+      "away": "42"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "19/27 (70%)",
+      "away": "8/27 (30%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "27/61 (44%)",
+      "away": "34/61 (56%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "6",
+      "away": "6"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "5/11 (45%)",
+      "away": "9/14 (64%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "6",
+      "away": "5"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "142",
+      "away": "139"
+    },
+    {
+      "label": "Fouls",
+      "home": "7",
+      "away": "6"
+    },
+    {
+      "label": "Substitutions",
+      "home": "3",
+      "away": "6"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

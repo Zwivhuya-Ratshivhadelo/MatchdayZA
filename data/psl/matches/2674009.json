@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-12T06:21:11+02:00",
+  "updated": "2026-10-13T17:30:29+02:00",
   "home_score": 2,
   "away_score": 2,
   "status": "FT",
@@ -80,7 +80,213 @@
       ]
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "28%",
+      "away": "72%"
+    },
+    {
+      "label": "Attacks",
+      "home": "40",
+      "away": "74"
+    },
+    {
+      "label": "Corners",
+      "home": "3",
+      "away": "5"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "12",
+      "away": "10"
+    },
+    {
+      "label": "Offsides",
+      "home": "5",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "19",
+      "away": "26"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "9",
+      "away": "8"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "4",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "13",
+      "away": "21"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "5",
+      "away": "8"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "191",
+      "away": "581"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "6",
+      "away": "8"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "2",
+      "away": "5"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "6",
+      "away": "10"
+    },
+    {
+      "label": "Total Passes",
+      "home": "259",
+      "away": "655"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "7",
+      "away": "11"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "2/9 (22%)",
+      "away": "7/23 (30%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "135",
+      "away": "303"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "133",
+      "away": "375"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "37/72 (51%)",
+      "away": "16/30 (53%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "9",
+      "away": "14"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "46",
+      "away": "136"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "35",
+      "away": "99"
+    },
+    {
+      "label": "Interceptions",
+      "home": "14",
+      "away": "9"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "6",
+      "away": "4"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "14/16 (88%)",
+      "away": "8/11 (73%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "34",
+      "away": "14"
+    },
+    {
+      "label": "Error Led To Goal",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Duels Won",
+      "home": "40",
+      "away": "38"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "12/24 (50%)",
+      "away": "12/24 (50%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "28/54 (52%)",
+      "away": "26/54 (48%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "12",
+      "away": "10"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "0/7 (0%)",
+      "away": "5/11 (45%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "7",
+      "away": "6"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "2",
+      "away": "3"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "117",
+      "away": "132"
+    },
+    {
+      "label": "Fouls",
+      "home": "11",
+      "away": "12"
+    },
+    {
+      "label": "Substitutions",
+      "home": "3",
+      "away": "5"
+    }
+  ],
   "lineups": [
     {
       "team": "Richards Bay",
@@ -296,5 +502,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

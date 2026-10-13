@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Siwelele",
-  "updated": "2026-10-12T06:20:57+02:00",
+  "updated": "2026-10-13T17:30:29+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "FT",
@@ -38,6 +38,203 @@
       "player": "Thabiso Sesane"
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "47%",
+      "away": "53%"
+    },
+    {
+      "label": "Attacks",
+      "home": "48",
+      "away": "75"
+    },
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "9"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "14",
+      "away": "13"
+    },
+    {
+      "label": "Offsides",
+      "home": "5",
+      "away": "3"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "23",
+      "away": "25"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "12",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Total Shots",
+      "home": "10",
+      "away": "15"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "3",
+      "away": "3"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "337",
+      "away": "367"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "5",
+      "away": "10"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "4",
+      "away": "10"
+    },
+    {
+      "label": "Total Passes",
+      "home": "445",
+      "away": "481"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "6",
+      "away": "5"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "2/8 (25%)",
+      "away": "1/22 (5%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "248",
+      "away": "209"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "205",
+      "away": "294"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "26/71 (37%)",
+      "away": "23/69 (33%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "5",
+      "away": "10"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "48",
+      "away": "89"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "86",
+      "away": "73"
+    },
+    {
+      "label": "Interceptions",
+      "home": "18",
+      "away": "17"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "3",
+      "away": "2"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "11/18 (61%)",
+      "away": "7/13 (54%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "20",
+      "away": "12"
+    },
+    {
+      "label": "Duels Won",
+      "home": "54",
+      "away": "40"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "17/23 (74%)",
+      "away": "6/23 (26%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "37/71 (52%)",
+      "away": "34/71 (48%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "14",
+      "away": "13"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "5/14 (36%)",
+      "away": "8/14 (57%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "9",
+      "away": "6"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "2",
+      "away": "6"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "170",
+      "away": "176"
+    },
+    {
+      "label": "Fouls",
+      "home": "15",
+      "away": "14"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

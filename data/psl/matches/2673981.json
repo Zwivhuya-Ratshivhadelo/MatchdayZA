@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Mamelodi Sundowns",
   "away": "Marumo Gallants",
-  "updated": "2026-10-12T06:21:08+02:00",
+  "updated": "2026-10-13T17:30:29+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "FT",
@@ -36,7 +36,208 @@
       ]
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "74%",
+      "away": "26%"
+    },
+    {
+      "label": "Attacks",
+      "home": "163",
+      "away": "70"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "6"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "5",
+      "away": "6"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "18",
+      "away": "18"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "6",
+      "away": "11"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "21",
+      "away": "10"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "7",
+      "away": "4"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "733",
+      "away": "214"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "8",
+      "away": "5"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "6",
+      "away": "1"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "13",
+      "away": "6"
+    },
+    {
+      "label": "Total Passes",
+      "home": "790",
+      "away": "264"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "8",
+      "away": "4"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "5/14 (36%)",
+      "away": "4/21 (19%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "372",
+      "away": "139"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "432",
+      "away": "146"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "34/45 (76%)",
+      "away": "23/45 (51%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "13",
+      "away": "6"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "139",
+      "away": "41"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "155",
+      "away": "42"
+    },
+    {
+      "label": "Interceptions",
+      "home": "9",
+      "away": "9"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "4",
+      "away": "5"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "11/17 (65%)",
+      "away": "9/13 (69%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "20",
+      "away": "23"
+    },
+    {
+      "label": "Duels Won",
+      "home": "39",
+      "away": "27"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "9/14 (64%)",
+      "away": "5/14 (36%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "30/52 (58%)",
+      "away": "22/52 (42%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "5",
+      "away": "6"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "8/19 (42%)",
+      "away": "3/14 (21%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "11",
+      "away": "11"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "2",
+      "away": "4"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "99",
+      "away": "102"
+    },
+    {
+      "label": "Fouls",
+      "home": "6",
+      "away": "6"
+    },
+    {
+      "label": "Substitutions",
+      "home": "5",
+      "away": "4"
+    }
+  ],
   "lineups": [
     {
       "team": "Mamelodi Sundowns",
@@ -252,5 +453,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

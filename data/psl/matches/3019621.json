@@ -3,12 +3,13 @@
   "comp": "national-first-division",
   "home": "Venda FC",
   "away": "Upington City",
-  "updated": "2026-10-11T10:34:20+02:00",
+  "updated": "2026-10-13T17:30:27+02:00",
   "home_score": 2,
   "away_score": 3,
   "status": "FT",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [],
+  "tried365": true
 }

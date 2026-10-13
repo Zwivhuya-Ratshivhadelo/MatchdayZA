@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "Richards Bay",
-  "updated": "2026-10-12T06:50:25+02:00",
+  "updated": "2026-10-13T17:30:29+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "FT",
@@ -30,6 +30,213 @@
       ]
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "62%",
+      "away": "38%"
+    },
+    {
+      "label": "Attacks",
+      "home": "147",
+      "away": "106"
+    },
+    {
+      "label": "Corners",
+      "home": "9",
+      "away": "4"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "13",
+      "away": "10"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "4"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "41",
+      "away": "33"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "18",
+      "away": "10"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "5",
+      "away": "5"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "340",
+      "away": "196"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "9",
+      "away": "2"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "13",
+      "away": "4"
+    },
+    {
+      "label": "Total Passes",
+      "home": "474",
+      "away": "294"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "5",
+      "away": "6"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "10/37 (27%)",
+      "away": "4/20 (20%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "197",
+      "away": "119"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "314",
+      "away": "195"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "31/82 (38%)",
+      "away": "28/80 (35%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "12",
+      "away": "5"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "89",
+      "away": "50"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "64",
+      "away": "41"
+    },
+    {
+      "label": "Interceptions",
+      "home": "6",
+      "away": "15"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "4",
+      "away": "5"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "16/16 (100%)",
+      "away": "8/10 (80%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "18",
+      "away": "46"
+    },
+    {
+      "label": "Error Led To Goal",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Duels Won",
+      "home": "62",
+      "away": "47"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "31/48 (65%)",
+      "away": "17/48 (35%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "31/61 (51%)",
+      "away": "30/61 (49%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "13",
+      "away": "10"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "2/4 (50%)",
+      "away": "10/19 (53%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "2",
+      "away": "9"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "4",
+      "away": "4"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "200",
+      "away": "173"
+    },
+    {
+      "label": "Fouls",
+      "home": "10",
+      "away": "14"
+    },
+    {
+      "label": "Substitutions",
+      "home": "5",
+      "away": "4"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

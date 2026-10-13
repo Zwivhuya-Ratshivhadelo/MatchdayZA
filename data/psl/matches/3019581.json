@@ -3,12 +3,39 @@
   "comp": "national-first-division",
   "home": "Orbit College FC",
   "away": "Hungry Lions FC",
-  "updated": "2026-10-11T10:34:54+02:00",
+  "updated": "2026-10-13T17:30:24+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "FT",
   "minute": null,
   "events": [],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "67%",
+      "away": "33%"
+    },
+    {
+      "label": "Attacks",
+      "home": "136",
+      "away": "71"
+    },
+    {
+      "label": "Corners",
+      "home": "7",
+      "away": "1"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "2"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

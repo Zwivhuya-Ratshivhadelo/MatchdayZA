@@ -3,7 +3,7 @@
   "comp": "national-first-division",
   "home": "Magesi FC",
   "away": "Hungry Lions FC",
-  "updated": "2026-10-12T06:50:25+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "FT",
@@ -30,6 +30,28 @@
       ]
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "58%",
+      "away": "42%"
+    },
+    {
+      "label": "Attacks",
+      "home": "86",
+      "away": "84"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "2"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

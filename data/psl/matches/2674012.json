@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Milford FC",
-  "updated": "2026-10-12T06:21:11+02:00",
+  "updated": "2026-10-13T17:30:30+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "FT",
@@ -22,7 +22,213 @@
       "player": "Abbubaker Mobara"
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "47%",
+      "away": "53%"
+    },
+    {
+      "label": "Attacks",
+      "home": "115",
+      "away": "108"
+    },
+    {
+      "label": "Corners",
+      "home": "8",
+      "away": "6"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "6",
+      "away": "14"
+    },
+    {
+      "label": "Offsides",
+      "home": "6",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "19",
+      "away": "21"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "11",
+      "away": "11"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "11",
+      "away": "15"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "347",
+      "away": "415"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "7",
+      "away": "10"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "2",
+      "away": "3"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "7",
+      "away": "4"
+    },
+    {
+      "label": "Total Passes",
+      "home": "422",
+      "away": "474"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "4",
+      "away": "11"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "7/21 (33%)",
+      "away": "1/22 (5%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "208",
+      "away": "273"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "235",
+      "away": "223"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "28/59 (47%)",
+      "away": "35/52 (67%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "9",
+      "away": "12"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "75",
+      "away": "73"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "86",
+      "away": "76"
+    },
+    {
+      "label": "Interceptions",
+      "home": "5",
+      "away": "8"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "13/20 (65%)",
+      "away": "10/16 (62%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "20",
+      "away": "25"
+    },
+    {
+      "label": "Duels Won",
+      "home": "42",
+      "away": "47"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "9/15 (60%)",
+      "away": "6/15 (40%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "33/74 (45%)",
+      "away": "41/74 (55%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "6",
+      "away": "14"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "7/12 (58%)",
+      "away": "11/23 (48%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "5",
+      "away": "12"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "7",
+      "away": "3"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "136",
+      "away": "131"
+    },
+    {
+      "label": "Fouls",
+      "home": "14",
+      "away": "7"
+    },
+    {
+      "label": "Substitutions",
+      "home": "4",
+      "away": "5"
+    }
+  ],
   "lineups": [
     {
       "team": "Chippa United",
@@ -238,5 +444,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

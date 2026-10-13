@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Polokwane City",
-  "updated": "2026-10-12T06:21:07+02:00",
+  "updated": "2026-10-13T17:30:29+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "FT",
@@ -60,6 +60,208 @@
       ]
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "54%",
+      "away": "46%"
+    },
+    {
+      "label": "Attacks",
+      "home": "90",
+      "away": "90"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "1"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "14",
+      "away": "13"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "27",
+      "away": "38"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "9",
+      "away": "12"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "3"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "11",
+      "away": "7"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "5",
+      "away": "0"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "3",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "262",
+      "away": "216"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "6",
+      "away": "5"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "2"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "6",
+      "away": "6"
+    },
+    {
+      "label": "Total Passes",
+      "home": "373",
+      "away": "317"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "5",
+      "away": "1"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "126",
+      "away": "112"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "265",
+      "away": "218"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "31/82 (38%)",
+      "away": "28/76 (37%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "9",
+      "away": "2"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "80",
+      "away": "54"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "69",
+      "away": "49"
+    },
+    {
+      "label": "Interceptions",
+      "home": "10",
+      "away": "7"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "16/17 (94%)",
+      "away": "6/11 (55%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "42",
+      "away": "31"
+    },
+    {
+      "label": "Duels Won",
+      "home": "66",
+      "away": "52"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "30/55 (55%)",
+      "away": "25/55 (45%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "36/63 (57%)",
+      "away": "27/63 (43%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "14",
+      "away": "13"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "5/10 (50%)",
+      "away": "3/14 (21%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "5",
+      "away": "11"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "160",
+      "away": "174"
+    },
+    {
+      "label": "Fouls",
+      "home": "14",
+      "away": "18"
+    },
+    {
+      "label": "Substitutions",
+      "home": "3",
+      "away": "5"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

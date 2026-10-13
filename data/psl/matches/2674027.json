@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-12T06:21:12+02:00",
+  "updated": "2026-10-13T17:30:30+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "FT",
@@ -46,7 +46,213 @@
       "player": "Osborn Maluleke"
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "40%",
+      "away": "60%"
+    },
+    {
+      "label": "Attacks",
+      "home": "85",
+      "away": "126"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "9"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "16",
+      "away": "13"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "21",
+      "away": "20"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "6",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "3"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "11",
+      "away": "11"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "258",
+      "away": "426"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "9",
+      "away": "4"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "6"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "8",
+      "away": "6"
+    },
+    {
+      "label": "Total Passes",
+      "home": "334",
+      "away": "506"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "3",
+      "away": "5"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "5/9 (56%)",
+      "away": "6/21 (29%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "207",
+      "away": "207"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "136",
+      "away": "320"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "15/39 (38%)",
+      "away": "35/62 (56%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "9",
+      "away": "9"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "27",
+      "away": "113"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "48",
+      "away": "91"
+    },
+    {
+      "label": "Interceptions",
+      "home": "7",
+      "away": "12"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "11/14 (79%)",
+      "away": "8/11 (73%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "25",
+      "away": "12"
+    },
+    {
+      "label": "Duels Won",
+      "home": "48",
+      "away": "48"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "12/28 (43%)",
+      "away": "16/28 (57%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "36/68 (53%)",
+      "away": "32/68 (47%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "16",
+      "away": "13"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "6/11 (55%)",
+      "away": "8/16 (50%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "5",
+      "away": "8"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "1",
+      "away": "7"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "111",
+      "away": "132"
+    },
+    {
+      "label": "Fouls",
+      "home": "14",
+      "away": "18"
+    },
+    {
+      "label": "Substitutions",
+      "home": "4",
+      "away": "4"
+    }
+  ],
   "lineups": [
     {
       "team": "Golden Arrows",
@@ -262,5 +468,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

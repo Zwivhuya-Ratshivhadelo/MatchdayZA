@@ -3,12 +3,59 @@
   "comp": "national-first-division",
   "home": "Real Native FC",
   "away": "Venda FC",
-  "updated": "2026-10-11T10:34:07+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "FT",
   "minute": null,
   "events": [],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    },
+    {
+      "label": "Attacks",
+      "home": "82",
+      "away": "90"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "6"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

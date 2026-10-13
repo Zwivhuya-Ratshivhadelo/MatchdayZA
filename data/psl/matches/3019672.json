@@ -3,7 +3,7 @@
   "comp": "national-first-division",
   "home": "Leicesterford City FC",
   "away": "Midlands Wanderers",
-  "updated": "2026-10-12T06:20:46+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "FT",
@@ -20,6 +20,33 @@
       ]
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "40%",
+      "away": "60%"
+    },
+    {
+      "label": "Attacks",
+      "home": "79",
+      "away": "125"
+    },
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "4"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "12",
+      "away": "3"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "1"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

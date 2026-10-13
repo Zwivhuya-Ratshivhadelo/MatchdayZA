@@ -3,12 +3,59 @@
   "comp": "national-first-division",
   "home": "Pretoria University FC",
   "away": "Orbit College FC",
-  "updated": "2026-10-11T10:34:15+02:00",
+  "updated": "2026-10-13T17:30:27+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "FT",
   "minute": null,
   "events": [],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    },
+    {
+      "label": "Attacks",
+      "home": "44",
+      "away": "47"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "8",
+      "away": "10"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "13",
+      "away": "12"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "11",
+      "away": "7"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

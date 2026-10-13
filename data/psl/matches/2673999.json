@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Kruger United",
-  "updated": "2026-10-12T06:21:07+02:00",
+  "updated": "2026-10-13T17:30:29+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "FT",
@@ -82,6 +82,203 @@
       "player": "K. Mngonyama"
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "52%",
+      "away": "48%"
+    },
+    {
+      "label": "Attacks",
+      "home": "57",
+      "away": "66"
+    },
+    {
+      "label": "Corners",
+      "home": "7",
+      "away": "1"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "18",
+      "away": "8"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "6"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "19",
+      "away": "27"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "13",
+      "away": "13"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "4"
+    },
+    {
+      "label": "Red Cards",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "20",
+      "away": "10"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "7",
+      "away": "2"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "288",
+      "away": "273"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "10",
+      "away": "7"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "10",
+      "away": "7"
+    },
+    {
+      "label": "Total Passes",
+      "home": "384",
+      "away": "351"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "10",
+      "away": "3"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "5/20 (25%)",
+      "away": "2/17 (12%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "197",
+      "away": "171"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "207",
+      "away": "197"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "36/79 (46%)",
+      "away": "28/55 (51%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "11",
+      "away": "6"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "61",
+      "away": "60"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "54",
+      "away": "36"
+    },
+    {
+      "label": "Interceptions",
+      "home": "10",
+      "away": "8"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "1",
+      "away": "5"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "16/20 (80%)",
+      "away": "9/12 (75%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "30",
+      "away": "21"
+    },
+    {
+      "label": "Duels Won",
+      "home": "54",
+      "away": "41"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "10/26 (38%)",
+      "away": "16/26 (62%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "44/69 (64%)",
+      "away": "25/69 (36%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "18",
+      "away": "8"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "6/13 (46%)",
+      "away": "5/13 (38%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "7",
+      "away": "8"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "4",
+      "away": "4"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "146",
+      "away": "147"
+    },
+    {
+      "label": "Fouls",
+      "home": "9",
+      "away": "18"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

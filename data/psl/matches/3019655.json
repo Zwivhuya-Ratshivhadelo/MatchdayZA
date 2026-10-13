@@ -3,12 +3,13 @@
   "comp": "national-first-division",
   "home": "The Bees",
   "away": "Lerumo Lions",
-  "updated": "2026-10-11T07:08:33+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "FT",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [],
+  "tried365": true
 }

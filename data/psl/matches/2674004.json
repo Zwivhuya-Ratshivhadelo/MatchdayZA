@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "TS Galaxy",
-  "updated": "2026-10-12T06:21:08+02:00",
+  "updated": "2026-10-13T17:30:29+02:00",
   "home_score": 2,
   "away_score": 3,
   "status": "FT",
@@ -72,7 +72,208 @@
       ]
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "52%",
+      "away": "48%"
+    },
+    {
+      "label": "Attacks",
+      "home": "77",
+      "away": "57"
+    },
+    {
+      "label": "Corners",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "21",
+      "away": "17"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "27",
+      "away": "24"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "6",
+      "away": "8"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "16",
+      "away": "11"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "4",
+      "away": "5"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "2"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "323",
+      "away": "291"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "9",
+      "away": "5"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "8",
+      "away": "6"
+    },
+    {
+      "label": "Total Passes",
+      "home": "411",
+      "away": "390"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "8",
+      "away": "5"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "4/28 (14%)",
+      "away": "4/12 (33%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "188",
+      "away": "182"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "251",
+      "away": "220"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "30/70 (43%)",
+      "away": "32/78 (41%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "13",
+      "away": "9"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "88",
+      "away": "56"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "55",
+      "away": "54"
+    },
+    {
+      "label": "Interceptions",
+      "home": "12",
+      "away": "11"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "4/8 (50%)",
+      "away": "14/17 (82%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "9",
+      "away": "31"
+    },
+    {
+      "label": "Duels Won",
+      "home": "53",
+      "away": "72"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "18/48 (38%)",
+      "away": "30/48 (62%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "35/77 (45%)",
+      "away": "42/77 (55%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "21",
+      "away": "17"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "6/13 (46%)",
+      "away": "8/14 (57%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "7",
+      "away": "6"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "3",
+      "away": "4"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "162",
+      "away": "145"
+    },
+    {
+      "label": "Fouls",
+      "home": "17",
+      "away": "21"
+    },
+    {
+      "label": "Substitutions",
+      "home": "4",
+      "away": "5"
+    }
+  ],
   "lineups": [
     {
       "team": "Marumo Gallants",
@@ -288,5 +489,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

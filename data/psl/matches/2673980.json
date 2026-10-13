@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-10-12T06:20:57+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "FT",
@@ -56,6 +56,213 @@
       "player": "Athini Maqokola"
     }
   ],
-  "stats": [],
-  "lineups": []
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "48%",
+      "away": "52%"
+    },
+    {
+      "label": "Attacks",
+      "home": "32",
+      "away": "32"
+    },
+    {
+      "label": "Corners",
+      "home": "3",
+      "away": "5"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "18",
+      "away": "13"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "5"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "36",
+      "away": "29"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "6",
+      "away": "12"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "4"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "7",
+      "away": "8"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "243",
+      "away": "292"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "4",
+      "away": "5"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "5",
+      "away": "4"
+    },
+    {
+      "label": "Total Passes",
+      "home": "378",
+      "away": "421"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "2",
+      "away": "4"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "1/16 (6%)",
+      "away": "2/8 (25%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "133",
+      "away": "263"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "261",
+      "away": "166"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "19/72 (26%)",
+      "away": "25/80 (31%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "3",
+      "away": "6"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "56",
+      "away": "43"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "55",
+      "away": "66"
+    },
+    {
+      "label": "Interceptions",
+      "home": "11",
+      "away": "6"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "11/15 (73%)",
+      "away": "11/17 (65%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "12",
+      "away": "31"
+    },
+    {
+      "label": "Duels Won",
+      "home": "53",
+      "away": "58"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "19/42 (45%)",
+      "away": "23/42 (55%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "34/69 (49%)",
+      "away": "35/69 (51%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "18",
+      "away": "13"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "1/10 (10%)",
+      "away": "5/10 (50%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "9",
+      "away": "5"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "206",
+      "away": "198"
+    },
+    {
+      "label": "Fouls",
+      "home": "15",
+      "away": "18"
+    },
+    {
+      "label": "Substitutions",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
 }

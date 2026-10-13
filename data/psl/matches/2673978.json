@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Milford FC",
-  "updated": "2026-10-11T07:08:19+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "FT",
@@ -128,7 +128,213 @@
       "type": "kickoff"
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "46%",
+      "away": "54%"
+    },
+    {
+      "label": "Attacks",
+      "home": "73",
+      "away": "87"
+    },
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "12",
+      "away": "16"
+    },
+    {
+      "label": "Offsides",
+      "home": "10",
+      "away": "1"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "13",
+      "away": "24"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "9",
+      "away": "9"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "12",
+      "away": "9"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "5",
+      "away": "4"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "3",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "364",
+      "away": "427"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "5",
+      "away": "5"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "6",
+      "away": "3"
+    },
+    {
+      "label": "Total Passes",
+      "home": "432",
+      "away": "501"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "6",
+      "away": "6"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "2/12 (17%)",
+      "away": "1/12 (8%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "244",
+      "away": "303"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "200",
+      "away": "210"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "31/53 (58%)",
+      "away": "47/75 (63%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "10",
+      "away": "5"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "76",
+      "away": "66"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "81",
+      "away": "95"
+    },
+    {
+      "label": "Interceptions",
+      "home": "14",
+      "away": "16"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "17/31 (55%)",
+      "away": "15/21 (71%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "16",
+      "away": "14"
+    },
+    {
+      "label": "Duels Won",
+      "home": "57",
+      "away": "45"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "8/10 (80%)",
+      "away": "2/10 (20%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "49/92 (53%)",
+      "away": "43/92 (47%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "12",
+      "away": "16"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "6/14 (43%)",
+      "away": "6/22 (27%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "8",
+      "away": "16"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "5",
+      "away": "6"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "123",
+      "away": "145"
+    },
+    {
+      "label": "Fouls",
+      "home": "17",
+      "away": "12"
+    },
+    {
+      "label": "Substitutions",
+      "home": "5",
+      "away": "5"
+    }
+  ],
   "lineups": [
     {
       "team": "Orlando Pirates",
@@ -344,5 +550,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

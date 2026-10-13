@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "TS Galaxy",
-  "updated": "2026-10-11T07:08:15+02:00",
+  "updated": "2026-10-13T17:30:28+02:00",
   "home_score": 2,
   "away_score": 2,
   "status": "FT",
@@ -145,7 +145,218 @@
       "type": "kickoff"
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "51%",
+      "away": "49%"
+    },
+    {
+      "label": "Attacks",
+      "home": "97",
+      "away": "104"
+    },
+    {
+      "label": "Corners",
+      "home": "10",
+      "away": "2"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "9",
+      "away": "12"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "25",
+      "away": "28"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "10",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Total Shots",
+      "home": "15",
+      "away": "8"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "5",
+      "away": "4"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "4",
+      "away": "4"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "247",
+      "away": "255"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "4",
+      "away": "2"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "6",
+      "away": "2"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "11",
+      "away": "7"
+    },
+    {
+      "label": "Total Passes",
+      "home": "356",
+      "away": "352"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "4",
+      "away": "1"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "3",
+      "away": "2"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "6/22 (27%)",
+      "away": "7/9 (78%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "133",
+      "away": "174"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "245",
+      "away": "187"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "31/71 (44%)",
+      "away": "35/76 (46%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "9",
+      "away": "7"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "85",
+      "away": "52"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "37",
+      "away": "66"
+    },
+    {
+      "label": "Interceptions",
+      "home": "10",
+      "away": "11"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "13/19 (68%)",
+      "away": "15/18 (83%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "11",
+      "away": "27"
+    },
+    {
+      "label": "Error Led To Goal",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Duels Won",
+      "home": "50",
+      "away": "52"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "14/30 (47%)",
+      "away": "16/30 (53%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "36/72 (50%)",
+      "away": "36/72 (50%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "9",
+      "away": "12"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "8/18 (44%)",
+      "away": "6/16 (38%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "10",
+      "away": "10"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "3",
+      "away": "3"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "174",
+      "away": "157"
+    },
+    {
+      "label": "Fouls",
+      "home": "13",
+      "away": "10"
+    },
+    {
+      "label": "Substitutions",
+      "home": "4",
+      "away": "3"
+    }
+  ],
   "lineups": [
     {
       "team": "Siwelele",
@@ -356,5 +567,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }
