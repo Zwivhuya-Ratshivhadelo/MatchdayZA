@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T20:55:58+02:00",
+  "updated": "2026-10-13T20:58:27+02:00",
   "log": [
     {
       "pos": 1,
@@ -552,7 +552,7 @@
       "home_score": 0,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "66'",
+      "minute": "69'",
       "latest": "45' Goal, Athini Maqokola (AmaZulu FC)"
     },
     {
@@ -565,7 +565,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "66'",
+      "minute": "68'",
       "latest": "61' Yellow card, Luthando Vena (Stellenbosch FC)"
     },
     {
@@ -579,7 +579,7 @@
       "away_score": 4,
       "status": "LIVE",
       "latest": "59' Goal, Fawaaz Basadien (Mamelodi Sundowns)",
-      "minute": "65'"
+      "minute": "68'"
     },
     {
       "home": "Orlando Pirates",
@@ -591,7 +591,7 @@
       "home_score": 2,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "64'",
+      "minute": "66'",
       "latest": "63' Yellow card, Mlondi Mncwango (TS Galaxy)"
     }
   ],

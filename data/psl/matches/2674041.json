@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:55:58+02:00",
+  "updated": "2026-10-13T20:58:27+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "64'",
+  "minute": "66'",
   "events": [
     {
       "minute": "63'",
@@ -51,18 +51,18 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "52%",
-      "away": "48%"
+      "home": "51%",
+      "away": "49%"
     },
     {
       "label": "Attacks",
       "home": "73",
-      "away": "67"
+      "away": "68"
     },
     {
       "label": "Corners",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Free Kicks",
@@ -77,11 +77,11 @@
     {
       "label": "Throw-Ins",
       "home": "13",
-      "away": "12"
+      "away": "13"
     },
     {
       "label": "Goal Kicks",
-      "home": "4",
+      "home": "5",
       "away": "3"
     },
     {
@@ -97,12 +97,12 @@
     {
       "label": "Total Shots",
       "home": "10",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Shots On Target",
       "home": "5",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Big Chances Created",
@@ -111,8 +111,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "292",
-      "away": "272"
+      "home": "293",
+      "away": "281"
     },
     {
       "label": "Shots Off Target",
@@ -132,12 +132,12 @@
     {
       "label": "Shots Inside The Box",
       "home": "5",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Total Passes",
-      "home": "347",
-      "away": "322"
+      "home": "350",
+      "away": "331"
     },
     {
       "label": "Shots Outside The Box",
@@ -147,17 +147,17 @@
     {
       "label": "Crosses Completed",
       "home": "0/3 (0%)",
-      "away": "1/5 (20%)"
+      "away": "1/7 (14%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "206",
-      "away": "166"
+      "home": "209",
+      "away": "170"
     },
     {
       "label": "Passes Opposition Half",
       "home": "144",
-      "away": "161"
+      "away": "168"
     },
     {
       "label": "Long Passes Completed",
@@ -172,21 +172,21 @@
     {
       "label": "Passes Into Final Third",
       "home": "46",
-      "away": "43"
+      "away": "46"
     },
     {
       "label": "Backward Passes",
-      "home": "79",
-      "away": "64"
+      "home": "80",
+      "away": "65"
     },
     {
       "label": "Interceptions",
       "home": "10",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Goalkeeper Saves",
-      "home": "0",
+      "home": "1",
       "away": "3"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "label": "Clearances",
-      "home": "9",
+      "home": "13",
       "away": "8"
     },
     {
@@ -236,8 +236,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "87",
-      "away": "91"
+      "home": "89",
+      "away": "95"
     },
     {
       "label": "Fouls",
