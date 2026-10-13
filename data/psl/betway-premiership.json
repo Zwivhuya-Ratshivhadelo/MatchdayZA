@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T20:01:47+02:00",
+  "updated": "2026-10-13T20:04:31+02:00",
   "log": [
     {
       "pos": 1,
@@ -552,7 +552,7 @@
       "home_score": 0,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "32'",
+      "minute": "35'",
       "latest": "7' Goal, Mondli Mbanjwa (AmaZulu FC)"
     },
     {
@@ -565,7 +565,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "30'",
+      "minute": "33'",
       "latest": "23' Yellow card, T. Moloisane (Kaizer Chiefs)"
     },
     {
@@ -579,7 +579,7 @@
       "away_score": 1,
       "status": "LIVE",
       "latest": "22' Goal, L. Mabuya (Richards Bay)",
-      "minute": "31'"
+      "minute": "34'"
     },
     {
       "home": "Orlando Pirates",
@@ -591,7 +591,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "29'",
+      "minute": "31'",
       "latest": "25' Yellow card, Gamphani Lungu (Orlando Pirates)"
     }
   ],
