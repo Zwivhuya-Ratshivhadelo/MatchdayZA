@@ -247,6 +247,83 @@ function clubLeague(comps, club) {
   return Object.keys(PSL).find((k) => (comps[k]?.log || []).some((r) => slug(r.team) === slug(club)));
 }
 
+/* ---------- live score and clock read straight from the live feed by the visitor's browser ----------
+   The site's own data is updated every couple of minutes; while games are on, the page also asks the
+   feed itself every 20 seconds, so the score and the game clock are as current as the feed. */
+const FEED_COMPS = { "national-first-division": 5822, "betway-premiership": 414, "mtn8": 5821 };
+const FEED = {};        // gameKey -> { status, minute, home_score, away_score }
+const FEED_EVERY = 20000;
+
+function feedNorm(g) {
+  const st = g.statusGroup, status = st === 4 ? "FT" : st === 3 ? "LIVE" : "NS";
+  const text = (g.shortStatusText || g.statusText || "").trim(), shown = (g.gameTimeDisplay || "").trim();
+  const p = g.preciseGameTime, first = /^1st/i.test(text);
+  let minute = null;
+  if (status === "LIVE") {
+    if (/^(ht|half[\s-]?time|halftime)$/i.test(text) || /^ht$/i.test(shown)) minute = "HT";
+    else if (p && p.minutes != null && ((first && p.minutes >= 45) || p.minutes >= 90)) {
+      const base = first ? 45 : 90, extra = p.minutes - base + 1;   // added time, from the feed's own clock
+      minute = extra > 0 ? `${base}+${extra}'` : `${base}'`;
+    } else if (shown && /\d/.test(shown)) minute = shown.endsWith("'") ? shown : `${shown}'`;
+    else if (g.gameTime > 0) minute = `${Math.floor(g.gameTime)}'`;
+  }
+  const sc = (x) => (x != null && x >= 0 && status !== "NS" ? Math.round(x) : null);
+  return { date: g.startTime, home: g.homeCompetitor?.name, away: g.awayCompetitor?.name, status, minute,
+           home_score: sc(g.homeCompetitor?.score), away_score: sc(g.awayCompetitor?.score) };
+}
+const clubKey = (s) => slug(s).replace(/(^fc-|-fc$)/g, "");
+const sameClub = (a, b) => { a = clubKey(a); b = clubKey(b); return !!a && !!b && (a === b || a.startsWith(b) || b.startsWith(a)); };
+function feedFind(list, m) {
+  const day = (m.date || "").slice(0, 10), t = (m.date || "").slice(11, 16);
+  const sameDay = list.filter((g) => (g.date || "").slice(0, 10) === day);
+  const exact = sameDay.find((g) => sameClub(g.home, m.home) && sameClub(g.away, m.away));
+  if (exact) return exact;
+  const loose = sameDay.filter((g) => (sameClub(g.home, m.home) || sameClub(g.away, m.away)) && (!t || (g.date || "").slice(11, 16) === t));
+  return loose.length === 1 ? loose[0] : null;
+}
+/* games worth asking about: today's, from 10 minutes before kick-off to 2.5 hours after */
+function feedGames(comps) {
+  const now = Date.now(), out = [];
+  for (const [k, c] of Object.entries(comps)) {
+    if (!FEED_COMPS[k]) continue;
+    for (const m of [...(c?.fixtures || []), ...(c?.results || [])]) {
+      const d = parseDate(m);
+      if (!d || !(m.date || "").includes("T") || m.status === "FT") continue;
+      if (now >= d.getTime() - 600000 && now <= d.getTime() + 9000000) out.push({ ...m, _comp: k });
+    }
+  }
+  return out;
+}
+/* ask the feed about these games; true when anything changed */
+async function feedPoll(games) {
+  const comps = [...new Set(games.map((m) => m._comp))];
+  if (!comps.length) return false;
+  let changed = false;
+  await Promise.all(comps.map(async (k) => {
+    try {
+      const r = await fetch(`https://webws.365scores.com/web/games/current/?appTypeId=5&langId=1&timezoneName=Africa/Johannesburg&competitions=${FEED_COMPS[k]}`);
+      if (!r.ok) return;
+      const list = ((await r.json()).games || []).map(feedNorm);
+      for (const m of games.filter((g) => g._comp === k)) {
+        const f = feedFind(list, m);
+        if (!f || f.status === "NS") continue;
+        const v = { status: f.status, minute: f.minute, home_score: f.home_score, away_score: f.away_score };
+        const key = gameKey(m);
+        if (JSON.stringify(FEED[key]) !== JSON.stringify(v)) { FEED[key] = v; changed = true; }
+      }
+    } catch { /* the site's own data still shows */ }
+  }));
+  return changed;
+}
+const withFeed = (m) => (FEED[gameKey(m)] ? { ...m, ...FEED[gameKey(m)] } : m);
+function startFeed(getComps, redraw) {
+  clearInterval(window.__mdFeed);
+  if (window.MATCHDAY_DATA) return;
+  const tick = async () => { const games = feedGames(getComps()); if (games.length && (await feedPoll(games))) redraw(); };
+  tick();
+  window.__mdFeed = setInterval(tick, FEED_EVERY);
+}
+
 /* ---------- next matches, pitch, results and log: used by competition and club pages ---------- */
 async function renderBoard(view) {
   let comps = await loadComps();
@@ -260,7 +337,10 @@ async function renderBoard(view) {
 
   const draw = () => {
     const v = view(comps);
-    const fixtures = v.fixtures, results = v.results;
+    // fresher score and clock from the live feed; games that have kicked off move to the results
+    const fx = v.fixtures.map(withFeed), rs = v.results.map(withFeed);
+    const started = (m) => m.status === "LIVE" || m.status === "FT";
+    const fixtures = fx.filter((m) => !started(m)), results = [...rs, ...fx.filter(started)];
     const live = results.filter((m) => m.status === "LIVE");
     const games = [...live, ...fixtures, ...results];
     compNav(v.nav);
@@ -300,21 +380,23 @@ async function renderBoard(view) {
     if (pick) {
       (pick.match_id ? loadMatch(pick.match_id) : Promise.resolve(null)).then((detail) => {
         if (token !== drawToken) return;   // the user picked another game meanwhile
-        const m = mergeDetail(pick, detail);
+        const m = withFeed(mergeDetail(pick, detail));
         if (detail) feat.innerHTML = pitchCard(m, compName(pick));
         panel.innerHTML = detailPanel(m, detail);
       });
     }
 
-    liveRefresh(live.length > 0 || pick?.status === "LIVE", async () => {
-      const row = $('[data-md="next-matches"]'), x = row ? row.scrollLeft : 0;
-      const showAll = !!document.querySelector(".rcards.show-all");
-      comps = await loadComps();
-      draw();
-      if (row) row.scrollLeft = x;
-      if (showAll) { document.querySelector(".rcards")?.classList.add("show-all"); document.querySelector(".more-btn")?.remove(); }
-    });
+    liveRefresh(live.length > 0 || pick?.status === "LIVE", async () => { comps = await loadComps(); redraw(); });
   };
+  // redraw without losing the reader's place in the row or the opened results
+  const redraw = () => {
+    const row = $('[data-md="next-matches"]'), x = row ? row.scrollLeft : 0;
+    const showAll = !!document.querySelector(".rcards.show-all");
+    draw();
+    if (row) row.scrollLeft = x;
+    if (showAll) { document.querySelector(".rcards")?.classList.add("show-all"); document.querySelector(".more-btn")?.remove(); }
+  };
+  startFeed(() => comps, redraw);
 
   // tapping an upcoming or live game puts it on the pitch (finished games open their own page)
   document.addEventListener("click", (e) => {
@@ -371,7 +453,7 @@ async function renderGame() {
     const g = [...(comp.results || []), ...(comp.fixtures || [])].find((m) => gameKey(m) === key || matchUrl(m) === location.pathname);
     if (!g) return;   // keep what the page was built with
     const detail = g.match_id ? await loadMatch(g.match_id) : null;
-    const m = mergeDetail(g, detail);
+    const m = withFeed(mergeDetail(g, detail));
     $('[data-md="featured"]').innerHTML = pitchCard(m, PSL[compKey].name);
     $('[data-md="match-panel"]').innerHTML = detailPanel(m, detail);
     // the tab title follows the game: "Live Score" with the score while it is on
@@ -379,6 +461,7 @@ async function renderGame() {
     if (m.status === "LIVE") document.title = `${m.home} ${m.home_score}-${m.away_score} ${m.away} Live Score | ${name} | MatchdayZA`;
     else if (m.status === "FT") document.title = `${m.home} ${m.home_score}-${m.away_score} ${m.away} | ${name} | MatchdayZA`;
     liveRefresh(m.status === "LIVE", draw);
+    if (!window.__mdFeed) startFeed(() => comps, draw);
   };
   draw();
 }
