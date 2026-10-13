@@ -1,0 +1,24 @@
+{
+ "name": "Durban City vs AmaZulu FC",
+ "short_name": "DUR v AMA",
+ "id": "/match/durban-city-vs-amazulu-fc-2026-10-13/",
+ "start_url": "/match/durban-city-vs-amazulu-fc-2026-10-13/",
+ "scope": "/match/durban-city-vs-amazulu-fc-2026-10-13/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

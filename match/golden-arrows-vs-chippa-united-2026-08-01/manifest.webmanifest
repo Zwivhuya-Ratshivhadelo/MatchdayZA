@@ -1,0 +1,24 @@
+{
+ "name": "Golden Arrows vs Chippa United",
+ "short_name": "ARR v CHP",
+ "id": "/match/golden-arrows-vs-chippa-united-2026-08-01/",
+ "start_url": "/match/golden-arrows-vs-chippa-united-2026-08-01/",
+ "scope": "/match/golden-arrows-vs-chippa-united-2026-08-01/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

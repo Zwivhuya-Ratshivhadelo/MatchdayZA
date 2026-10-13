@@ -604,23 +604,27 @@ function renderMatch() {
 
 /* ---------- start ---------- */
 $all('[data-md="year"]').forEach((el) => (el.textContent = new Date().getFullYear()));
-/* ---------- add to home screen: a quiet line under the competitions, shown once in a while ---------- */
+/* ---------- pin a match to the home screen: a quiet line on match pages ---------- */
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").catch(() => {});
-(function installHint() {
+(function pinHint() {
+  // only on a match page, before the game ends: pin that match to the home screen
+  if (document.body.dataset.page !== "game") return;
   const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
-  const key = "md-install-hidden";
+  if (standalone) return;
+  const key = "md-pin-hidden";
   let hiddenAt = 0;
   try { hiddenAt = +localStorage.getItem(key) || 0; } catch { /* private mode */ }
-  if (standalone || Date.now() - hiddenAt < 14 * 864e5) return;
+  if (Date.now() - hiddenAt < 3 * 864e5) return;
   const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) && !/crios|fxios/i.test(navigator.userAgent);
   let deferred = null;
   const show = () => {
     if (document.querySelector(".install-hint")) return;
+    if (/Full time/.test($('[data-md="featured"]')?.textContent || "")) return;   // game over: nothing to keep tabs on
     const bar = document.createElement("div");
     bar.className = "install-hint";
     bar.innerHTML = `<div class="container install-row">
-      <span>${ios ? "Add MatchdayZA to your home screen: tap Share, then Add to Home Screen" : "Get MatchdayZA on your home screen"}</span>
-      ${ios ? "" : '<button type="button" class="install-add">Add</button>'}
+      <span>Keeping tabs on this match? ${ios ? "Pin it: tap Share, then Add to Home Screen" : "Pin it to your home screen"}</span>
+      ${ios ? "" : '<button type="button" class="install-add">Pin</button>'}
       <button type="button" class="install-close" aria-label="Close">×</button></div>`;
     (document.querySelector(".comp-switch") || document.querySelector(".site-header"))?.after(bar);
     const hide = () => { bar.remove(); try { localStorage.setItem(key, String(Date.now())); } catch { /* ignore */ } };
@@ -630,11 +634,11 @@ if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").cat
       deferred.prompt();
       await deferred.userChoice.catch(() => null);
       deferred = null;
-      hide();
+      bar.remove();
     });
   };
-  addEventListener("beforeinstallprompt", (e) => { e.preventDefault(); deferred = e; setTimeout(show, 6000); });
-  if (ios) setTimeout(show, 6000);
+  addEventListener("beforeinstallprompt", (e) => { e.preventDefault(); deferred = e; setTimeout(show, 4000); });
+  if (ios) setTimeout(show, 4000);
   addEventListener("appinstalled", () => document.querySelector(".install-hint")?.remove());
 })();
 

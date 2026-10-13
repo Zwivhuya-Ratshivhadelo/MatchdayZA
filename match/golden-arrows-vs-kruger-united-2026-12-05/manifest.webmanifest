@@ -1,0 +1,24 @@
+{
+ "name": "Golden Arrows vs Kruger United",
+ "short_name": "ARR v KRU",
+ "id": "/match/golden-arrows-vs-kruger-united-2026-12-05/",
+ "start_url": "/match/golden-arrows-vs-kruger-united-2026-12-05/",
+ "scope": "/match/golden-arrows-vs-kruger-united-2026-12-05/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

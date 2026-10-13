@@ -1,0 +1,24 @@
+{
+ "name": "Marumo Gallants vs Mamelodi Sundowns",
+ "short_name": "MAR v SUN",
+ "id": "/match/marumo-gallants-vs-mamelodi-sundowns-2027-03-14/",
+ "start_url": "/match/marumo-gallants-vs-mamelodi-sundowns-2027-03-14/",
+ "scope": "/match/marumo-gallants-vs-mamelodi-sundowns-2027-03-14/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

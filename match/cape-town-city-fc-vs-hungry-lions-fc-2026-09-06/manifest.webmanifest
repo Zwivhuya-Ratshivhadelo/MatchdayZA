@@ -1,0 +1,24 @@
+{
+ "name": "Cape Town City FC vs Hungry Lions FC",
+ "short_name": "CTC v HUN",
+ "id": "/match/cape-town-city-fc-vs-hungry-lions-fc-2026-09-06/",
+ "start_url": "/match/cape-town-city-fc-vs-hungry-lions-fc-2026-09-06/",
+ "scope": "/match/cape-town-city-fc-vs-hungry-lions-fc-2026-09-06/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

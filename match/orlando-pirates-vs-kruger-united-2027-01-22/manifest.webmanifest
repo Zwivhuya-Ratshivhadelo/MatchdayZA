@@ -1,0 +1,24 @@
+{
+ "name": "Orlando Pirates vs Kruger United",
+ "short_name": "PIR v KRU",
+ "id": "/match/orlando-pirates-vs-kruger-united-2027-01-22/",
+ "start_url": "/match/orlando-pirates-vs-kruger-united-2027-01-22/",
+ "scope": "/match/orlando-pirates-vs-kruger-united-2027-01-22/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

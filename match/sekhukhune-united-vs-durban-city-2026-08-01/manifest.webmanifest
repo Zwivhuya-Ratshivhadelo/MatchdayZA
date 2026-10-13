@@ -1,0 +1,24 @@
+{
+ "name": "Sekhukhune United vs Durban City",
+ "short_name": "SEK v DUR",
+ "id": "/match/sekhukhune-united-vs-durban-city-2026-08-01/",
+ "start_url": "/match/sekhukhune-united-vs-durban-city-2026-08-01/",
+ "scope": "/match/sekhukhune-united-vs-durban-city-2026-08-01/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

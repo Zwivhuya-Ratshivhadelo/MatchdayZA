@@ -1,0 +1,24 @@
+{
+ "name": "Midlands Wanderers vs North West University",
+ "short_name": "MID v NWU",
+ "id": "/match/midlands-wanderers-vs-north-west-university-2026-09-12/",
+ "start_url": "/match/midlands-wanderers-vs-north-west-university-2026-09-12/",
+ "scope": "/match/midlands-wanderers-vs-north-west-university-2026-09-12/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

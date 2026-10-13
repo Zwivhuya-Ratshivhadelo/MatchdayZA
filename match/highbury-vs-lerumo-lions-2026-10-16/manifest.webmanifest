@@ -1,0 +1,24 @@
+{
+ "name": "Highbury vs Lerumo Lions",
+ "short_name": "HIG v LER",
+ "id": "/match/highbury-vs-lerumo-lions-2026-10-16/",
+ "start_url": "/match/highbury-vs-lerumo-lions-2026-10-16/",
+ "scope": "/match/highbury-vs-lerumo-lions-2026-10-16/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

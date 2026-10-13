@@ -493,6 +493,35 @@ def build_club(club, comps, template, svg, today):
     return club_url(club)
 
 
+def club_codes():
+    """3-letter club codes from app.js (CODES), for short home-screen names like "KCH v PIR"."""
+    js = (ROOT / "app.js").read_text(encoding="utf-8")
+    blk = re.search(r"const CODES = \{(.*?)\};", js, re.S)
+    return dict(re.findall(r'"([a-z0-9-]+)": "([A-Z]{3})"', blk.group(1))) if blk else {}
+
+
+CODES = {}
+
+
+def code(name):
+    return CODES.get(slug(name)) or re.sub(r"[^A-Za-z]", "", name)[:3].upper()
+
+
+def write_match_manifest(m, url):
+    """Each match page can be pinned to a home screen as its own icon that opens that match."""
+    import json
+    man = {"name": f'{m["home"]} vs {m["away"]}', "short_name": f'{code(m["home"])} v {code(m["away"])}',
+           "id": url, "start_url": url, "scope": url, "display": "standalone",
+           "background_color": "#00563A", "theme_color": "#00563A",
+           "icons": [{"src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+                     {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
+    path = ROOT / url.strip("/") / "manifest.webmanifest"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    text = json.dumps(man, ensure_ascii=False, indent=1)
+    if not path.exists() or path.read_text(encoding="utf-8") != text:
+        path.write_text(text, encoding="utf-8")
+
+
 def build_match(m, comp_key, comps, template, svg, today):
     url = match_url(m)
     comp = comps[comp_key]
@@ -514,10 +543,12 @@ def build_match(m, comp_key, comps, template, svg, today):
     page = fill(template, {
         "title": esc(f"{head} | {comp_name} | MatchdayZA"), "description": esc(desc),
         "canonical": SITE + url, "comp": comp_key, "key": esc(game_key(m)), "nav": nav(comp_key),
+        "manifest": url + "manifest.webmanifest",
         "back": PAGES[comp_key][0],
         "featured": pitch_card(g, comp_name, today, svg) + goals_strip(g), "panel": detail_panel(detail, g),
     })
     write(url, page)
+    write_match_manifest(m, url)
     return url
 
 
@@ -540,6 +571,8 @@ def run():
     home_t = (ROOT / "templates" / "home.html").read_text(encoding="utf-8")
     abc_t = (ROOT / "templates" / "abc.html").read_text(encoding="utf-8")
     comps = load_comps()
+    CODES.clear()
+    CODES.update(club_codes())
     SCORERS.clear()
     SCORERS.update(build_scorers(comps))
     CLUBS.clear()

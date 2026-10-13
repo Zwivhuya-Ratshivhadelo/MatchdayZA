@@ -1,0 +1,24 @@
+{
+ "name": "Golden Arrows vs Richards Bay",
+ "short_name": "ARR v RBY",
+ "id": "/match/golden-arrows-vs-richards-bay-2027-01-09/",
+ "start_url": "/match/golden-arrows-vs-richards-bay-2027-01-09/",
+ "scope": "/match/golden-arrows-vs-richards-bay-2027-01-09/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

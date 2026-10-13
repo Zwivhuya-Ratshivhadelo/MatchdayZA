@@ -1,0 +1,24 @@
+{
+ "name": "AmaZulu FC vs Orlando Pirates",
+ "short_name": "AMA v PIR",
+ "id": "/match/amazulu-fc-vs-orlando-pirates-2026-08-12/",
+ "start_url": "/match/amazulu-fc-vs-orlando-pirates-2026-08-12/",
+ "scope": "/match/amazulu-fc-vs-orlando-pirates-2026-08-12/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

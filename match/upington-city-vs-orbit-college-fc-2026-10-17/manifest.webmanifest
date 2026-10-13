@@ -1,0 +1,24 @@
+{
+ "name": "Upington City vs Orbit College FC",
+ "short_name": "UPC v ORB",
+ "id": "/match/upington-city-vs-orbit-college-fc-2026-10-17/",
+ "start_url": "/match/upington-city-vs-orbit-college-fc-2026-10-17/",
+ "scope": "/match/upington-city-vs-orbit-college-fc-2026-10-17/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

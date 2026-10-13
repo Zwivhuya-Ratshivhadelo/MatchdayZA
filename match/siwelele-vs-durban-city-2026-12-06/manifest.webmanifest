@@ -1,0 +1,24 @@
+{
+ "name": "Siwelele vs Durban City",
+ "short_name": "SIW v DUR",
+ "id": "/match/siwelele-vs-durban-city-2026-12-06/",
+ "start_url": "/match/siwelele-vs-durban-city-2026-12-06/",
+ "scope": "/match/siwelele-vs-durban-city-2026-12-06/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

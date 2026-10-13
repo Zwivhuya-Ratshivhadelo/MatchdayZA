@@ -1,0 +1,24 @@
+{
+ "name": "Stellenbosch FC vs AmaZulu FC",
+ "short_name": "STE v AMA",
+ "id": "/match/stellenbosch-fc-vs-amazulu-fc-2026-08-01/",
+ "start_url": "/match/stellenbosch-fc-vs-amazulu-fc-2026-08-01/",
+ "scope": "/match/stellenbosch-fc-vs-amazulu-fc-2026-08-01/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "name": "Richards Bay vs Kaizer Chiefs",
+ "short_name": "RBY v KCH",
+ "id": "/match/richards-bay-vs-kaizer-chiefs-2026-08-26/",
+ "start_url": "/match/richards-bay-vs-kaizer-chiefs-2026-08-26/",
+ "scope": "/match/richards-bay-vs-kaizer-chiefs-2026-08-26/",
+ "display": "standalone",
+ "background_color": "#00563A",
+ "theme_color": "#00563A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
