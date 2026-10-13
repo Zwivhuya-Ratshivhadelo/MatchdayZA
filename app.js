@@ -278,7 +278,7 @@ async function renderBoard(view) {
 
     const next = [...live, ...fixtures].slice(0, 12);
     const title = $('[data-md="next-title"]');
-    if (title) title.textContent = live.length ? "Live Scores" : "Next matches";
+    if (title) title.textContent = live.length ? "Live Score" : "Next matches";
     $('[data-md="next-matches"]').innerHTML = next.length
       ? next.map((m) => matchCard(m, { pick: true, selected: gameKey(m) === pickKey })).join("")
       : `<p class="empty">No ${esc(v.name)} matches scheduled yet.</p>`;

@@ -249,7 +249,7 @@ def build_comp(slug_, template, svg, today):
     page = fill(template, {
         "title": esc(title), "description": esc(desc), "canonical": SITE + url, "comp": slug_,
         "h1": esc(f"{name} live scores,{league} fixtures and results"),
-        "nav": nav(slug_), "next_title": "Live Scores" if live else "Next matches", "next": next_html,
+        "nav": nav(slug_), "next_title": "Live Score" if live else "Next matches", "next": next_html,
         "featured": pitch_card(pick, name, today, svg) if pick else "",
         "results": results_list(done, pick=True, link=True) or f'<p class="empty">No {esc(name)} results yet.</p>',
         "standings": standings_table(enrich_log(log, results, comp.get("extra")), links=True) if log else "",
@@ -476,7 +476,7 @@ def build_club(club, comps, template, svg, today):
         "description": esc(f"{club} live scores, fixtures, results and log position"
                            + (f" in the {PAGES[league][1]}" if league else "") + ", with stats and line-ups for every game."),
         "canonical": SITE + club_url(club), "club_name": esc(club), "club_crest": crest(club),
-        "nav": nav(None), "next_title": "Live Scores" if live else "Next matches",
+        "nav": nav(None), "next_title": "Live Score" if live else "Next matches",
         "next": ("".join(match_card(m, today, True, game_key(m) == pick_key) for m in nxt) if nxt
                  else f'<p class="empty">No {esc(club)} matches scheduled yet.</p>'),
         "featured": pitch_card(pick, name_of(pick), today, svg) if pick else "",
