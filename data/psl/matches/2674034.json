@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "AmaZulu FC",
-  "updated": "2026-10-13T21:08:49+02:00",
+  "updated": "2026-10-13T21:11:27+02:00",
   "home_score": 1,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "79'",
+  "minute": "82'",
   "events": [
+    {
+      "minute": "72'",
+      "type": "goal",
+      "team": "Durban City",
+      "player": "Haashim Domingo",
+      "score": [
+        1,
+        2
+      ]
+    },
     {
       "minute": "45'",
       "type": "goal",
@@ -38,8 +48,8 @@
     },
     {
       "label": "Attacks",
-      "home": "109",
-      "away": "74"
+      "home": "113",
+      "away": "77"
     },
     {
       "label": "Corners",
@@ -58,12 +68,12 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "14",
-      "away": "16"
+      "home": "15",
+      "away": "17"
     },
     {
       "label": "Goal Kicks",
-      "home": "7",
+      "home": "8",
       "away": "19"
     },
     {

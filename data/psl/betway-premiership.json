@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T21:08:53+02:00",
+  "updated": "2026-10-13T21:11:31+02:00",
   "log": [
     {
       "pos": 1,
@@ -552,8 +552,8 @@
       "home_score": 1,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "79'",
-      "latest": "45' Goal, Athini Maqokola (AmaZulu FC)"
+      "minute": "82'",
+      "latest": "72' Goal, Haashim Domingo (Durban City)"
     },
     {
       "home": "Kaizer Chiefs",
@@ -565,7 +565,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "79'",
+      "minute": "81'",
       "latest": "72' Yellow card, Njabulo Blom (Stellenbosch FC)"
     },
     {
@@ -578,8 +578,8 @@
       "home_score": 1,
       "away_score": 4,
       "status": "LIVE",
-      "latest": "59' Goal, Fawaaz Basadien (Mamelodi Sundowns)",
-      "minute": "78'"
+      "latest": "79' Yellow card, Fawaaz Basadien (Mamelodi Sundowns)",
+      "minute": "81'"
     },
     {
       "home": "Orlando Pirates",
@@ -591,8 +591,8 @@
       "home_score": 3,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "77'",
-      "latest": "76' Goal, S. Masilela (Orlando Pirates)"
+      "minute": "79'",
+      "latest": "76' Goal, Simphiwe Masilela (Orlando Pirates)"
     }
   ],
   "fixtures": [
