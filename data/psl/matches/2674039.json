@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-13T19:56:20+02:00",
+  "updated": "2026-10-13T19:58:51+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "26'",
+  "minute": "28'",
   "events": [
     {
       "minute": "22'",
@@ -49,7 +49,7 @@
     {
       "label": "Free Kicks",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Offsides",
@@ -59,7 +59,7 @@
     {
       "label": "Throw-Ins",
       "home": "2",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Goal Kicks",
@@ -78,13 +78,13 @@
     },
     {
       "label": "Total Shots",
-      "home": "1",
-      "away": "6"
+      "home": "2",
+      "away": "7"
     },
     {
       "label": "Shots On Target",
-      "home": "1",
-      "away": "1"
+      "home": "2",
+      "away": "2"
     },
     {
       "label": "Big Chances Created",
@@ -93,8 +93,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "57",
-      "away": "177"
+      "home": "63",
+      "away": "203"
     },
     {
       "label": "Shots Off Target",
@@ -113,13 +113,18 @@
     },
     {
       "label": "Shots Inside The Box",
-      "home": "1",
+      "home": "2",
       "away": "6"
     },
     {
       "label": "Total Passes",
-      "home": "72",
-      "away": "191"
+      "home": "82",
+      "away": "220"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "0",
+      "away": "1"
     },
     {
       "label": "Big Chances Missed",
@@ -129,37 +134,37 @@
     {
       "label": "Crosses Completed",
       "home": "0/0",
-      "away": "4/7 (57%)"
+      "away": "4/8 (50%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "39",
-      "away": "85"
+      "home": "45",
+      "away": "96"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "33",
-      "away": "113"
+      "home": "37",
+      "away": "132"
     },
     {
       "label": "Long Passes Completed",
-      "home": "5/14 (36%)",
-      "away": "13/15 (87%)"
+      "home": "5/15 (33%)",
+      "away": "14/17 (82%)"
     },
     {
       "label": "Key Passes",
-      "home": "0",
-      "away": "6"
+      "home": "1",
+      "away": "7"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "5",
-      "away": "30"
+      "home": "7",
+      "away": "37"
     },
     {
       "label": "Backward Passes",
       "home": "15",
-      "away": "34"
+      "away": "38"
     },
     {
       "label": "Interceptions",
@@ -168,52 +173,52 @@
     },
     {
       "label": "Goalkeeper Saves",
-      "home": "0",
+      "home": "2",
       "away": "1"
     },
     {
       "label": "Tackles Won",
-      "home": "2/2 (100%)",
+      "home": "1/2 (50%)",
       "away": "2/3 (67%)"
     },
     {
       "label": "Clearances",
-      "home": "3",
+      "home": "6",
       "away": "1"
     },
     {
       "label": "Duels Won",
       "home": "6",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Was Fouled",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Successful Dribbles",
       "home": "2/3 (67%)",
-      "away": "1/1 (100%)"
+      "away": "1/2 (50%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Final Third Possession Won",
       "home": "1",
-      "away": "1"
+      "away": "3"
     },
     {
       "label": "Possession Lost",
-      "home": "22",
-      "away": "23"
+      "home": "26",
+      "away": "28"
     },
     {
       "label": "Fouls",
-      "home": "0",
+      "home": "1",
       "away": "2"
     },
     {
@@ -252,11 +257,6 @@
           "pos": "Defender"
         },
         {
-          "no": "20",
-          "name": "M Mthembu",
-          "pos": "Midfielder"
-        },
-        {
           "no": "24",
           "name": "S Gumede",
           "pos": "Midfielder"
@@ -272,9 +272,14 @@
           "pos": "Midfielder"
         },
         {
+          "no": "20",
+          "name": "M Mthembu",
+          "pos": "Striker"
+        },
+        {
           "no": "19",
           "name": "S Nzama",
-          "pos": "Midfielder"
+          "pos": "Striker"
         },
         {
           "no": "27",
