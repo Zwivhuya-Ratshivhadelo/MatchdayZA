@@ -3,12 +3,23 @@
   "comp": "national-first-division",
   "home": "Cape Town City FC",
   "away": "The Bees",
-  "updated": "2026-10-11T19:40:43+02:00",
-  "home_score": null,
-  "away_score": null,
-  "status": "NS",
-  "minute": null,
-  "events": [],
+  "updated": "2026-10-13T16:01:33+02:00",
+  "home_score": 1,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "HT",
   "stats": [],
-  "lineups": []
+  "lineups": [],
+  "events": [
+    {
+      "minute": "14'",
+      "type": "goal",
+      "team": "Cape Town City FC",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ]
 }
