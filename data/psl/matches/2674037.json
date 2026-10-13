@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T20:37:58+02:00",
+  "updated": "2026-10-13T20:40:31+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "48'",
+  "minute": "50'",
   "events": [
+    {
+      "minute": "48'",
+      "type": "goal",
+      "team": "Stellenbosch FC",
+      "player": "Sinoxolo Kwayiba",
+      "score": [
+        0,
+        1
+      ]
+    },
     {
       "minute": "45'",
       "type": "yellow",
@@ -25,13 +35,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "59%",
-      "away": "41%"
+      "home": "60%",
+      "away": "40%"
     },
     {
       "label": "Attacks",
-      "home": "51",
-      "away": "55"
+      "home": "52",
+      "away": "56"
     },
     {
       "label": "Corners",
@@ -50,7 +60,7 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "8",
+      "home": "9",
       "away": "5"
     },
     {
@@ -71,22 +81,22 @@
     {
       "label": "Total Shots",
       "home": "5",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Shots On Target",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Big Chances Created",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Passes Completed",
-      "home": "169",
-      "away": "94"
+      "home": "193",
+      "away": "103"
     },
     {
       "label": "Shots Off Target",
@@ -106,12 +116,12 @@
     {
       "label": "Shots Inside The Box",
       "home": "4",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Total Passes",
-      "home": "221",
-      "away": "148"
+      "home": "248",
+      "away": "159"
     },
     {
       "label": "Shots Outside The Box",
@@ -125,43 +135,43 @@
     },
     {
       "label": "Crosses Completed",
-      "home": "2/3 (67%)",
+      "home": "3/4 (75%)",
       "away": "2/9 (22%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "150",
-      "away": "62"
+      "home": "168",
+      "away": "64"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "74",
-      "away": "95"
+      "home": "84",
+      "away": "104"
     },
     {
       "label": "Long Passes Completed",
       "home": "7/26 (27%)",
-      "away": "12/37 (32%)"
+      "away": "12/39 (31%)"
     },
     {
       "label": "Key Passes",
       "home": "4",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "12",
-      "away": "18"
+      "home": "13",
+      "away": "24"
     },
     {
       "label": "Backward Passes",
-      "home": "25",
-      "away": "17"
+      "home": "29",
+      "away": "18"
     },
     {
       "label": "Interceptions",
       "home": "2",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Goalkeeper Saves",
@@ -171,7 +181,7 @@
     {
       "label": "Tackles Won",
       "home": "3/4 (75%)",
-      "away": "2/4 (50%)"
+      "away": "3/5 (60%)"
     },
     {
       "label": "Clearances",
@@ -180,18 +190,18 @@
     },
     {
       "label": "Duels Won",
-      "home": "31",
-      "away": "22"
+      "home": "32",
+      "away": "23"
     },
     {
       "label": "Aerial Duels Won",
-      "home": "14/19 (74%)",
-      "away": "5/19 (26%)"
+      "home": "15/20 (75%)",
+      "away": "5/20 (25%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "17/34 (50%)",
-      "away": "17/34 (50%)"
+      "home": "17/35 (49%)",
+      "away": "18/35 (51%)"
     },
     {
       "label": "Was Fouled",
@@ -215,8 +225,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "72",
-      "away": "78"
+      "home": "76",
+      "away": "81"
     },
     {
       "label": "Fouls",
