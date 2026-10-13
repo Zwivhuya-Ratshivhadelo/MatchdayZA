@@ -4,6 +4,7 @@ from psl.co.za and store them as JSON in data/psl/<slug>.json.
 Run:  python psl.py
 """
 import re
+from datetime import datetime
 import sys
 from urllib.parse import unquote
 
@@ -433,6 +434,41 @@ def fill_from_365():
             print(f"365scores: {len(found)} final scores for {COMPETITIONS[slug]['name']}")
 
 
+def sync_fixtures_from_365():
+    """Moved games: when 365scores has a game in the next week on another date than our fixture list
+    (the PSL is slow to update postponements), use its date; add it back if it had been dropped."""
+    import scores365
+    from datetime import timedelta
+    feed = [g for g in scores365.games() if g["status"] in ("NS", "LIVE") and g["date"]]
+    now = now_sast()
+    soon = [g for g in feed if now - timedelta(hours=3) <= datetime.fromisoformat(g["date"]) <= now + timedelta(days=7)]
+    for slug in scores365.COMPETITIONS:
+        comp = load_json(DATA / "psl" / f"{slug}.json", {})
+        clubs = [r["team"] for r in comp.get("log", [])]
+        played = {(slugify(r["home"]), slugify(r["away"])) for r in comp.get("results", [])}
+        fixtures = comp.get("fixtures", [])
+        changed = []
+        for g in [x for x in soon if x["slug"] == slug]:
+            home = next((c for c in clubs if scores365._same_club(c, g["home"])), None)
+            away = next((c for c in clubs if scores365._same_club(c, g["away"])), None)
+            if not home or not away or (slugify(home), slugify(away)) in played:
+                continue
+            same = [f for f in fixtures if slugify(f["home"]) == slugify(home) and slugify(f["away"]) == slugify(away)]
+            if same:
+                f = min(same, key=lambda f: abs((datetime.fromisoformat(f["date"]) if "T" in (f.get("date") or "") else now)
+                                              - datetime.fromisoformat(g["date"])))
+                if f.get("date") != g["date"]:
+                    changed.append(f"{home} v {away}: {f.get('date')} -> {g['date']}")
+                    f["date"] = g["date"]
+            else:
+                fixtures.append({"home": home, "away": away, "date": g["date"]})
+                changed.append(f"{home} v {away}: added for {g['date']}")
+        if changed:
+            comp["fixtures"] = sorted(fixtures, key=lambda f: f.get("date") or "")
+            save_json(DATA / "psl" / f"{slug}.json", comp)
+            print("365scores dates:", "; ".join(changed))
+
+
 def store(slug, results, fixtures, log=None):
     path = DATA / "psl" / f"{slug}.json"
     old = load_json(path, {})
@@ -485,9 +521,10 @@ def run():
     except Exception as e:
         print(f"Match Centre skipped: {e}")
 
-    # Final scores the PSL hasn't posted yet (Championship)
+    # Final scores the PSL hasn't posted yet, and games it moved without updating its list
     try:
         fill_from_365()
+        sync_fixtures_from_365()
     except Exception as e:
         print(f"365scores skipped: {e}")
 

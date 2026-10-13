@@ -622,6 +622,14 @@
   ],
   "fixtures": [
     {
+      "home": "Cape Town City FC",
+      "away": "The Bees",
+      "date": "2026-10-13T15:30:00+02:00",
+      "match_id": "3019759",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019759",
+      "venue": "DHL Cape Town Stadium, Cape Town"
+    },
+    {
       "home": "Gomora United",
       "away": "Cape Town City FC",
       "date": "2026-10-16T15:30:00+02:00",
