@@ -542,8 +542,9 @@ function detailPanel(m, detail) {
         <div class="stat-bar">${bar}</div></div>`;
     }).join("")}</section>`);
   }
-  // commentary only when the source had real commentary (named players or match periods), not just goal times
-  if (events.some((e) => e.player || e.player_in || PERIOD_TEXT[e.type])) {
+  // commentary only when the source wrote real commentary (it marks kick-off, half-time and subs);
+  // a bare list of goals and cards isn't commentary, and the goals already show under the pitch
+  if (events.some((e) => PERIOD_TEXT[e.type] || e.type === "sub")) {
     const body = `<ol class="timeline">${events.map((e) => {
       if (PERIOD_TEXT[e.type]) return `<li class="ev-period"><span>${PERIOD_TEXT[e.type]}</span></li>`;
       const text = (EVENT_TEXT[e.type] || (() => ""))(e);

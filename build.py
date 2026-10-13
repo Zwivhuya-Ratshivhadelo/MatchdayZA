@@ -358,7 +358,9 @@ def detail_panel(detail, m=None):
         parts.append(f'<section class="panel"><div class="panel-head"><h2>Stats</h2></div>{rows}</section>')
     events = detail.get("events") or []
     # commentary only when the source had real commentary (named players or match periods), not just goal times
-    if any(e.get("player") or e.get("player_in") or e.get("type") in PERIOD_TEXT for e in events):
+    # commentary only when the source wrote real commentary (it marks kick-off, half-time and subs);
+    # a bare list of goals and cards isn't commentary, and the goals already show under the pitch
+    if any(e.get("type") in PERIOD_TEXT or e.get("type") == "sub" for e in events):
         items = ""
         for e in events:
             t = e.get("type")
