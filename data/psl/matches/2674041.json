@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:12:14+02:00",
+  "updated": "2026-10-13T20:14:51+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "39'",
+  "minute": "42'",
   "events": [
+    {
+      "minute": "41'",
+      "type": "yellow",
+      "team": "TS Galaxy",
+      "player": "M. Mvelase"
+    },
     {
       "minute": "25'",
       "type": "yellow",
@@ -29,13 +35,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "46%",
-      "away": "54%"
+      "home": "48%",
+      "away": "52%"
     },
     {
       "label": "Attacks",
-      "home": "44",
-      "away": "45"
+      "home": "45",
+      "away": "46"
     },
     {
       "label": "Corners",
@@ -44,7 +50,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "4",
+      "home": "5",
       "away": "5"
     },
     {
@@ -54,7 +60,7 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "3",
+      "home": "6",
       "away": "7"
     },
     {
@@ -65,7 +71,7 @@
     {
       "label": "Yellow Cards",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",
@@ -74,7 +80,7 @@
     },
     {
       "label": "Total Shots",
-      "home": "4",
+      "home": "5",
       "away": "3"
     },
     {
@@ -89,8 +95,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "154",
-      "away": "187"
+      "home": "184",
+      "away": "199"
     },
     {
       "label": "Shots Off Target",
@@ -99,7 +105,7 @@
     },
     {
       "label": "Shots Blocked",
-      "home": "1",
+      "home": "2",
       "away": "2"
     },
     {
@@ -114,28 +120,28 @@
     },
     {
       "label": "Total Passes",
-      "home": "188",
-      "away": "216"
+      "home": "220",
+      "away": "233"
     },
     {
       "label": "Shots Outside The Box",
-      "home": "2",
+      "home": "3",
       "away": "2"
     },
     {
       "label": "Passes Own Half",
-      "home": "106",
-      "away": "127"
+      "home": "132",
+      "away": "135"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "82",
-      "away": "92"
+      "home": "88",
+      "away": "101"
     },
     {
       "label": "Long Passes Completed",
-      "home": "9/22 (41%)",
-      "away": "19/31 (61%)"
+      "home": "11/25 (44%)",
+      "away": "19/33 (58%)"
     },
     {
       "label": "Key Passes",
@@ -144,18 +150,18 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "19",
-      "away": "20"
+      "home": "21",
+      "away": "21"
     },
     {
       "label": "Backward Passes",
-      "home": "42",
-      "away": "46"
+      "home": "46",
+      "away": "47"
     },
     {
       "label": "Interceptions",
-      "home": "2",
-      "away": "6"
+      "home": "4",
+      "away": "8"
     },
     {
       "label": "Goalkeeper Saves",
@@ -165,17 +171,17 @@
     {
       "label": "Tackles Won",
       "home": "7/12 (58%)",
-      "away": "7/10 (70%)"
+      "away": "7/11 (64%)"
     },
     {
       "label": "Clearances",
       "home": "6",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Duels Won",
-      "home": "27",
-      "away": "24"
+      "home": "29",
+      "away": "25"
     },
     {
       "label": "Aerial Duels Won",
@@ -184,22 +190,22 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "23/44 (52%)",
-      "away": "20/44 (45%)"
+      "home": "25/47 (53%)",
+      "away": "21/47 (45%)"
     },
     {
       "label": "Was Fouled",
-      "home": "4",
+      "home": "5",
       "away": "5"
     },
     {
       "label": "Successful Dribbles",
-      "home": "7/12 (58%)",
+      "home": "8/14 (57%)",
       "away": "5/13 (38%)"
     },
     {
       "label": "Was Dribbled Past",
-      "home": "5",
+      "home": "6",
       "away": "8"
     },
     {
@@ -209,13 +215,13 @@
     },
     {
       "label": "Possession Lost",
-      "home": "49",
-      "away": "59"
+      "home": "55",
+      "away": "64"
     },
     {
       "label": "Fouls",
       "home": "5",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Substitutions",

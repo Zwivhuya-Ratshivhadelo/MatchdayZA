@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-13T20:12:13+02:00",
+  "updated": "2026-10-13T20:14:50+02:00",
   "home_score": 1,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "42'",
+  "minute": "44'",
   "events": [
     {
       "minute": "37'",
@@ -43,8 +43,8 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "24%",
-      "away": "76%"
+      "home": "23%",
+      "away": "77%"
     },
     {
       "label": "Attacks",
@@ -103,8 +103,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "78",
-      "away": "300"
+      "home": "79",
+      "away": "329"
     },
     {
       "label": "Shots Off Target",
@@ -128,8 +128,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "103",
-      "away": "319"
+      "home": "106",
+      "away": "349"
     },
     {
       "label": "Shots Outside The Box",
@@ -148,18 +148,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "61",
-      "away": "118"
+      "home": "63",
+      "away": "122"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "43",
-      "away": "216"
+      "home": "44",
+      "away": "242"
     },
     {
       "label": "Long Passes Completed",
-      "home": "6/20 (30%)",
-      "away": "18/21 (86%)"
+      "home": "6/21 (29%)",
+      "away": "19/23 (83%)"
     },
     {
       "label": "Key Passes",
@@ -169,12 +169,12 @@
     {
       "label": "Passes Into Final Third",
       "home": "7",
-      "away": "74"
+      "away": "85"
     },
     {
       "label": "Backward Passes",
       "home": "19",
-      "away": "55"
+      "away": "62"
     },
     {
       "label": "Interceptions",
@@ -193,7 +193,7 @@
     },
     {
       "label": "Clearances",
-      "home": "11",
+      "home": "13",
       "away": "1"
     },
     {
@@ -223,8 +223,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "33",
-      "away": "36"
+      "home": "36",
+      "away": "38"
     },
     {
       "label": "Fouls",
