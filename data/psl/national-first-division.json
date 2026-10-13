@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-13T17:24:09+02:00",
+  "updated": "2026-10-13T17:26:28+02:00",
   "log": [
     {
       "pos": 1,
@@ -629,7 +629,7 @@
       "latest": "80' Goal, Cape Town City FC",
       "home_score": 3,
       "away_score": 1,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90'"
     }
   ],
