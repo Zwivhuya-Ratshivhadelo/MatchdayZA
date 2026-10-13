@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T20:32:56+02:00",
+  "updated": "2026-10-13T20:35:33+02:00",
   "log": [
     {
       "pos": 1,
@@ -552,7 +552,7 @@
       "home_score": 0,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "46'",
       "latest": "45' Goal, Athini Maqokola (AmaZulu FC)"
     },
     {

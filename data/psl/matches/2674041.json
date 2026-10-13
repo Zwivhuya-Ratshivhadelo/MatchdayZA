@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:32:56+02:00",
+  "updated": "2026-10-13T20:35:33+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
@@ -95,8 +95,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "227",
-      "away": "232"
+      "home": "228",
+      "away": "231"
     },
     {
       "label": "Shots Off Target",
@@ -121,7 +121,7 @@
     {
       "label": "Total Passes",
       "home": "269",
-      "away": "272"
+      "away": "271"
     },
     {
       "label": "Shots Outside The Box",
@@ -131,7 +131,7 @@
     {
       "label": "Passes Own Half",
       "home": "162",
-      "away": "143"
+      "away": "142"
     },
     {
       "label": "Passes Opposition Half",
@@ -140,7 +140,7 @@
     },
     {
       "label": "Long Passes Completed",
-      "home": "15/31 (48%)",
+      "home": "16/31 (52%)",
       "away": "21/37 (57%)"
     },
     {
@@ -150,13 +150,13 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "28",
+      "home": "29",
       "away": "32"
     },
     {
       "label": "Backward Passes",
       "home": "61",
-      "away": "52"
+      "away": "51"
     },
     {
       "label": "Interceptions",
@@ -170,7 +170,7 @@
     },
     {
       "label": "Tackles Won",
-      "home": "9/14 (64%)",
+      "home": "9/15 (60%)",
       "away": "9/13 (69%)"
     },
     {
@@ -180,8 +180,8 @@
     },
     {
       "label": "Duels Won",
-      "home": "34",
-      "away": "29"
+      "home": "35",
+      "away": "27"
     },
     {
       "label": "Aerial Duels Won",
@@ -190,8 +190,8 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "29/53 (55%)",
-      "away": "24/53 (45%)"
+      "home": "30/52 (58%)",
+      "away": "22/52 (42%)"
     },
     {
       "label": "Was Fouled",
@@ -201,12 +201,12 @@
     {
       "label": "Successful Dribbles",
       "home": "10/17 (59%)",
-      "away": "6/15 (40%)"
+      "away": "4/14 (29%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "7",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Final Third Possession Won",
@@ -215,8 +215,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "64",
-      "away": "72"
+      "home": "63",
+      "away": "73"
     },
     {
       "label": "Fouls",
