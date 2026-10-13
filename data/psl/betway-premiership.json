@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T21:30:34+02:00",
+  "updated": "2026-10-13T22:30:26+02:00",
   "log": [
     {
       "pos": 1,
@@ -545,10 +545,10 @@
     {
       "home": "Durban City",
       "away": "AmaZulu FC",
-      "date": "2026-10-13T19:30:00+02:00",
+      "date": "2026-10-13",
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2674034",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674034",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674034-durban-city-vs-amazulu-fc",
       "home_score": 1,
       "away_score": 2,
       "status": "FT",
