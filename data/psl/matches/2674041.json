@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:09:38+02:00",
+  "updated": "2026-10-13T20:12:14+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "37'",
+  "minute": "39'",
   "events": [
     {
       "minute": "25'",
@@ -29,13 +29,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "47%",
-      "away": "53%"
+      "home": "46%",
+      "away": "54%"
     },
     {
       "label": "Attacks",
-      "home": "39",
-      "away": "42"
+      "home": "44",
+      "away": "45"
     },
     {
       "label": "Corners",
@@ -89,8 +89,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "150",
-      "away": "172"
+      "home": "154",
+      "away": "187"
     },
     {
       "label": "Shots Off Target",
@@ -114,8 +114,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "182",
-      "away": "199"
+      "home": "188",
+      "away": "216"
     },
     {
       "label": "Shots Outside The Box",
@@ -124,18 +124,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "104",
-      "away": "116"
+      "home": "106",
+      "away": "127"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "78",
-      "away": "86"
+      "home": "82",
+      "away": "92"
     },
     {
       "label": "Long Passes Completed",
-      "home": "9/23 (39%)",
-      "away": "18/30 (60%)"
+      "home": "9/22 (41%)",
+      "away": "19/31 (61%)"
     },
     {
       "label": "Key Passes",
@@ -144,18 +144,18 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "16",
+      "home": "19",
       "away": "20"
     },
     {
       "label": "Backward Passes",
-      "home": "41",
-      "away": "41"
+      "home": "42",
+      "away": "46"
     },
     {
       "label": "Interceptions",
       "home": "2",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Goalkeeper Saves",
@@ -209,8 +209,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "47",
-      "away": "56"
+      "home": "49",
+      "away": "59"
     },
     {
       "label": "Fouls",
