@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T21:27:37+02:00",
+  "updated": "2026-10-13T21:28:12+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "FT",
@@ -106,7 +106,7 @@
     {
       "label": "Goal Kicks",
       "home": "9",
-      "away": "12"
+      "away": "13"
     },
     {
       "label": "Yellow Cards",
@@ -135,8 +135,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "427",
-      "away": "159"
+      "home": "428",
+      "away": "160"
     },
     {
       "label": "Shots Off Target",
@@ -160,8 +160,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "515",
-      "away": "244"
+      "home": "516",
+      "away": "245"
     },
     {
       "label": "Shots Outside The Box",
@@ -175,7 +175,7 @@
     },
     {
       "label": "Crosses Completed",
-      "home": "7/12 (58%)",
+      "home": "7/13 (54%)",
       "away": "2/17 (12%)"
     },
     {
@@ -185,13 +185,13 @@
     },
     {
       "label": "Passes Opposition Half",
-      "home": "227",
-      "away": "164"
+      "home": "229",
+      "away": "165"
     },
     {
       "label": "Long Passes Completed",
-      "home": "25/51 (49%)",
-      "away": "23/66 (35%)"
+      "home": "26/52 (50%)",
+      "away": "24/67 (36%)"
     },
     {
       "label": "Key Passes",
@@ -200,7 +200,7 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "60",
+      "home": "61",
       "away": "42"
     },
     {
@@ -265,7 +265,7 @@
     },
     {
       "label": "Possession Lost",
-      "home": "132",
+      "home": "133",
       "away": "136"
     },
     {
