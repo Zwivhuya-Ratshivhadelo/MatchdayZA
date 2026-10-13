@@ -3,12 +3,217 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T19:01:36+02:00",
+  "updated": "2026-10-13T19:11:52+02:00",
   "home_score": null,
   "away_score": null,
   "status": "NS",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [
+    {
+      "team": "Kaizer Chiefs",
+      "starting": [
+        {
+          "no": "16",
+          "name": "R Leaner",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "84",
+          "name": "IM Ferreira Dos Santos",
+          "pos": "Defender"
+        },
+        {
+          "no": "48",
+          "name": "B Cross",
+          "pos": "Defender"
+        },
+        {
+          "no": "42",
+          "name": "Thabo Moloisane",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "M Thabiso Monyane",
+          "pos": "Defender"
+        },
+        {
+          "no": "39",
+          "name": "Reeve Frosler",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "29",
+          "name": "Paseka Mako",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "28",
+          "name": "M Vilakazi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "5",
+          "name": "S Mthethwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "M Shabalala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "47",
+          "name": "W Duba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "38",
+          "name": "K Nkgwesa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "34",
+          "name": "T Mabaso",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "L Baartman",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "Asenele Velebayi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "Ethan Chislett",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "Zitha Kwinika",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "Bruce Bvuma",
+          "pos": "Substitute"
+        },
+        {
+          "no": "77",
+          "name": "F Silva",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Stellenbosch FC",
+      "starting": [
+        {
+          "no": "17",
+          "name": "Sage Stephens",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "27",
+          "name": "Terrence Mashego",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "Spiwe Msimango",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "L Vena",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "S Nkwali",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "Lehlogonolo Matlou",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "Ashley Du Preez",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "37",
+          "name": "Thabiso Lebitso",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "Njabulo Blom",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "Q Plaatjies",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "14",
+          "name": "S Kwayiba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "32",
+          "name": "R Daniels",
+          "pos": "Substitute"
+        },
+        {
+          "no": "67",
+          "name": "Bradley Grobler",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "K Johannessen",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "G Taunyana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "N Garrow",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "V Andries",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "Q Sibande",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "C Butsaka",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
 }
