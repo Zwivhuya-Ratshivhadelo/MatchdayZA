@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T21:03:40+02:00",
+  "updated": "2026-10-13T21:06:15+02:00",
   "log": [
     {
       "pos": 1,
@@ -549,10 +549,10 @@
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2674034",
       "url": "https://www.psl.co.za/matchcentre/detail/2674034",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "74'",
+      "minute": "77'",
       "latest": "45' Goal, Athini Maqokola (AmaZulu FC)"
     },
     {
@@ -565,7 +565,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "73'",
+      "minute": "76'",
       "latest": "72' Yellow card, Njabulo Blom (Stellenbosch FC)"
     },
     {
@@ -579,7 +579,7 @@
       "away_score": 4,
       "status": "LIVE",
       "latest": "59' Goal, Fawaaz Basadien (Mamelodi Sundowns)",
-      "minute": "73'"
+      "minute": "76'"
     },
     {
       "home": "Orlando Pirates",
@@ -591,8 +591,8 @@
       "home_score": 2,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "71'",
-      "latest": "66' Yellow card, Tshepo Kakora (TS Galaxy)"
+      "minute": "74'",
+      "latest": "73' Yellow card, T. Mokobodi (Orlando Pirates)"
     }
   ],
   "fixtures": [

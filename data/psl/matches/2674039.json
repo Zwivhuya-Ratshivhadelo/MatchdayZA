@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-13T21:03:38+02:00",
+  "updated": "2026-10-13T21:06:13+02:00",
   "home_score": 1,
   "away_score": 4,
   "status": "LIVE",
-  "minute": "73'",
+  "minute": "76'",
   "events": [
     {
       "minute": "59'",
@@ -78,7 +78,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "10",
+      "home": "11",
       "away": "5"
     },
     {
@@ -89,7 +89,7 @@
     {
       "label": "Throw-Ins",
       "home": "5",
-      "away": "13"
+      "away": "14"
     },
     {
       "label": "Goal Kicks",
@@ -109,7 +109,7 @@
     {
       "label": "Total Shots",
       "home": "4",
-      "away": "19"
+      "away": "20"
     },
     {
       "label": "Shots On Target",
@@ -123,13 +123,13 @@
     },
     {
       "label": "Passes Completed",
-      "home": "143",
-      "away": "531"
+      "home": "150",
+      "away": "573"
     },
     {
       "label": "Shots Off Target",
       "home": "1",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Shots Blocked",
@@ -144,12 +144,12 @@
     {
       "label": "Shots Inside The Box",
       "home": "2",
-      "away": "13"
+      "away": "14"
     },
     {
       "label": "Total Passes",
-      "home": "192",
-      "away": "569"
+      "home": "202",
+      "away": "615"
     },
     {
       "label": "Shots Outside The Box",
@@ -164,37 +164,37 @@
     {
       "label": "Crosses Completed",
       "home": "0/3 (0%)",
-      "away": "8/23 (35%)"
+      "away": "9/24 (38%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "107",
-      "away": "231"
+      "home": "115",
+      "away": "244"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "88",
-      "away": "361"
+      "home": "90",
+      "away": "395"
     },
     {
       "label": "Long Passes Completed",
-      "home": "11/41 (27%)",
-      "away": "29/37 (78%)"
+      "home": "11/42 (26%)",
+      "away": "31/39 (79%)"
     },
     {
       "label": "Key Passes",
       "home": "2",
-      "away": "14"
+      "away": "15"
     },
     {
       "label": "Passes Into Final Third",
       "home": "20",
-      "away": "121"
+      "away": "129"
     },
     {
       "label": "Backward Passes",
-      "home": "36",
-      "away": "101"
+      "home": "38",
+      "away": "109"
     },
     {
       "label": "Interceptions",
@@ -208,7 +208,7 @@
     },
     {
       "label": "Tackles Won",
-      "home": "3/7 (43%)",
+      "home": "3/8 (38%)",
       "away": "3/5 (60%)"
     },
     {
@@ -218,23 +218,23 @@
     },
     {
       "label": "Duels Won",
-      "home": "19",
-      "away": "18"
+      "home": "22",
+      "away": "20"
     },
     {
       "label": "Was Fouled",
-      "home": "10",
+      "home": "11",
       "away": "5"
     },
     {
       "label": "Successful Dribbles",
       "home": "2/4 (50%)",
-      "away": "3/5 (60%)"
+      "away": "3/6 (50%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "2",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Final Third Possession Won",
@@ -243,13 +243,13 @@
     },
     {
       "label": "Possession Lost",
-      "home": "64",
-      "away": "71"
+      "home": "67",
+      "away": "78"
     },
     {
       "label": "Fouls",
       "home": "5",
-      "away": "10"
+      "away": "12"
     },
     {
       "label": "Substitutions",
