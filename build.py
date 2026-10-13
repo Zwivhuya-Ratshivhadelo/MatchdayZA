@@ -543,12 +543,10 @@ def build_match(m, comp_key, comps, template, svg, today):
     page = fill(template, {
         "title": esc(f"{head} | {comp_name} | MatchdayZA"), "description": esc(desc),
         "canonical": SITE + url, "comp": comp_key, "key": esc(game_key(m)), "nav": nav(comp_key),
-        "manifest": url + "manifest.webmanifest",
         "back": PAGES[comp_key][0],
         "featured": pitch_card(g, comp_name, today, svg) + goals_strip(g), "panel": detail_panel(detail, g),
     })
     write(url, page)
-    write_match_manifest(m, url)
     return url
 
 
