@@ -24,9 +24,12 @@ def _norm(g, slug):
     status = "FT" if st == 4 else "LIVE" if st == 3 else "NS"
     text = (g.get("shortStatusText") or g.get("statusText") or "").strip()
     minute = None
-    if status == "LIVE":
-        if re.search(r"half", text, re.I):
+    if status == "LIVE":   # the game clock as 365scores shows it (e.g. 62', 45+2'); HT only at half-time
+        shown = (g.get("gameTimeDisplay") or "").strip()
+        if re.fullmatch(r"(?i)ht|half[\s-]?time|halftime", text) or re.fullmatch(r"(?i)ht", shown):
             minute = "HT"
+        elif shown and re.search(r"\d", shown):
+            minute = shown if shown.endswith("'") else shown + "'"
         elif g.get("gameTime") and g["gameTime"] > 0:
             minute = f"{int(g['gameTime'])}'"
     hs, as_ = g["homeCompetitor"].get("score"), g["awayCompetitor"].get("score")
