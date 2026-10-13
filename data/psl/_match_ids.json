@@ -819,5 +819,37 @@
   "3019829": {},
   "3019830": {},
   "3019831": {},
-  "3019832": {}
+  "3019832": {},
+  "2674034": {
+    "home": "durban-city",
+    "away": "amazulu-fc"
+  },
+  "2674035": {
+    "home": "chippa-united",
+    "away": "kruger-united"
+  },
+  "2674036": {
+    "home": "golden-arrows",
+    "away": "milford-fc"
+  },
+  "2674037": {
+    "home": "kaizer-chiefs",
+    "away": "stellenbosch-fc"
+  },
+  "2674038": {
+    "home": "sekhukhune-united",
+    "away": "marumo-gallants"
+  },
+  "2674039": {
+    "home": "richards-bay",
+    "away": "mamelodi-sundowns"
+  },
+  "2674040": {
+    "home": "siwelele",
+    "away": "polokwane-city"
+  },
+  "2674041": {
+    "home": "orlando-pirates",
+    "away": "ts-galaxy"
+  }
 }

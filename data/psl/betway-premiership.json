@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T17:30:30+02:00",
+  "updated": "2026-10-13T18:20:32+02:00",
   "log": [
     {
       "pos": 1,
@@ -549,28 +549,36 @@
       "away": "AmaZulu FC",
       "date": "2026-10-13T19:30:00+02:00",
       "venue": "Chatsworth Stadium, Chatsworth",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674034",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674034"
     },
     {
       "home": "Kaizer Chiefs",
       "away": "Stellenbosch FC",
       "date": "2026-10-13T19:30:00+02:00",
       "venue": "FNB Stadium, Johannesburg",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674037",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674037"
     },
     {
       "home": "Richards Bay",
       "away": "Mamelodi Sundowns",
       "date": "2026-10-13T19:30:00+02:00",
       "venue": "Princess Magogo Stadium, Durban",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674039",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674039"
     },
     {
       "home": "Orlando Pirates",
       "away": "TS Galaxy",
       "date": "2026-10-13T19:30:00+02:00",
       "venue": "Orlando Amstel Arena, Soweto",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674041",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674041"
     },
     {
       "home": "Chippa United",

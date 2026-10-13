@@ -1,13 +1,30 @@
 {
-  "time": "2026-10-13T17:26:46+02:00",
+  "time": "2026-10-13T18:20:25+02:00",
   "links_found": 6,
   "games": [
     {
-      "game": "Cape Town City FC v The Bees",
-      "kickoff": "2026-10-13T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019759",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "FT 3-1 "
+      "game": "Durban City v AmaZulu FC",
+      "kickoff": "2026-10-13T19:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674034",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Kaizer Chiefs v Stellenbosch FC",
+      "kickoff": "2026-10-13T19:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674037",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Richards Bay v Mamelodi Sundowns",
+      "kickoff": "2026-10-13T19:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674039",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Orlando Pirates v TS Galaxy",
+      "kickoff": "2026-10-13T19:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674041",
+      "page": "NS None-None, line-ups 0"
     }
   ]
 }
