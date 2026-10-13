@@ -3,11 +3,11 @@
   "comp": "national-first-division",
   "home": "Cape Town City FC",
   "away": "The Bees",
-  "updated": "2026-10-13T17:19:45+02:00",
+  "updated": "2026-10-13T17:21:56+02:00",
   "home_score": 3,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "89'",
+  "minute": "90'",
   "stats": [
     {
       "label": "Possession",
@@ -16,8 +16,8 @@
     },
     {
       "label": "Attacks",
-      "home": "78",
-      "away": "46"
+      "home": "81",
+      "away": "47"
     },
     {
       "label": "Corners",
