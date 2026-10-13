@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "AmaZulu FC",
-  "updated": "2026-10-13T20:48:20+02:00",
+  "updated": "2026-10-13T20:50:50+02:00",
   "home_score": 0,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "59'",
+  "minute": "61'",
   "events": [
     {
       "minute": "45'",
@@ -38,8 +38,8 @@
     },
     {
       "label": "Attacks",
-      "home": "81",
-      "away": "57"
+      "home": "84",
+      "away": "61"
     },
     {
       "label": "Corners",
@@ -49,7 +49,7 @@
     {
       "label": "Free Kicks",
       "home": "12",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Offsides",
@@ -58,13 +58,13 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "10",
-      "away": "14"
+      "home": "12",
+      "away": "15"
     },
     {
       "label": "Goal Kicks",
       "home": "5",
-      "away": "13"
+      "away": "14"
     },
     {
       "label": "Yellow Cards",

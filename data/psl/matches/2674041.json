@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:48:25+02:00",
+  "updated": "2026-10-13T20:50:54+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "56'",
+  "minute": "59'",
   "events": [
     {
       "minute": "50'",
@@ -45,17 +45,17 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "51%",
-      "away": "49%"
+      "home": "52%",
+      "away": "48%"
     },
     {
       "label": "Attacks",
-      "home": "61",
-      "away": "60"
+      "home": "65",
+      "away": "63"
     },
     {
       "label": "Corners",
-      "home": "1",
+      "home": "2",
       "away": "0"
     },
     {
@@ -70,13 +70,13 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "10",
-      "away": "9"
+      "home": "11",
+      "away": "10"
     },
     {
       "label": "Goal Kicks",
       "home": "3",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Yellow Cards",
@@ -90,12 +90,12 @@
     },
     {
       "label": "Total Shots",
-      "home": "8",
+      "home": "9",
       "away": "5"
     },
     {
       "label": "Shots On Target",
-      "home": "4",
+      "home": "5",
       "away": "0"
     },
     {
@@ -105,8 +105,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "266",
-      "away": "253"
+      "home": "275",
+      "away": "256"
     },
     {
       "label": "Shots Off Target",
@@ -130,52 +130,52 @@
     },
     {
       "label": "Total Passes",
-      "home": "313",
-      "away": "297"
+      "home": "324",
+      "away": "301"
     },
     {
       "label": "Shots Outside The Box",
-      "home": "3",
+      "home": "4",
       "away": "3"
     },
     {
       "label": "Crosses Completed",
-      "home": "0/2 (0%)",
+      "home": "0/3 (0%)",
       "away": "1/5 (20%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "186",
-      "away": "154"
+      "home": "193",
+      "away": "155"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "129",
-      "away": "148"
+      "home": "134",
+      "away": "151"
     },
     {
       "label": "Long Passes Completed",
-      "home": "17/33 (52%)",
-      "away": "21/39 (54%)"
+      "home": "19/35 (54%)",
+      "away": "22/40 (55%)"
     },
     {
       "label": "Key Passes",
-      "home": "5",
+      "home": "6",
       "away": "3"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "41",
+      "home": "44",
       "away": "40"
     },
     {
       "label": "Backward Passes",
-      "home": "69",
-      "away": "58"
+      "home": "73",
+      "away": "59"
     },
     {
       "label": "Interceptions",
-      "home": "8",
+      "home": "9",
       "away": "10"
     },
     {
@@ -185,18 +185,18 @@
     },
     {
       "label": "Tackles Won",
-      "home": "9/15 (60%)",
-      "away": "9/15 (60%)"
+      "home": "12/18 (67%)",
+      "away": "10/16 (62%)"
     },
     {
       "label": "Clearances",
       "home": "8",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Duels Won",
-      "home": "38",
-      "away": "34"
+      "home": "41",
+      "away": "35"
     },
     {
       "label": "Aerial Duels Won",
@@ -205,8 +205,8 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "33/59 (56%)",
-      "away": "27/60 (45%)"
+      "home": "36/64 (56%)",
+      "away": "28/64 (44%)"
     },
     {
       "label": "Was Fouled",
@@ -215,23 +215,23 @@
     },
     {
       "label": "Successful Dribbles",
-      "home": "12/19 (63%)",
-      "away": "5/15 (33%)"
+      "home": "12/21 (57%)",
+      "away": "5/16 (31%)"
     },
     {
       "label": "Was Dribbled Past",
-      "home": "7",
-      "away": "10"
+      "home": "9",
+      "away": "11"
     },
     {
       "label": "Final Third Possession Won",
       "home": "1",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Possession Lost",
-      "home": "73",
-      "away": "80"
+      "home": "78",
+      "away": "84"
     },
     {
       "label": "Fouls",
