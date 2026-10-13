@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T21:06:12+02:00",
+  "updated": "2026-10-13T21:08:50+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "76'",
+  "minute": "79'",
   "events": [
     {
       "minute": "72'",
@@ -62,8 +62,8 @@
     },
     {
       "label": "Attacks",
-      "home": "88",
-      "away": "75"
+      "home": "93",
+      "away": "76"
     },
     {
       "label": "Corners",
@@ -83,11 +83,11 @@
     {
       "label": "Throw-Ins",
       "home": "17",
-      "away": "8"
+      "away": "9"
     },
     {
       "label": "Goal Kicks",
-      "home": "6",
+      "home": "7",
       "away": "9"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "label": "Passes Completed",
-      "home": "343",
+      "home": "348",
       "away": "130"
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "label": "Total Passes",
-      "home": "419",
+      "home": "424",
       "away": "204"
     },
     {
@@ -162,17 +162,17 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "246",
+      "home": "250",
       "away": "83"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "181",
+      "home": "182",
       "away": "132"
     },
     {
       "label": "Long Passes Completed",
-      "home": "16/37 (43%)",
+      "home": "17/38 (45%)",
       "away": "17/55 (31%)"
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "43",
+      "home": "44",
       "away": "32"
     },
     {
@@ -203,7 +203,7 @@
     {
       "label": "Tackles Won",
       "home": "7/8 (88%)",
-      "away": "6/9 (67%)"
+      "away": "7/10 (70%)"
     },
     {
       "label": "Clearances",
@@ -213,17 +213,17 @@
     {
       "label": "Duels Won",
       "home": "48",
-      "away": "30"
+      "away": "31"
     },
     {
       "label": "Aerial Duels Won",
       "home": "21/26 (81%)",
-      "away": "5/25 (20%)"
+      "away": "5/26 (19%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "27/52 (52%)",
-      "away": "25/51 (49%)"
+      "home": "27/53 (51%)",
+      "away": "26/53 (49%)"
     },
     {
       "label": "Was Fouled",
@@ -232,12 +232,12 @@
     },
     {
       "label": "Successful Dribbles",
-      "home": "4/8 (50%)",
+      "home": "4/9 (44%)",
       "away": "4/7 (57%)"
     },
     {
       "label": "Was Dribbled Past",
-      "home": "4",
+      "home": "5",
       "away": "3"
     },
     {
@@ -247,8 +247,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "111",
-      "away": "112"
+      "home": "112",
+      "away": "115"
     },
     {
       "label": "Fouls",
