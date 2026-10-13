@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T22:12:11+02:00",
+  "updated": "2026-10-13T06:11:46+02:00",
   "streams": [
     {
       "season_id": "17741",
@@ -14,6 +14,20 @@
       "province": "Eastern Cape",
       "name": "EC Inland Stream",
       "slug": "ec-inland-stream"
+    },
+    {
+      "season_id": "17713",
+      "stream_id": "28594",
+      "province": "Free State",
+      "name": "FS Group 1A",
+      "slug": "fs-group-1a"
+    },
+    {
+      "season_id": "17713",
+      "stream_id": "28595",
+      "province": "Free State",
+      "name": "FS Group 1B",
+      "slug": "fs-group-1b"
     },
     {
       "season_id": "17711",

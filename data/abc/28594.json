@@ -1,0 +1,666 @@
+{
+  "season_id": "17713",
+  "stream_id": "28594",
+  "province": "Free State",
+  "name": "FS Group 1A",
+  "slug": "fs-group-1a",
+  "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28594",
+  "updated": "2026-10-13T06:10:47+02:00",
+  "log": [
+    {
+      "pos": 1,
+      "team": "African Warriors FC",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "pos": 2,
+      "team": "Young Boys FC",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "pos": 3,
+      "team": "Motsomotle FC",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "pos": 4,
+      "team": "Central University of FS",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "pos": 5,
+      "team": "Harmony FC",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "pos": 6,
+      "team": "Mkabadeli Heroes FC",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "pos": 7,
+      "team": "Elite Athletics FC",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "pos": 8,
+      "team": "Tower United",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "team": "Remember Elite Soccer Academy",
+      "p": 0,
+      "w": 0,
+      "d": 0,
+      "l": 0,
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "pts": 0
+    }
+  ],
+  "results": [],
+  "fixtures": [
+    {
+      "home": "Remember Elite Soccer Academy",
+      "away": "African Warriors FC",
+      "match_no": 5,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=5&s=l",
+      "date": "2026-10-17T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Elite Athletics FC",
+      "away": "Young Boys FC",
+      "match_no": 6,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=6&s=l",
+      "date": "2026-10-17T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mkabadeli Heroes FC",
+      "away": "Motsomotle FC",
+      "match_no": 7,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=7&s=l",
+      "date": "2026-10-17T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Harmony FC",
+      "away": "Central University of FS",
+      "match_no": 8,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=8&s=l",
+      "date": "2026-10-17T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Young Boys FC",
+      "away": "Harmony FC",
+      "match_no": 11,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=11&s=l",
+      "date": "2026-10-23T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Motsomotle FC",
+      "away": "Central University of FS",
+      "match_no": 12,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=12&s=l",
+      "date": "2026-10-23T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "African Warriors FC",
+      "away": "Tower United",
+      "match_no": 9,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=9&s=l",
+      "date": "2026-10-24T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Remember Elite Soccer Academy",
+      "away": "Elite Athletics FC",
+      "match_no": 10,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=10&s=l",
+      "date": "2026-10-24T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Motsomotle FC",
+      "away": "Young Boys FC",
+      "match_no": 16,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=16&s=l",
+      "date": "2026-10-30T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Elite Athletics FC",
+      "away": "African Warriors FC",
+      "match_no": 13,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=13&s=l",
+      "date": "2026-10-31T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mkabadeli Heroes FC",
+      "away": "Tower United",
+      "match_no": 14,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=14&s=l",
+      "date": "2026-10-31T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Harmony FC",
+      "away": "Remember Elite Soccer Academy",
+      "match_no": 15,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=15&s=l",
+      "date": "2026-10-31T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "African Warriors FC",
+      "away": "Mkabadeli Heroes FC",
+      "match_no": 17,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=17&s=l",
+      "date": "2026-11-07T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Elite Athletics FC",
+      "away": "Harmony FC",
+      "match_no": 18,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=18&s=l",
+      "date": "2026-11-07T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Tower United",
+      "away": "Central University of FS",
+      "match_no": 19,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=19&s=l",
+      "date": "2026-11-07T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Remember Elite Soccer Academy",
+      "away": "Motsomotle FC",
+      "match_no": 20,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=20&s=l",
+      "date": "2026-11-07T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Motsomotle FC",
+      "away": "Elite Athletics FC",
+      "match_no": 23,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=23&s=l",
+      "date": "2026-11-13T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Young Boys FC",
+      "away": "Tower United",
+      "match_no": 24,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=24&s=l",
+      "date": "2026-11-13T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Harmony FC",
+      "away": "African Warriors FC",
+      "match_no": 21,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=21&s=l",
+      "date": "2026-11-14T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Central University of FS",
+      "away": "Mkabadeli Heroes FC",
+      "match_no": 22,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=22&s=l",
+      "date": "2026-11-14T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "African Warriors FC",
+      "away": "Central University of FS",
+      "match_no": 25,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=25&s=l",
+      "date": "2026-11-21T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Harmony FC",
+      "away": "Motsomotle FC",
+      "match_no": 26,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=26&s=l",
+      "date": "2026-11-21T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mkabadeli Heroes FC",
+      "away": "Young Boys FC",
+      "match_no": 27,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=27&s=l",
+      "date": "2026-11-21T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Tower United",
+      "away": "Remember Elite Soccer Academy",
+      "match_no": 28,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=28&s=l",
+      "date": "2026-11-21T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Motsomotle FC",
+      "away": "African Warriors FC",
+      "match_no": 29,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=29&s=l",
+      "date": "2026-11-27T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Young Boys FC",
+      "away": "Central University of FS",
+      "match_no": 30,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=30&s=l",
+      "date": "2026-11-27T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Remember Elite Soccer Academy",
+      "away": "Mkabadeli Heroes FC",
+      "match_no": 31,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=31&s=l",
+      "date": "2026-11-28T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Tower United",
+      "away": "Elite Athletics FC",
+      "match_no": 32,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=32&s=l",
+      "date": "2026-11-28T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "African Warriors FC",
+      "away": "Young Boys FC",
+      "match_no": 33,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=33&s=l",
+      "date": "2026-12-05T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Central University of FS",
+      "away": "Remember Elite Soccer Academy",
+      "match_no": 34,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=34&s=l",
+      "date": "2026-12-05T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Harmony FC",
+      "away": "Tower United",
+      "match_no": 35,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=35&s=l",
+      "date": "2026-12-05T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mkabadeli Heroes FC",
+      "away": "Elite Athletics FC",
+      "match_no": 36,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=36&s=l",
+      "date": "2026-12-05T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Remember Elite Soccer Academy",
+      "away": "Young Boys FC",
+      "match_no": 37,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=37&s=l",
+      "date": "2026-12-12T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Tower United",
+      "away": "Motsomotle FC",
+      "match_no": 38,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=38&s=l",
+      "date": "2026-12-12T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Elite Athletics FC",
+      "away": "Central University of FS",
+      "match_no": 39,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=39&s=l",
+      "date": "2026-12-12T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mkabadeli Heroes FC",
+      "away": "Harmony FC",
+      "match_no": 40,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=40&s=l",
+      "date": "2026-12-12T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Young Boys FC",
+      "away": "Elite Athletics FC",
+      "match_no": 42,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=42&s=l",
+      "date": "2027-01-15T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Motsomotle FC",
+      "away": "Mkabadeli Heroes FC",
+      "match_no": 43,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=43&s=l",
+      "date": "2027-01-15T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "African Warriors FC",
+      "away": "Remember Elite Soccer Academy",
+      "match_no": 41,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=41&s=l",
+      "date": "2027-01-16T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Central University of FS",
+      "away": "Harmony FC",
+      "match_no": 44,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=44&s=l",
+      "date": "2027-01-16T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Tower United",
+      "away": "African Warriors FC",
+      "match_no": 45,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=45&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Elite Athletics FC",
+      "away": "Remember Elite Soccer Academy",
+      "match_no": 46,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=46&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Harmony FC",
+      "away": "Young Boys FC",
+      "match_no": 47,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=47&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Central University of FS",
+      "away": "Motsomotle FC",
+      "match_no": 48,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=48&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Young Boys FC",
+      "away": "Motsomotle FC",
+      "match_no": 52,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=52&s=l",
+      "date": "2027-01-29T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "African Warriors FC",
+      "away": "Elite Athletics FC",
+      "match_no": 49,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=49&s=l",
+      "date": "2027-01-30T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Tower United",
+      "away": "Mkabadeli Heroes FC",
+      "match_no": 50,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=50&s=l",
+      "date": "2027-01-30T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Remember Elite Soccer Academy",
+      "away": "Harmony FC",
+      "match_no": 51,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=51&s=l",
+      "date": "2027-01-30T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Motsomotle FC",
+      "away": "Remember Elite Soccer Academy",
+      "match_no": 56,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=56&s=l",
+      "date": "2027-02-05T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mkabadeli Heroes FC",
+      "away": "African Warriors FC",
+      "match_no": 53,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=53&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Harmony FC",
+      "away": "Elite Athletics FC",
+      "match_no": 54,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=54&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Central University of FS",
+      "away": "Tower United",
+      "match_no": 55,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=55&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "African Warriors FC",
+      "away": "Harmony FC",
+      "match_no": 57,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=57&s=l",
+      "date": "2027-02-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mkabadeli Heroes FC",
+      "away": "Central University of FS",
+      "match_no": 58,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=58&s=l",
+      "date": "2027-02-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Elite Athletics FC",
+      "away": "Motsomotle FC",
+      "match_no": 59,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=59&s=l",
+      "date": "2027-02-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Tower United",
+      "away": "Young Boys FC",
+      "match_no": 60,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=60&s=l",
+      "date": "2027-02-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Motsomotle FC",
+      "away": "Harmony FC",
+      "match_no": 62,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=62&s=l",
+      "date": "2027-02-19T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Young Boys FC",
+      "away": "Mkabadeli Heroes FC",
+      "match_no": 63,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=63&s=l",
+      "date": "2027-02-19T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Central University of FS",
+      "away": "African Warriors FC",
+      "match_no": 61,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=61&s=l",
+      "date": "2027-02-20T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Remember Elite Soccer Academy",
+      "away": "Tower United",
+      "match_no": 64,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=64&s=l",
+      "date": "2027-02-20T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "African Warriors FC",
+      "away": "Motsomotle FC",
+      "match_no": 65,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=65&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Central University of FS",
+      "away": "Young Boys FC",
+      "match_no": 66,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=66&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mkabadeli Heroes FC",
+      "away": "Remember Elite Soccer Academy",
+      "match_no": 67,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=67&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Elite Athletics FC",
+      "away": "Tower United",
+      "match_no": 68,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=68&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Young Boys FC",
+      "away": "African Warriors FC",
+      "match_no": 69,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=69&s=l",
+      "date": "2027-03-05T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Remember Elite Soccer Academy",
+      "away": "Central University of FS",
+      "match_no": 70,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=70&s=l",
+      "date": "2027-03-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Tower United",
+      "away": "Harmony FC",
+      "match_no": 71,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=71&s=l",
+      "date": "2027-03-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Elite Athletics FC",
+      "away": "Mkabadeli Heroes FC",
+      "match_no": 72,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=72&s=l",
+      "date": "2027-03-06T15:00:00+02:00",
+      "status": "NS"
+    }
+  ]
+}
