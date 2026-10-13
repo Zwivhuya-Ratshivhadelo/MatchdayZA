@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-13T20:43:14+02:00",
+  "updated": "2026-10-13T20:45:49+02:00",
   "home_score": 1,
   "away_score": 3,
   "status": "LIVE",
-  "minute": "53'",
+  "minute": "55'",
   "events": [
     {
       "minute": "48'",
@@ -53,8 +53,8 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "24%",
-      "away": "76%"
+      "home": "26%",
+      "away": "74%"
     },
     {
       "label": "Attacks",
@@ -68,7 +68,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "6",
+      "home": "7",
       "away": "4"
     },
     {
@@ -78,13 +78,13 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "4",
+      "home": "5",
       "away": "10"
     },
     {
       "label": "Goal Kicks",
-      "home": "7",
-      "away": "3"
+      "home": "8",
+      "away": "4"
     },
     {
       "label": "Yellow Cards",
@@ -109,12 +109,12 @@
     {
       "label": "Big Chances Created",
       "home": "1",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Passes Completed",
-      "home": "93",
-      "away": "389"
+      "home": "110",
+      "away": "399"
     },
     {
       "label": "Shots Off Target",
@@ -138,8 +138,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "128",
-      "away": "417"
+      "home": "149",
+      "away": "431"
     },
     {
       "label": "Shots Outside The Box",
@@ -149,27 +149,27 @@
     {
       "label": "Big Chances Missed",
       "home": "0",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Crosses Completed",
       "home": "0/2 (0%)",
-      "away": "7/18 (39%)"
+      "away": "7/19 (37%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "75",
-      "away": "155"
+      "home": "87",
+      "away": "164"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "55",
-      "away": "280"
+      "home": "64",
+      "away": "286"
     },
     {
       "label": "Long Passes Completed",
-      "home": "6/26 (23%)",
-      "away": "22/28 (79%)"
+      "home": "8/31 (26%)",
+      "away": "22/29 (76%)"
     },
     {
       "label": "Key Passes",
@@ -178,13 +178,13 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "8",
-      "away": "96"
+      "home": "12",
+      "away": "97"
     },
     {
       "label": "Backward Passes",
-      "home": "25",
-      "away": "73"
+      "home": "30",
+      "away": "76"
     },
     {
       "label": "Interceptions",
@@ -194,7 +194,7 @@
     {
       "label": "Goalkeeper Saves",
       "home": "3",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Tackles Won",
@@ -203,17 +203,17 @@
     },
     {
       "label": "Clearances",
-      "home": "20",
-      "away": "1"
+      "home": "21",
+      "away": "2"
     },
     {
       "label": "Duels Won",
-      "home": "12",
+      "home": "13",
       "away": "15"
     },
     {
       "label": "Was Fouled",
-      "home": "6",
+      "home": "7",
       "away": "4"
     },
     {
@@ -233,13 +233,13 @@
     },
     {
       "label": "Possession Lost",
-      "home": "45",
-      "away": "51"
+      "home": "49",
+      "away": "56"
     },
     {
       "label": "Fouls",
       "home": "4",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Substitutions",
