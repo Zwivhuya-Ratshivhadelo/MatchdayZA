@@ -157,7 +157,7 @@ def pitch_card(m, comp_name, today, svg):
                   + (f'<small class="live-min">{esc(m.get("minute") or "Live")}</small>' if live else "<small>Full time</small>"))
     else:
         centre = f'{kickoff(m) or "TBC"}<small>{esc(day_label(m, today))}</small>'
-    latest = f'<div class="featured-latest">{esc(m["latest"])}</div>' if live and m.get("latest") else ""
+    latest = ""   # the latest event isn't repeated on the pitch: goals and commentary sit under it
     venue = f'<div class="featured-venue">{esc(m["venue"])}</div>' if m.get("venue") else ""
     return (f'<article class="featured">{svg}'
             f'<div class="featured-meta"><span class="featured-comp">{esc(comp_name)}</span></div>'

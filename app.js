@@ -146,7 +146,7 @@ function pitchCard(m, compName) {
   const centre = played
     ? `${m.home_score} - ${m.away_score}${live ? `<small class="live-min">${esc(m.minute || "Live")}</small>` : "<small>Full time</small>"}`
     : `${kickoff(m) || "TBC"}<small>${esc(dayLabel(m))}</small>`;
-  const latest = live && m.latest ? `<div class="featured-latest">${esc(m.latest)}</div>` : "";
+  const latest = "";   // the latest event isn't repeated on the pitch: goals and commentary sit under it
   const body = `${PITCH_SVG}
     <div class="featured-meta"><span class="featured-comp">${esc(compName)}</span></div>
     <div class="featured-main">
