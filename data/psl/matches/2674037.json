@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T21:11:28+02:00",
+  "updated": "2026-10-13T21:13:57+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "81'",
+  "minute": "84'",
   "events": [
     {
       "minute": "72'",
@@ -62,8 +62,8 @@
     },
     {
       "label": "Attacks",
-      "home": "95",
-      "away": "78"
+      "home": "98",
+      "away": "81"
     },
     {
       "label": "Corners",
@@ -72,7 +72,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "15",
+      "home": "16",
       "away": "13"
     },
     {
@@ -82,12 +82,12 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "18",
+      "home": "19",
       "away": "9"
     },
     {
       "label": "Goal Kicks",
-      "home": "7",
+      "home": "8",
       "away": "11"
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "label": "Total Shots",
-      "home": "9",
+      "home": "10",
       "away": "5"
     },
     {
       "label": "Shots On Target",
-      "home": "3",
+      "home": "4",
       "away": "1"
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "364",
-      "away": "132"
+      "home": "382",
+      "away": "138"
     },
     {
       "label": "Shots Off Target",
@@ -137,13 +137,13 @@
     },
     {
       "label": "Shots Inside The Box",
-      "home": "6",
+      "home": "7",
       "away": "4"
     },
     {
       "label": "Total Passes",
-      "home": "441",
-      "away": "209"
+      "home": "461",
+      "away": "217"
     },
     {
       "label": "Shots Outside The Box",
@@ -158,37 +158,37 @@
     {
       "label": "Crosses Completed",
       "home": "6/10 (60%)",
-      "away": "2/11 (18%)"
+      "away": "2/13 (15%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "258",
-      "away": "85"
+      "home": "274",
+      "away": "86"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "193",
-      "away": "135"
+      "home": "197",
+      "away": "144"
     },
     {
       "label": "Long Passes Completed",
-      "home": "19/41 (46%)",
-      "away": "18/57 (32%)"
+      "home": "20/43 (47%)",
+      "away": "18/58 (31%)"
     },
     {
       "label": "Key Passes",
-      "home": "6",
+      "home": "7",
       "away": "5"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "47",
-      "away": "33"
+      "home": "48",
+      "away": "35"
     },
     {
       "label": "Backward Passes",
-      "home": "61",
-      "away": "22"
+      "home": "62",
+      "away": "23"
     },
     {
       "label": "Interceptions",
@@ -198,7 +198,7 @@
     {
       "label": "Goalkeeper Saves",
       "home": "0",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Tackles Won",
@@ -207,33 +207,33 @@
     },
     {
       "label": "Clearances",
-      "home": "12",
-      "away": "19"
+      "home": "14",
+      "away": "21"
     },
     {
       "label": "Duels Won",
-      "home": "48",
-      "away": "34"
+      "home": "51",
+      "away": "35"
     },
     {
       "label": "Aerial Duels Won",
-      "home": "21/27 (78%)",
-      "away": "6/27 (22%)"
+      "home": "23/29 (79%)",
+      "away": "6/29 (21%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "27/55 (49%)",
-      "away": "28/55 (51%)"
+      "home": "28/57 (49%)",
+      "away": "29/57 (51%)"
     },
     {
       "label": "Was Fouled",
-      "home": "15",
+      "home": "16",
       "away": "13"
     },
     {
       "label": "Successful Dribbles",
       "home": "4/9 (44%)",
-      "away": "4/7 (57%)"
+      "away": "5/8 (62%)"
     },
     {
       "label": "Was Dribbled Past",
@@ -247,13 +247,13 @@
     },
     {
       "label": "Possession Lost",
-      "home": "116",
-      "away": "118"
+      "home": "118",
+      "away": "121"
     },
     {
       "label": "Fouls",
       "home": "14",
-      "away": "17"
+      "away": "18"
     },
     {
       "label": "Substitutions",
