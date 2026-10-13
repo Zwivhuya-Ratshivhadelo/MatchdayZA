@@ -348,6 +348,7 @@ a.mcard { color: inherit; text-decoration: none; }
 .stat-bar i { display: block; border-radius: 3px; min-width: 2px; }
 .stat-bar .h { background: var(--green); }
 .stat-bar .a { background: var(--gold); }
+.stat-bar .z { background: var(--line); }
 
 /* Page title band (ABC Motsepe page) */
 .page-head { background: var(--white); padding: 22px 0 4px; }

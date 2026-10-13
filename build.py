@@ -351,8 +351,10 @@ def detail_panel(detail, m=None):
             except ValueError:
                 a = 0
             tot = (h + a) or 1
+            bar = ('<i class="z" style="width:100%"></i>' if h + a == 0   # none for either side: a plain grey line
+                   else f'<i class="h" style="width:{h / tot * 100:g}%"></i><i class="a" style="width:{a / tot * 100:g}%"></i>')
             rows += (f'<div class="stat"><div class="stat-row"><b>{esc(st["home"])}</b><span>{esc(st["label"])}</span><b>{esc(st["away"])}</b></div>'
-                     f'<div class="stat-bar"><i class="h" style="width:{h / tot * 100:g}%"></i><i class="a" style="width:{a / tot * 100:g}%"></i></div></div>')
+                     f'<div class="stat-bar">{bar}</div></div>')
         parts.append(f'<section class="panel"><div class="panel-head"><h2>Stats</h2></div>{rows}</section>')
     events = detail.get("events") or []
     # commentary only when the source had real commentary (named players or match periods), not just goal times

@@ -453,8 +453,10 @@ function detailPanel(m, detail) {
   if (stats.length) {
     parts.push(`<section class="panel"><div class="panel-head"><h2>Stats</h2></div>${stats.map((st) => {
       const h = parseFloat(st.home) || 0, a = parseFloat(st.away) || 0, tot = h + a || 1;
+      const bar = h + a === 0 ? '<i class="z" style="width:100%"></i>'   // none for either side: a plain grey line
+        : `<i class="h" style="width:${(h / tot) * 100}%"></i><i class="a" style="width:${(a / tot) * 100}%"></i>`;
       return `<div class="stat"><div class="stat-row"><b>${esc(st.home)}</b><span>${esc(st.label)}</span><b>${esc(st.away)}</b></div>
-        <div class="stat-bar"><i class="h" style="width:${(h / tot) * 100}%"></i><i class="a" style="width:${(a / tot) * 100}%"></i></div></div>`;
+        <div class="stat-bar">${bar}</div></div>`;
     }).join("")}</section>`);
   }
   // commentary only when the source had real commentary (named players or match periods), not just goal times
