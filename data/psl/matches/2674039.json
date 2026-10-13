@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-13T20:45:49+02:00",
+  "updated": "2026-10-13T20:48:23+02:00",
   "home_score": 1,
   "away_score": 3,
   "status": "LIVE",
-  "minute": "55'",
+  "minute": "58'",
   "events": [
     {
       "minute": "48'",
@@ -74,12 +74,12 @@
     {
       "label": "Offsides",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Throw-Ins",
       "home": "5",
-      "away": "10"
+      "away": "11"
     },
     {
       "label": "Goal Kicks",
@@ -98,12 +98,12 @@
     },
     {
       "label": "Total Shots",
-      "home": "3",
+      "home": "4",
       "away": "17"
     },
     {
       "label": "Shots On Target",
-      "home": "2",
+      "home": "3",
       "away": "7"
     },
     {
@@ -113,8 +113,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "110",
-      "away": "399"
+      "home": "120",
+      "away": "409"
     },
     {
       "label": "Shots Off Target",
@@ -138,12 +138,12 @@
     },
     {
       "label": "Total Passes",
-      "home": "149",
-      "away": "431"
+      "home": "161",
+      "away": "443"
     },
     {
       "label": "Shots Outside The Box",
-      "home": "1",
+      "home": "2",
       "away": "5"
     },
     {
@@ -154,37 +154,37 @@
     {
       "label": "Crosses Completed",
       "home": "0/2 (0%)",
-      "away": "7/19 (37%)"
+      "away": "7/20 (35%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "87",
-      "away": "164"
+      "home": "94",
+      "away": "167"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "64",
-      "away": "286"
+      "home": "69",
+      "away": "296"
     },
     {
       "label": "Long Passes Completed",
-      "home": "8/31 (26%)",
+      "home": "9/33 (27%)",
       "away": "22/29 (76%)"
     },
     {
       "label": "Key Passes",
-      "home": "1",
+      "home": "2",
       "away": "13"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "12",
-      "away": "97"
+      "home": "13",
+      "away": "100"
     },
     {
       "label": "Backward Passes",
-      "home": "30",
-      "away": "76"
+      "home": "31",
+      "away": "77"
     },
     {
       "label": "Interceptions",
@@ -203,7 +203,7 @@
     },
     {
       "label": "Clearances",
-      "home": "21",
+      "home": "22",
       "away": "2"
     },
     {
@@ -229,12 +229,12 @@
     {
       "label": "Final Third Possession Won",
       "home": "1",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Possession Lost",
-      "home": "49",
-      "away": "56"
+      "home": "52",
+      "away": "60"
     },
     {
       "label": "Fouls",

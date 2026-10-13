@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:45:51+02:00",
+  "updated": "2026-10-13T20:48:25+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "54'",
+  "minute": "56'",
   "events": [
     {
       "minute": "50'",
@@ -50,8 +50,8 @@
     },
     {
       "label": "Attacks",
-      "home": "59",
-      "away": "59"
+      "home": "61",
+      "away": "60"
     },
     {
       "label": "Corners",
@@ -75,7 +75,7 @@
     },
     {
       "label": "Goal Kicks",
-      "home": "1",
+      "home": "3",
       "away": "2"
     },
     {
@@ -90,8 +90,8 @@
     },
     {
       "label": "Total Shots",
-      "home": "7",
-      "away": "4"
+      "home": "8",
+      "away": "5"
     },
     {
       "label": "Shots On Target",
@@ -105,17 +105,17 @@
     },
     {
       "label": "Passes Completed",
-      "home": "253",
-      "away": "244"
+      "home": "266",
+      "away": "253"
     },
     {
       "label": "Shots Off Target",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Shots Blocked",
-      "home": "3",
+      "home": "4",
       "away": "3"
     },
     {
@@ -125,13 +125,13 @@
     },
     {
       "label": "Shots Inside The Box",
-      "home": "4",
-      "away": "1"
+      "home": "5",
+      "away": "2"
     },
     {
       "label": "Total Passes",
-      "home": "299",
-      "away": "287"
+      "home": "313",
+      "away": "297"
     },
     {
       "label": "Shots Outside The Box",
@@ -139,34 +139,39 @@
       "away": "3"
     },
     {
+      "label": "Crosses Completed",
+      "home": "0/2 (0%)",
+      "away": "1/5 (20%)"
+    },
+    {
       "label": "Passes Own Half",
-      "home": "175",
-      "away": "152"
+      "home": "186",
+      "away": "154"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "126",
-      "away": "139"
+      "home": "129",
+      "away": "148"
     },
     {
       "label": "Long Passes Completed",
-      "home": "17/32 (53%)",
+      "home": "17/33 (52%)",
       "away": "21/39 (54%)"
     },
     {
       "label": "Key Passes",
-      "home": "4",
-      "away": "2"
+      "home": "5",
+      "away": "3"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "39",
-      "away": "34"
+      "home": "41",
+      "away": "40"
     },
     {
       "label": "Backward Passes",
-      "home": "65",
-      "away": "56"
+      "home": "69",
+      "away": "58"
     },
     {
       "label": "Interceptions",
@@ -190,7 +195,7 @@
     },
     {
       "label": "Duels Won",
-      "home": "37",
+      "home": "38",
       "away": "34"
     },
     {
@@ -200,8 +205,8 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "32/57 (56%)",
-      "away": "27/59 (46%)"
+      "home": "33/59 (56%)",
+      "away": "27/60 (45%)"
     },
     {
       "label": "Was Fouled",
@@ -210,7 +215,7 @@
     },
     {
       "label": "Successful Dribbles",
-      "home": "11/18 (61%)",
+      "home": "12/19 (63%)",
       "away": "5/15 (33%)"
     },
     {
@@ -221,21 +226,21 @@
     {
       "label": "Final Third Possession Won",
       "home": "1",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Possession Lost",
-      "home": "71",
-      "away": "78"
+      "home": "73",
+      "away": "80"
     },
     {
       "label": "Fouls",
-      "home": "6",
+      "home": "7",
       "away": "6"
     },
     {
       "label": "Substitutions",
-      "home": "1",
+      "home": "3",
       "away": "1"
     }
   ],

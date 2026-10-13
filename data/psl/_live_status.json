@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-13T20:45:34+02:00",
+  "time": "2026-10-13T20:48:10+02:00",
   "links_found": 6,
   "games": [
     {
@@ -7,28 +7,28 @@
       "kickoff": "2026-10-13T19:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674034",
       "page": "LIVE 0-1, line-ups 2",
-      "365scores": "LIVE 0-2 56'"
+      "365scores": "LIVE 0-2 59'"
     },
     {
       "game": "Kaizer Chiefs v Stellenbosch FC",
       "kickoff": "2026-10-13T19:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674037",
       "page": "LIVE 0-1, line-ups 2",
-      "365scores": "LIVE 0-1 56'"
+      "365scores": "LIVE 1-1 58'"
     },
     {
       "game": "Richards Bay v Mamelodi Sundowns",
       "kickoff": "2026-10-13T19:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674039",
       "page": "LIVE 1-3, line-ups 2",
-      "365scores": "LIVE 1-3 55'"
+      "365scores": "LIVE 1-3 58'"
     },
     {
       "game": "Orlando Pirates v TS Galaxy",
       "kickoff": "2026-10-13T19:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674041",
       "page": "LIVE 2-0, line-ups 2",
-      "365scores": "LIVE 2-0 54'"
+      "365scores": "LIVE 2-0 56'"
     }
   ]
 }

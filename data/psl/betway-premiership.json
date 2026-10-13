@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T20:45:51+02:00",
+  "updated": "2026-10-13T20:48:25+02:00",
   "log": [
     {
       "pos": 1,
@@ -552,7 +552,7 @@
       "home_score": 0,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "56'",
+      "minute": "59'",
       "latest": "45' Goal, Athini Maqokola (AmaZulu FC)"
     },
     {
@@ -562,11 +562,11 @@
       "venue": "FNB Stadium, Johannesburg",
       "match_id": "2674037",
       "url": "https://www.psl.co.za/matchcentre/detail/2674037",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "56'",
-      "latest": "48' Goal, Sinoxolo Kwayiba (Stellenbosch FC)"
+      "minute": "58'",
+      "latest": "58' Goal, Mduduzi Shabalala (Kaizer Chiefs)"
     },
     {
       "home": "Richards Bay",
@@ -579,7 +579,7 @@
       "away_score": 3,
       "status": "LIVE",
       "latest": "48' Goal, Iqraam Rayners (Mamelodi Sundowns)",
-      "minute": "55'"
+      "minute": "58'"
     },
     {
       "home": "Orlando Pirates",
@@ -591,7 +591,7 @@
       "home_score": 2,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "54'",
+      "minute": "56'",
       "latest": "50' Goal, Tshepang Moremi (Orlando Pirates)"
     }
   ],

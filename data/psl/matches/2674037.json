@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T20:45:48+02:00",
-  "home_score": 0,
+  "updated": "2026-10-13T20:48:21+02:00",
+  "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "56'",
+  "minute": "58'",
   "events": [
+    {
+      "minute": "58'",
+      "type": "goal",
+      "team": "Kaizer Chiefs",
+      "player": "Mduduzi Shabalala",
+      "score": [
+        1,
+        1
+      ]
+    },
     {
       "minute": "48'",
       "type": "goal",
@@ -35,13 +45,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "63%",
-      "away": "37%"
+      "home": "64%",
+      "away": "36%"
     },
     {
       "label": "Attacks",
-      "home": "64",
-      "away": "58"
+      "home": "68",
+      "away": "59"
     },
     {
       "label": "Corners",
@@ -60,13 +70,13 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "12",
+      "home": "14",
       "away": "5"
     },
     {
       "label": "Goal Kicks",
       "home": "5",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Yellow Cards",
@@ -95,8 +105,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "231",
-      "away": "107"
+      "home": "250",
+      "away": "108"
     },
     {
       "label": "Shots Off Target",
@@ -120,8 +130,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "292",
-      "away": "166"
+      "home": "316",
+      "away": "169"
     },
     {
       "label": "Shots Outside The Box",
@@ -140,18 +150,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "188",
-      "away": "65"
+      "home": "193",
+      "away": "66"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "109",
-      "away": "111"
+      "home": "128",
+      "away": "113"
     },
     {
       "label": "Long Passes Completed",
       "home": "8/28 (29%)",
-      "away": "13/43 (30%)"
+      "away": "13/45 (29%)"
     },
     {
       "label": "Key Passes",
@@ -160,12 +170,12 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "17",
+      "home": "25",
       "away": "26"
     },
     {
       "label": "Backward Passes",
-      "home": "36",
+      "home": "40",
       "away": "18"
     },
     {
@@ -181,17 +191,17 @@
     {
       "label": "Tackles Won",
       "home": "3/4 (75%)",
-      "away": "5/7 (71%)"
+      "away": "5/8 (62%)"
     },
     {
       "label": "Clearances",
       "home": "11",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Duels Won",
       "home": "36",
-      "away": "25"
+      "away": "26"
     },
     {
       "label": "Aerial Duels Won",
@@ -200,8 +210,8 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "18/38 (47%)",
-      "away": "20/38 (53%)"
+      "home": "18/39 (46%)",
+      "away": "21/39 (54%)"
     },
     {
       "label": "Was Fouled",
@@ -210,12 +220,12 @@
     },
     {
       "label": "Successful Dribbles",
-      "home": "3/6 (50%)",
+      "home": "3/7 (43%)",
       "away": "4/4 (100%)"
     },
     {
       "label": "Was Dribbled Past",
-      "home": "3",
+      "home": "4",
       "away": "0"
     },
     {
@@ -225,8 +235,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "84",
-      "away": "87"
+      "home": "90",
+      "away": "90"
     },
     {
       "label": "Fouls",
