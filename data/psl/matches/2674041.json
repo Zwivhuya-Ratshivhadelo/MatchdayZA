@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:14:51+02:00",
+  "updated": "2026-10-13T20:17:26+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "42'",
+  "minute": "44'",
   "events": [
     {
       "minute": "41'",
@@ -40,8 +40,8 @@
     },
     {
       "label": "Attacks",
-      "home": "45",
-      "away": "46"
+      "home": "50",
+      "away": "49"
     },
     {
       "label": "Corners",

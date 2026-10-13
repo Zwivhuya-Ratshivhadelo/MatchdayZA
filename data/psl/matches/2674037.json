@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T20:14:48+02:00",
+  "updated": "2026-10-13T20:17:23+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "43'",
+  "minute": "45+1'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "team": "Kaizer Chiefs",
+      "player": "Sibongiseni Mthethwa"
+    },
     {
       "minute": "23'",
       "type": "yellow",
@@ -19,13 +25,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "58%",
-      "away": "42%"
+      "home": "59%",
+      "away": "41%"
     },
     {
       "label": "Attacks",
-      "home": "44",
-      "away": "49"
+      "home": "46",
+      "away": "52"
     },
     {
       "label": "Corners",
@@ -34,8 +40,8 @@
     },
     {
       "label": "Free Kicks",
-      "home": "9",
-      "away": "8"
+      "home": "10",
+      "away": "9"
     },
     {
       "label": "Offsides",
@@ -49,12 +55,12 @@
     },
     {
       "label": "Goal Kicks",
-      "home": "4",
+      "home": "5",
       "away": "4"
     },
     {
       "label": "Yellow Cards",
-      "home": "1",
+      "home": "2",
       "away": "0"
     },
     {
@@ -79,8 +85,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "151",
-      "away": "91"
+      "home": "167",
+      "away": "95"
     },
     {
       "label": "Shots Off Target",
@@ -104,8 +110,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "200",
-      "away": "141"
+      "home": "218",
+      "away": "148"
     },
     {
       "label": "Shots Outside The Box",
@@ -124,23 +130,23 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "134",
-      "away": "61"
+      "home": "151",
+      "away": "63"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "69",
-      "away": "88"
+      "home": "70",
+      "away": "93"
     },
     {
       "label": "Long Passes Completed",
-      "home": "4/23 (17%)",
-      "away": "12/35 (34%)"
+      "home": "6/25 (24%)",
+      "away": "12/37 (32%)"
     },
     {
       "label": "Key Passes",
       "home": "3",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Passes Into Final Third",
@@ -149,8 +155,8 @@
     },
     {
       "label": "Backward Passes",
-      "home": "22",
-      "away": "16"
+      "home": "24",
+      "away": "17"
     },
     {
       "label": "Interceptions",
@@ -165,32 +171,32 @@
     {
       "label": "Tackles Won",
       "home": "3/4 (75%)",
-      "away": "1/3 (33%)"
+      "away": "2/4 (50%)"
     },
     {
       "label": "Clearances",
-      "home": "7",
+      "home": "8",
       "away": "8"
     },
     {
       "label": "Duels Won",
-      "home": "27",
-      "away": "19"
+      "home": "29",
+      "away": "22"
     },
     {
       "label": "Aerial Duels Won",
-      "home": "12/17 (71%)",
-      "away": "5/17 (29%)"
+      "home": "13/18 (72%)",
+      "away": "6/18 (33%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "15/29 (52%)",
-      "away": "14/30 (47%)"
+      "home": "16/31 (52%)",
+      "away": "16/33 (48%)"
     },
     {
       "label": "Was Fouled",
-      "home": "9",
-      "away": "8"
+      "home": "10",
+      "away": "9"
     },
     {
       "label": "Successful Dribbles",
@@ -209,13 +215,13 @@
     },
     {
       "label": "Possession Lost",
-      "home": "67",
-      "away": "73"
+      "home": "70",
+      "away": "76"
     },
     {
       "label": "Fouls",
       "home": "9",
-      "away": "10"
+      "away": "11"
     },
     {
       "label": "Substitutions",
