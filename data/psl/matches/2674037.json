@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T21:01:00+02:00",
+  "updated": "2026-10-13T21:03:37+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "71'",
+  "minute": "73'",
   "events": [
+    {
+      "minute": "72'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Njabulo Blom"
+    },
     {
       "minute": "61'",
       "type": "yellow",
@@ -56,18 +62,18 @@
     },
     {
       "label": "Attacks",
-      "home": "81",
-      "away": "69"
+      "home": "84",
+      "away": "72"
     },
     {
       "label": "Corners",
-      "home": "4",
+      "home": "5",
       "away": "3"
     },
     {
       "label": "Free Kicks",
       "home": "14",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Offsides",
@@ -81,13 +87,13 @@
     },
     {
       "label": "Goal Kicks",
-      "home": "5",
+      "home": "6",
       "away": "9"
     },
     {
       "label": "Yellow Cards",
       "home": "2",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Red Cards",
@@ -111,8 +117,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "318",
-      "away": "130"
+      "home": "328",
+      "away": "129"
     },
     {
       "label": "Shots Off Target",
@@ -136,7 +142,7 @@
     },
     {
       "label": "Total Passes",
-      "home": "392",
+      "home": "403",
       "away": "200"
     },
     {
@@ -151,23 +157,23 @@
     },
     {
       "label": "Crosses Completed",
-      "home": "4/7 (57%)",
+      "home": "5/8 (62%)",
       "away": "2/10 (20%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "227",
+      "home": "235",
       "away": "82"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "172",
+      "home": "176",
       "away": "128"
     },
     {
       "label": "Long Passes Completed",
-      "home": "13/34 (38%)",
-      "away": "18/54 (33%)"
+      "home": "15/36 (42%)",
+      "away": "17/54 (31%)"
     },
     {
       "label": "Key Passes",
@@ -176,12 +182,12 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "39",
-      "away": "32"
+      "home": "41",
+      "away": "31"
     },
     {
       "label": "Backward Passes",
-      "home": "52",
+      "home": "55",
       "away": "21"
     },
     {
@@ -202,12 +208,12 @@
     {
       "label": "Clearances",
       "home": "11",
-      "away": "17"
+      "away": "18"
     },
     {
       "label": "Duels Won",
       "home": "44",
-      "away": "29"
+      "away": "30"
     },
     {
       "label": "Aerial Duels Won",
@@ -216,13 +222,13 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "25/49 (51%)",
-      "away": "24/49 (49%)"
+      "home": "25/50 (50%)",
+      "away": "25/50 (50%)"
     },
     {
       "label": "Was Fouled",
       "home": "14",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Successful Dribbles",
@@ -241,18 +247,18 @@
     },
     {
       "label": "Possession Lost",
-      "home": "108",
+      "home": "109",
       "away": "108"
     },
     {
       "label": "Fouls",
-      "home": "12",
+      "home": "13",
       "away": "16"
     },
     {
       "label": "Substitutions",
       "home": "2",
-      "away": "3"
+      "away": "4"
     }
   ],
   "lineups": [
