@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T20:35:30+02:00",
+  "updated": "2026-10-13T20:37:58+02:00",
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": "LIVE",
-  "minute": "HT",
+  "minute": "48'",
   "events": [
     {
       "minute": "45'",
@@ -30,8 +30,8 @@
     },
     {
       "label": "Attacks",
-      "home": "46",
-      "away": "52"
+      "home": "51",
+      "away": "55"
     },
     {
       "label": "Corners",
@@ -85,7 +85,7 @@
     },
     {
       "label": "Passes Completed",
-      "home": "168",
+      "home": "169",
       "away": "94"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "Total Passes",
-      "home": "220",
+      "home": "221",
       "away": "148"
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "label": "Passes Opposition Half",
-      "home": "73",
+      "home": "74",
       "away": "95"
     },
     {
@@ -150,12 +150,12 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "11",
+      "home": "12",
       "away": "18"
     },
     {
       "label": "Backward Passes",
-      "home": "24",
+      "home": "25",
       "away": "17"
     },
     {
@@ -181,7 +181,7 @@
     {
       "label": "Duels Won",
       "home": "31",
-      "away": "21"
+      "away": "22"
     },
     {
       "label": "Aerial Duels Won",
@@ -190,8 +190,8 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "17/33 (52%)",
-      "away": "16/33 (48%)"
+      "home": "17/34 (50%)",
+      "away": "17/34 (50%)"
     },
     {
       "label": "Was Fouled",
@@ -201,7 +201,7 @@
     {
       "label": "Successful Dribbles",
       "home": "3/5 (60%)",
-      "away": "3/3 (100%)"
+      "away": "4/4 (100%)"
     },
     {
       "label": "Was Dribbled Past",

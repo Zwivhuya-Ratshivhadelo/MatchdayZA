@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T20:35:33+02:00",
+  "updated": "2026-10-13T20:38:01+02:00",
   "log": [
     {
       "pos": 1,
@@ -552,7 +552,7 @@
       "home_score": 0,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "46'",
+      "minute": "48'",
       "latest": "45' Goal, Athini Maqokola (AmaZulu FC)"
     },
     {
@@ -563,9 +563,9 @@
       "match_id": "2674037",
       "url": "https://www.psl.co.za/matchcentre/detail/2674037",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "48'",
       "latest": "45' Yellow card, Sibongiseni Mthethwa (Kaizer Chiefs)"
     },
     {
@@ -576,10 +576,10 @@
       "match_id": "2674039",
       "url": "https://www.psl.co.za/matchcentre/detail/2674039",
       "home_score": 1,
-      "away_score": 2,
+      "away_score": 3,
       "status": "LIVE",
       "latest": "37' Goal, Iqraam Rayners (Mamelodi Sundowns)",
-      "minute": "HT"
+      "minute": "47'"
     },
     {
       "home": "Orlando Pirates",
@@ -591,7 +591,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "46'",
       "latest": "41' Yellow card, M. Mvelase (TS Galaxy)"
     }
   ],
