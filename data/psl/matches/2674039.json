@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-13T20:25:19+02:00",
+  "updated": "2026-10-13T20:27:50+02:00",
   "home_score": 1,
   "away_score": 2,
   "status": "LIVE",
@@ -104,7 +104,7 @@
     {
       "label": "Passes Completed",
       "home": "85",
-      "away": "366"
+      "away": "367"
     },
     {
       "label": "Shots Off Target",
@@ -159,7 +159,7 @@
     {
       "label": "Long Passes Completed",
       "home": "6/23 (26%)",
-      "away": "20/27 (74%)"
+      "away": "21/27 (78%)"
     },
     {
       "label": "Key Passes",
@@ -224,7 +224,7 @@
     {
       "label": "Possession Lost",
       "home": "40",
-      "away": "46"
+      "away": "45"
     },
     {
       "label": "Fouls",
