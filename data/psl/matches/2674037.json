@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T20:07:01+02:00",
+  "updated": "2026-10-13T20:09:35+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "36'",
+  "minute": "38'",
   "events": [
     {
       "minute": "23'",
@@ -19,13 +19,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "57%",
-      "away": "43%"
+      "home": "58%",
+      "away": "42%"
     },
     {
       "label": "Attacks",
-      "home": "34",
-      "away": "40"
+      "home": "39",
+      "away": "43"
     },
     {
       "label": "Corners",
@@ -49,7 +49,7 @@
     },
     {
       "label": "Goal Kicks",
-      "home": "2",
+      "home": "3",
       "away": "3"
     },
     {
@@ -64,12 +64,12 @@
     },
     {
       "label": "Total Shots",
-      "home": "3",
+      "home": "4",
       "away": "2"
     },
     {
       "label": "Shots On Target",
-      "home": "1",
+      "home": "2",
       "away": "0"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "115",
-      "away": "77"
+      "home": "129",
+      "away": "82"
     },
     {
       "label": "Shots Off Target",
@@ -99,13 +99,13 @@
     },
     {
       "label": "Shots Inside The Box",
-      "home": "3",
+      "home": "4",
       "away": "1"
     },
     {
       "label": "Total Passes",
-      "home": "156",
-      "away": "116"
+      "home": "173",
+      "away": "124"
     },
     {
       "label": "Shots Outside The Box",
@@ -119,23 +119,23 @@
     },
     {
       "label": "Crosses Completed",
-      "home": "2/3 (67%)",
-      "away": "3/6 (50%)"
+      "home": "3/3 (100%)",
+      "away": "2/6 (33%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "103",
-      "away": "50"
+      "home": "113",
+      "away": "56"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "56",
-      "away": "72"
+      "home": "63",
+      "away": "74"
     },
     {
       "label": "Long Passes Completed",
       "home": "4/23 (17%)",
-      "away": "11/27 (41%)"
+      "away": "11/30 (37%)"
     },
     {
       "label": "Key Passes",
@@ -149,7 +149,7 @@
     },
     {
       "label": "Backward Passes",
-      "home": "19",
+      "home": "20",
       "away": "14"
     },
     {
@@ -174,18 +174,18 @@
     },
     {
       "label": "Duels Won",
-      "home": "18",
-      "away": "17"
+      "home": "19",
+      "away": "16"
     },
     {
       "label": "Aerial Duels Won",
       "home": "7/11 (64%)",
-      "away": "5/12 (42%)"
+      "away": "4/12 (33%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "11/23 (48%)",
-      "away": "12/24 (50%)"
+      "home": "12/24 (50%)",
+      "away": "12/25 (48%)"
     },
     {
       "label": "Was Fouled",
@@ -194,7 +194,7 @@
     },
     {
       "label": "Successful Dribbles",
-      "home": "1/2 (50%)",
+      "home": "2/3 (67%)",
       "away": "3/3 (100%)"
     },
     {
@@ -209,8 +209,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "53",
-      "away": "54"
+      "home": "57",
+      "away": "59"
     },
     {
       "label": "Fouls",
@@ -375,40 +375,20 @@
           "pos": "Midfielder"
         },
         {
-          "no": "11",
-          "name": "Q Plaatjies",
-          "pos": "Midfielder"
-        },
-        {
           "no": "14",
           "name": "S Kwayiba",
+          "pos": "Striker"
+        },
+        {
+          "no": "11",
+          "name": "Q Plaatjies",
           "pos": "Striker"
         }
       ],
       "subs": [
         {
-          "no": "32",
-          "name": "R Daniels",
-          "pos": "Substitute"
-        },
-        {
           "no": "67",
           "name": "Bradley Grobler",
-          "pos": "Substitute"
-        },
-        {
-          "no": "20",
-          "name": "K Johannessen",
-          "pos": "Substitute"
-        },
-        {
-          "no": "21",
-          "name": "G Taunyana",
-          "pos": "Substitute"
-        },
-        {
-          "no": "1",
-          "name": "N Garrow",
           "pos": "Substitute"
         },
         {
@@ -417,13 +397,38 @@
           "pos": "Substitute"
         },
         {
+          "no": "1",
+          "name": "N Garrow",
+          "pos": "Substitute"
+        },
+        {
           "no": "22",
           "name": "Q Sibande",
           "pos": "Substitute"
         },
         {
+          "no": "21",
+          "name": "G Taunyana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "K Johannessen",
+          "pos": "Substitute"
+        },
+        {
           "no": "33",
           "name": "C Butsaka",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "R Daniels",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "A Lateef",
           "pos": "Substitute"
         }
       ]

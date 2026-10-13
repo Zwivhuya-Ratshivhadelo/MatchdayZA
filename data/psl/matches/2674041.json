@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:07:04+02:00",
+  "updated": "2026-10-13T20:09:38+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "34'",
+  "minute": "37'",
   "events": [
     {
       "minute": "25'",
@@ -29,13 +29,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "48%",
-      "away": "52%"
+      "home": "47%",
+      "away": "53%"
     },
     {
       "label": "Attacks",
-      "home": "36",
-      "away": "38"
+      "home": "39",
+      "away": "42"
     },
     {
       "label": "Corners",
@@ -50,7 +50,7 @@
     {
       "label": "Offsides",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Throw-Ins",
@@ -89,8 +89,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "147",
-      "away": "164"
+      "home": "150",
+      "away": "172"
     },
     {
       "label": "Shots Off Target",
@@ -114,8 +114,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "178",
-      "away": "191"
+      "home": "182",
+      "away": "199"
     },
     {
       "label": "Shots Outside The Box",
@@ -124,17 +124,17 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "102",
-      "away": "110"
+      "home": "104",
+      "away": "116"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "76",
-      "away": "84"
+      "home": "78",
+      "away": "86"
     },
     {
       "label": "Long Passes Completed",
-      "home": "8/21 (38%)",
+      "home": "9/23 (39%)",
       "away": "18/30 (60%)"
     },
     {
@@ -144,13 +144,13 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "15",
-      "away": "19"
+      "home": "16",
+      "away": "20"
     },
     {
       "label": "Backward Passes",
       "home": "41",
-      "away": "40"
+      "away": "41"
     },
     {
       "label": "Interceptions",
@@ -164,17 +164,17 @@
     },
     {
       "label": "Tackles Won",
-      "home": "7/11 (64%)",
+      "home": "7/12 (58%)",
       "away": "7/10 (70%)"
     },
     {
       "label": "Clearances",
       "home": "6",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Duels Won",
-      "home": "26",
+      "home": "27",
       "away": "24"
     },
     {
@@ -184,8 +184,8 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "22/43 (51%)",
-      "away": "20/43 (47%)"
+      "home": "23/44 (52%)",
+      "away": "20/44 (45%)"
     },
     {
       "label": "Was Fouled",
@@ -195,12 +195,12 @@
     {
       "label": "Successful Dribbles",
       "home": "7/12 (58%)",
-      "away": "5/12 (42%)"
+      "away": "5/13 (38%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "5",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Final Third Possession Won",
@@ -209,8 +209,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "45",
-      "away": "54"
+      "home": "47",
+      "away": "56"
     },
     {
       "label": "Fouls",
