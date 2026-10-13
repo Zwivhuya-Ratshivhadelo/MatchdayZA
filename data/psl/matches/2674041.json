@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:17:26+02:00",
+  "updated": "2026-10-13T20:20:12+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "44'",
+  "minute": "HT",
   "events": [
     {
       "minute": "41'",
@@ -35,13 +35,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "48%",
-      "away": "52%"
+      "home": "51%",
+      "away": "49%"
     },
     {
       "label": "Attacks",
-      "home": "50",
-      "away": "49"
+      "home": "52",
+      "away": "56"
     },
     {
       "label": "Corners",
@@ -60,13 +60,13 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "6",
+      "home": "7",
       "away": "7"
     },
     {
       "label": "Goal Kicks",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Yellow Cards",
@@ -95,8 +95,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "184",
-      "away": "199"
+      "home": "218",
+      "away": "208"
     },
     {
       "label": "Shots Off Target",
@@ -120,8 +120,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "220",
-      "away": "233"
+      "home": "257",
+      "away": "244"
     },
     {
       "label": "Shots Outside The Box",
@@ -130,18 +130,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "132",
-      "away": "135"
+      "home": "154",
+      "away": "138"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "88",
-      "away": "101"
+      "home": "103",
+      "away": "110"
     },
     {
       "label": "Long Passes Completed",
-      "home": "11/25 (44%)",
-      "away": "19/33 (58%)"
+      "home": "14/29 (48%)",
+      "away": "20/35 (57%)"
     },
     {
       "label": "Key Passes",
@@ -150,12 +150,12 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "21",
-      "away": "21"
+      "home": "28",
+      "away": "23"
     },
     {
       "label": "Backward Passes",
-      "home": "46",
+      "home": "57",
       "away": "47"
     },
     {
@@ -171,17 +171,17 @@
     {
       "label": "Tackles Won",
       "home": "7/12 (58%)",
-      "away": "7/11 (64%)"
+      "away": "9/13 (69%)"
     },
     {
       "label": "Clearances",
-      "home": "6",
+      "home": "7",
       "away": "4"
     },
     {
       "label": "Duels Won",
       "home": "29",
-      "away": "25"
+      "away": "27"
     },
     {
       "label": "Aerial Duels Won",
@@ -190,8 +190,8 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "25/47 (53%)",
-      "away": "21/47 (45%)"
+      "home": "25/48 (52%)",
+      "away": "23/49 (47%)"
     },
     {
       "label": "Was Fouled",
@@ -200,23 +200,23 @@
     },
     {
       "label": "Successful Dribbles",
-      "home": "8/14 (57%)",
+      "home": "8/15 (53%)",
       "away": "5/13 (38%)"
     },
     {
       "label": "Was Dribbled Past",
-      "home": "6",
+      "home": "7",
       "away": "8"
     },
     {
       "label": "Final Third Possession Won",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Possession Lost",
-      "home": "55",
-      "away": "64"
+      "home": "60",
+      "away": "66"
     },
     {
       "label": "Fouls",
@@ -346,11 +346,6 @@
           "pos": "Goalkeeper"
         },
         {
-          "no": "21",
-          "name": "Junior Zindoga",
-          "pos": "Defender"
-        },
-        {
           "no": "3",
           "name": "M Mncwango",
           "pos": "Defender"
@@ -358,6 +353,11 @@
         {
           "no": "24",
           "name": "L Mathebula",
+          "pos": "Defender"
+        },
+        {
+          "no": "25",
+          "name": "K Mhlongo",
           "pos": "Defender"
         },
         {
@@ -376,8 +376,8 @@
           "pos": "Midfielder"
         },
         {
-          "no": "25",
-          "name": "K Mhlongo",
+          "no": "21",
+          "name": "Junior Zindoga",
           "pos": "Midfielder"
         },
         {
