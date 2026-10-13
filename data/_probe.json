@@ -1,0 +1,38 @@
+{
+  "https://www.matchdayza.co.za": {
+    "status": 200,
+    "acao": "*",
+    "acac": null,
+    "vary": "Accept-Encoding",
+    "games": [
+      "Orlando Pirates 2.0-0.0 Durban City Ended ",
+      "Richards Bay 2.0-3.0 Sekhukhune United Ended ",
+      "Polokwane City 0.0-1.0 AmaZulu Ended ",
+      "Kruger United 0.0-1.0 Stellenbosch FC Ended ",
+      "Marumo Gallants 0.0-2.0 Orlando Pirates Ended ",
+      "Milford 1.0-1.0 Durban City Ended "
+    ],
+    "preflight": {
+      "status": 200,
+      "acao": "*"
+    }
+  },
+  "https://example.com": {
+    "status": 200,
+    "acao": "*",
+    "acac": null,
+    "vary": "Accept-Encoding",
+    "games": [
+      "Orlando Pirates 2.0-0.0 Durban City Ended ",
+      "Richards Bay 2.0-3.0 Sekhukhune United Ended ",
+      "Polokwane City 0.0-1.0 AmaZulu Ended ",
+      "Kruger United 0.0-1.0 Stellenbosch FC Ended ",
+      "Marumo Gallants 0.0-2.0 Orlando Pirates Ended ",
+      "Milford 1.0-1.0 Durban City Ended "
+    ],
+    "preflight": {
+      "status": 200,
+      "acao": "*"
+    }
+  }
+}
