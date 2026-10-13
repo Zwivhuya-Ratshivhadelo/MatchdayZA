@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T21:26:28+02:00",
+  "updated": "2026-10-13T21:27:37+02:00",
   "log": [
     {
       "pos": 1,
@@ -564,7 +564,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/2674037",
       "home_score": 1,
       "away_score": 1,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+6'",
       "latest": "90' Yellow card, Inácio Miguel (Kaizer Chiefs)"
     },
