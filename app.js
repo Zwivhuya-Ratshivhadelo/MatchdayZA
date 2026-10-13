@@ -528,10 +528,9 @@ function detailPanel(m, detail) {
   const parts = [];
   // goals under the pitch: each club's scorers with the minute
   const sc = m.match_id && SCORERS[m.match_id];
-  if (sc && (sc[0].length || sc[1].length)) {
-    const col = (lst, cls) => `<div class="${cls}">${lst.map((x) => `<span>${esc(x)}</span>`).join("")}</div>`;
-    parts.push(`<section class="panel goals"><div class="panel-head"><h2>Goals</h2></div>
-      <div class="goals-cols"><div><h3>${esc(m.home)}</h3>${col(sc[0], "h")}</div><div><h3>${esc(m.away)}</h3>${col(sc[1], "a")}</div></div></section>`);
+  if (sc && (sc[0].length || sc[1].length)) {   // straight under the pitch, each club's side, no panel
+    const col = (lst, cls) => `<div class="${cls}">${lst.map((x) => `<span>⚽ ${esc(x)}</span>`).join("")}</div>`;
+    parts.push(`<div class="goals-strip">${col(sc[0], "h")}${col(sc[1], "a")}</div>`);
   }
   if (stats.length) {
     parts.push(`<section class="panel"><div class="panel-head"><h2>Stats</h2></div>${stats.map((st) => {

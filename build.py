@@ -333,9 +333,8 @@ def detail_panel(detail, m=None):
     parts = []
     sc = SCORERS.get(str(m.get("match_id"))) if m and m.get("match_id") else None
     if sc and (sc[0] or sc[1]):   # goals under the pitch: each club's scorers with the minute
-        col = lambda lst, cls: f'<div class="{cls}">' + "".join(f"<span>{esc(x)}</span>" for x in lst) + "</div>"
-        parts.append(f'<section class="panel goals"><div class="panel-head"><h2>Goals</h2></div><div class="goals-cols">'
-                     f'<div><h3>{esc(m["home"])}</h3>{col(sc[0], "h")}</div><div><h3>{esc(m["away"])}</h3>{col(sc[1], "a")}</div></div></section>')
+        col = lambda lst, cls: f'<div class="{cls}">' + "".join(f"<span>⚽ {esc(x)}</span>" for x in lst) + "</div>"
+        parts.append(f'<div class="goals-strip">{col(sc[0], "h")}{col(sc[1], "a")}</div>')   # under the pitch, no panel
     if not detail:
         return "".join(parts)
     stats = detail.get("stats") or []

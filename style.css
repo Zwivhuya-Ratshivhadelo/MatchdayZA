@@ -444,8 +444,8 @@ button.mcard:hover { border-color: var(--green); }
 .featured-score small.live-min { display: table; margin: 10px auto 0; padding: 4px 12px; border-radius: 999px; background: var(--gold);
   color: var(--ink); font-size: 18px; font-weight: 900; font-stretch: 80%; text-shadow: none; font-variant-numeric: tabular-nums; }
 
-/* Goals panel under the pitch */
-.goals-cols { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px; }
-.goals-cols h3 { margin: 0 0 6px; font-size: 13px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .02em; }
-.goals-cols .h, .goals-cols .a { display: grid; gap: 4px; font-weight: 700; font-size: 15px; }
-.goals-cols > div:last-child { text-align: right; }
+/* Goals straight under the pitch: home scorers left, away scorers right */
+.goals-strip { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px; padding: 12px 4px 4px;
+  font-size: 14px; font-weight: 700; }
+.goals-strip > div { display: grid; gap: 4px; align-content: start; }
+.goals-strip .a { text-align: right; }
