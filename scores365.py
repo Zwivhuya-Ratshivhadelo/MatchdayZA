@@ -33,7 +33,7 @@ def _norm(g, slug):
         elif g.get("gameTime") and g["gameTime"] > 0:
             minute = f"{int(g['gameTime'])}'"
     hs, as_ = g["homeCompetitor"].get("score"), g["awayCompetitor"].get("score")
-    return {"id": g.get("id"), "slug": slug, "date": g.get("startTime"), "home": g["homeCompetitor"]["name"],
+    return {"id": g.get("id"), "home_id": g["homeCompetitor"].get("id"), "slug": slug, "date": g.get("startTime"), "home": g["homeCompetitor"]["name"],
             "away": g["awayCompetitor"]["name"], "status": status, "minute": minute,
             "home_score": int(hs) if hs is not None and hs >= 0 and status != "NS" else None,
             "away_score": int(as_) if as_ is not None and as_ >= 0 and status != "NS" else None}
@@ -97,6 +97,29 @@ def events(game_id, home, away, home_name, away_name):
             ev["score"] = list(score)
         out.append(ev)
     return list(reversed(out))
+
+
+STAT_ORDER = ["Possession", "Attacks", "Corners", "Free Kicks", "Offsides", "Throw-Ins", "Goal Kicks",
+              "Yellow Cards", "Red Cards"]
+
+
+def stats(game_id, home_id):
+    """Match stats as [{"label", "home", "away"}], in a fixed order."""
+    try:
+        r = requests.get(f"https://webws.365scores.com/web/game/stats/?appTypeId=5&langId=1"
+                         f"&timezoneName=Africa/Johannesburg&games={game_id}", headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        rows = r.json().get("statistics", [])
+    except Exception as e:
+        print(f"  365scores stats {game_id} failed: {e}")
+        return []
+    by = {}
+    for x in rows:
+        side = "home" if x.get("competitorId") == home_id else "away"
+        by.setdefault(x.get("name"), {})[side] = x.get("value")
+    names = [n for n in STAT_ORDER if n in by] + [n for n in by if n not in STAT_ORDER]
+    return [{"label": n, "home": by[n].get("home", "0"), "away": by[n].get("away", "0")} for n in names
+            if "home" in by[n] or "away" in by[n]]
 
 
 def _same_club(a, b):

@@ -153,8 +153,8 @@ def pitch_card(m, comp_name, today, svg):
     played = m.get("status") in ("FT", "LIVE")
     live = m.get("status") == "LIVE"
     if played:
-        centre = (f'{m["home_score"]} - {m["away_score"]}<small>'
-                  f'{"Live " + esc(m.get("minute") or "") if live else "Full time"}</small>')
+        centre = (f'{m["home_score"]} - {m["away_score"]}'
+                  + (f'<small class="live-min">{esc(m.get("minute") or "Live")}</small>' if live else "<small>Full time</small>"))
     else:
         centre = f'{kickoff(m) or "TBC"}<small>{esc(day_label(m, today))}</small>'
     latest = f'<div class="featured-latest">{esc(m["latest"])}</div>' if live and m.get("latest") else ""
@@ -162,9 +162,9 @@ def pitch_card(m, comp_name, today, svg):
     return (f'<article class="featured">{svg}'
             f'<div class="featured-meta"><span class="featured-comp">{esc(comp_name)}</span></div>'
             f'<div class="featured-main">'
-            f'<div class="featured-team">{crest(m["home"])}<strong>{team_link(m["home"])}</strong>{scorers_html(m, 0, "scorers") if played else ""}</div>'
+            f'<div class="featured-team">{crest(m["home"])}<strong>{team_link(m["home"])}</strong></div>'
             f'<div class="featured-score">{centre}</div>'
-            f'<div class="featured-team">{crest(m["away"])}<strong>{team_link(m["away"])}</strong>{scorers_html(m, 1, "scorers") if played else ""}</div>'
+            f'<div class="featured-team">{crest(m["away"])}<strong>{team_link(m["away"])}</strong></div>'
             f'</div>{latest}{venue}</article>')
 
 
@@ -329,10 +329,15 @@ ICON = {
 }
 
 
-def detail_panel(detail):
-    if not detail:
-        return ""
+def detail_panel(detail, m=None):
     parts = []
+    sc = SCORERS.get(str(m.get("match_id"))) if m and m.get("match_id") else None
+    if sc and (sc[0] or sc[1]):   # goals under the pitch: each club's scorers with the minute
+        col = lambda lst, cls: f'<div class="{cls}">' + "".join(f"<span>{esc(x)}</span>" for x in lst) + "</div>"
+        parts.append(f'<section class="panel goals"><div class="panel-head"><h2>Goals</h2></div><div class="goals-cols">'
+                     f'<div><h3>{esc(m["home"])}</h3>{col(sc[0], "h")}</div><div><h3>{esc(m["away"])}</h3>{col(sc[1], "a")}</div></div></section>')
+    if not detail:
+        return "".join(parts)
     stats = detail.get("stats") or []
     if stats:
         rows = ""
@@ -503,7 +508,7 @@ def build_match(m, comp_key, comps, template, svg, today):
         "title": esc(f"{head} | {comp_name} | MatchdayZA"), "description": esc(desc),
         "canonical": SITE + url, "comp": comp_key, "key": esc(game_key(m)), "nav": nav(comp_key),
         "back": PAGES[comp_key][0],
-        "featured": pitch_card(g, comp_name, today, svg), "panel": detail_panel(detail),
+        "featured": pitch_card(g, comp_name, today, svg), "panel": detail_panel(detail, g),
     })
     write(url, page)
     return url

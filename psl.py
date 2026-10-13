@@ -408,7 +408,7 @@ def fill_from_365():
     for slug in scores365.COMPETITIONS:
         comp = load_json(DATA / "psl" / f"{slug}.json", {})
         done = {match_key(r) for r in comp.get("results", []) if r.get("status") == "FT"
-                and (not r.get("match_id") or (load_json(DATA / "psl" / "matches" / f"{r['match_id']}.json", {}) or {}).get("events"))}
+                and (not r.get("match_id") or any((load_json(DATA / "psl" / "matches" / f"{r['match_id']}.json", {}) or {}).get(k) for k in ("stats", "tried365")))}
         today = now_sast().date().isoformat()
         waiting = [m for m in comp.get("fixtures", []) + comp.get("results", [])
                    if match_key(m) not in done and (m.get("date") or "")[:10] <= today]
@@ -420,12 +420,13 @@ def fill_from_365():
                               "home_score": x["home_score"], "away_score": x["away_score"], "status": "FT"})
                 if m.get("match_id"):   # key moments for the match page (goals with minute and club)
                     old = load_json(DATA / "psl" / "matches" / f"{m['match_id']}.json", {}) or {}
-                    if not old.get("events"):
-                        evs = scores365.events(x["id"], x["home"], x["away"], m["home"], m["away"])
-                        if evs or not old:
-                          save_match(m["match_id"], slug, m["home"], m["away"], {
-                              "home_score": x["home_score"], "away_score": x["away_score"], "status": "FT", "minute": None,
-                              "events": evs, "stats": old.get("stats", []), "lineups": old.get("lineups", [])})
+                    if not old.get("tried365") and (not old.get("events") or not old.get("stats")):
+                        evs = old.get("events") or scores365.events(x["id"], x["home"], x["away"], m["home"], m["away"])
+                        sts = old.get("stats") or scores365.stats(x["id"], x.get("home_id"))
+                        # tried365: remember we looked, so it isn't fetched again every hour
+                        save_match(m["match_id"], slug, m["home"], m["away"], {
+                            "home_score": x["home_score"], "away_score": x["away_score"], "status": "FT", "minute": None,
+                            "events": evs, "stats": sts, "lineups": old.get("lineups", []), "tried365": True})
         if found:
             # take back any live copy, then store the results
             comp["results"] = [r for r in comp.get("results", []) if match_key(r) not in {match_key(f) for f in found}]

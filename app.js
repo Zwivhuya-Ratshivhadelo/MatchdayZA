@@ -144,15 +144,15 @@ function pitchCard(m, compName) {
   const played = isPlayed(m);
   const live = m.status === "LIVE";
   const centre = played
-    ? `${m.home_score} - ${m.away_score}<small>${live ? "Live " + esc(m.minute || "") : "Full time"}</small>`
+    ? `${m.home_score} - ${m.away_score}${live ? `<small class="live-min">${esc(m.minute || "Live")}</small>` : "<small>Full time</small>"}`
     : `${kickoff(m) || "TBC"}<small>${esc(dayLabel(m))}</small>`;
   const latest = live && m.latest ? `<div class="featured-latest">${esc(m.latest)}</div>` : "";
   const body = `${PITCH_SVG}
     <div class="featured-meta"><span class="featured-comp">${esc(compName)}</span></div>
     <div class="featured-main">
-      <div class="featured-team">${crest(m.home)}<strong>${teamLink(m.home)}</strong>${played ? scorersHtml(m, 0, "scorers") : ""}</div>
+      <div class="featured-team">${crest(m.home)}<strong>${teamLink(m.home)}</strong></div>
       <div class="featured-score">${centre}</div>
-      <div class="featured-team">${crest(m.away)}<strong>${teamLink(m.away)}</strong>${played ? scorersHtml(m, 1, "scorers") : ""}</div>
+      <div class="featured-team">${crest(m.away)}<strong>${teamLink(m.away)}</strong></div>
     </div>
     ${latest}
     ${m.venue ? `<div class="featured-venue">${esc(m.venue)}</div>` : ""}`;
@@ -443,6 +443,13 @@ const ICON = {
 function detailPanel(m, detail) {
   const events = detail?.events || [], stats = detail?.stats || [], lineups = detail?.lineups || [];
   const parts = [];
+  // goals under the pitch: each club's scorers with the minute
+  const sc = m.match_id && SCORERS[m.match_id];
+  if (sc && (sc[0].length || sc[1].length)) {
+    const col = (lst, cls) => `<div class="${cls}">${lst.map((x) => `<span>${esc(x)}</span>`).join("")}</div>`;
+    parts.push(`<section class="panel goals"><div class="panel-head"><h2>Goals</h2></div>
+      <div class="goals-cols"><div><h3>${esc(m.home)}</h3>${col(sc[0], "h")}</div><div><h3>${esc(m.away)}</h3>${col(sc[1], "a")}</div></div></section>`);
+  }
   if (stats.length) {
     parts.push(`<section class="panel"><div class="panel-head"><h2>Stats</h2></div>${stats.map((st) => {
       const h = parseFloat(st.home) || 0, a = parseFloat(st.away) || 0, tot = h + a || 1;
