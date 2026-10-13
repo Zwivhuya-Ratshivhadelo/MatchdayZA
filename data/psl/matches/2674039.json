@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-13T20:53:26+02:00",
+  "updated": "2026-10-13T20:55:56+02:00",
   "home_score": 1,
   "away_score": 4,
   "status": "LIVE",
-  "minute": "63'",
+  "minute": "65'",
   "events": [
     {
       "minute": "59'",
@@ -74,11 +74,11 @@
     {
       "label": "Corners",
       "home": "1",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Free Kicks",
-      "home": "7",
+      "home": "8",
       "away": "5"
     },
     {
@@ -109,12 +109,12 @@
     {
       "label": "Total Shots",
       "home": "4",
-      "away": "18"
+      "away": "19"
     },
     {
       "label": "Shots On Target",
       "home": "3",
-      "away": "8"
+      "away": "9"
     },
     {
       "label": "Big Chances Created",
@@ -149,12 +149,12 @@
     {
       "label": "Total Passes",
       "home": "182",
-      "away": "512"
+      "away": "511"
     },
     {
       "label": "Shots Outside The Box",
       "home": "2",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Big Chances Missed",
@@ -164,17 +164,17 @@
     {
       "label": "Crosses Completed",
       "home": "0/3 (0%)",
-      "away": "7/20 (35%)"
+      "away": "7/21 (33%)"
     },
     {
       "label": "Passes Own Half",
       "home": "107",
-      "away": "199"
+      "away": "198"
     },
     {
       "label": "Passes Opposition Half",
       "home": "78",
-      "away": "333"
+      "away": "334"
     },
     {
       "label": "Long Passes Completed",
@@ -203,37 +203,37 @@
     },
     {
       "label": "Goalkeeper Saves",
-      "home": "3",
+      "home": "4",
       "away": "2"
     },
     {
       "label": "Tackles Won",
       "home": "2/5 (40%)",
-      "away": "3/4 (75%)"
+      "away": "3/5 (60%)"
     },
     {
       "label": "Clearances",
-      "home": "23",
+      "home": "24",
       "away": "3"
     },
     {
       "label": "Duels Won",
-      "home": "14",
-      "away": "16"
+      "home": "15",
+      "away": "17"
     },
     {
       "label": "Was Fouled",
-      "home": "7",
+      "home": "8",
       "away": "5"
     },
     {
       "label": "Successful Dribbles",
-      "home": "2/3 (67%)",
+      "home": "2/4 (50%)",
       "away": "2/3 (67%)"
     },
     {
       "label": "Was Dribbled Past",
-      "home": "1",
+      "home": "2",
       "away": "1"
     },
     {
@@ -243,18 +243,18 @@
     },
     {
       "label": "Possession Lost",
-      "home": "59",
+      "home": "60",
       "away": "66"
     },
     {
       "label": "Fouls",
-      "home": "4",
+      "home": "5",
       "away": "7"
     },
     {
       "label": "Substitutions",
       "home": "0",
-      "away": "0"
+      "away": "3"
     }
   ],
   "lineups": [
