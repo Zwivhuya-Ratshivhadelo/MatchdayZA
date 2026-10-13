@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T21:16:28+02:00",
+  "updated": "2026-10-13T21:18:56+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "86'",
+  "minute": "89'",
   "events": [
+    {
+      "minute": "88'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Terrence Mashego"
+    },
     {
       "minute": "72'",
       "type": "yellow",
@@ -62,18 +68,18 @@
     },
     {
       "label": "Attacks",
-      "home": "101",
-      "away": "82"
+      "home": "102",
+      "away": "85"
     },
     {
       "label": "Corners",
-      "home": "7",
+      "home": "8",
       "away": "3"
     },
     {
       "label": "Free Kicks",
       "home": "17",
-      "away": "13"
+      "away": "15"
     },
     {
       "label": "Offsides",
@@ -87,13 +93,13 @@
     },
     {
       "label": "Goal Kicks",
-      "home": "8",
-      "away": "11"
+      "home": "9",
+      "away": "12"
     },
     {
       "label": "Yellow Cards",
       "home": "2",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Red Cards",
@@ -102,7 +108,7 @@
     },
     {
       "label": "Total Shots",
-      "home": "10",
+      "home": "12",
       "away": "5"
     },
     {
@@ -117,17 +123,17 @@
     },
     {
       "label": "Passes Completed",
-      "home": "408",
-      "away": "143"
+      "home": "415",
+      "away": "149"
     },
     {
       "label": "Shots Off Target",
-      "home": "3",
+      "home": "4",
       "away": "2"
     },
     {
       "label": "Shots Blocked",
-      "home": "3",
+      "home": "4",
       "away": "2"
     },
     {
@@ -137,13 +143,13 @@
     },
     {
       "label": "Shots Inside The Box",
-      "home": "7",
+      "home": "9",
       "away": "4"
     },
     {
       "label": "Total Passes",
-      "home": "488",
-      "away": "224"
+      "home": "496",
+      "away": "230"
     },
     {
       "label": "Shots Outside The Box",
@@ -157,37 +163,37 @@
     },
     {
       "label": "Crosses Completed",
-      "home": "6/10 (60%)",
-      "away": "2/13 (15%)"
+      "home": "7/11 (64%)",
+      "away": "2/14 (14%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "286",
+      "home": "293",
       "away": "91"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "212",
-      "away": "146"
+      "home": "214",
+      "away": "153"
     },
     {
       "label": "Long Passes Completed",
-      "home": "22/45 (49%)",
-      "away": "19/60 (32%)"
+      "home": "23/46 (50%)",
+      "away": "21/62 (34%)"
     },
     {
       "label": "Key Passes",
-      "home": "7",
+      "home": "9",
       "away": "5"
     },
     {
       "label": "Passes Into Final Third",
       "home": "56",
-      "away": "36"
+      "away": "40"
     },
     {
       "label": "Backward Passes",
-      "home": "65",
+      "home": "68",
       "away": "26"
     },
     {
@@ -213,7 +219,7 @@
     {
       "label": "Duels Won",
       "home": "52",
-      "away": "36"
+      "away": "39"
     },
     {
       "label": "Aerial Duels Won",
@@ -222,23 +228,23 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "29/59 (49%)",
-      "away": "30/59 (51%)"
+      "home": "29/62 (47%)",
+      "away": "33/63 (52%)"
     },
     {
       "label": "Was Fouled",
       "home": "17",
-      "away": "13"
+      "away": "15"
     },
     {
       "label": "Successful Dribbles",
       "home": "4/10 (40%)",
-      "away": "5/8 (62%)"
+      "away": "6/10 (60%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "6",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Final Third Possession Won",
@@ -247,17 +253,17 @@
     },
     {
       "label": "Possession Lost",
-      "home": "121",
-      "away": "124"
+      "home": "122",
+      "away": "126"
     },
     {
       "label": "Fouls",
-      "home": "14",
+      "home": "16",
       "away": "19"
     },
     {
       "label": "Substitutions",
-      "home": "4",
+      "home": "5",
       "away": "4"
     }
   ],
