@@ -3,11 +3,11 @@
   "comp": "national-first-division",
   "home": "Cape Town City FC",
   "away": "The Bees",
-  "updated": "2026-10-13T17:15:18+02:00",
+  "updated": "2026-10-13T17:17:31+02:00",
   "home_score": 3,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "85'",
+  "minute": "87'",
   "stats": [
     {
       "label": "Possession",
@@ -16,13 +16,13 @@
     },
     {
       "label": "Attacks",
-      "home": "74",
-      "away": "43"
+      "home": "76",
+      "away": "44"
     },
     {
       "label": "Corners",
-      "home": "0",
-      "away": "1"
+      "home": "2",
+      "away": "4"
     },
     {
       "label": "Free Kicks",
@@ -37,7 +37,7 @@
     {
       "label": "Throw-Ins",
       "home": "17",
-      "away": "9"
+      "away": "11"
     },
     {
       "label": "Goal Kicks",
