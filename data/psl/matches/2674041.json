@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T20:58:27+02:00",
+  "updated": "2026-10-13T21:01:03+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "66'",
+  "minute": "69'",
   "events": [
+    {
+      "minute": "66'",
+      "type": "yellow",
+      "team": "TS Galaxy",
+      "player": "Tshepo Kakora"
+    },
     {
       "minute": "63'",
       "type": "yellow",
@@ -51,13 +57,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "51%",
-      "away": "49%"
+      "home": "52%",
+      "away": "48%"
     },
     {
       "label": "Attacks",
-      "home": "73",
-      "away": "68"
+      "home": "76",
+      "away": "69"
     },
     {
       "label": "Corners",
@@ -66,7 +72,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "7",
+      "home": "8",
       "away": "7"
     },
     {
@@ -76,8 +82,8 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "13",
-      "away": "13"
+      "home": "14",
+      "away": "14"
     },
     {
       "label": "Goal Kicks",
@@ -87,7 +93,7 @@
     {
       "label": "Yellow Cards",
       "home": "1",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Red Cards",
@@ -111,8 +117,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "293",
-      "away": "281"
+      "home": "309",
+      "away": "282"
     },
     {
       "label": "Shots Off Target",
@@ -136,8 +142,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "350",
-      "away": "331"
+      "home": "369",
+      "away": "332"
     },
     {
       "label": "Shots Outside The Box",
@@ -151,17 +157,17 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "209",
-      "away": "170"
+      "home": "212",
+      "away": "171"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "144",
+      "home": "160",
       "away": "168"
     },
     {
       "label": "Long Passes Completed",
-      "home": "22/41 (54%)",
+      "home": "24/43 (56%)",
       "away": "22/43 (51%)"
     },
     {
@@ -171,37 +177,37 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "46",
+      "home": "53",
       "away": "46"
     },
     {
       "label": "Backward Passes",
-      "home": "80",
+      "home": "82",
       "away": "65"
     },
     {
       "label": "Interceptions",
       "home": "10",
-      "away": "12"
+      "away": "13"
     },
     {
       "label": "Goalkeeper Saves",
       "home": "1",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Tackles Won",
-      "home": "11/17 (65%)",
+      "home": "12/18 (67%)",
       "away": "10/16 (62%)"
     },
     {
       "label": "Clearances",
-      "home": "13",
+      "home": "14",
       "away": "8"
     },
     {
       "label": "Duels Won",
-      "home": "44",
+      "home": "46",
       "away": "38"
     },
     {
@@ -211,23 +217,23 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "38/68 (56%)",
-      "away": "30/68 (44%)"
+      "home": "40/70 (57%)",
+      "away": "30/70 (43%)"
     },
     {
       "label": "Was Fouled",
-      "home": "7",
+      "home": "8",
       "away": "7"
     },
     {
       "label": "Successful Dribbles",
       "home": "14/23 (61%)",
-      "away": "7/18 (39%)"
+      "away": "7/19 (37%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "9",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Final Third Possession Won",
@@ -236,17 +242,17 @@
     },
     {
       "label": "Possession Lost",
-      "home": "89",
-      "away": "95"
+      "home": "92",
+      "away": "99"
     },
     {
       "label": "Fouls",
       "home": "7",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Substitutions",
-      "home": "3",
+      "home": "4",
       "away": "1"
     }
   ],

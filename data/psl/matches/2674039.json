@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-13T20:58:25+02:00",
+  "updated": "2026-10-13T21:01:02+02:00",
   "home_score": 1,
   "away_score": 4,
   "status": "LIVE",
-  "minute": "68'",
+  "minute": "71'",
   "events": [
     {
       "minute": "59'",
@@ -78,7 +78,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "9",
+      "home": "10",
       "away": "5"
     },
     {
@@ -123,8 +123,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "137",
-      "away": "491"
+      "home": "141",
+      "away": "499"
     },
     {
       "label": "Shots Off Target",
@@ -148,8 +148,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "184",
-      "away": "529"
+      "home": "189",
+      "away": "537"
     },
     {
       "label": "Shots Outside The Box",
@@ -169,16 +169,16 @@
     {
       "label": "Passes Own Half",
       "home": "107",
-      "away": "206"
+      "away": "214"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "80",
+      "home": "85",
       "away": "345"
     },
     {
       "label": "Long Passes Completed",
-      "home": "10/38 (26%)",
+      "home": "11/40 (28%)",
       "away": "28/36 (78%)"
     },
     {
@@ -188,13 +188,13 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "17",
+      "home": "21",
       "away": "116"
     },
     {
       "label": "Backward Passes",
       "home": "36",
-      "away": "95"
+      "away": "96"
     },
     {
       "label": "Interceptions",
@@ -218,43 +218,43 @@
     },
     {
       "label": "Duels Won",
-      "home": "17",
+      "home": "18",
       "away": "17"
     },
     {
       "label": "Was Fouled",
-      "home": "9",
+      "home": "10",
       "away": "5"
     },
     {
       "label": "Successful Dribbles",
       "home": "2/4 (50%)",
-      "away": "2/3 (67%)"
+      "away": "2/4 (50%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "2",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Final Third Possession Won",
-      "home": "1",
+      "home": "2",
       "away": "4"
     },
     {
       "label": "Possession Lost",
-      "home": "61",
-      "away": "68"
+      "home": "63",
+      "away": "69"
     },
     {
       "label": "Fouls",
       "home": "5",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Substitutions",
       "home": "0",
-      "away": "3"
+      "away": "4"
     }
   ],
   "lineups": [
