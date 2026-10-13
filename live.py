@@ -139,6 +139,16 @@ def run(window):
                 print(f"  match page failed {link['url']}: {e}")
                 continue
             entry["page"] = (f"{d['status']} {d['home_score']}-{d['away_score']}, line-ups {len(d['lineups'])}" if d else "nothing yet")
+            # the PSL page is live but carries no commentary or stats: take clock, goals and stats from 365scores
+            if d and d["status"] == "LIVE" and not d["events"] and not d["stats"]:
+                if feed is None:
+                    feed = scores365.games()
+                x = scores365.find(feed, g)
+                entry["365scores"] = f"{x['status']} {x['home_score']}-{x['away_score']} {x['minute'] or ''}" if x else "not found"
+                if x and x["status"] in ("LIVE", "FT"):
+                    d.update(home_score=x["home_score"], away_score=x["away_score"], status=x["status"], minute=x["minute"],
+                             stats=scores365.stats(x["id"], x.get("home_id")),
+                             events=scores365.events(x["id"], x["home"], x["away"], g["home"], g["away"]))
             # no live coverage on the PSL page after kick-off: take the score from 365scores
             if (not d or d["status"] == "NS") and now >= g["kickoff"] - timedelta(minutes=5):
                 if feed is None:
