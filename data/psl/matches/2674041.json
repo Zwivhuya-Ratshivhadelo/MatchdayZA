@@ -3,13 +3,286 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "TS Galaxy",
-  "updated": "2026-10-13T21:28:15+02:00",
+  "updated": "2026-10-13T21:30:34+02:00",
   "home_score": 3,
   "away_score": 0,
   "status": "FT",
   "minute": null,
-  "events": [],
-  "stats": [],
+  "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "Orlando Pirates",
+      "player": "Simphiwe Masilela"
+    },
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Simphiwe Masilela",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "minute": "73'",
+      "type": "yellow",
+      "team": "Orlando Pirates",
+      "player": "T. Mokobodi"
+    },
+    {
+      "minute": "66'",
+      "type": "yellow",
+      "team": "TS Galaxy",
+      "player": "Tshepo Kakora"
+    },
+    {
+      "minute": "63'",
+      "type": "yellow",
+      "team": "TS Galaxy",
+      "player": "Mlondi Mncwango"
+    },
+    {
+      "minute": "50'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Tshepang Moremi",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "41'",
+      "type": "yellow",
+      "team": "TS Galaxy",
+      "player": "M. Mvelase"
+    },
+    {
+      "minute": "25'",
+      "type": "yellow",
+      "team": "Orlando Pirates",
+      "player": "Gamphani Lungu"
+    },
+    {
+      "minute": "18'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Boitumelo Radiopane",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    },
+    {
+      "label": "Attacks",
+      "home": "90",
+      "away": "95"
+    },
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "9",
+      "away": "15"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "17",
+      "away": "19"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "4"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "3"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "15",
+      "away": "9"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "8",
+      "away": "1"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "383",
+      "away": "391"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "3",
+      "away": "4"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "4",
+      "away": "4"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "8",
+      "away": "4"
+    },
+    {
+      "label": "Total Passes",
+      "home": "461",
+      "away": "460"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "7",
+      "away": "5"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "1/4 (25%)",
+      "away": "2/15 (13%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "270",
+      "away": "238"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "195",
+      "away": "237"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "30/57 (53%)",
+      "away": "29/56 (52%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "11",
+      "away": "6"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "60",
+      "away": "60"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "103",
+      "away": "90"
+    },
+    {
+      "label": "Interceptions",
+      "home": "14",
+      "away": "17"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "1",
+      "away": "5"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "17/25 (68%)",
+      "away": "17/24 (71%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "25",
+      "away": "10"
+    },
+    {
+      "label": "Duels Won",
+      "home": "60",
+      "away": "57"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "11/20 (55%)",
+      "away": "10/21 (48%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "49/97 (51%)",
+      "away": "47/95 (49%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "9",
+      "away": "15"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "15/29 (52%)",
+      "away": "8/24 (33%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "14",
+      "away": "16"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "2",
+      "away": "6"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "127",
+      "away": "139"
+    },
+    {
+      "label": "Fouls",
+      "home": "15",
+      "away": "9"
+    },
+    {
+      "label": "Substitutions",
+      "home": "5",
+      "away": "4"
+    }
+  ],
   "lineups": [
     {
       "team": "Orlando Pirates",
@@ -225,5 +498,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tried365": true
 }

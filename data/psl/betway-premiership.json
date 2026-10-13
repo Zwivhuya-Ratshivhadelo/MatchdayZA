@@ -4,47 +4,47 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T21:28:15+02:00",
+  "updated": "2026-10-13T21:30:34+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Mamelodi Sundowns",
       "club": "Mamelodi_Sundowns",
-      "p": 8,
-      "w": 6,
+      "p": 9,
+      "w": 7,
       "d": 2,
       "l": 0,
-      "pts": 20
+      "pts": 23
     },
     {
       "pos": 2,
       "team": "Orlando Pirates",
       "club": "Orlando_Pirates",
-      "p": 7,
-      "w": 6,
+      "p": 8,
+      "w": 7,
       "d": 1,
       "l": 0,
-      "pts": 19
+      "pts": 22
     },
     {
       "pos": 3,
       "team": "AmaZulu FC",
       "club": "AmaZulu_FC",
-      "p": 7,
-      "w": 5,
+      "p": 8,
+      "w": 6,
       "d": 1,
       "l": 1,
-      "pts": 16
+      "pts": 19
     },
     {
       "pos": 4,
       "team": "Kaizer Chiefs",
       "club": "Kaizer_Chiefs",
-      "p": 7,
+      "p": 8,
       "w": 3,
-      "d": 4,
+      "d": 5,
       "l": 0,
-      "pts": 13
+      "pts": 14
     },
     {
       "pos": 5,
@@ -70,11 +70,11 @@
       "pos": 7,
       "team": "Stellenbosch FC",
       "club": "Stellenbosch_FC",
-      "p": 7,
+      "p": 8,
       "w": 2,
-      "d": 3,
+      "d": 4,
       "l": 2,
-      "pts": 9
+      "pts": 10
     },
     {
       "pos": 8,
@@ -98,16 +98,6 @@
     },
     {
       "pos": 10,
-      "team": "Durban City",
-      "club": "Durban_City",
-      "p": 7,
-      "w": 1,
-      "d": 4,
-      "l": 2,
-      "pts": 7
-    },
-    {
-      "pos": 11,
       "team": "Polokwane City",
       "club": "Polokwane_City",
       "p": 7,
@@ -117,13 +107,23 @@
       "pts": 7
     },
     {
+      "pos": 11,
+      "team": "Durban City",
+      "club": "Durban_City",
+      "p": 8,
+      "w": 1,
+      "d": 4,
+      "l": 3,
+      "pts": 7
+    },
+    {
       "pos": 12,
       "team": "TS Galaxy",
       "club": "TS_Galaxy",
-      "p": 7,
+      "p": 8,
       "w": 1,
       "d": 3,
-      "l": 3,
+      "l": 4,
       "pts": 6
     },
     {
@@ -138,8 +138,8 @@
     },
     {
       "pos": 14,
-      "team": "Richards Bay",
-      "club": "Richards_Bay",
+      "team": "Siwelele",
+      "club": "Siwelele",
       "p": 7,
       "w": 0,
       "d": 3,
@@ -148,12 +148,12 @@
     },
     {
       "pos": 15,
-      "team": "Siwelele",
-      "club": "Siwelele",
-      "p": 7,
+      "team": "Richards Bay",
+      "club": "Richards_Bay",
+      "p": 8,
       "w": 0,
       "d": 3,
-      "l": 4,
+      "l": 5,
       "pts": 3
     },
     {
@@ -577,9 +577,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/2674039",
       "home_score": 1,
       "away_score": 4,
-      "status": "FT",
-      "latest": "79' Yellow card, Fawaaz Basadien (Mamelodi Sundowns)",
-      "minute": "90+2'"
+      "status": "FT"
     },
     {
       "home": "Orlando Pirates",
@@ -590,9 +588,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/2674041",
       "home_score": 3,
       "away_score": 0,
-      "status": "FT",
-      "minute": "87'",
-      "latest": "76' Goal, Simphiwe Masilela (Orlando Pirates)"
+      "status": "FT"
     }
   ],
   "fixtures": [
