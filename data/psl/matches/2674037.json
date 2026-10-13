@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T21:21:29+02:00",
+  "updated": "2026-10-13T21:24:01+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "90+1'",
+  "minute": "90+4'",
   "events": [
     {
       "minute": "88'",
@@ -63,17 +63,17 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "67%",
-      "away": "33%"
+      "home": "68%",
+      "away": "32%"
     },
     {
       "label": "Attacks",
-      "home": "103",
+      "home": "107",
       "away": "85"
     },
     {
       "label": "Corners",
-      "home": "8",
+      "home": "9",
       "away": "3"
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "label": "Passes Completed",
-      "home": "415",
+      "home": "417",
       "away": "150"
     },
     {
@@ -148,8 +148,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "497",
-      "away": "231"
+      "home": "502",
+      "away": "232"
     },
     {
       "label": "Shots Outside The Box",
@@ -168,18 +168,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "293",
-      "away": "91"
+      "home": "294",
+      "away": "92"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "215",
+      "home": "219",
       "away": "155"
     },
     {
       "label": "Long Passes Completed",
-      "home": "22/46 (48%)",
-      "away": "21/62 (34%)"
+      "home": "23/48 (48%)",
+      "away": "21/63 (33%)"
     },
     {
       "label": "Key Passes",
@@ -188,7 +188,7 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "56",
+      "home": "57",
       "away": "41"
     },
     {
@@ -199,7 +199,7 @@
     {
       "label": "Interceptions",
       "home": "3",
-      "away": "10"
+      "away": "11"
     },
     {
       "label": "Goalkeeper Saves",
@@ -209,17 +209,17 @@
     {
       "label": "Tackles Won",
       "home": "8/9 (89%)",
-      "away": "8/12 (67%)"
+      "away": "8/13 (62%)"
     },
     {
       "label": "Clearances",
       "home": "15",
-      "away": "22"
+      "away": "24"
     },
     {
       "label": "Duels Won",
       "home": "53",
-      "away": "39"
+      "away": "40"
     },
     {
       "label": "Aerial Duels Won",
@@ -229,7 +229,7 @@
     {
       "label": "Ground Duels Won",
       "home": "30/63 (48%)",
-      "away": "33/63 (52%)"
+      "away": "34/64 (53%)"
     },
     {
       "label": "Was Fouled",
@@ -253,8 +253,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "123",
-      "away": "128"
+      "home": "126",
+      "away": "129"
     },
     {
       "label": "Fouls",
@@ -264,7 +264,7 @@
     {
       "label": "Substitutions",
       "home": "5",
-      "away": "4"
+      "away": "5"
     }
   ],
   "lineups": [
