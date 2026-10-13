@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Richards Bay",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-10-13T20:20:10+02:00",
+  "updated": "2026-10-13T20:22:44+02:00",
   "home_score": 1,
   "away_score": 2,
   "status": "LIVE",
@@ -89,7 +89,7 @@
     {
       "label": "Total Shots",
       "home": "2",
-      "away": "13"
+      "away": "14"
     },
     {
       "label": "Shots On Target",
@@ -104,7 +104,7 @@
     {
       "label": "Passes Completed",
       "home": "85",
-      "away": "363"
+      "away": "366"
     },
     {
       "label": "Shots Off Target",
@@ -114,7 +114,7 @@
     {
       "label": "Shots Blocked",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Hit Woodwork",
@@ -128,13 +128,13 @@
     },
     {
       "label": "Total Passes",
-      "home": "115",
-      "away": "388"
+      "home": "116",
+      "away": "392"
     },
     {
       "label": "Shots Outside The Box",
       "home": "0",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Big Chances Missed",
@@ -148,13 +148,13 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "67",
+      "home": "68",
       "away": "144"
     },
     {
       "label": "Passes Opposition Half",
       "home": "49",
-      "away": "261"
+      "away": "265"
     },
     {
       "label": "Long Passes Completed",
@@ -169,11 +169,11 @@
     {
       "label": "Passes Into Final Third",
       "home": "7",
-      "away": "89"
+      "away": "90"
     },
     {
       "label": "Backward Passes",
-      "home": "21",
+      "home": "22",
       "away": "69"
     },
     {
@@ -223,8 +223,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "39",
-      "away": "45"
+      "home": "40",
+      "away": "46"
     },
     {
       "label": "Fouls",

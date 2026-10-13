@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-13T20:20:12+02:00",
+  "updated": "2026-10-13T20:22:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -553,7 +553,7 @@
       "away_score": 2,
       "status": "LIVE",
       "minute": "HT",
-      "latest": "7' Goal, Mondli Mbanjwa (AmaZulu FC)"
+      "latest": "45' Goal, Athini Maqokola (AmaZulu FC)"
     },
     {
       "home": "Kaizer Chiefs",
