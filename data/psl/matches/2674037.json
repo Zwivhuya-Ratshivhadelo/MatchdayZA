@@ -3,13 +3,204 @@
   "comp": "betway-premiership",
   "home": "Kaizer Chiefs",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-13T19:51:01+02:00",
+  "updated": "2026-10-13T19:53:39+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": null,
+  "minute": "22'",
   "events": [],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "56%",
+      "away": "44%"
+    },
+    {
+      "label": "Attacks",
+      "home": "28",
+      "away": "23"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "7",
+      "away": "1"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "83",
+      "away": "57"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Total Passes",
+      "home": "113",
+      "away": "85"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "1/1 (100%)",
+      "away": "2/5 (40%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "76",
+      "away": "41"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "38",
+      "away": "49"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "4/17 (24%)",
+      "away": "6/18 (33%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "7",
+      "away": "11"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "13",
+      "away": "11"
+    },
+    {
+      "label": "Interceptions",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "2/2 (100%)",
+      "away": "0/1 (0%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "2",
+      "away": "7"
+    },
+    {
+      "label": "Duels Won",
+      "home": "12",
+      "away": "10"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "5/7 (71%)",
+      "away": "3/7 (43%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "7/14 (50%)",
+      "away": "7/14 (50%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "1/2 (50%)",
+      "away": "3/3 (100%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "38",
+      "away": "40"
+    },
+    {
+      "label": "Fouls",
+      "home": "4",
+      "away": "4"
+    },
+    {
+      "label": "Substitutions",
+      "home": "0",
+      "away": "0"
+    }
+  ],
   "lineups": [
     {
       "team": "Kaizer Chiefs",
