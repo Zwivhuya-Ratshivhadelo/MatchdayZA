@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-14T23:30:33+02:00",
+  "updated": "2026-10-15T00:30:24+02:00",
   "log": [
     {
       "pos": 1,
@@ -1458,6 +1458,13 @@
       "away": "Stellenbosch FC",
       "date": "2027-04-11T17:30:00+02:00",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
+      "status": "NS"
+    },
+    {
+      "home": "Stellenbosch FC",
+      "away": "Golden Arrows",
+      "date": "2027-04-16T19:30:00+02:00",
+      "venue": "Danie Craven Stadium, Stellenbosch",
       "status": "NS"
     }
   ],
