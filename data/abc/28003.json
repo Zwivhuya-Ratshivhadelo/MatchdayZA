@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-10-14T06:31:48+02:00",
+  "updated": "2026-10-14T12:31:47+02:00",
   "log": [
     {
       "pos": 1,
@@ -376,6 +376,14 @@
   ],
   "fixtures": [
     {
+      "home": "One Football Club",
+      "away": "Grassy Park United",
+      "match_no": 40,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=40&s=l",
+      "date": "2026-10-16T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Diadora FC",
       "away": "Barcelona FC",
       "match_no": 37,
@@ -472,6 +480,14 @@
       "status": "NS"
     },
     {
+      "home": "One Football Club",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 54,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=54&s=l",
+      "date": "2026-10-30T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Diadora FC",
       "away": "Maties FC",
       "match_no": 49,
@@ -524,6 +540,14 @@
       "away": "Diadora FC",
       "match_no": 55,
       "url": "https://inqaku.com/match/view?stream_id=28003&match_no=55&s=l",
+      "date": "2026-11-06T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "Batalions FC",
+      "match_no": 60,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=60&s=l",
       "date": "2026-11-06T19:30:00+02:00",
       "status": "NS"
     },
@@ -808,6 +832,30 @@
       "status": "NS"
     },
     {
+      "home": "Ubuntu Spartans FC",
+      "away": "Diadora FC",
+      "match_no": 31,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=31&s=l",
+      "date": "2027-01-09T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "Maties FC",
+      "match_no": 70,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=70&s=l",
+      "date": "2027-01-09T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "Relentless Football",
+      "match_no": 80,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=80&s=l",
+      "date": "2027-01-15T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Mbekweni Cosmos FC",
       "away": "Diadora FC",
       "match_no": 79,
@@ -952,6 +1000,14 @@
       "status": "NS"
     },
     {
+      "home": "One Football Club",
+      "away": "Royal Blues FC",
+      "match_no": 99,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=99&s=l",
+      "date": "2027-02-05T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Diadora FC",
       "away": "Ubuntu Spartans FC",
       "match_no": 97,
@@ -1045,6 +1101,14 @@
       "match_no": 107,
       "url": "https://inqaku.com/match/view?stream_id=28003&match_no=107&s=l",
       "date": "2027-02-13T17:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "One Football Club",
+      "away": "FC Kayamandi",
+      "match_no": 113,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=113&s=l",
+      "date": "2027-02-19T19:30:00+02:00",
       "status": "NS"
     },
     {
@@ -1192,6 +1256,14 @@
       "status": "NS"
     },
     {
+      "home": "One Football Club",
+      "away": "Barcelona FC",
+      "match_no": 131,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=131&s=l",
+      "date": "2027-03-12T19:30:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Mbekweni Cosmos FC",
       "away": "Royal Blues FC",
       "match_no": 130,
@@ -1237,6 +1309,22 @@
       "match_no": 127,
       "url": "https://inqaku.com/match/view?stream_id=28003&match_no=127&s=l",
       "date": "2027-03-13T17:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "One Football Club",
+      "match_no": 33,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=33&s=l",
+      "date": "2027-03-20T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ammar Soccer Academy",
+      "away": "Batalions FC",
+      "match_no": 46,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=46&s=l",
+      "date": "2027-03-20T17:00:00+02:00",
       "status": "NS"
     }
   ]

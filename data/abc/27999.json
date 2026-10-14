@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-14T06:30:58+02:00",
+  "updated": "2026-10-14T12:30:56+02:00",
   "log": [
     {
       "pos": 1,
@@ -420,6 +420,14 @@
       "status": "NS"
     },
     {
+      "home": "Ssu M-17 FC",
+      "away": "Boipatong Football Club",
+      "match_no": 36,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=36&s=l",
+      "date": "2026-11-06T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Free Agents Football Club",
       "away": "Tshwane South College FC",
       "match_no": 32,
@@ -609,6 +617,14 @@
       "match_no": 54,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=54&s=l",
       "date": "2026-11-28T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ssu M-17 FC",
+      "away": "La Masia FC",
+      "match_no": 56,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=56&s=l",
+      "date": "2026-12-02T12:00:00+02:00",
       "status": "NS"
     },
     {
