@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream A",
   "slug": "lp-limpopo-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28322",
-  "updated": "2026-10-14T12:31:14+02:00",
+  "updated": "2026-10-14T18:31:15+02:00",
   "log": [
     {
       "pos": 1,
@@ -159,7 +159,7 @@
       "away": "Tzaneen United FC",
       "match_no": 13,
       "url": "https://inqaku.com/match/view?stream_id=28322&match_no=13&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
+      "date": "2026-10-17T13:00:00+02:00",
       "status": "NS"
     },
     {
