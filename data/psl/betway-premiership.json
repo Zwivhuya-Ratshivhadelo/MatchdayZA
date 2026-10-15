@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-15T23:30:25+02:00",
+  "updated": "2026-10-16T00:30:24+02:00",
   "log": [
     {
       "pos": 1,
@@ -1472,6 +1472,41 @@
       "away": "Golden Arrows",
       "date": "2027-04-16T19:30:00+02:00",
       "venue": "Danie Craven Stadium, Stellenbosch",
+      "status": "NS"
+    },
+    {
+      "home": "AmaZulu FC",
+      "away": "Richards Bay",
+      "date": "2027-04-17T15:00:00+02:00",
+      "venue": "Moses Mabhida Stadium, Durban",
+      "status": "NS"
+    },
+    {
+      "home": "Kaizer Chiefs",
+      "away": "Marumo Gallants",
+      "date": "2027-04-17T15:00:00+02:00",
+      "venue": "FNB Stadium, Johannesburg",
+      "status": "NS"
+    },
+    {
+      "home": "Kruger United",
+      "away": "TS Galaxy",
+      "date": "2027-04-17T15:00:00+02:00",
+      "venue": "Mbombela Stadium, Nelspruit",
+      "status": "NS"
+    },
+    {
+      "home": "Sekhukhune United",
+      "away": "Orlando Pirates",
+      "date": "2027-04-17T17:30:00+02:00",
+      "venue": "Peter Mokaba Stadium, Polokwane",
+      "status": "NS"
+    },
+    {
+      "home": "Milford FC",
+      "away": "Chippa United",
+      "date": "2027-04-17T20:00:00+02:00",
+      "venue": "Richards Bay Stadium, Richards Bay",
       "status": "NS"
     }
   ],
