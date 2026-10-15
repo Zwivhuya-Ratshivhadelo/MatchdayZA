@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-15T06:30:57+02:00",
+  "updated": "2026-10-15T12:30:53+02:00",
   "log": [
     {
       "pos": 1,
@@ -324,6 +324,22 @@
       "status": "NS"
     },
     {
+      "home": "Ben 10 FC",
+      "away": "Tembisa Hollywood Thunder",
+      "match_no": 14,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=14&s=l",
+      "date": "2026-10-18T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Boipatong Football Club",
+      "away": "Tshwane South College FC",
+      "match_no": 15,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=15&s=l",
+      "date": "2026-10-18T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Free Agents Football Club",
       "away": "Boipatong Football Club",
       "match_no": 22,
@@ -372,18 +388,18 @@
       "status": "NS"
     },
     {
-      "home": "JBM FC",
-      "away": "Tshwane South College FC",
-      "match_no": 25,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=25&s=l",
-      "date": "2026-10-30T16:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "Dinoko City FC",
       "away": "Free Agents Football Club",
       "match_no": 27,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=27&s=l",
+      "date": "2026-10-30T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "JBM FC",
+      "away": "Tshwane South College FC",
+      "match_no": 25,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=25&s=l",
       "date": "2026-10-30T16:00:00+02:00",
       "status": "NS"
     },
@@ -417,6 +433,22 @@
       "match_no": 29,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=29&s=l",
       "date": "2026-10-31T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ben 10 FC",
+      "away": "University of Johannesburg FC",
+      "match_no": 28,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=28&s=l",
+      "date": "2026-11-01T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Boipatong Football Club",
+      "away": "La Masia FC",
+      "match_no": 29,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=29&s=l",
+      "date": "2026-11-01T15:00:00+02:00",
       "status": "NS"
     },
     {
@@ -544,7 +576,7 @@
       "away": "JBM FC",
       "match_no": 43,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=43&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
+      "date": "2026-11-21T12:00:00+02:00",
       "status": "NS"
     },
     {
@@ -569,6 +601,22 @@
       "match_no": 48,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=48&s=l",
       "date": "2026-11-21T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ben 10 FC",
+      "away": "Dinoko City FC",
+      "match_no": 48,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=48&s=l",
+      "date": "2026-11-22T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Boipatong Football Club",
+      "away": "Tembisa Hollywood Thunder",
+      "match_no": 47,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=47&s=l",
+      "date": "2026-11-22T15:00:00+02:00",
       "status": "NS"
     },
     {
