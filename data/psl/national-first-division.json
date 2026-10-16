@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-16T15:21:20+02:00",
+  "updated": "2026-10-16T15:31:57+02:00",
   "log": [
     {
       "pos": 1,
@@ -631,18 +631,22 @@
       "away_score": 1,
       "status": "FT",
       "minute": "89'"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Gomora United",
       "away": "Cape Town City FC",
       "date": "2026-10-16T15:30:00+02:00",
       "venue": "Malamulele Stadium, Malamulele",
-      "status": "NS",
       "match_id": "3019781",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019781"
-    },
+      "url": "https://www.psl.co.za/matchcentre/detail/3019781",
+      "latest": "2' Goal, Cape Town City FC",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "LIVE",
+      "minute": "4'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Highbury",
       "away": "Lerumo Lions",
