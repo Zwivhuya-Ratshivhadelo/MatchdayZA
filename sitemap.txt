@@ -191,6 +191,7 @@ https://www.matchdayza.co.za/match/orlando-pirates-vs-siwelele-2027-02-13/
 https://www.matchdayza.co.za/match/orlando-pirates-vs-stellenbosch-fc-2026-12-05/
 https://www.matchdayza.co.za/match/orlando-pirates-vs-ts-galaxy-2026-10-13/
 https://www.matchdayza.co.za/match/polokwane-city-vs-chippa-united-2027-01-09/
+https://www.matchdayza.co.za/match/polokwane-city-vs-durban-city-2027-04-18/
 https://www.matchdayza.co.za/match/polokwane-city-vs-golden-arrows-2026-12-16/
 https://www.matchdayza.co.za/match/polokwane-city-vs-marumo-gallants-2027-02-06/
 https://www.matchdayza.co.za/match/polokwane-city-vs-sekhukhune-united-2027-03-06/
@@ -230,6 +231,7 @@ https://www.matchdayza.co.za/match/sekhukhune-united-vs-stellenbosch-fc-2027-03-
 https://www.matchdayza.co.za/match/sekhukhune-united-vs-ts-galaxy-2026-09-05/
 https://www.matchdayza.co.za/match/siwelele-vs-amazulu-fc-2027-03-17/
 https://www.matchdayza.co.za/match/siwelele-vs-durban-city-2026-12-06/
+https://www.matchdayza.co.za/match/siwelele-vs-mamelodi-sundowns-2027-04-18/
 https://www.matchdayza.co.za/match/siwelele-vs-milford-fc-2027-02-28/
 https://www.matchdayza.co.za/match/siwelele-vs-polokwane-city-2026-10-18/
 https://www.matchdayza.co.za/match/siwelele-vs-sekhukhune-united-2027-02-07/

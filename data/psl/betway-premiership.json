@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-16T23:30:22+02:00",
+  "updated": "2026-10-17T00:30:22+02:00",
   "log": [
     {
       "pos": 1,
@@ -1514,6 +1514,20 @@
       "away": "Chippa United",
       "date": "2027-04-17T20:00:00+02:00",
       "venue": "Richards Bay Stadium, Richards Bay",
+      "status": "NS"
+    },
+    {
+      "home": "Polokwane City",
+      "away": "Durban City",
+      "date": "2027-04-18T15:00:00+02:00",
+      "venue": "Old Peter Mokaba Stadium, Polokwane",
+      "status": "NS"
+    },
+    {
+      "home": "Siwelele",
+      "away": "Mamelodi Sundowns",
+      "date": "2027-04-18T17:30:00+02:00",
+      "venue": "Dr Molemela Stadium, Bloemfontein",
       "status": "NS"
     }
   ],
