@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-16T13:30:21+02:00",
+  "updated": "2026-10-16T14:20:08+02:00",
   "log": [
     {
       "pos": 1,
@@ -639,14 +639,18 @@
       "away": "Cape Town City FC",
       "date": "2026-10-16T15:30:00+02:00",
       "venue": "Malamulele Stadium, Malamulele",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019781",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019781"
     },
     {
       "home": "Highbury",
       "away": "Lerumo Lions",
       "date": "2026-10-16T15:30:00+02:00",
       "venue": "NMU (Madibaz) Stadium, Port Elizabeth",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019783",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019783"
     },
     {
       "home": "Leicesterford City FC",
