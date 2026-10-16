@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-16T11:30:23+02:00",
+  "updated": "2026-10-16T12:30:21+02:00",
   "log": [
     {
       "pos": 1,
@@ -660,6 +660,13 @@
       "away": "TS Galaxy",
       "date": "2026-10-31T18:00:00+02:00",
       "venue": "Old Peter Mokaba Stadium, Polokwane",
+      "status": "NS"
+    },
+    {
+      "home": "Stellenbosch FC",
+      "away": "Chippa United",
+      "date": "2026-10-31T18:00:00+02:00",
+      "venue": "Danie Craven Stadium, Stellenbosch",
       "status": "NS"
     },
     {
