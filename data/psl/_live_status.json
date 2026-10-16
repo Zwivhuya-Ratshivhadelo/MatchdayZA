@@ -1,20 +1,17 @@
 {
-  "time": "2026-10-16T17:22:17+02:00",
+  "time": "2026-10-16T17:24:38+02:00",
   "links_found": 6,
   "games": [
     {
       "game": "Gomora United v Cape Town City FC",
-      "kickoff": "2026-10-16T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019781",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "FT 2-3 "
+      "kickoff": "2026-10-16T15:30:00+02:00"
     },
     {
       "game": "Highbury v Lerumo Lions",
       "kickoff": "2026-10-16T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019783",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 1-1 87'"
+      "365scores": "LIVE 1-1 89'"
     }
   ]
 }
