@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-16T18:30:15+02:00",
+  "updated": "2026-10-16T19:30:18+02:00",
   "log": [
     {
       "pos": 1,
@@ -695,6 +695,11 @@
       "home": "Midlands Wanderers",
       "away": "Upington City",
       "date": "2026-10-23T15:30:00+02:00"
+    },
+    {
+      "home": "Orbit College FC",
+      "away": "Cape Town City FC",
+      "date": "2026-10-23T19:30:00+02:00"
     }
   ],
   "extra": [],
