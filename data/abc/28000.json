@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-10-16T18:30:55+02:00",
+  "updated": "2026-10-16T22:30:58+02:00",
   "log": [
     {
       "pos": 1,
@@ -22,14 +22,14 @@
     {
       "pos": 2,
       "team": "Orlando Pirates FC",
-      "p": 2,
+      "p": 3,
       "w": 1,
-      "d": 1,
+      "d": 2,
       "l": 0,
-      "gf": 7,
-      "ga": 1,
+      "gf": 9,
+      "ga": 3,
       "gd": 6,
-      "pts": 4
+      "pts": 5
     },
     {
       "pos": 3,
@@ -130,14 +130,14 @@
     {
       "pos": 11,
       "team": "Dube Continental FC",
-      "p": 2,
+      "p": 3,
       "w": 0,
-      "d": 0,
+      "d": 1,
       "l": 2,
-      "gf": 1,
-      "ga": 3,
+      "gf": 3,
+      "ga": 5,
       "gd": -2,
-      "pts": 0
+      "pts": 1
     },
     {
       "pos": 12,
@@ -262,17 +262,19 @@
       "home_score": 0,
       "away_score": 1,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Dube Continental FC",
       "away": "Orlando Pirates FC",
       "match_no": 16,
       "url": "https://inqaku.com/match/view?stream_id=28000&match_no=16&s=l",
-      "date": "2026-10-16T14:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-10-16",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Doornkop Students",
       "away": "Young Pirates FC",

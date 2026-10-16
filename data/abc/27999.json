@@ -5,10 +5,22 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-16T18:30:50+02:00",
+  "updated": "2026-10-16T22:30:54+02:00",
   "log": [
     {
       "pos": 1,
+      "team": "Dinoko City FC",
+      "p": 3,
+      "w": 2,
+      "d": 1,
+      "l": 0,
+      "gf": 4,
+      "ga": 2,
+      "gd": 2,
+      "pts": 7
+    },
+    {
+      "pos": 2,
       "team": "Ben 10 FC",
       "p": 2,
       "w": 1,
@@ -20,7 +32,7 @@
       "pts": 4
     },
     {
-      "pos": 2,
+      "pos": 3,
       "team": "Tembisa Hollywood Thunder",
       "p": 2,
       "w": 1,
@@ -32,31 +44,31 @@
       "pts": 4
     },
     {
-      "pos": 3,
-      "team": "University of Johannesburg FC",
-      "p": 2,
-      "w": 1,
-      "d": 1,
-      "l": 0,
-      "gf": 3,
-      "ga": 2,
-      "gd": 1,
-      "pts": 4
-    },
-    {
       "pos": 4,
-      "team": "Dinoko City FC",
-      "p": 2,
+      "team": "University of Johannesburg FC",
+      "p": 3,
       "w": 1,
       "d": 1,
-      "l": 0,
-      "gf": 3,
-      "ga": 2,
-      "gd": 1,
+      "l": 1,
+      "gf": 4,
+      "ga": 4,
+      "gd": 0,
       "pts": 4
     },
     {
       "pos": 5,
+      "team": "La Masia FC",
+      "p": 3,
+      "w": 1,
+      "d": 1,
+      "l": 1,
+      "gf": 3,
+      "ga": 4,
+      "gd": -1,
+      "pts": 4
+    },
+    {
+      "pos": 6,
       "team": "Tshwane South College FC",
       "p": 2,
       "w": 1,
@@ -68,19 +80,19 @@
       "pts": 3
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "JBM FC",
-      "p": 2,
+      "p": 3,
       "w": 1,
       "d": 0,
-      "l": 1,
+      "l": 2,
       "gf": 4,
-      "ga": 5,
-      "gd": -1,
+      "ga": 6,
+      "gd": -2,
       "pts": 3
     },
     {
-      "pos": 7,
+      "pos": 8,
       "team": "Rrr Rams Football Club",
       "p": 2,
       "w": 0,
@@ -92,7 +104,7 @@
       "pts": 2
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Ssu M-17 FC",
       "p": 2,
       "w": 0,
@@ -104,7 +116,7 @@
       "pts": 2
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Free Agents Football Club",
       "p": 2,
       "w": 0,
@@ -114,18 +126,6 @@
       "ga": 1,
       "gd": 0,
       "pts": 2
-    },
-    {
-      "pos": 10,
-      "team": "La Masia FC",
-      "p": 2,
-      "w": 0,
-      "d": 1,
-      "l": 1,
-      "gf": 1,
-      "ga": 3,
-      "gd": -2,
-      "pts": 1
     },
     {
       "pos": 11,
@@ -272,25 +272,29 @@
       "home_score": 3,
       "away_score": 1,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
-    {
-      "home": "JBM FC",
-      "away": "Dinoko City FC",
-      "match_no": 13,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=13&s=l",
-      "date": "2026-10-16T16:00:00+02:00",
-      "status": "NS"
     },
     {
       "home": "La Masia FC",
       "away": "University of Johannesburg FC",
       "match_no": 18,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=18&s=l",
-      "date": "2026-10-16T16:00:00+02:00",
-      "status": "NS"
+      "date": "2026-10-16",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
     },
+    {
+      "home": "JBM FC",
+      "away": "Dinoko City FC",
+      "match_no": 13,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=13&s=l",
+      "date": "2026-10-16",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Ssu M-17 FC",
       "away": "Rrr Rams Football Club",
