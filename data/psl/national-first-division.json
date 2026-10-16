@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-16T16:58:50+02:00",
+  "updated": "2026-10-16T17:01:23+02:00",
   "log": [
     {
       "pos": 1,
@@ -643,7 +643,7 @@
       "home_score": 1,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "71'"
+      "minute": "74'"
     },
     {
       "home": "Highbury",
@@ -655,7 +655,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "63'"
+      "minute": "66'"
     }
   ],
   "fixtures": [
