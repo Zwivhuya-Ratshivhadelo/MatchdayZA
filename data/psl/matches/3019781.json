@@ -3,20 +3,20 @@
   "comp": "national-first-division",
   "home": "Gomora United",
   "away": "Cape Town City FC",
-  "updated": "2026-10-16T16:30:56+02:00",
+  "updated": "2026-10-16T16:33:13+02:00",
   "home_score": 0,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "HT",
+  "minute": "46'",
   "stats": [
     {
       "label": "Possession",
-      "home": "51%",
-      "away": "49%"
+      "home": "52%",
+      "away": "48%"
     },
     {
       "label": "Attacks",
-      "home": "30",
+      "home": "31",
       "away": "35"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "3",
+      "home": "4",
       "away": "4"
     },
     {
