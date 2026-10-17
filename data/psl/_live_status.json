@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-17T16:17:18+02:00",
+  "time": "2026-10-17T16:19:54+02:00",
   "links_found": 12,
   "games": [
     {
@@ -7,7 +7,7 @@
       "kickoff": "2026-10-17T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674035",
       "page": "LIVE 0-0, line-ups 2",
-      "365scores": "LIVE 0-0 45+1'"
+      "365scores": "LIVE 0-0 HT"
     },
     {
       "game": "Golden Arrows v Milford FC",
@@ -33,14 +33,14 @@
       "kickoff": "2026-10-17T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019633",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-0 43'"
+      "365scores": "LIVE 0-1 45'"
     },
     {
       "game": "Upington City v Orbit College FC",
       "kickoff": "2026-10-17T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019637",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 1-0 40'"
+      "365scores": "LIVE 1-0 43'"
     },
     {
       "game": "Pretoria University FC v Hungry Lions FC",
