@@ -3,17 +3,17 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kruger United",
-  "updated": "2026-10-17T15:53:15+02:00",
+  "updated": "2026-10-17T15:55:57+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "22'",
+  "minute": "25'",
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "44%",
-      "away": "56%"
+      "home": "43%",
+      "away": "57%"
     },
     {
       "label": "Attacks",
@@ -27,8 +27,8 @@
     },
     {
       "label": "Free Kicks",
-      "home": "2",
-      "away": "0"
+      "home": "3",
+      "away": "1"
     },
     {
       "label": "Offsides",
@@ -37,7 +37,7 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "4",
+      "home": "5",
       "away": "6"
     },
     {
@@ -58,7 +58,7 @@
     {
       "label": "Total Shots",
       "home": "3",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Shots On Target",
@@ -72,13 +72,13 @@
     },
     {
       "label": "Passes Completed",
-      "home": "85",
-      "away": "116"
+      "home": "89",
+      "away": "128"
     },
     {
       "label": "Shots Off Target",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Shots Blocked",
@@ -97,28 +97,28 @@
     },
     {
       "label": "Total Passes",
-      "home": "114",
-      "away": "138"
+      "home": "122",
+      "away": "153"
     },
     {
       "label": "Shots Outside The Box",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Passes Own Half",
-      "home": "53",
-      "away": "73"
+      "home": "58",
+      "away": "84"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "62",
-      "away": "69"
+      "home": "65",
+      "away": "73"
     },
     {
       "label": "Long Passes Completed",
-      "home": "11/20 (55%)",
-      "away": "6/14 (43%)"
+      "home": "11/22 (50%)",
+      "away": "7/18 (39%)"
     },
     {
       "label": "Key Passes",
@@ -128,12 +128,12 @@
     {
       "label": "Passes Into Final Third",
       "home": "17",
-      "away": "13"
+      "away": "14"
     },
     {
       "label": "Backward Passes",
       "home": "25",
-      "away": "23"
+      "away": "26"
     },
     {
       "label": "Interceptions",
@@ -152,18 +152,18 @@
     },
     {
       "label": "Clearances",
-      "home": "4",
+      "home": "5",
       "away": "3"
     },
     {
       "label": "Duels Won",
-      "home": "12",
-      "away": "8"
+      "home": "14",
+      "away": "9"
     },
     {
       "label": "Was Fouled",
-      "home": "2",
-      "away": "0"
+      "home": "3",
+      "away": "1"
     },
     {
       "label": "Successful Dribbles",
@@ -182,13 +182,13 @@
     },
     {
       "label": "Possession Lost",
-      "home": "40",
-      "away": "39"
+      "home": "45",
+      "away": "43"
     },
     {
       "label": "Fouls",
-      "home": "0",
-      "away": "3"
+      "home": "1",
+      "away": "4"
     },
     {
       "label": "Substitutions",
