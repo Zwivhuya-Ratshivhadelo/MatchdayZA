@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Milford FC",
-  "updated": "2026-10-17T17:04:23+02:00",
+  "updated": "2026-10-17T17:06:58+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "77'",
+  "minute": "79'",
   "events": [
     {
       "minute": "71'",
@@ -34,8 +34,8 @@
     },
     {
       "label": "Attacks",
-      "home": "90",
-      "away": "100"
+      "home": "95",
+      "away": "105"
     },
     {
       "label": "Corners",
@@ -44,7 +44,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "7",
+      "home": "8",
       "away": "11"
     },
     {
@@ -54,8 +54,8 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "17",
-      "away": "10"
+      "home": "18",
+      "away": "11"
     },
     {
       "label": "Goal Kicks",
@@ -75,7 +75,7 @@
     {
       "label": "Total Shots",
       "home": "7",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Shots On Target",
@@ -85,17 +85,17 @@
     {
       "label": "Big Chances Created",
       "home": "1",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Passes Completed",
-      "home": "334",
-      "away": "363"
+      "home": "336",
+      "away": "377"
     },
     {
       "label": "Shots Off Target",
       "home": "4",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Shots Blocked",
@@ -110,12 +110,12 @@
     {
       "label": "Shots Inside The Box",
       "home": "3",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Total Passes",
-      "home": "399",
-      "away": "431"
+      "home": "402",
+      "away": "446"
     },
     {
       "label": "Shots Outside The Box",
@@ -125,7 +125,7 @@
     {
       "label": "Big Chances Missed",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Crosses Completed",
@@ -135,37 +135,37 @@
     {
       "label": "Passes Own Half",
       "home": "251",
-      "away": "246"
+      "away": "254"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "165",
-      "away": "196"
+      "home": "168",
+      "away": "203"
     },
     {
       "label": "Long Passes Completed",
       "home": "12/37 (32%)",
-      "away": "27/53 (51%)"
+      "away": "28/54 (52%)"
     },
     {
       "label": "Key Passes",
       "home": "5",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "47",
-      "away": "50"
+      "home": "49",
+      "away": "54"
     },
     {
       "label": "Backward Passes",
-      "home": "75",
-      "away": "73"
+      "home": "76",
+      "away": "74"
     },
     {
       "label": "Interceptions",
-      "home": "9",
-      "away": "7"
+      "home": "10",
+      "away": "8"
     },
     {
       "label": "Goalkeeper Saves",
@@ -175,7 +175,7 @@
     {
       "label": "Tackles Won",
       "home": "17/23 (74%)",
-      "away": "9/12 (75%)"
+      "away": "10/13 (77%)"
     },
     {
       "label": "Clearances",
@@ -184,8 +184,8 @@
     },
     {
       "label": "Duels Won",
-      "home": "46",
-      "away": "30"
+      "home": "47",
+      "away": "31"
     },
     {
       "label": "Aerial Duels Won",
@@ -194,22 +194,22 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "36/63 (57%)",
-      "away": "27/63 (43%)"
+      "home": "37/65 (57%)",
+      "away": "28/65 (43%)"
     },
     {
       "label": "Was Fouled",
-      "home": "7",
+      "home": "8",
       "away": "11"
     },
     {
       "label": "Successful Dribbles",
-      "home": "6/14 (43%)",
+      "home": "6/15 (40%)",
       "away": "4/12 (33%)"
     },
     {
       "label": "Was Dribbled Past",
-      "home": "8",
+      "home": "9",
       "away": "8"
     },
     {
@@ -219,17 +219,17 @@
     },
     {
       "label": "Possession Lost",
-      "home": "109",
-      "away": "119"
+      "home": "111",
+      "away": "121"
     },
     {
       "label": "Fouls",
       "home": "11",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Substitutions",
-      "home": "2",
+      "home": "3",
       "away": "2"
     }
   ],
