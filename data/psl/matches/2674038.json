@@ -3,22 +3,22 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Marumo Gallants",
-  "updated": "2026-10-17T18:04:18+02:00",
+  "updated": "2026-10-17T18:07:14+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "5'",
+  "minute": "8'",
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "73%",
-      "away": "27%"
+      "home": "76%",
+      "away": "24%"
     },
     {
       "label": "Attacks",
-      "home": "7",
-      "away": "5"
+      "home": "10",
+      "away": "9"
     },
     {
       "label": "Corners",
@@ -72,8 +72,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "13",
-      "away": "5"
+      "home": "28",
+      "away": "9"
     },
     {
       "label": "Shots Off Target",
@@ -92,33 +92,38 @@
     },
     {
       "label": "Total Passes",
-      "home": "16",
-      "away": "6"
+      "home": "32",
+      "away": "11"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "1/3 (33%)",
+      "away": "0/0"
     },
     {
       "label": "Passes Own Half",
-      "home": "8",
-      "away": "3"
+      "home": "14",
+      "away": "8"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "8",
+      "home": "21",
       "away": "3"
     },
     {
       "label": "Long Passes Completed",
-      "home": "0/1 (0%)",
+      "home": "1/3 (33%)",
       "away": "1/2 (50%)"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "3",
+      "home": "9",
       "away": "0"
     },
     {
       "label": "Backward Passes",
-      "home": "2",
-      "away": "2"
+      "home": "3",
+      "away": "4"
     },
     {
       "label": "Interceptions",
@@ -133,12 +138,22 @@
     {
       "label": "Clearances",
       "home": "0",
-      "away": "1"
+      "away": "7"
     },
     {
       "label": "Duels Won",
-      "home": "1",
-      "away": "1"
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "1/2 (50%)",
+      "away": "1/2 (50%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "1/2 (50%)",
+      "away": "1/3 (33%)"
     },
     {
       "label": "Was Fouled",
@@ -152,8 +167,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "3",
-      "away": "4"
+      "home": "7",
+      "away": "5"
     },
     {
       "label": "Fouls",
