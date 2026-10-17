@@ -1,20 +1,46 @@
 {
-  "time": "2026-10-16T17:27:16+02:00",
-  "links_found": 6,
+  "time": "2026-10-17T14:20:13+02:00",
+  "links_found": 12,
   "games": [
     {
-      "game": "Gomora United v Cape Town City FC",
-      "kickoff": "2026-10-16T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019781",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "FT 2-3 "
+      "game": "Chippa United v Kruger United",
+      "kickoff": "2026-10-17T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674035",
+      "page": "NS None-None, line-ups 0"
     },
     {
-      "game": "Highbury v Lerumo Lions",
-      "kickoff": "2026-10-16T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019783",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "FT 1-2 "
+      "game": "Golden Arrows v Milford FC",
+      "kickoff": "2026-10-17T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674036",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Leicesterford City FC v North West University",
+      "kickoff": "2026-10-17T15:30:00+02:00",
+      "match_page": null
+    },
+    {
+      "game": "Venda FC v Magesi FC",
+      "kickoff": "2026-10-17T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019617",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "The Bees v Real Native FC",
+      "kickoff": "2026-10-17T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019633",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Upington City v Orbit College FC",
+      "kickoff": "2026-10-17T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019637",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Pretoria University FC v Hungry Lions FC",
+      "kickoff": "2026-10-17T15:30:00+02:00",
+      "match_page": null
     }
   ]
 }

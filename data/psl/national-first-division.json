@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-17T13:30:17+02:00",
+  "updated": "2026-10-17T14:20:24+02:00",
   "log": [
     {
       "pos": 1,
@@ -670,21 +670,27 @@
       "away": "Magesi FC",
       "date": "2026-10-17T15:30:00+02:00",
       "venue": "Thohoyandou Stadium, Thohoyandou",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019617",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019617"
     },
     {
       "home": "The Bees",
       "away": "Real Native FC",
       "date": "2026-10-17T15:30:00+02:00",
       "venue": "Kanyamazane Stadium, Kanyamazane",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019633",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019633"
     },
     {
       "home": "Upington City",
       "away": "Orbit College FC",
       "date": "2026-10-17T15:30:00+02:00",
       "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019637",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019637"
     },
     {
       "home": "Pretoria University FC",
