@@ -3,12 +3,181 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kruger United",
-  "updated": "2026-10-17T15:22:32+02:00",
+  "updated": "2026-10-17T15:29:13+02:00",
   "home_score": null,
   "away_score": null,
   "status": "NS",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [
+    {
+      "team": "Chippa United",
+      "starting": [
+        {
+          "no": "23",
+          "name": "Stanley Nwabali",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "31",
+          "name": "I Jones",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "B Madingwane",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "Abbubaker Mobara",
+          "pos": "Defender"
+        },
+        {
+          "no": "35",
+          "name": "K Majadibodu",
+          "pos": "Defender"
+        },
+        {
+          "no": "15",
+          "name": "A Tshobeni",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "K Mfecane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "Goodman Mosele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "Justice Figuareido",
+          "pos": "Striker"
+        },
+        {
+          "no": "10",
+          "name": "A Matrose",
+          "pos": "Striker"
+        },
+        {
+          "no": "9",
+          "name": "A Bonani",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "44",
+          "name": "I Bancé",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Seun Ndlovu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "O Tshaya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "E Sithole",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "T Mini",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "X Sithole",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "D Diakité",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "Sammy Seabi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "25",
+          "name": "Sirgio Kammies",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Kruger United",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Marcel Dandjinou",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "55",
+          "name": "Ayabulela Konqobe",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "Thulane Matthews Ndlela",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "S Sibiya",
+          "pos": "Defender"
+        },
+        {
+          "no": "13",
+          "name": "Ebrahim Seedat",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "Motsie Mervyn Matima",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "27",
+          "name": "A Tiwani",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "B Malatjie",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "Celimpilo Ngema",
+          "pos": "Striker"
+        },
+        {
+          "no": "10",
+          "name": "Ntsako Makhubela",
+          "pos": "Striker"
+        },
+        {
+          "no": "9",
+          "name": "Wonderboy Makhubu",
+          "pos": "Striker"
+        }
+      ],
+      "subs": []
+    }
+  ]
 }
