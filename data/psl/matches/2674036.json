@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Milford FC",
-  "updated": "2026-10-17T16:49:20+02:00",
+  "updated": "2026-10-17T16:51:52+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "62'",
+  "minute": "64'",
   "events": [
     {
       "minute": "32'",
@@ -19,23 +19,23 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "50%",
-      "away": "50%"
+      "home": "48%",
+      "away": "52%"
     },
     {
       "label": "Attacks",
-      "home": "76",
-      "away": "80"
+      "home": "77",
+      "away": "86"
     },
     {
       "label": "Corners",
-      "home": "0",
+      "home": "1",
       "away": "3"
     },
     {
       "label": "Free Kicks",
       "home": "6",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Offsides",
@@ -45,12 +45,12 @@
     {
       "label": "Throw-Ins",
       "home": "15",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Goal Kicks",
       "home": "4",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Yellow Cards",
@@ -79,8 +79,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "302",
-      "away": "309"
+      "home": "303",
+      "away": "326"
     },
     {
       "label": "Shots Off Target",
@@ -104,8 +104,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "356",
-      "away": "365"
+      "home": "358",
+      "away": "385"
     },
     {
       "label": "Shots Outside The Box",
@@ -119,23 +119,23 @@
     },
     {
       "label": "Crosses Completed",
-      "home": "2/12 (17%)",
+      "home": "2/14 (14%)",
       "away": "4/10 (40%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "233",
-      "away": "215"
+      "home": "234",
+      "away": "231"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "135",
-      "away": "160"
+      "home": "138",
+      "away": "164"
     },
     {
       "label": "Long Passes Completed",
-      "home": "11/29 (38%)",
-      "away": "19/38 (50%)"
+      "home": "11/30 (37%)",
+      "away": "19/41 (46%)"
     },
     {
       "label": "Key Passes",
@@ -150,7 +150,7 @@
     {
       "label": "Backward Passes",
       "home": "69",
-      "away": "64"
+      "away": "68"
     },
     {
       "label": "Interceptions",
@@ -164,18 +164,18 @@
     },
     {
       "label": "Tackles Won",
-      "home": "12/18 (67%)",
+      "home": "13/19 (68%)",
       "away": "8/11 (73%)"
     },
     {
       "label": "Clearances",
       "home": "6",
-      "away": "12"
+      "away": "13"
     },
     {
       "label": "Duels Won",
-      "home": "38",
-      "away": "23"
+      "home": "39",
+      "away": "24"
     },
     {
       "label": "Aerial Duels Won",
@@ -184,13 +184,13 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "28/48 (58%)",
-      "away": "20/48 (42%)"
+      "home": "29/50 (58%)",
+      "away": "21/50 (42%)"
     },
     {
       "label": "Was Fouled",
       "home": "6",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Successful Dribbles",
@@ -204,23 +204,23 @@
     },
     {
       "label": "Final Third Possession Won",
-      "home": "10",
+      "home": "11",
       "away": "5"
     },
     {
       "label": "Possession Lost",
-      "home": "91",
-      "away": "98"
+      "home": "94",
+      "away": "102"
     },
     {
       "label": "Fouls",
-      "home": "6",
+      "home": "7",
       "away": "6"
     },
     {
       "label": "Substitutions",
       "home": "0",
-      "away": "0"
+      "away": "1"
     }
   ],
   "lineups": [
