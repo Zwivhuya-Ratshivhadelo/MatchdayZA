@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-17T19:36:22+02:00",
+  "updated": "2026-10-17T19:38:41+02:00",
   "log": [
     {
       "pos": 1,
@@ -648,8 +648,8 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "79'",
-      "latest": "78' Own goal, Marumo Gallants"
+      "minute": "82'",
+      "latest": "78' Own goal, Melusi Nkazimulo Buthelezi (Marumo Gallants)"
     }
   ],
   "fixtures": [

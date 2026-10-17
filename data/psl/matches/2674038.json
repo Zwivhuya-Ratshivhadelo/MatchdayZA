@@ -3,17 +3,17 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Marumo Gallants",
-  "updated": "2026-10-17T19:36:22+02:00",
+  "updated": "2026-10-17T19:38:41+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "79'",
+  "minute": "82'",
   "events": [
     {
       "minute": "78'",
       "type": "own_goal",
       "team": "Marumo Gallants",
-      "player": "",
+      "player": "Melusi Nkazimulo Buthelezi",
       "score": [
         2,
         0
@@ -44,8 +44,8 @@
     },
     {
       "label": "Attacks",
-      "home": "81",
-      "away": "96"
+      "home": "84",
+      "away": "97"
     },
     {
       "label": "Corners",
@@ -54,7 +54,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "8",
+      "home": "9",
       "away": "13"
     },
     {
@@ -99,8 +99,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "252",
-      "away": "286"
+      "home": "253",
+      "away": "287"
     },
     {
       "label": "Shots Off Target",
@@ -124,8 +124,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "311",
-      "away": "350"
+      "home": "312",
+      "away": "353"
     },
     {
       "label": "Shots Outside The Box",
@@ -145,17 +145,17 @@
     {
       "label": "Passes Own Half",
       "home": "140",
-      "away": "179"
+      "away": "181"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "186",
-      "away": "196"
+      "home": "187",
+      "away": "197"
     },
     {
       "label": "Long Passes Completed",
-      "home": "22/50 (44%)",
-      "away": "19/41 (46%)"
+      "home": "23/51 (45%)",
+      "away": "19/42 (45%)"
     },
     {
       "label": "Key Passes",
@@ -170,7 +170,7 @@
     {
       "label": "Backward Passes",
       "home": "54",
-      "away": "51"
+      "away": "52"
     },
     {
       "label": "Interceptions",
@@ -189,12 +189,12 @@
     },
     {
       "label": "Clearances",
-      "home": "30",
-      "away": "25"
+      "home": "31",
+      "away": "26"
     },
     {
       "label": "Duels Won",
-      "home": "49",
+      "home": "50",
       "away": "43"
     },
     {
@@ -204,12 +204,12 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "33/62 (53%)",
+      "home": "34/63 (54%)",
       "away": "29/63 (46%)"
     },
     {
       "label": "Was Fouled",
-      "home": "8",
+      "home": "9",
       "away": "13"
     },
     {
@@ -230,7 +230,7 @@
     {
       "label": "Possession Lost",
       "home": "104",
-      "away": "118"
+      "away": "120"
     },
     {
       "label": "Fouls",
@@ -239,7 +239,7 @@
     },
     {
       "label": "Substitutions",
-      "home": "2",
+      "home": "3",
       "away": "2"
     }
   ],
