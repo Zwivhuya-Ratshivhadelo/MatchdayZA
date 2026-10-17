@@ -3,22 +3,27 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Marumo Gallants",
-  "updated": "2026-10-17T18:01:55+02:00",
+  "updated": "2026-10-17T18:04:18+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "1'",
+  "minute": "5'",
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "100%",
-      "away": "0%"
+      "home": "73%",
+      "away": "27%"
     },
     {
       "label": "Attacks",
-      "home": "2",
-      "away": "1"
+      "home": "7",
+      "away": "5"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "0"
     },
     {
       "label": "Free Kicks",
@@ -33,7 +38,7 @@
     {
       "label": "Throw-Ins",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Goal Kicks",
@@ -51,29 +56,59 @@
       "away": "0"
     },
     {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
       "label": "Big Chances Created",
       "home": "0",
       "away": "0"
     },
     {
       "label": "Passes Completed",
-      "home": "12",
+      "home": "13",
+      "away": "5"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
       "away": "0"
     },
     {
       "label": "Total Passes",
-      "home": "1",
-      "away": "0"
+      "home": "16",
+      "away": "6"
     },
     {
       "label": "Passes Own Half",
-      "home": "6",
-      "away": "0"
+      "home": "8",
+      "away": "3"
     },
     {
       "label": "Passes Opposition Half",
       "home": "8",
-      "away": "0"
+      "away": "3"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "0/1 (0%)",
+      "away": "1/2 (50%)"
     },
     {
       "label": "Passes Into Final Third",
@@ -83,7 +118,7 @@
     {
       "label": "Backward Passes",
       "home": "2",
-      "away": "0"
+      "away": "2"
     },
     {
       "label": "Interceptions",
@@ -91,8 +126,23 @@
       "away": "1"
     },
     {
+      "label": "Tackles Won",
+      "home": "1/1 (100%)",
+      "away": "0/0"
+    },
+    {
+      "label": "Clearances",
+      "home": "0",
+      "away": "1"
+    },
+    {
       "label": "Duels Won",
       "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "0",
       "away": "1"
     },
     {
@@ -102,8 +152,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "2",
-      "away": "2"
+      "home": "3",
+      "away": "4"
     },
     {
       "label": "Fouls",
