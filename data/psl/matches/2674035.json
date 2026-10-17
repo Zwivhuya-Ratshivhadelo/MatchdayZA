@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kruger United",
-  "updated": "2026-10-17T17:19:58+02:00",
+  "updated": "2026-10-17T17:22:35+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "87'",
+  "minute": "90'",
   "events": [
     {
       "minute": "74'",
@@ -211,7 +211,7 @@
     {
       "label": "Substitutions",
       "home": "3",
-      "away": "2"
+      "away": "4"
     }
   ],
   "lineups": [
