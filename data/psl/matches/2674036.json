@@ -3,22 +3,22 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Milford FC",
-  "updated": "2026-10-17T15:45:08+02:00",
+  "updated": "2026-10-17T15:47:52+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "15'",
+  "minute": "18'",
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "66%",
-      "away": "34%"
+      "home": "56%",
+      "away": "44%"
     },
     {
       "label": "Attacks",
-      "home": "25",
-      "away": "13"
+      "home": "27",
+      "away": "16"
     },
     {
       "label": "Corners",
@@ -37,7 +37,7 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "5",
+      "home": "6",
       "away": "1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "label": "Total Shots",
-      "home": "1",
+      "home": "2",
       "away": "0"
     },
     {
@@ -72,8 +72,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "92",
-      "away": "45"
+      "home": "97",
+      "away": "82"
     },
     {
       "label": "Shots Off Target",
@@ -82,7 +82,7 @@
     },
     {
       "label": "Shots Blocked",
-      "home": "0",
+      "home": "1",
       "away": "0"
     },
     {
@@ -97,33 +97,43 @@
     },
     {
       "label": "Total Passes",
-      "home": "108",
-      "away": "56"
+      "home": "116",
+      "away": "94"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "1",
+      "away": "0"
     },
     {
       "label": "Passes Own Half",
-      "home": "66",
-      "away": "44"
+      "home": "71",
+      "away": "65"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "47",
-      "away": "12"
+      "home": "50",
+      "away": "30"
     },
     {
       "label": "Long Passes Completed",
-      "home": "2/9 (22%)",
-      "away": "3/5 (60%)"
+      "home": "2/11 (18%)",
+      "away": "4/7 (57%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "1",
+      "away": "0"
     },
     {
       "label": "Passes Into Final Third",
       "home": "14",
-      "away": "4"
+      "away": "8"
     },
     {
       "label": "Backward Passes",
-      "home": "20",
-      "away": "10"
+      "home": "21",
+      "away": "15"
     },
     {
       "label": "Interceptions",
@@ -137,12 +147,12 @@
     },
     {
       "label": "Clearances",
-      "home": "0",
+      "home": "2",
       "away": "4"
     },
     {
       "label": "Duels Won",
-      "home": "9",
+      "home": "10",
       "away": "2"
     },
     {
@@ -162,8 +172,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "28",
-      "away": "25"
+      "home": "31",
+      "away": "27"
     },
     {
       "label": "Substitutions",
