@@ -5,7 +5,7 @@
   "name": "FS Group 1B",
   "slug": "fs-group-1b",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28595",
-  "updated": "2026-10-16T22:30:49+02:00",
+  "updated": "2026-10-17T06:30:49+02:00",
   "log": [
     {
       "pos": 1,
@@ -118,14 +118,6 @@
   ],
   "results": [],
   "fixtures": [
-    {
-      "home": "Mangaung Unite",
-      "away": "FC Spartans Cfx pty Ltd",
-      "match_no": 8,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=8&s=l",
-      "date": "2026-10-16T16:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Sasolburg United FC",
       "away": "Sibanye Stillwater FC",

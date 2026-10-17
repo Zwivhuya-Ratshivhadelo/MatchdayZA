@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-10-16T22:31:43+02:00",
+  "updated": "2026-10-17T06:31:43+02:00",
   "log": [
     {
       "pos": 1,
@@ -375,22 +375,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "One Football Club",
-      "away": "Grassy Park United",
-      "match_no": 40,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=40&s=l",
-      "date": "2026-10-16T19:30:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Diadora FC",
-      "away": "Barcelona FC",
-      "match_no": 37,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=37&s=l",
-      "date": "2026-10-16T20:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Mbekweni Cosmos FC",
       "away": "Ammar Soccer Academy",
