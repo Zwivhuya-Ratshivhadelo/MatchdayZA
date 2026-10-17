@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kruger United",
-  "updated": "2026-10-17T16:04:18+02:00",
+  "updated": "2026-10-17T16:06:55+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "33'",
+  "minute": "36'",
   "events": [],
   "stats": [
     {
@@ -28,7 +28,7 @@
     {
       "label": "Free Kicks",
       "home": "5",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Offsides",
@@ -38,12 +38,12 @@
     {
       "label": "Throw-Ins",
       "home": "7",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Goal Kicks",
-      "home": "2",
-      "away": "2"
+      "home": "4",
+      "away": "3"
     },
     {
       "label": "Yellow Cards",
@@ -58,7 +58,7 @@
     {
       "label": "Total Shots",
       "home": "4",
-      "away": "4"
+      "away": "6"
     },
     {
       "label": "Shots On Target",
@@ -72,18 +72,18 @@
     },
     {
       "label": "Passes Completed",
-      "home": "100",
-      "away": "150"
+      "home": "110",
+      "away": "167"
     },
     {
       "label": "Shots Off Target",
       "home": "0",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Shots Blocked",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Hit Woodwork",
@@ -92,53 +92,53 @@
     },
     {
       "label": "Shots Inside The Box",
-      "home": "3",
-      "away": "0"
-    },
-    {
-      "label": "Total Passes",
-      "home": "141",
-      "away": "184"
-    },
-    {
-      "label": "Shots Outside The Box",
-      "home": "1",
-      "away": "4"
-    },
-    {
-      "label": "Crosses Completed",
-      "home": "0/2 (0%)",
-      "away": "1/7 (14%)"
-    },
-    {
-      "label": "Passes Own Half",
-      "home": "63",
-      "away": "103"
-    },
-    {
-      "label": "Passes Opposition Half",
-      "home": "80",
-      "away": "88"
-    },
-    {
-      "label": "Long Passes Completed",
-      "home": "13/30 (43%)",
-      "away": "11/26 (42%)"
-    },
-    {
-      "label": "Key Passes",
       "home": "2",
       "away": "1"
     },
     {
+      "label": "Total Passes",
+      "home": "154",
+      "away": "203"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "2",
+      "away": "5"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "0/2 (0%)",
+      "away": "2/9 (22%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "73",
+      "away": "111"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "83",
+      "away": "101"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "13/33 (39%)",
+      "away": "14/30 (47%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "3",
+      "away": "3"
+    },
+    {
       "label": "Passes Into Final Third",
       "home": "20",
-      "away": "20"
+      "away": "25"
     },
     {
       "label": "Backward Passes",
-      "home": "28",
-      "away": "28"
+      "home": "31",
+      "away": "29"
     },
     {
       "label": "Interceptions",
@@ -153,31 +153,31 @@
     {
       "label": "Tackles Won",
       "home": "7/9 (78%)",
-      "away": "6/9 (67%)"
+      "away": "7/10 (70%)"
     },
     {
       "label": "Clearances",
-      "home": "7",
+      "home": "8",
       "away": "6"
     },
     {
       "label": "Duels Won",
       "home": "19",
-      "away": "13"
+      "away": "15"
     },
     {
       "label": "Was Fouled",
       "home": "5",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Successful Dribbles",
-      "home": "3/10 (30%)",
+      "home": "3/11 (27%)",
       "away": "2/6 (33%)"
     },
     {
       "label": "Was Dribbled Past",
-      "home": "7",
+      "home": "8",
       "away": "4"
     },
     {
@@ -187,12 +187,12 @@
     },
     {
       "label": "Possession Lost",
-      "home": "57",
-      "away": "56"
+      "home": "62",
+      "away": "59"
     },
     {
       "label": "Fouls",
-      "home": "2",
+      "home": "3",
       "away": "6"
     },
     {
