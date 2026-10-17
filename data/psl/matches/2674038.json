@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Marumo Gallants",
-  "updated": "2026-10-17T19:09:32+02:00",
+  "updated": "2026-10-17T19:12:04+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "52'",
+  "minute": "55'",
   "events": [
     {
       "minute": "30'",
@@ -23,13 +23,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "48%",
-      "away": "52%"
+      "home": "49%",
+      "away": "51%"
     },
     {
       "label": "Attacks",
-      "home": "59",
-      "away": "74"
+      "home": "60",
+      "away": "75"
     },
     {
       "label": "Corners",
@@ -38,7 +38,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "6",
+      "home": "7",
       "away": "10"
     },
     {
@@ -48,12 +48,12 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "8",
+      "home": "9",
       "away": "13"
     },
     {
       "label": "Goal Kicks",
-      "home": "2",
+      "home": "3",
       "away": "7"
     },
     {
@@ -69,7 +69,7 @@
     {
       "label": "Total Shots",
       "home": "8",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Shots On Target",
@@ -83,13 +83,13 @@
     },
     {
       "label": "Passes Completed",
-      "home": "186",
-      "away": "195"
+      "home": "199",
+      "away": "198"
     },
     {
       "label": "Shots Off Target",
       "home": "6",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Shots Blocked",
@@ -104,12 +104,12 @@
     {
       "label": "Shots Inside The Box",
       "home": "6",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Total Passes",
-      "home": "227",
-      "away": "239"
+      "home": "241",
+      "away": "244"
     },
     {
       "label": "Shots Outside The Box",
@@ -128,32 +128,32 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "99",
+      "home": "110",
       "away": "130"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "143",
-      "away": "129"
+      "home": "146",
+      "away": "134"
     },
     {
       "label": "Long Passes Completed",
-      "home": "17/37 (46%)",
-      "away": "14/30 (47%)"
+      "home": "18/38 (47%)",
+      "away": "15/31 (48%)"
     },
     {
       "label": "Key Passes",
-      "home": "5",
+      "home": "6",
       "away": "1"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "39",
-      "away": "35"
+      "home": "40",
+      "away": "37"
     },
     {
       "label": "Backward Passes",
-      "home": "40",
+      "home": "42",
       "away": "40"
     },
     {
@@ -163,63 +163,63 @@
     },
     {
       "label": "Goalkeeper Saves",
-      "home": "2",
+      "home": "1",
       "away": "0"
     },
     {
       "label": "Tackles Won",
-      "home": "6/9 (67%)",
-      "away": "2/4 (50%)"
+      "home": "7/10 (70%)",
+      "away": "3/5 (60%)"
     },
     {
       "label": "Clearances",
-      "home": "26",
+      "home": "25",
       "away": "20"
     },
     {
       "label": "Duels Won",
-      "home": "33",
-      "away": "26"
+      "home": "37",
+      "away": "28"
     },
     {
       "label": "Aerial Duels Won",
-      "home": "9/18 (50%)",
-      "away": "8/17 (47%)"
+      "home": "11/20 (55%)",
+      "away": "9/20 (45%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "24/42 (57%)",
-      "away": "18/42 (43%)"
+      "home": "26/45 (58%)",
+      "away": "19/45 (42%)"
     },
     {
       "label": "Was Fouled",
-      "home": "6",
+      "home": "7",
       "away": "10"
     },
     {
       "label": "Successful Dribbles",
       "home": "9/11 (82%)",
-      "away": "4/8 (50%)"
+      "away": "4/9 (44%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "2",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Final Third Possession Won",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Possession Lost",
-      "home": "74",
-      "away": "83"
+      "home": "77",
+      "away": "86"
     },
     {
       "label": "Fouls",
       "home": "10",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Substitutions",
