@@ -1,39 +1,13 @@
 {
-  "time": "2026-10-17T17:55:14+02:00",
-  "links_found": 12,
+  "time": "2026-10-17T18:01:21+02:00",
+  "links_found": 6,
   "games": [
     {
-      "game": "Chippa United v Kruger United",
-      "kickoff": "2026-10-17T15:30:00+02:00"
-    },
-    {
-      "game": "Golden Arrows v Milford FC",
-      "kickoff": "2026-10-17T15:30:00+02:00"
-    },
-    {
-      "game": "Leicesterford City FC v North West University",
-      "kickoff": "2026-10-17T15:30:00+02:00",
-      "match_page": null
-    },
-    {
-      "game": "Venda FC v Magesi FC",
-      "kickoff": "2026-10-17T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019617",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "NS None-None "
-    },
-    {
-      "game": "The Bees v Real Native FC",
-      "kickoff": "2026-10-17T15:30:00+02:00"
-    },
-    {
-      "game": "Upington City v Orbit College FC",
-      "kickoff": "2026-10-17T15:30:00+02:00"
-    },
-    {
-      "game": "Pretoria University FC v Hungry Lions FC",
-      "kickoff": "2026-10-17T15:30:00+02:00",
-      "match_page": null
+      "game": "Sekhukhune United v Marumo Gallants",
+      "kickoff": "2026-10-17T18:00:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674038",
+      "page": "LIVE 0-0, line-ups 2",
+      "365scores": "LIVE 0-0 1'"
     }
   ]
 }
