@@ -364,10 +364,15 @@ function startFeed(getComps, redraw) {
 }
 
 /* ---------- next matches, pitch, results and log: used by competition and club pages ---------- */
+/* every competition's data arrived (a failed download must not blank the page) */
+const allLoaded = (comps) => Object.values(comps).every(Boolean);
+
 async function renderBoard(view) {
   let comps = await loadComps();
+  if (!allLoaded(comps)) return;   // keep what the page was built with
   let chosen = param("m");          // upcoming or live game on the pitch (from a tap, or a shared link)
   let drawToken = 0;
+  let panelKey = null;              // game whose details are below the pitch (null: as the page was built)
   const setUrl = () => {
     const q = new URLSearchParams();
     if (chosen) q.set("m", chosen);
@@ -398,14 +403,14 @@ async function renderBoard(view) {
     const next = [...live, ...fixtures].slice(0, 12);
     const title = $('[data-md="next-title"]');
     if (title) title.textContent = live.length ? "Live Score" : "Next matches";
-    $('[data-md="next-matches"]').innerHTML = next.length
-      ? next.map((m) => matchCard(m, { pick: true, selected: gameKey(m) === pickKey })).join("")
-      : `<p class="empty">No ${esc(v.name)} matches scheduled yet.</p>`;
+    // nothing coming up: the section is left out rather than showing an empty message
+    $('.next-bar').hidden = !next.length;
+    $('[data-md="next-matches"]').innerHTML = next.map((m) => matchCard(m, { pick: true, selected: gameKey(m) === pickKey })).join("");
 
     // the finished game on the pitch is not repeated in the results
     const done = results.filter((m) => m.status === "FT" && gameKey(m) !== pickKey).sort(byDate).reverse();
     const resBox = $('[data-md="results"]');
-    if (!resultsList(resBox, done, v.labels ? compName : null, { link: true })) resBox.innerHTML = `<p class="empty">No ${esc(v.name)} results yet.</p>`;
+    $('.results-block').hidden = !resultsList(resBox, done, v.labels ? compName : null, { link: true });
 
     const log = v.log;
     $('[data-md="log-section"]').hidden = !log;
@@ -414,18 +419,25 @@ async function renderBoard(view) {
     // pitch first with what we know, then the game's details once loaded
     const feat = $('[data-md="featured"]'), panel = $('[data-md="match-panel"]');
     feat.innerHTML = pick ? pitchCard(pick, compName(pick)) + goalsStrip(pick) : "";
-    panel.innerHTML = "";
+    // same game as before: its details stay up until fresh ones arrive (no blank flash)
+    const sameGame = panelKey === null || panelKey === pickKey;
+    if (!sameGame) panel.innerHTML = "";
+    panelKey = pickKey || "";
     const token = ++drawToken;
     if (pick) {
       (pick.match_id ? loadMatch(pick.match_id) : Promise.resolve(null)).then((detail) => {
         if (token !== drawToken) return;   // the user picked another game meanwhile
         const m = withFeed(mergeDetail(pick, detail));
         if (detail) feat.innerHTML = pitchCard(m, compName(pick)) + goalsStrip(m);
-        panel.innerHTML = detailPanel(m, detail);
+        if (detail || !pick.match_id || !sameGame) panel.innerHTML = detailPanel(m, detail);
       });
     }
 
-    liveRefresh(live.length > 0 || pick?.status === "LIVE", async () => { comps = await loadComps(); redraw(); });
+    liveRefresh(live.length > 0 || pick?.status === "LIVE", async () => {
+      const fresh = await loadComps();
+      if (allLoaded(fresh)) comps = fresh;   // a failed refresh keeps what's showing
+      redraw();
+    });
   };
   // redraw without losing the reader's place in the row or the opened results
   const redraw = () => {
@@ -494,7 +506,8 @@ async function renderGame() {
     const detail = g.match_id ? await loadMatch(g.match_id) : null;
     const m = withFeed(mergeDetail(g, detail));
     $('[data-md="featured"]').innerHTML = pitchCard(m, PSL[compKey].name) + goalsStrip(m);
-    $('[data-md="match-panel"]').innerHTML = detailPanel(m, detail);
+    // a failed download keeps the details the page already shows
+    if (detail || !g.match_id) $('[data-md="match-panel"]').innerHTML = detailPanel(m, detail);
     // the tab title follows the game: "Live Score" with the score while it is on
     const name = PSL[compKey].name;
     if (m.status === "LIVE") document.title = `${m.home} ${m.home_score}-${m.away_score} ${m.away} Live Score | ${name} | MatchdayZA`;
@@ -510,7 +523,7 @@ async function renderAbc() {
   compNav("abc");
   const streams = await loadStreams();
   const box = $('[data-md="abc-content"]');
-  if (!streams.length) { box.innerHTML = `<p class="empty">ABC Motsepe League data appears after the first update.</p>`; return; }
+  if (!streams.length) return;   // keep what the page was built with
   const provinces = [...new Set(streams.map((s) => s.province || "Other"))].sort();
   let current = streams.find((s) => s.stream_id === param("s")) || streams.find((s) => s.province === provinces[0]);
   const provSel = $('[data-md="province-select"]'), streamSel = $('[data-md="stream-select"]');
@@ -523,10 +536,11 @@ async function renderAbc() {
     streamSel.closest("label").hidden = inProv.length < 2;
 
     const fixtures = [...(current.fixtures || [])].sort(byDate).slice(0, 12);
-    $('[data-md="next-matches"]').innerHTML = fixtures.length ? fixtures.map(matchCard).join("") : `<p class="empty">No fixtures listed for ${esc(current.name)} yet.</p>`;
+    $('.next-bar').hidden = !fixtures.length;
+    $('[data-md="next-matches"]').innerHTML = fixtures.map(matchCard).join("");
     const done = (current.results || []).filter((m) => m.status === "FT").sort(byDate).reverse();
     const resBox = $('[data-md="results"]');
-    if (!resultsList(resBox, done)) resBox.innerHTML = `<p class="empty">No results for ${esc(current.name)} yet.</p>`;
+    $('.results-block').hidden = !resultsList(resBox, done);
     const hasLog = (current.log || []).length > 0;
     $('[data-md="log-section"]').hidden = !hasLog;
     $('[data-md="standings"]').innerHTML = hasLog ? standingsTable(enrichLog(current.log, current.results)) : "";

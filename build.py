@@ -237,7 +237,7 @@ def build_comp(slug_, template, svg, today):
     done = [m for m in done if game_key(m) != pick_key]   # the game on the pitch is not repeated
     nxt = (live + fixtures)[:12]
     next_html = ("".join(match_card(m, today, True, game_key(m) == pick_key) for m in nxt) if nxt
-                 else f'<p class="empty">No {esc(name)} matches scheduled yet.</p>')
+                 else "")
     log = comp.get("log", [])
 
     league = " log," if comp.get("league") or log else ""
@@ -251,7 +251,8 @@ def build_comp(slug_, template, svg, today):
         "h1": esc(f"{name} live scores,{league} fixtures and results"),
         "nav": nav(slug_), "next_title": "Live Score" if live else "Next matches", "next": next_html,
         "featured": pitch_card(pick, name, today, svg) + goals_strip(pick) if pick else "",
-        "results": results_list(done, pick=True, link=True) or f'<p class="empty">No {esc(name)} results yet.</p>',
+        "results": results_list(done, pick=True, link=True),
+        "next_hidden": "" if nxt else " hidden", "results_hidden": "" if done else " hidden",
         "standings": standings_table(enrich_log(log, results, comp.get("extra")), links=True) if log else "",
         "log_hidden": "" if log else " hidden",
     })
@@ -265,7 +266,8 @@ def build_abc(template, today):
     values = {"title": "ABC Motsepe League logs, fixtures and results | MatchdayZA",
               "description": "ABC Motsepe League logs, fixtures and results for every province and stream.",
               "canonical": SITE + "/abc.html", "nav": nav("abc"), "provinces": "", "streams": "",
-              "stream_hidden": "", "next": "", "results": "", "standings": "", "log_hidden": " hidden"}
+              "stream_hidden": "", "next": "", "results": "", "standings": "", "log_hidden": " hidden",
+              "next_hidden": " hidden", "results_hidden": " hidden"}
     if streams:
         provinces = sorted({s.get("province") or "Other" for s in streams})
         prov = provinces[0]
@@ -281,8 +283,9 @@ def build_abc(template, today):
                                for s in in_prov),
             "stream_hidden": " hidden" if len(in_prov) < 2 else "",
             "next": ("".join(match_card(m, today) for m in fixtures) if fixtures
-                     else f'<p class="empty">No fixtures listed for {esc(cur["name"])} yet.</p>'),
-            "results": results_list(done) or f'<p class="empty">No results for {esc(cur["name"])} yet.</p>',
+                     else ""),
+            "results": results_list(done),
+            "next_hidden": "" if fixtures else " hidden", "results_hidden": "" if done else " hidden",
             "standings": standings_table(enrich_log(log, cur.get("results", []))) if log else "",
             "log_hidden": "" if log else " hidden",
         })
@@ -483,9 +486,10 @@ def build_club(club, comps, template, svg, today):
         "canonical": SITE + club_url(club), "club_name": esc(club), "club_crest": crest(club),
         "nav": nav(None), "next_title": "Live Score" if live else "Next matches",
         "next": ("".join(match_card(m, today, True, game_key(m) == pick_key) for m in nxt) if nxt
-                 else f'<p class="empty">No {esc(club)} matches scheduled yet.</p>'),
+                 else ""),
         "featured": pitch_card(pick, name_of(pick), today, svg) + goals_strip(pick) if pick else "",
-        "results": results_list(done, True, name_of, True) or f'<p class="empty">No {esc(club)} results yet.</p>',
+        "results": results_list(done, True, name_of, True),
+        "next_hidden": "" if nxt else " hidden", "results_hidden": "" if done else " hidden",
         "standings": standings_table(enrich_log(lc.get("log", []), lc.get("results", []), lc.get("extra")), True, club) if league else "",
         "log_hidden": "" if league else " hidden",
     })
