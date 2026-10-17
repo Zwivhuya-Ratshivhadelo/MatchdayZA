@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-17T17:27:51+02:00",
+  "updated": "2026-10-17T17:30:12+02:00",
   "log": [
     {
       "pos": 1,
@@ -621,8 +621,8 @@
       "url": "https://www.psl.co.za/matchcentre/detail/2674035",
       "home_score": 0,
       "away_score": 1,
-      "status": "LIVE",
-      "minute": "90+5'",
+      "status": "FT",
+      "minute": "90+6'",
       "latest": "90' Goal, Sipho Sibiya (Kruger United)"
     },
     {
