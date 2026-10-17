@@ -3,22 +3,22 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Marumo Gallants",
-  "updated": "2026-10-17T18:14:34+02:00",
+  "updated": "2026-10-17T18:17:01+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "15'",
+  "minute": "17'",
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "60%",
-      "away": "40%"
+      "home": "59%",
+      "away": "41%"
     },
     {
       "label": "Attacks",
-      "home": "13",
-      "away": "17"
+      "home": "18",
+      "away": "18"
     },
     {
       "label": "Corners",
@@ -28,12 +28,12 @@
     {
       "label": "Free Kicks",
       "home": "2",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Offsides",
       "home": "0",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Throw-Ins",
@@ -58,7 +58,7 @@
     {
       "label": "Total Shots",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Shots On Target",
@@ -72,8 +72,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "67",
-      "away": "38"
+      "home": "78",
+      "away": "47"
     },
     {
       "label": "Shots Off Target",
@@ -83,7 +83,7 @@
     {
       "label": "Shots Blocked",
       "home": "0",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Hit Woodwork",
@@ -97,8 +97,13 @@
     },
     {
       "label": "Total Passes",
-      "home": "74",
-      "away": "46"
+      "home": "86",
+      "away": "56"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "0",
+      "away": "1"
     },
     {
       "label": "Big Chances Missed",
@@ -108,22 +113,22 @@
     {
       "label": "Crosses Completed",
       "home": "1/4 (25%)",
-      "away": "0/6 (0%)"
+      "away": "0/7 (0%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "35",
-      "away": "22"
+      "home": "43",
+      "away": "29"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "43",
-      "away": "30"
+      "home": "47",
+      "away": "34"
     },
     {
       "label": "Long Passes Completed",
-      "home": "3/6 (50%)",
-      "away": "3/8 (38%)"
+      "home": "3/7 (43%)",
+      "away": "4/9 (44%)"
     },
     {
       "label": "Key Passes",
@@ -133,17 +138,17 @@
     {
       "label": "Passes Into Final Third",
       "home": "14",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Backward Passes",
-      "home": "15",
-      "away": "12"
+      "home": "17",
+      "away": "15"
     },
     {
       "label": "Interceptions",
       "home": "2",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Tackles Won",
@@ -153,17 +158,22 @@
     {
       "label": "Clearances",
       "home": "4",
-      "away": "8"
+      "away": "9"
     },
     {
       "label": "Duels Won",
-      "home": "4",
-      "away": "5"
+      "home": "5",
+      "away": "7"
     },
     {
       "label": "Was Fouled",
       "home": "2",
-      "away": "5"
+      "away": "6"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "0/0",
+      "away": "1/2 (50%)"
     },
     {
       "label": "Was Dribbled Past",
@@ -172,12 +182,12 @@
     },
     {
       "label": "Possession Lost",
-      "home": "14",
-      "away": "17"
+      "home": "16",
+      "away": "20"
     },
     {
       "label": "Fouls",
-      "home": "4",
+      "home": "6",
       "away": "2"
     },
     {
