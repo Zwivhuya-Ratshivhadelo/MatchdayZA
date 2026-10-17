@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Milford FC",
-  "updated": "2026-10-17T16:38:37+02:00",
+  "updated": "2026-10-17T16:41:16+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "51'",
+  "minute": "54'",
   "events": [
     {
       "minute": "32'",
@@ -19,13 +19,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "50%",
-      "away": "50%"
+      "home": "51%",
+      "away": "49%"
     },
     {
       "label": "Attacks",
-      "home": "65",
-      "away": "70"
+      "home": "68",
+      "away": "74"
     },
     {
       "label": "Corners",
@@ -49,8 +49,8 @@
     },
     {
       "label": "Goal Kicks",
-      "home": "3",
-      "away": "5"
+      "home": "4",
+      "away": "6"
     },
     {
       "label": "Yellow Cards",
@@ -65,7 +65,7 @@
     {
       "label": "Total Shots",
       "home": "5",
-      "away": "4"
+      "away": "6"
     },
     {
       "label": "Shots On Target",
@@ -79,18 +79,18 @@
     },
     {
       "label": "Passes Completed",
-      "home": "262",
-      "away": "260"
+      "home": "277",
+      "away": "273"
     },
     {
       "label": "Shots Off Target",
       "home": "3",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Shots Blocked",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Hit Woodwork",
@@ -104,13 +104,13 @@
     },
     {
       "label": "Total Passes",
-      "home": "310",
-      "away": "308"
+      "home": "328",
+      "away": "322"
     },
     {
       "label": "Shots Outside The Box",
       "home": "3",
-      "away": "1"
+      "away": "3"
     },
     {
       "label": "Big Chances Missed",
@@ -124,38 +124,38 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "210",
-      "away": "180"
+      "home": "222",
+      "away": "187"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "111",
-      "away": "136"
+      "home": "117",
+      "away": "143"
     },
     {
       "label": "Long Passes Completed",
-      "home": "9/24 (38%)",
-      "away": "18/34 (53%)"
+      "home": "9/26 (35%)",
+      "away": "18/35 (51%)"
     },
     {
       "label": "Key Passes",
-      "home": "3",
-      "away": "3"
+      "home": "4",
+      "away": "5"
     },
     {
       "label": "Passes Into Final Third",
       "home": "31",
-      "away": "30"
+      "away": "34"
     },
     {
       "label": "Backward Passes",
-      "home": "63",
-      "away": "54"
+      "home": "65",
+      "away": "57"
     },
     {
       "label": "Interceptions",
       "home": "6",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Goalkeeper Saves",
@@ -209,8 +209,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "81",
-      "away": "86"
+      "home": "84",
+      "away": "87"
     },
     {
       "label": "Fouls",
