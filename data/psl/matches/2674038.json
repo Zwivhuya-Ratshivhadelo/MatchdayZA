@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Marumo Gallants",
-  "updated": "2026-10-17T18:53:30+02:00",
+  "updated": "2026-10-17T18:55:44+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
@@ -39,7 +39,7 @@
     {
       "label": "Free Kicks",
       "home": "6",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Offsides",
@@ -83,7 +83,7 @@
     },
     {
       "label": "Passes Completed",
-      "home": "168",
+      "home": "169",
       "away": "160"
     },
     {
@@ -109,7 +109,7 @@
     {
       "label": "Total Passes",
       "home": "202",
-      "away": "197"
+      "away": "195"
     },
     {
       "label": "Shots Outside The Box",
@@ -129,16 +129,16 @@
     {
       "label": "Passes Own Half",
       "home": "89",
-      "away": "111"
+      "away": "110"
     },
     {
       "label": "Passes Opposition Half",
       "home": "127",
-      "away": "105"
+      "away": "104"
     },
     {
       "label": "Long Passes Completed",
-      "home": "12/30 (40%)",
+      "home": "13/30 (43%)",
       "away": "11/25 (44%)"
     },
     {
@@ -148,13 +148,13 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "36",
+      "home": "37",
       "away": "26"
     },
     {
       "label": "Backward Passes",
       "home": "35",
-      "away": "32"
+      "away": "31"
     },
     {
       "label": "Interceptions",
@@ -163,7 +163,7 @@
     },
     {
       "label": "Tackles Won",
-      "home": "4/6 (67%)",
+      "home": "5/7 (71%)",
       "away": "2/4 (50%)"
     },
     {
@@ -173,23 +173,23 @@
     },
     {
       "label": "Duels Won",
-      "home": "28",
-      "away": "23"
+      "home": "29",
+      "away": "25"
     },
     {
       "label": "Aerial Duels Won",
-      "home": "9/15 (60%)",
-      "away": "6/15 (40%)"
+      "home": "9/16 (56%)",
+      "away": "7/16 (44%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "19/37 (51%)",
-      "away": "17/37 (46%)"
+      "home": "20/38 (53%)",
+      "away": "18/38 (47%)"
     },
     {
       "label": "Was Fouled",
       "home": "6",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Successful Dribbles",
@@ -208,13 +208,13 @@
     },
     {
       "label": "Possession Lost",
-      "home": "62",
+      "home": "61",
       "away": "70"
     },
     {
       "label": "Fouls",
       "home": "10",
-      "away": "7"
+      "away": "6"
     },
     {
       "label": "Substitutions",
@@ -262,6 +262,11 @@
           "pos": "Midfielder"
         },
         {
+          "no": "31",
+          "name": "T Mokoane",
+          "pos": "Midfielder"
+        },
+        {
           "no": "15",
           "name": "Siphesihle Mkhize",
           "pos": "Midfielder"
@@ -270,11 +275,6 @@
           "no": "33",
           "name": "Givemore Khupe",
           "pos": "Midfielder"
-        },
-        {
-          "no": "31",
-          "name": "T Mokoane",
-          "pos": "Striker"
         },
         {
           "no": "34",
@@ -286,11 +286,6 @@
         {
           "no": "23",
           "name": "M Sapunga Mbara",
-          "pos": "Substitute"
-        },
-        {
-          "no": "12",
-          "name": "Thato Khiba",
           "pos": "Substitute"
         },
         {
@@ -316,6 +311,11 @@
         {
           "no": "27",
           "name": "T Makubo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Thato Khiba",
           "pos": "Substitute"
         },
         {
@@ -354,8 +354,8 @@
           "pos": "Defender"
         },
         {
-          "no": "27",
-          "name": "Saketso Moremi",
+          "no": "17",
+          "name": "P Motsoeneng",
           "pos": "Defender"
         },
         {
@@ -369,8 +369,8 @@
           "pos": "Midfielder"
         },
         {
-          "no": "17",
-          "name": "P Motsoeneng",
+          "no": "27",
+          "name": "Saketso Moremi",
           "pos": "Midfielder"
         },
         {
