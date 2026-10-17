@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Marumo Gallants",
-  "updated": "2026-10-17T19:23:25+02:00",
+  "updated": "2026-10-17T19:25:38+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "66'",
+  "minute": "68'",
   "events": [
     {
       "minute": "65'",
@@ -49,7 +49,7 @@
     },
     {
       "label": "Offsides",
-      "home": "1",
+      "home": "2",
       "away": "3"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "label": "Goal Kicks",
-      "home": "6",
+      "home": "5",
       "away": "8"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "label": "Total Shots",
-      "home": "9",
+      "home": "10",
       "away": "8"
     },
     {
@@ -89,12 +89,12 @@
     },
     {
       "label": "Passes Completed",
-      "home": "226",
+      "home": "233",
       "away": "245"
     },
     {
       "label": "Shots Off Target",
-      "home": "7",
+      "home": "8",
       "away": "5"
     },
     {
@@ -114,12 +114,12 @@
     },
     {
       "label": "Total Passes",
-      "home": "275",
+      "home": "281",
       "away": "299"
     },
     {
       "label": "Shots Outside The Box",
-      "home": "2",
+      "home": "3",
       "away": "5"
     },
     {
@@ -135,17 +135,17 @@
     {
       "label": "Passes Own Half",
       "home": "124",
-      "away": "158"
+      "away": "157"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "166",
-      "away": "164"
+      "home": "172",
+      "away": "165"
     },
     {
       "label": "Long Passes Completed",
-      "home": "22/45 (49%)",
-      "away": "17/36 (47%)"
+      "home": "21/44 (48%)",
+      "away": "17/37 (46%)"
     },
     {
       "label": "Key Passes",
@@ -154,12 +154,12 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "45",
+      "home": "51",
       "away": "47"
     },
     {
       "label": "Backward Passes",
-      "home": "46",
+      "home": "48",
       "away": "48"
     },
     {
@@ -180,22 +180,22 @@
     {
       "label": "Clearances",
       "home": "28",
-      "away": "22"
+      "away": "21"
     },
     {
       "label": "Duels Won",
       "home": "44",
-      "away": "33"
+      "away": "32"
     },
     {
       "label": "Aerial Duels Won",
-      "home": "14/26 (54%)",
-      "away": "12/26 (46%)"
+      "home": "14/25 (56%)",
+      "away": "11/25 (44%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "30/52 (58%)",
-      "away": "21/52 (40%)"
+      "home": "30/51 (59%)",
+      "away": "21/53 (40%)"
     },
     {
       "label": "Was Fouled",
@@ -224,8 +224,8 @@
     },
     {
       "label": "Fouls",
-      "home": "11",
-      "away": "8"
+      "home": "10",
+      "away": "9"
     },
     {
       "label": "Substitutions",
