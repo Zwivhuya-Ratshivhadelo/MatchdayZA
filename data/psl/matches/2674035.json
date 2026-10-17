@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kruger United",
-  "updated": "2026-10-17T17:01:53+02:00",
+  "updated": "2026-10-17T17:04:22+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "69'",
+  "minute": "72'",
   "events": [
     {
       "minute": "52'",
@@ -19,8 +19,8 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "44%",
-      "away": "56%"
+      "home": "45%",
+      "away": "55%"
     },
     {
       "label": "Attacks",
@@ -44,7 +44,7 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "12",
+      "home": "13",
       "away": "18"
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "label": "Passes Completed",
-      "home": "188",
+      "home": "189",
       "away": "242"
     },
     {
@@ -104,8 +104,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "246",
-      "away": "293"
+      "home": "249",
+      "away": "295"
     },
     {
       "label": "Shots Outside The Box",
@@ -119,18 +119,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "119",
+      "home": "120",
       "away": "141"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "131",
-      "away": "168"
+      "home": "133",
+      "away": "170"
     },
     {
       "label": "Long Passes Completed",
-      "home": "24/48 (50%)",
-      "away": "21/45 (47%)"
+      "home": "25/50 (50%)",
+      "away": "21/47 (45%)"
     },
     {
       "label": "Key Passes",
@@ -139,18 +139,18 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "38",
+      "home": "39",
       "away": "58"
     },
     {
       "label": "Backward Passes",
-      "home": "45",
+      "home": "46",
       "away": "45"
     },
     {
       "label": "Interceptions",
       "home": "7",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Goalkeeper Saves",
@@ -169,7 +169,7 @@
     },
     {
       "label": "Duels Won",
-      "home": "33",
+      "home": "34",
       "away": "26"
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "label": "Successful Dribbles",
-      "home": "4/14 (29%)",
+      "home": "5/15 (33%)",
       "away": "2/8 (25%)"
     },
     {
@@ -194,8 +194,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "96",
-      "away": "94"
+      "home": "99",
+      "away": "97"
     },
     {
       "label": "Fouls",
