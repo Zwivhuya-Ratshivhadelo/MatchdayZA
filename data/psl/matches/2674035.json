@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kruger United",
-  "updated": "2026-10-17T16:25:31+02:00",
+  "updated": "2026-10-17T16:28:13+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
@@ -318,8 +318,8 @@
           "pos": "Goalkeeper"
         },
         {
-          "no": "55",
-          "name": "Ayabulela Konqobe",
+          "no": "13",
+          "name": "Ebrahim Seedat",
           "pos": "Defender"
         },
         {
@@ -333,8 +333,13 @@
           "pos": "Defender"
         },
         {
-          "no": "13",
-          "name": "Ebrahim Seedat",
+          "no": "27",
+          "name": "A Tiwani",
+          "pos": "Defender"
+        },
+        {
+          "no": "12",
+          "name": "B Malatjie",
           "pos": "Midfielder"
         },
         {
@@ -343,24 +348,19 @@
           "pos": "Midfielder"
         },
         {
-          "no": "27",
-          "name": "A Tiwani",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "12",
-          "name": "B Malatjie",
+          "no": "55",
+          "name": "Ayabulela Konqobe",
           "pos": "Midfielder"
         },
         {
           "no": "20",
           "name": "Celimpilo Ngema",
-          "pos": "Striker"
+          "pos": "Midfielder"
         },
         {
           "no": "10",
           "name": "Ntsako Makhubela",
-          "pos": "Striker"
+          "pos": "Midfielder"
         },
         {
           "no": "9",
@@ -368,7 +368,53 @@
           "pos": "Striker"
         }
       ],
-      "subs": []
+      "subs": [
+        {
+          "no": "30",
+          "name": "M Zwane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "M Zwane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "47",
+          "name": "H Sereets",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "F Ntwari",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "T Tavengwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "Sphiwe Mahlangu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "74",
+          "name": "Lesedi Kapinga",
+          "pos": "Substitute"
+        },
+        {
+          "no": "45",
+          "name": "Kwandakwensizwa Mngonyama",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Thendo Mukumela",
+          "pos": "Substitute"
+        }
+      ]
     }
   ]
 }
