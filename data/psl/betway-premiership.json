@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-17T19:53:35+02:00",
+  "updated": "2026-10-17T20:00:27+02:00",
   "log": [
     {
       "pos": 1,
@@ -38,6 +38,16 @@
     },
     {
       "pos": 4,
+      "team": "Milford FC",
+      "club": "Milford_FC",
+      "p": 9,
+      "w": 4,
+      "d": 3,
+      "l": 2,
+      "pts": 15
+    },
+    {
+      "pos": 5,
       "team": "Kaizer Chiefs",
       "club": "Kaizer_Chiefs",
       "p": 8,
@@ -47,24 +57,14 @@
       "pts": 14
     },
     {
-      "pos": 5,
-      "team": "Milford FC",
-      "club": "Milford_FC",
-      "p": 8,
-      "w": 3,
-      "d": 3,
-      "l": 2,
-      "pts": 12
-    },
-    {
       "pos": 6,
       "team": "Sekhukhune United",
       "club": "Sekhukhune_United",
-      "p": 7,
-      "w": 3,
+      "p": 8,
+      "w": 4,
       "d": 2,
       "l": 2,
-      "pts": 11
+      "pts": 14
     },
     {
       "pos": 7,
@@ -80,20 +80,20 @@
       "pos": 8,
       "team": "Golden Arrows",
       "club": "Golden_Arrows",
-      "p": 7,
+      "p": 8,
       "w": 1,
       "d": 5,
-      "l": 1,
+      "l": 2,
       "pts": 8
     },
     {
       "pos": 9,
       "team": "Chippa United",
       "club": "Chippa_United",
-      "p": 7,
+      "p": 8,
       "w": 1,
       "d": 5,
-      "l": 1,
+      "l": 2,
       "pts": 8
     },
     {
@@ -118,6 +118,16 @@
     },
     {
       "pos": 12,
+      "team": "Kruger United",
+      "club": "Kruger_United",
+      "p": 8,
+      "w": 2,
+      "d": 1,
+      "l": 5,
+      "pts": 7
+    },
+    {
+      "pos": 13,
       "team": "TS Galaxy",
       "club": "TS_Galaxy",
       "p": 8,
@@ -125,16 +135,6 @@
       "d": 3,
       "l": 4,
       "pts": 6
-    },
-    {
-      "pos": 13,
-      "team": "Kruger United",
-      "club": "Kruger_United",
-      "p": 7,
-      "w": 1,
-      "d": 1,
-      "l": 5,
-      "pts": 4
     },
     {
       "pos": 14,
@@ -160,10 +160,10 @@
       "pos": 16,
       "team": "Marumo Gallants",
       "club": "Marumo_Gallants",
-      "p": 7,
+      "p": 8,
       "w": 0,
       "d": 2,
-      "l": 5,
+      "l": 6,
       "pts": 2
     }
   ],
@@ -613,43 +613,39 @@
       "status": "FT"
     },
     {
-      "home": "Chippa United",
-      "away": "Kruger United",
-      "date": "2026-10-17T15:30:00+02:00",
-      "venue": "Buffalo City Stadium, East London, South Africa",
-      "match_id": "2674035",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674035",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "FT",
-      "minute": "90+6'",
-      "latest": "90' Goal, Sipho Sibiya (Kruger United)"
-    },
-    {
-      "home": "Golden Arrows",
-      "away": "Milford FC",
-      "date": "2026-10-17T15:30:00+02:00",
-      "venue": "King Goodwill Zwelithini Stadium, Durban",
-      "match_id": "2674036",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674036",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "FT",
-      "minute": "90+6'",
-      "latest": "86' Yellow card, Cebolenkosi Mthethwa (Milford FC)"
-    },
-    {
       "home": "Sekhukhune United",
       "away": "Marumo Gallants",
-      "date": "2026-10-17T18:00:00+02:00",
+      "date": "2026-10-17",
       "venue": "Peter Mokaba Stadium, Polokwane",
       "match_id": "2674038",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674038",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674038-sekhukhune-united-vs-marumo-gallants",
       "home_score": 2,
       "away_score": 1,
       "status": "FT",
       "minute": "90+3'",
       "latest": "90' Yellow card, T. Makubo (Sekhukhune United)"
+    },
+    {
+      "home": "Chippa United",
+      "away": "Kruger United",
+      "date": "2026-10-17",
+      "venue": "Buffalo City Stadium, East London, South Africa",
+      "match_id": "2674035",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674035-chippa-united-vs-kruger-united",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Golden Arrows",
+      "away": "Milford FC",
+      "date": "2026-10-17",
+      "venue": "King Goodwill Zwelithini Stadium, Durban",
+      "match_id": "2674036",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674036-golden-arrows-vs-milford-fc",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
     }
   ],
   "fixtures": [

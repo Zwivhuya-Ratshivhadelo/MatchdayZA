@@ -3,12 +3,13 @@
   "comp": "national-first-division",
   "home": "The Bees",
   "away": "Real Native FC",
-  "updated": "2026-10-17T17:35:18+02:00",
+  "updated": "2026-10-17T20:00:26+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "FT",
   "minute": null,
+  "events": [],
   "stats": [],
   "lineups": [],
-  "events": []
+  "tried365": true
 }

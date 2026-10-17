@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-17T17:55:34+02:00",
+  "updated": "2026-10-17T20:00:26+02:00",
   "log": [
     {
       "pos": 1,
@@ -657,6 +657,25 @@
       "status": "FT"
     },
     {
+      "home": "Venda FC",
+      "away": "Magesi FC",
+      "date": "2026-10-17T15:30:00+02:00",
+      "venue": "Thohoyandou Stadium, Thohoyandou",
+      "match_id": "3019617",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019617",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Pretoria University FC",
+      "away": "Hungry Lions FC",
+      "date": "2026-10-17T15:30:00+02:00",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
       "home": "The Bees",
       "away": "Real Native FC",
       "date": "2026-10-17T15:30:00+02:00",
@@ -665,8 +684,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019633",
       "home_score": 0,
       "away_score": 1,
-      "status": "FT",
-      "minute": "90'"
+      "status": "FT"
     },
     {
       "home": "Upington City",
@@ -677,8 +695,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019637",
       "home_score": 2,
       "away_score": 0,
-      "status": "FT",
-      "minute": "90'"
+      "status": "FT"
     }
   ],
   "fixtures": [
@@ -690,28 +707,56 @@
       "status": "NS"
     },
     {
-      "home": "Venda FC",
-      "away": "Magesi FC",
-      "date": "2026-10-17T15:30:00+02:00",
-      "venue": "Thohoyandou Stadium, Thohoyandou",
-      "status": "NS",
-      "match_id": "3019617",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019617"
-    },
-    {
-      "home": "Pretoria University FC",
-      "away": "Hungry Lions FC",
-      "date": "2026-10-17T15:30:00+02:00"
-    },
-    {
       "home": "Midlands Wanderers",
       "away": "Upington City",
-      "date": "2026-10-23T15:30:00+02:00"
+      "date": "2026-10-23T15:30:00+02:00",
+      "venue": "Mpumalanga Stadium, Hammarsdale",
+      "status": "NS"
+    },
+    {
+      "home": "Real Native FC",
+      "away": "Highbury",
+      "date": "2026-10-23T15:30:00+02:00",
+      "venue": "Solomon Mahlangu Stadium, KwaMhlanga",
+      "status": "NS"
     },
     {
       "home": "Orbit College FC",
       "away": "Cape Town City FC",
-      "date": "2026-10-23T19:30:00+02:00"
+      "date": "2026-10-23T19:30:00+02:00",
+      "venue": "Olympia Park, Rustenburg, NW",
+      "status": "NS"
+    },
+    {
+      "home": "North West University",
+      "away": "Pretoria University FC",
+      "date": "2026-10-24T15:30:00+02:00",
+      "venue": "NWU Fanie Du Toit Sports Ground, Potchefstroom",
+      "status": "NS"
+    },
+    {
+      "home": "Hope",
+      "away": "The Bees",
+      "date": "2026-10-24T15:30:00+02:00",
+      "venue": "TBC, TBC",
+      "status": "NS"
+    },
+    {
+      "home": "Hungry Lions FC",
+      "away": "Venda FC",
+      "date": "2026-10-24T15:30:00+02:00",
+      "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
+      "status": "NS"
+    },
+    {
+      "home": "Magesi FC",
+      "away": "Gomora United",
+      "date": "2026-10-24T15:30:00+02:00"
+    },
+    {
+      "home": "Leicesterford City FC",
+      "away": "Lerumo Lions",
+      "date": "2026-10-24T15:30:00+02:00"
     }
   ],
   "extra": [],

@@ -3,12 +3,13 @@
   "comp": "national-first-division",
   "home": "Upington City",
   "away": "Orbit College FC",
-  "updated": "2026-10-17T17:32:51+02:00",
+  "updated": "2026-10-17T20:00:26+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "FT",
   "minute": null,
+  "events": [],
   "stats": [],
   "lineups": [],
-  "events": []
+  "tried365": true
 }

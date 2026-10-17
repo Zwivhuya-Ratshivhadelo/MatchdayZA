@@ -3,12 +3,13 @@
   "comp": "national-first-division",
   "home": "Venda FC",
   "away": "Magesi FC",
-  "updated": "2026-10-17T17:55:34+02:00",
-  "home_score": null,
-  "away_score": null,
-  "status": "NS",
+  "updated": "2026-10-17T20:00:26+02:00",
+  "home_score": 1,
+  "away_score": 3,
+  "status": "FT",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [],
+  "tried365": true
 }
