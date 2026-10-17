@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kruger United",
-  "updated": "2026-10-17T17:14:48+02:00",
+  "updated": "2026-10-17T17:17:24+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "82'",
+  "minute": "85'",
   "events": [
     {
       "minute": "74'",
@@ -25,8 +25,8 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "45%",
-      "away": "55%"
+      "home": "47%",
+      "away": "53%"
     },
     {
       "label": "Attacks",
@@ -50,13 +50,13 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "16",
+      "home": "17",
       "away": "22"
     },
     {
       "label": "Goal Kicks",
       "home": "10",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Yellow Cards",
@@ -85,8 +85,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "226",
-      "away": "280"
+      "home": "248",
+      "away": "282"
     },
     {
       "label": "Shots Off Target",
@@ -110,8 +110,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "293",
-      "away": "340"
+      "home": "318",
+      "away": "345"
     },
     {
       "label": "Shots Outside The Box",
@@ -125,18 +125,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "129",
-      "away": "165"
+      "home": "138",
+      "away": "169"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "169",
-      "away": "192"
+      "home": "185",
+      "away": "193"
     },
     {
       "label": "Long Passes Completed",
-      "home": "28/54 (52%)",
-      "away": "23/52 (44%)"
+      "home": "32/58 (55%)",
+      "away": "23/54 (43%)"
     },
     {
       "label": "Key Passes",
@@ -145,12 +145,12 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "56",
+      "home": "66",
       "away": "67"
     },
     {
       "label": "Backward Passes",
-      "home": "56",
+      "home": "64",
       "away": "51"
     },
     {
@@ -171,11 +171,11 @@
     {
       "label": "Clearances",
       "home": "16",
-      "away": "7"
+      "away": "9"
     },
     {
       "label": "Duels Won",
-      "home": "39",
+      "home": "40",
       "away": "27"
     },
     {
@@ -185,7 +185,7 @@
     },
     {
       "label": "Successful Dribbles",
-      "home": "5/16 (31%)",
+      "home": "6/17 (35%)",
       "away": "2/9 (22%)"
     },
     {
@@ -195,13 +195,13 @@
     },
     {
       "label": "Final Third Possession Won",
-      "home": "4",
+      "home": "5",
       "away": "7"
     },
     {
       "label": "Possession Lost",
-      "home": "111",
-      "away": "108"
+      "home": "115",
+      "away": "111"
     },
     {
       "label": "Fouls",
