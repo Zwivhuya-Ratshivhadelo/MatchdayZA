@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-17T23:00:15+02:00",
+  "updated": "2026-10-18T00:00:17+02:00",
   "log": [
     {
       "pos": 1,
@@ -699,13 +699,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Leicesterford City FC",
-      "away": "North West University",
-      "date": "2026-10-17T15:30:00+02:00",
-      "venue": "Baroka FC Village, Lebowakgomo",
-      "status": "NS"
-    },
     {
       "home": "Midlands Wanderers",
       "away": "Upington City",
