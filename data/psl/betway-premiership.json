@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-17T19:53:19+02:00",
+  "updated": "2026-10-17T19:53:35+02:00",
   "log": [
     {
       "pos": 1,
@@ -648,7 +648,7 @@
       "home_score": 2,
       "away_score": 1,
       "status": "FT",
-      "minute": "90+5'",
+      "minute": "90+3'",
       "latest": "90' Yellow card, T. Makubo (Sekhukhune United)"
     }
   ],
