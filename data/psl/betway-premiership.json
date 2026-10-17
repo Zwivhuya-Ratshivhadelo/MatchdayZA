@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-17T09:30:22+02:00",
+  "updated": "2026-10-17T10:30:28+02:00",
   "log": [
     {
       "pos": 1,
@@ -477,6 +477,17 @@
       "status": "FT"
     },
     {
+      "home": "Richards Bay",
+      "away": "AmaZulu FC",
+      "date": "2026-09-04",
+      "venue": "Princess Magogo Stadium, Durban",
+      "match_id": "2674011",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674011-richards-bay-vs-amazulu-fc",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
       "home": "Sekhukhune United",
       "away": "TS Galaxy",
       "date": "2026-09-05",
@@ -506,6 +517,17 @@
       "match_id": "2674016",
       "url": "https://www.psl.co.za/matchcentre/detail/2674016-golden-arrows-vs-mamelodi-sundowns",
       "home_score": 1,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Kaizer Chiefs",
+      "away": "Siwelele",
+      "date": "2026-09-06",
+      "venue": "Dobsonville Stadium, Soweto, Johannesburg",
+      "match_id": "2674015",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674015-kaizer-chiefs-vs-siwelele",
+      "home_score": 3,
       "away_score": 2,
       "status": "FT"
     },
