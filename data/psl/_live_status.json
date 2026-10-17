@@ -1,20 +1,20 @@
 {
-  "time": "2026-10-17T15:31:36+02:00",
+  "time": "2026-10-17T15:34:13+02:00",
   "links_found": 12,
   "games": [
     {
       "game": "Chippa United v Kruger United",
       "kickoff": "2026-10-17T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674035",
-      "page": "NS None-None, line-ups 2",
-      "365scores": "LIVE 0-0 1'"
+      "page": "LIVE 0-0, line-ups 2",
+      "365scores": "LIVE 0-0 3'"
     },
     {
       "game": "Golden Arrows v Milford FC",
       "kickoff": "2026-10-17T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674036",
-      "page": "NS None-None, line-ups 2",
-      "365scores": "LIVE 0-0 2'"
+      "page": "LIVE 0-0, line-ups 2",
+      "365scores": "LIVE 0-0 4'"
     },
     {
       "game": "Leicesterford City FC v North West University",
