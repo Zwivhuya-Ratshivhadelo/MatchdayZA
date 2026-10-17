@@ -3,22 +3,27 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Milford FC",
-  "updated": "2026-10-17T15:34:26+02:00",
+  "updated": "2026-10-17T15:37:16+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "4'",
+  "minute": "7'",
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "82%",
-      "away": "18%"
+      "home": "86%",
+      "away": "14%"
     },
     {
       "label": "Attacks",
-      "home": "5",
-      "away": "2"
+      "home": "15",
+      "away": "3"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "0"
     },
     {
       "label": "Free Kicks",
@@ -32,13 +37,13 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "2",
+      "home": "4",
       "away": "1"
     },
     {
       "label": "Goal Kicks",
       "home": "0",
-      "away": "0"
+      "away": "2"
     },
     {
       "label": "Yellow Cards",
@@ -47,6 +52,31 @@
     },
     {
       "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
       "home": "0",
       "away": "0"
     },

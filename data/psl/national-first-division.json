@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-17T15:34:31+02:00",
+  "updated": "2026-10-17T15:37:22+02:00",
   "log": [
     {
       "pos": 1,
@@ -655,6 +655,18 @@
       "home_score": 1,
       "away_score": 2,
       "status": "FT"
+    },
+    {
+      "home": "The Bees",
+      "away": "Real Native FC",
+      "date": "2026-10-17T15:30:00+02:00",
+      "venue": "Kanyamazane Stadium, Kanyamazane",
+      "match_id": "3019633",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019633",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "3'"
     }
   ],
   "fixtures": [
@@ -673,15 +685,6 @@
       "status": "NS",
       "match_id": "3019617",
       "url": "https://www.psl.co.za/matchcentre/detail/3019617"
-    },
-    {
-      "home": "The Bees",
-      "away": "Real Native FC",
-      "date": "2026-10-17T15:30:00+02:00",
-      "venue": "Kanyamazane Stadium, Kanyamazane",
-      "status": "NS",
-      "match_id": "3019633",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019633"
     },
     {
       "home": "Upington City",
