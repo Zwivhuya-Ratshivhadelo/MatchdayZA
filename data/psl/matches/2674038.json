@@ -3,17 +3,23 @@
   "comp": "betway-premiership",
   "home": "Sekhukhune United",
   "away": "Marumo Gallants",
-  "updated": "2026-10-17T19:49:52+02:00",
+  "updated": "2026-10-17T19:52:06+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "90+3'",
+  "minute": "90+5'",
   "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "Sekhukhune United",
+      "player": "T. Makubo"
+    },
     {
       "minute": "90'",
       "type": "goal",
       "team": "Sekhukhune United",
-      "player": "",
+      "player": "B. Muzeu",
       "score": [
         3,
         0
@@ -49,13 +55,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "44%",
-      "away": "56%"
+      "home": "43%",
+      "away": "57%"
     },
     {
       "label": "Attacks",
-      "home": "95",
-      "away": "113"
+      "home": "96",
+      "away": "115"
     },
     {
       "label": "Corners",
@@ -65,7 +71,7 @@
     {
       "label": "Free Kicks",
       "home": "9",
-      "away": "13"
+      "away": "15"
     },
     {
       "label": "Offsides",
@@ -79,7 +85,7 @@
     },
     {
       "label": "Goal Kicks",
-      "home": "8",
+      "home": "9",
       "away": "10"
     },
     {
@@ -94,13 +100,13 @@
     },
     {
       "label": "Total Shots",
-      "home": "11",
-      "away": "11"
+      "home": "13",
+      "away": "12"
     },
     {
       "label": "Shots On Target",
-      "home": "1",
-      "away": "1"
+      "home": "3",
+      "away": "2"
     },
     {
       "label": "Big Chances Created",
@@ -109,8 +115,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "259",
-      "away": "323"
+      "home": "261",
+      "away": "330"
     },
     {
       "label": "Shots Off Target",
@@ -129,18 +135,18 @@
     },
     {
       "label": "Shots Inside The Box",
-      "home": "7",
+      "home": "9",
       "away": "5"
     },
     {
       "label": "Total Passes",
-      "home": "322",
-      "away": "407"
+      "home": "324",
+      "away": "417"
     },
     {
       "label": "Shots Outside The Box",
       "home": "4",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Big Chances Missed",
@@ -149,38 +155,38 @@
     },
     {
       "label": "Crosses Completed",
-      "home": "3/15 (20%)",
+      "home": "4/16 (25%)",
       "away": "2/30 (7%)"
     },
     {
       "label": "Passes Own Half",
       "home": "145",
-      "away": "202"
+      "away": "203"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "192",
-      "away": "235"
+      "home": "195",
+      "away": "244"
     },
     {
       "label": "Long Passes Completed",
-      "home": "24/54 (44%)",
-      "away": "19/51 (37%)"
+      "home": "25/55 (45%)",
+      "away": "22/54 (41%)"
     },
     {
       "label": "Key Passes",
-      "home": "7",
+      "home": "9",
       "away": "7"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "53",
-      "away": "67"
+      "home": "54",
+      "away": "70"
     },
     {
       "label": "Backward Passes",
-      "home": "56",
-      "away": "61"
+      "home": "57",
+      "away": "62"
     },
     {
       "label": "Interceptions",
@@ -195,7 +201,7 @@
     {
       "label": "Tackles Won",
       "home": "11/15 (73%)",
-      "away": "7/11 (64%)"
+      "away": "7/12 (58%)"
     },
     {
       "label": "Clearances",
@@ -205,32 +211,32 @@
     {
       "label": "Duels Won",
       "home": "50",
-      "away": "52"
+      "away": "56"
     },
     {
       "label": "Aerial Duels Won",
       "home": "16/30 (53%)",
-      "away": "19/36 (53%)"
+      "away": "19/37 (51%)"
     },
     {
       "label": "Ground Duels Won",
       "home": "34/63 (54%)",
-      "away": "33/69 (48%)"
+      "away": "37/74 (50%)"
     },
     {
       "label": "Was Fouled",
       "home": "9",
-      "away": "13"
+      "away": "15"
     },
     {
       "label": "Successful Dribbles",
       "home": "10/13 (77%)",
-      "away": "9/20 (45%)"
+      "away": "10/22 (45%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "3",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Final Third Possession Won",
@@ -240,7 +246,7 @@
     {
       "label": "Possession Lost",
       "home": "108",
-      "away": "145"
+      "away": "149"
     },
     {
       "label": "Fouls",
