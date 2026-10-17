@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-17T18:32:54+02:00",
+  "updated": "2026-10-17T18:35:13+02:00",
   "log": [
     {
       "pos": 1,
@@ -648,7 +648,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "33'",
+      "minute": "36'",
       "latest": "30' Goal, Oageng Phiri (Sekhukhune United)"
     }
   ],
