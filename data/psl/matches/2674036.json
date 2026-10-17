@@ -3,17 +3,17 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Milford FC",
-  "updated": "2026-10-17T16:59:25+02:00",
+  "updated": "2026-10-17T17:01:55+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "72'",
+  "minute": "74'",
   "events": [
     {
       "minute": "71'",
       "type": "goal",
       "team": "Milford FC",
-      "player": "",
+      "player": "Siphosethu Ndlabi",
       "score": [
         0,
         1
@@ -34,8 +34,8 @@
     },
     {
       "label": "Attacks",
-      "home": "82",
-      "away": "94"
+      "home": "85",
+      "away": "97"
     },
     {
       "label": "Corners",
@@ -75,21 +75,21 @@
     {
       "label": "Total Shots",
       "home": "7",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Shots On Target",
       "home": "2",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Big Chances Created",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Passes Completed",
-      "home": "323",
+      "home": "324",
       "away": "351"
     },
     {
@@ -114,13 +114,13 @@
     },
     {
       "label": "Total Passes",
-      "home": "383",
+      "home": "385",
       "away": "416"
     },
     {
       "label": "Shots Outside The Box",
       "home": "4",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Big Chances Missed",
@@ -134,23 +134,23 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "246",
+      "home": "247",
       "away": "242"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "151",
+      "home": "152",
       "away": "185"
     },
     {
       "label": "Long Passes Completed",
-      "home": "11/34 (32%)",
+      "home": "11/35 (31%)",
       "away": "25/51 (49%)"
     },
     {
       "label": "Key Passes",
       "home": "5",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Passes Into Final Third",
@@ -159,7 +159,7 @@
     },
     {
       "label": "Backward Passes",
-      "home": "72",
+      "home": "73",
       "away": "72"
     },
     {
@@ -185,7 +185,7 @@
     {
       "label": "Duels Won",
       "home": "42",
-      "away": "27"
+      "away": "28"
     },
     {
       "label": "Aerial Duels Won",
@@ -195,7 +195,7 @@
     {
       "label": "Ground Duels Won",
       "home": "32/57 (56%)",
-      "away": "24/56 (43%)"
+      "away": "25/57 (44%)"
     },
     {
       "label": "Was Fouled",
@@ -205,7 +205,7 @@
     {
       "label": "Successful Dribbles",
       "home": "4/12 (33%)",
-      "away": "3/10 (30%)"
+      "away": "4/11 (36%)"
     },
     {
       "label": "Was Dribbled Past",
@@ -219,7 +219,7 @@
     },
     {
       "label": "Possession Lost",
-      "home": "102",
+      "home": "103",
       "away": "114"
     },
     {

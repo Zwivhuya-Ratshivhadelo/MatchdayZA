@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-17T16:59:25+02:00",
+  "updated": "2026-10-17T17:01:55+02:00",
   "log": [
     {
       "pos": 1,
@@ -622,7 +622,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "67'",
+      "minute": "69'",
       "latest": "52' Yellow card, Ebrahim Seedat (Kruger United)"
     },
     {
@@ -635,8 +635,8 @@
       "home_score": 0,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "72'",
-      "latest": "71' Goal, Milford FC"
+      "minute": "74'",
+      "latest": "71' Goal, Siphosethu Ndlabi (Milford FC)"
     }
   ],
   "fixtures": [
