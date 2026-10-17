@@ -3,22 +3,22 @@
   "comp": "betway-premiership",
   "home": "Golden Arrows",
   "away": "Milford FC",
-  "updated": "2026-10-17T15:39:53+02:00",
+  "updated": "2026-10-17T15:42:33+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "10'",
+  "minute": "12'",
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "81%",
-      "away": "19%"
+      "home": "74%",
+      "away": "26%"
     },
     {
       "label": "Attacks",
-      "home": "18",
-      "away": "7"
+      "home": "23",
+      "away": "9"
     },
     {
       "label": "Corners",
@@ -37,12 +37,12 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "4",
+      "home": "5",
       "away": "1"
     },
     {
       "label": "Goal Kicks",
-      "home": "0",
+      "home": "1",
       "away": "2"
     },
     {
