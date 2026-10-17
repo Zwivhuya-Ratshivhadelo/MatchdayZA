@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kruger United",
-  "updated": "2026-10-17T17:06:57+02:00",
+  "updated": "2026-10-17T17:09:41+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "74'",
+  "minute": "77'",
   "events": [
+    {
+      "minute": "74'",
+      "type": "yellow",
+      "team": "Kruger United",
+      "player": "Wonderboy Makhubu"
+    },
     {
       "minute": "52'",
       "type": "yellow",
@@ -19,8 +25,8 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "43%",
-      "away": "57%"
+      "home": "44%",
+      "away": "56%"
     },
     {
       "label": "Attacks",
@@ -34,7 +40,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "12",
+      "home": "15",
       "away": "7"
     },
     {
@@ -44,18 +50,18 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "14",
-      "away": "18"
+      "home": "15",
+      "away": "19"
     },
     {
       "label": "Goal Kicks",
-      "home": "9",
+      "home": "10",
       "away": "5"
     },
     {
       "label": "Yellow Cards",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Red Cards",
@@ -79,7 +85,7 @@
     },
     {
       "label": "Passes Completed",
-      "home": "192",
+      "home": "198",
       "away": "264"
     },
     {
@@ -104,8 +110,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "254",
-      "away": "318"
+      "home": "262",
+      "away": "319"
     },
     {
       "label": "Shots Outside The Box",
@@ -114,37 +120,37 @@
     },
     {
       "label": "Crosses Completed",
-      "home": "1/4 (25%)",
+      "home": "2/5 (40%)",
       "away": "3/17 (18%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "121",
+      "home": "124",
       "away": "149"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "137",
-      "away": "186"
+      "home": "143",
+      "away": "187"
     },
     {
       "label": "Long Passes Completed",
-      "home": "25/50 (50%)",
+      "home": "26/52 (50%)",
       "away": "23/49 (47%)"
     },
     {
       "label": "Key Passes",
       "home": "3",
-      "away": "8"
+      "away": "9"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "39",
+      "home": "44",
       "away": "67"
     },
     {
       "label": "Backward Passes",
-      "home": "47",
+      "home": "49",
       "away": "49"
     },
     {
@@ -160,7 +166,7 @@
     {
       "label": "Tackles Won",
       "home": "11/14 (79%)",
-      "away": "12/17 (71%)"
+      "away": "12/18 (67%)"
     },
     {
       "label": "Clearances",
@@ -169,22 +175,22 @@
     },
     {
       "label": "Duels Won",
-      "home": "35",
-      "away": "26"
+      "home": "38",
+      "away": "27"
     },
     {
       "label": "Was Fouled",
-      "home": "12",
+      "home": "15",
       "away": "7"
     },
     {
       "label": "Successful Dribbles",
-      "home": "5/15 (33%)",
+      "home": "5/16 (31%)",
       "away": "2/9 (22%)"
     },
     {
       "label": "Was Dribbled Past",
-      "home": "10",
+      "home": "11",
       "away": "7"
     },
     {
@@ -194,17 +200,17 @@
     },
     {
       "label": "Possession Lost",
-      "home": "102",
-      "away": "100"
+      "home": "106",
+      "away": "102"
     },
     {
       "label": "Fouls",
       "home": "7",
-      "away": "13"
+      "away": "16"
     },
     {
       "label": "Substitutions",
-      "home": "2",
+      "home": "3",
       "away": "2"
     }
   ],
