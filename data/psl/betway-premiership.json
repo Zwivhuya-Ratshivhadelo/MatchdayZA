@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-17T16:01:39+02:00",
+  "updated": "2026-10-17T16:04:20+02:00",
   "log": [
     {
       "pos": 1,
@@ -619,10 +619,10 @@
       "venue": "Buffalo City Stadium, East London, South Africa",
       "match_id": "2674035",
       "url": "https://www.psl.co.za/matchcentre/detail/2674035",
-      "home_score": 1,
+      "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "31'"
+      "minute": "33'"
     },
     {
       "home": "Golden Arrows",
@@ -634,7 +634,8 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "31'"
+      "minute": "34'",
+      "latest": "32' Yellow card, Osborn Maluleke (Golden Arrows)"
     }
   ],
   "fixtures": [
