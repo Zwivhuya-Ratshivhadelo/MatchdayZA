@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-17T19:47:39+02:00",
+  "updated": "2026-10-17T19:49:52+02:00",
   "log": [
     {
       "pos": 1,
@@ -645,11 +645,11 @@
       "venue": "Peter Mokaba Stadium, Polokwane",
       "match_id": "2674038",
       "url": "https://www.psl.co.za/matchcentre/detail/2674038",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "90+1'",
-      "latest": "78' Own goal, Melusi Nkazimulo Buthelezi (Marumo Gallants)"
+      "minute": "90+3'",
+      "latest": "90' Goal, Sekhukhune United"
     }
   ],
   "fixtures": [
