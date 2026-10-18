@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T16:18:13+02:00",
+  "updated": "2026-10-18T16:20:50+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
@@ -85,7 +85,7 @@
     },
     {
       "label": "Passes Completed",
-      "home": "202",
+      "home": "205",
       "away": "43"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "label": "Total Passes",
-      "home": "241",
+      "home": "244",
       "away": "79"
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "122",
+      "home": "125",
       "away": "17"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "label": "Backward Passes",
-      "home": "48",
+      "home": "49",
       "away": "9"
     },
     {
@@ -216,7 +216,7 @@
     {
       "label": "Possession Lost",
       "home": "57",
-      "away": "58"
+      "away": "57"
     },
     {
       "label": "Fouls",
