@@ -7,12 +7,11 @@ def get(u):
     except Exception as e: return 0, str(e)
 def txt(h): return re.sub(r"\s+", " ", BeautifulSoup(h, "html.parser").get_text(" "))
 c, t = get("https://diskizone.com/leagues/abc-motsepe-limpopo-stream-a-18")
-print("=== dz LP A", c, len(t)); print(txt(t)[:6000])
-print("LINKS", sorted(set(re.findall(r'href="([^"]+)"', t)))[:200])
-print("API", sorted(set(re.findall(r'["\'](https?://[^"\']*(?:api|json|ajax)[^"\']*)', t)))[:40])
-print("SCRIPTS", re.findall(r'<script[^>]+src="([^"]+)"', t)[:30])
-c, t = get("https://diskizone.com/leagues"); print("=== dz leagues", c); print(sorted(set(re.findall(r'href="(/leagues/[^"]+)"', t)))[:120])
-for u in ["https://safa.ptsportsuite.com/competitions/abc-motsepe-league/"]:
-    try:
-        r = requests.get(u, headers=H, timeout=60); print("=== pts", r.status_code, txt(r.text)[:1500])
-    except Exception as e: print("=== pts", e)
+abc = sorted(set(re.findall(r'(/leagues/abc-[a-z0-9-]+)', t))); print("ABC", abc)
+for p in abc:
+    c, t = get("https://diskizone.com" + p)
+    x = txt(t); i = x.find("Share: Results")
+    print("===", p, c, x[i:i+700])
+for q in ["abc motsepe wrap", "motsepe league results"]:
+    c, t = get("https://farpost.co.za/?s=" + q.replace(" ", "+"))
+    print("=== farpost search", q, c, list(dict.fromkeys(re.findall(r'https://(?:www\.)?farpost\.co\.za/2026/[0-9/]+[a-z0-9-]+/?', t)))[:15])
