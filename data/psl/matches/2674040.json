@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T17:01:54+02:00",
+  "updated": "2026-10-18T17:04:17+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "74'",
+  "minute": "76'",
   "events": [
+    {
+      "minute": "75'",
+      "type": "yellow",
+      "team": "Polokwane City",
+      "player": "Bonginkosi Dlamini"
+    },
     {
       "minute": "63'",
       "type": "yellow",
@@ -36,8 +42,8 @@
     },
     {
       "label": "Attacks",
-      "home": "94",
-      "away": "81"
+      "home": "96",
+      "away": "82"
     },
     {
       "label": "Corners",
@@ -46,8 +52,8 @@
     },
     {
       "label": "Free Kicks",
-      "home": "12",
-      "away": "6"
+      "home": "13",
+      "away": "7"
     },
     {
       "label": "Offsides",
@@ -91,8 +97,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "340",
-      "away": "125"
+      "home": "346",
+      "away": "127"
     },
     {
       "label": "Shots Off Target",
@@ -116,8 +122,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "404",
-      "away": "182"
+      "home": "411",
+      "away": "184"
     },
     {
       "label": "Shots Outside The Box",
@@ -132,22 +138,22 @@
     {
       "label": "Crosses Completed",
       "home": "1/6 (17%)",
-      "away": "4/13 (31%)"
+      "away": "4/14 (29%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "212",
-      "away": "77"
+      "home": "214",
+      "away": "78"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "198",
-      "away": "118"
+      "home": "203",
+      "away": "120"
     },
     {
       "label": "Long Passes Completed",
-      "home": "32/65 (49%)",
-      "away": "22/52 (42%)"
+      "home": "33/66 (50%)",
+      "away": "23/53 (43%)"
     },
     {
       "label": "Key Passes",
@@ -156,13 +162,13 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "69",
+      "home": "71",
       "away": "27"
     },
     {
       "label": "Backward Passes",
-      "home": "75",
-      "away": "22"
+      "home": "76",
+      "away": "23"
     },
     {
       "label": "Interceptions",
@@ -181,13 +187,13 @@
     },
     {
       "label": "Clearances",
-      "home": "12",
+      "home": "13",
       "away": "12"
     },
     {
       "label": "Duels Won",
-      "home": "32",
-      "away": "25"
+      "home": "33",
+      "away": "26"
     },
     {
       "label": "Aerial Duels Won",
@@ -196,13 +202,13 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "20/39 (51%)",
-      "away": "19/39 (49%)"
+      "home": "21/41 (51%)",
+      "away": "20/41 (49%)"
     },
     {
       "label": "Was Fouled",
-      "home": "12",
-      "away": "6"
+      "home": "13",
+      "away": "7"
     },
     {
       "label": "Successful Dribbles",
@@ -221,13 +227,13 @@
     },
     {
       "label": "Possession Lost",
-      "home": "92",
-      "away": "98"
+      "home": "93",
+      "away": "99"
     },
     {
       "label": "Fouls",
-      "home": "6",
-      "away": "12"
+      "home": "7",
+      "away": "13"
     },
     {
       "label": "Substitutions",
