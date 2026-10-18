@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T17:20:33+02:00",
+  "updated": "2026-10-18T17:22:49+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "90+3'",
+  "minute": "90+4'",
   "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "Siwelele",
+      "player": "Njabulo Ngcobo"
+    },
     {
       "minute": "90'",
       "type": "goal",
@@ -52,8 +58,8 @@
     },
     {
       "label": "Attacks",
-      "home": "120",
-      "away": "109"
+      "home": "122",
+      "away": "112"
     },
     {
       "label": "Corners",
@@ -82,7 +88,7 @@
     },
     {
       "label": "Yellow Cards",
-      "home": "1",
+      "home": "2",
       "away": "2"
     },
     {
@@ -108,7 +114,7 @@
     {
       "label": "Passes Completed",
       "home": "413",
-      "away": "160"
+      "away": "162"
     },
     {
       "label": "Shots Off Target",
@@ -133,7 +139,7 @@
     {
       "label": "Total Passes",
       "home": "494",
-      "away": "240"
+      "away": "242"
     },
     {
       "label": "Shots Outside The Box",
@@ -158,7 +164,7 @@
     {
       "label": "Passes Opposition Half",
       "home": "253",
-      "away": "158"
+      "away": "160"
     },
     {
       "label": "Long Passes Completed",
@@ -173,7 +179,7 @@
     {
       "label": "Passes Into Final Third",
       "home": "84",
-      "away": "35"
+      "away": "37"
     },
     {
       "label": "Backward Passes",
@@ -192,7 +198,7 @@
     },
     {
       "label": "Tackles Won",
-      "home": "4/5 (80%)",
+      "home": "5/6 (83%)",
       "away": "7/13 (54%)"
     },
     {
@@ -202,7 +208,7 @@
     },
     {
       "label": "Duels Won",
-      "home": "43",
+      "home": "44",
       "away": "40"
     },
     {
@@ -212,8 +218,8 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "27/57 (47%)",
-      "away": "30/57 (53%)"
+      "home": "28/58 (48%)",
+      "away": "30/58 (52%)"
     },
     {
       "label": "Was Fouled",
@@ -223,12 +229,12 @@
     {
       "label": "Successful Dribbles",
       "home": "7/13 (54%)",
-      "away": "7/10 (70%)"
+      "away": "7/11 (64%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "6",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Final Third Possession Won",
@@ -238,7 +244,7 @@
     {
       "label": "Possession Lost",
       "home": "122",
-      "away": "125"
+      "away": "126"
     },
     {
       "label": "Fouls",
@@ -247,7 +253,7 @@
     },
     {
       "label": "Substitutions",
-      "home": "4",
+      "home": "5",
       "away": "3"
     }
   ],
