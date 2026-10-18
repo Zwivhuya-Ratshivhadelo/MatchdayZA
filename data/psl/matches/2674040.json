@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T16:04:41+02:00",
+  "updated": "2026-10-18T16:08:05+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "34'",
+  "minute": "38'",
   "events": [
     {
       "minute": "27'",
@@ -19,13 +19,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "73%",
-      "away": "27%"
+      "home": "74%",
+      "away": "26%"
     },
     {
       "label": "Attacks",
-      "home": "37",
-      "away": "30"
+      "home": "43",
+      "away": "34"
     },
     {
       "label": "Corners",
@@ -79,7 +79,7 @@
     },
     {
       "label": "Passes Completed",
-      "home": "133",
+      "home": "147",
       "away": "29"
     },
     {
@@ -104,8 +104,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "163",
-      "away": "54"
+      "home": "177",
+      "away": "55"
     },
     {
       "label": "Shots Outside The Box",
@@ -119,18 +119,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "81",
-      "away": "13"
+      "home": "85",
+      "away": "14"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "84",
+      "home": "94",
       "away": "48"
     },
     {
       "label": "Long Passes Completed",
       "home": "12/29 (41%)",
-      "away": "10/24 (42%)"
+      "away": "10/25 (40%)"
     },
     {
       "label": "Key Passes",
@@ -139,18 +139,18 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "32",
+      "home": "38",
       "away": "14"
     },
     {
       "label": "Backward Passes",
-      "home": "34",
+      "home": "37",
       "away": "6"
     },
     {
       "label": "Interceptions",
       "home": "1",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Goalkeeper Saves",
@@ -200,7 +200,7 @@
     {
       "label": "Possession Lost",
       "home": "43",
-      "away": "42"
+      "away": "43"
     },
     {
       "label": "Fouls",
