@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-17T22:00:56+02:00",
+  "updated": "2026-10-18T12:00:55+02:00",
   "log": [
     {
       "pos": 1,
@@ -295,38 +295,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Ssu M-17 FC",
-      "away": "Rrr Rams Football Club",
-      "match_no": 16,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=16&s=l",
-      "date": "2026-10-17T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ben 10 FC",
-      "away": "Tembisa Hollywood Thunder",
-      "match_no": 14,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=14&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Boipatong Football Club",
-      "away": "Tshwane South College FC",
-      "match_no": 15,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=15&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Lesco FC",
-      "away": "Free Agents Football Club",
-      "match_no": 17,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=17&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Ben 10 FC",
       "away": "Tembisa Hollywood Thunder",

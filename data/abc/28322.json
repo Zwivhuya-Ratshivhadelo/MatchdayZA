@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream A",
   "slug": "lp-limpopo-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28322",
-  "updated": "2026-10-17T22:01:14+02:00",
+  "updated": "2026-10-18T12:01:14+02:00",
   "log": [
     {
       "pos": 1,
@@ -154,46 +154,6 @@
   ],
   "results": [],
   "fixtures": [
-    {
-      "home": "Abc FC",
-      "away": "Tzaneen United FC",
-      "match_no": 13,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=13&s=l",
-      "date": "2026-10-17T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Vondwe Xi Bullets",
-      "away": "Ramahantsha Blackpool FC",
-      "match_no": 14,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=14&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Selwana White Vultures",
-      "away": "Nkowankowa Continental",
-      "match_no": 15,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=15&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Goue Seuns Cf",
-      "away": "Musina United",
-      "match_no": 17,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=17&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Mpheni Defenders",
-      "away": "Mukondeni Young Chiefs FC",
-      "match_no": 18,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=18&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Ramahantsha Blackpool FC",
       "away": "Abc FC",

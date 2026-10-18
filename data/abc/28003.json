@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-10-17T22:01:46+02:00",
+  "updated": "2026-10-18T12:01:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -375,46 +375,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Mbekweni Cosmos FC",
-      "away": "Ammar Soccer Academy",
-      "match_no": 41,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=41&s=l",
-      "date": "2026-10-17T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "One Football Club",
-      "away": "Grassy Park United",
-      "match_no": 40,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=40&s=l",
-      "date": "2026-10-17T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ubuntu Spartans FC",
-      "away": "Royal Blues FC",
-      "match_no": 38,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=38&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Batalions FC",
-      "away": "Maties FC",
-      "match_no": 39,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=39&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Relentless Football",
-      "away": "FC Kayamandi",
-      "match_no": 42,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=42&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Maties FC",
       "away": "Barcelona FC",

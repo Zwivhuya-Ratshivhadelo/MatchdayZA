@@ -5,7 +5,7 @@
   "name": "WC Stream A",
   "slug": "wc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28002",
-  "updated": "2026-10-17T22:01:41+02:00",
+  "updated": "2026-10-18T12:01:41+02:00",
   "log": [
     {
       "pos": 1,
@@ -455,30 +455,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Harambee FC",
-      "away": "Saxon Rovers FC",
-      "match_no": 37,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=37&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Young Bafana",
-      "away": "Hanover Park",
-      "match_no": 41,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=41&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ubuntu Football Club",
-      "away": "Inter City FFC",
-      "match_no": 42,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=42&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Hanover Park",
       "away": "Seaside Spurs FC",

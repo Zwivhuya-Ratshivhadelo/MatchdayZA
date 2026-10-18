@@ -5,7 +5,7 @@
   "name": "MP Stream B",
   "slug": "mp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27909",
-  "updated": "2026-10-17T22:01:28+02:00",
+  "updated": "2026-10-18T12:01:28+02:00",
   "log": [
     {
       "pos": 1,
@@ -373,46 +373,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Luthuli Brigades FC",
-      "away": "Acornhoek United FC",
-      "match_no": 26,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=26&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Liver Brothers FC",
-      "away": "Matsulu Chelsea FC",
-      "match_no": 27,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=27&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "KaMhlushwa Real Madrid",
-      "away": "Oriental Spurs FC",
-      "match_no": 28,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=28&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Junior Callies FC",
-      "away": "Sibange Young Bucks FC",
-      "match_no": 29,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=29&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Fernie Battalion FC",
-      "away": "Zebras FC",
-      "match_no": 30,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=30&s=l",
-      "date": "2026-10-17T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Liver Brothers FC",
       "away": "Matsulu Chelsea FC",
