@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T16:54:21+02:00",
+  "updated": "2026-10-18T16:56:57+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "66'",
+  "minute": "69'",
   "events": [
     {
       "minute": "63'",
@@ -36,8 +36,8 @@
     },
     {
       "label": "Attacks",
-      "home": "84",
-      "away": "71"
+      "home": "87",
+      "away": "73"
     },
     {
       "label": "Corners",
@@ -56,7 +56,7 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "13",
+      "home": "15",
       "away": "15"
     },
     {
@@ -76,8 +76,8 @@
     },
     {
       "label": "Total Shots",
-      "home": "7",
-      "away": "2"
+      "home": "8",
+      "away": "3"
     },
     {
       "label": "Shots On Target",
@@ -91,17 +91,17 @@
     },
     {
       "label": "Passes Completed",
-      "home": "294",
-      "away": "104"
+      "home": "314",
+      "away": "116"
     },
     {
       "label": "Shots Off Target",
       "home": "4",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Shots Blocked",
-      "home": "0",
+      "home": "1",
       "away": "0"
     },
     {
@@ -116,13 +116,13 @@
     },
     {
       "label": "Total Passes",
-      "home": "349",
-      "away": "156"
+      "home": "371",
+      "away": "171"
     },
     {
       "label": "Shots Outside The Box",
-      "home": "3",
-      "away": "1"
+      "home": "4",
+      "away": "2"
     },
     {
       "label": "Big Chances Missed",
@@ -136,38 +136,38 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "185",
-      "away": "64"
+      "home": "199",
+      "away": "73"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "169",
-      "away": "104"
+      "home": "177",
+      "away": "110"
     },
     {
       "label": "Long Passes Completed",
       "home": "26/57 (46%)",
-      "away": "18/46 (39%)"
+      "away": "19/49 (39%)"
     },
     {
       "label": "Key Passes",
-      "home": "6",
+      "home": "7",
       "away": "2"
     },
     {
       "label": "Passes Into Final Third",
-      "home": "60",
-      "away": "25"
+      "home": "63",
+      "away": "26"
     },
     {
       "label": "Backward Passes",
-      "home": "66",
-      "away": "19"
+      "home": "69",
+      "away": "20"
     },
     {
       "label": "Interceptions",
       "home": "3",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Goalkeeper Saves",
@@ -221,8 +221,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "79",
-      "away": "89"
+      "home": "82",
+      "away": "92"
     },
     {
       "label": "Fouls",
