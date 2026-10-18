@@ -3,22 +3,22 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T15:49:56+02:00",
+  "updated": "2026-10-18T15:52:21+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "20'",
+  "minute": "22'",
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "64%",
-      "away": "36%"
+      "home": "70%",
+      "away": "30%"
     },
     {
       "label": "Attacks",
-      "home": "19",
-      "away": "18"
+      "home": "21",
+      "away": "19"
     },
     {
       "label": "Corners",
@@ -72,8 +72,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "50",
-      "away": "19"
+      "home": "75",
+      "away": "18"
     },
     {
       "label": "Shots Off Target",
@@ -97,8 +97,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "65",
-      "away": "29"
+      "home": "94",
+      "away": "34"
     },
     {
       "label": "Shots Outside The Box",
@@ -112,18 +112,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "35",
-      "away": "3"
+      "home": "47",
+      "away": "5"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "31",
-      "away": "33"
+      "home": "48",
+      "away": "36"
     },
     {
       "label": "Long Passes Completed",
-      "home": "5/15 (33%)",
-      "away": "5/10 (50%)"
+      "home": "5/18 (28%)",
+      "away": "4/13 (31%)"
     },
     {
       "label": "Key Passes",
@@ -132,17 +132,17 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "12",
+      "home": "19",
       "away": "12"
     },
     {
       "label": "Backward Passes",
-      "home": "13",
+      "home": "22",
       "away": "3"
     },
     {
       "label": "Interceptions",
-      "home": "0",
+      "home": "1",
       "away": "2"
     },
     {
@@ -153,27 +153,27 @@
     {
       "label": "Tackles Won",
       "home": "1/2 (50%)",
-      "away": "1/2 (50%)"
+      "away": "3/4 (75%)"
     },
     {
       "label": "Clearances",
       "home": "5",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Duels Won",
       "home": "10",
-      "away": "7"
+      "away": "9"
     },
     {
       "label": "Aerial Duels Won",
       "home": "6/8 (75%)",
-      "away": "2/8 (25%)"
+      "away": "2/9 (22%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "4/9 (44%)",
-      "away": "5/9 (56%)"
+      "home": "4/10 (40%)",
+      "away": "7/11 (64%)"
     },
     {
       "label": "Was Fouled",
@@ -182,18 +182,18 @@
     },
     {
       "label": "Was Dribbled Past",
-      "home": "1",
+      "home": "2",
       "away": "2"
     },
     {
       "label": "Final Third Possession Won",
-      "home": "0",
+      "home": "1",
       "away": "1"
     },
     {
       "label": "Possession Lost",
-      "home": "21",
-      "away": "24"
+      "home": "26",
+      "away": "29"
     },
     {
       "label": "Fouls",
