@@ -3,32 +3,32 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T15:36:26+02:00",
+  "updated": "2026-10-18T15:39:11+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "6'",
+  "minute": "9'",
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "78%",
-      "away": "22%"
+      "home": "73%",
+      "away": "27%"
     },
     {
       "label": "Attacks",
-      "home": "7",
-      "away": "4"
+      "home": "8",
+      "away": "6"
     },
     {
       "label": "Corners",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Free Kicks",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Offsides",
@@ -38,7 +38,7 @@
     {
       "label": "Throw-Ins",
       "home": "3",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Goal Kicks",
@@ -97,28 +97,28 @@
     },
     {
       "label": "Total Passes",
-      "home": "28",
-      "away": "8"
+      "home": "31",
+      "away": "10"
     },
     {
       "label": "Crosses Completed",
       "home": "1/1 (100%)",
-      "away": "0/0"
+      "away": "1/2 (50%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "14",
+      "home": "16",
       "away": "0"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "15",
-      "away": "8"
+      "home": "16",
+      "away": "12"
     },
     {
       "label": "Long Passes Completed",
-      "home": "2/3 (67%)",
-      "away": "1/3 (33%)"
+      "home": "2/5 (40%)",
+      "away": "1/4 (25%)"
     },
     {
       "label": "Key Passes",
@@ -127,12 +127,12 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "4",
-      "away": "4"
+      "home": "3",
+      "away": "5"
     },
     {
       "label": "Backward Passes",
-      "home": "6",
+      "home": "7",
       "away": "0"
     },
     {
@@ -147,18 +147,18 @@
     },
     {
       "label": "Clearances",
-      "home": "0",
+      "home": "2",
       "away": "1"
     },
     {
       "label": "Duels Won",
-      "home": "3",
-      "away": "2"
+      "home": "4",
+      "away": "3"
     },
     {
       "label": "Was Fouled",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Was Dribbled Past",
@@ -172,12 +172,12 @@
     },
     {
       "label": "Possession Lost",
-      "home": "7",
-      "away": "5"
+      "home": "10",
+      "away": "9"
     },
     {
       "label": "Fouls",
-      "home": "1",
+      "home": "2",
       "away": "0"
     },
     {
