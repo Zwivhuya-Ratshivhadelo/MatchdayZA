@@ -3,12 +3,227 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T15:00:39+02:00",
+  "updated": "2026-10-18T15:10:47+02:00",
   "home_score": null,
   "away_score": null,
   "status": "NS",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [
+    {
+      "team": "Siwelele",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Jody February",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "4",
+          "name": "T Sesane",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "Y Mfolozi",
+          "pos": "Defender"
+        },
+        {
+          "no": "29",
+          "name": "A Baliti",
+          "pos": "Defender"
+        },
+        {
+          "no": "33",
+          "name": "S Ndebele",
+          "pos": "Defender"
+        },
+        {
+          "no": "8",
+          "name": "Relebogile Mokhuoane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "16",
+          "name": "Tebogo Potsane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "S Jeza",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "36",
+          "name": "T Letshedi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "C Basomboli",
+          "pos": "Striker"
+        },
+        {
+          "no": "12",
+          "name": "M Mazibuko",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "50",
+          "name": "T Mthombeni",
+          "pos": "Substitute"
+        },
+        {
+          "no": "28",
+          "name": "M Nguessan",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "K Lupalulele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "47",
+          "name": "M Marou",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "K Khonyane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "R Selaelo Rasebotja",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "Shadrack Kobedi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "70",
+          "name": "J Clifford",
+          "pos": "Substitute"
+        },
+        {
+          "no": "80",
+          "name": "Njabulo Ngcobo",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Polokwane City",
+      "starting": [
+        {
+          "no": "50",
+          "name": "Oscarine Masuluke",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "42",
+          "name": "S Manthosi",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "E Ramaja",
+          "pos": "Defender"
+        },
+        {
+          "no": "34",
+          "name": "L Nkaki",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "T Nkwe",
+          "pos": "Defender"
+        },
+        {
+          "no": "46",
+          "name": "T Matube",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "36",
+          "name": "J Mutudza",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "25",
+          "name": "K Sebone",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "Manuel Kambala Nhanga Kambala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "B Dlamini",
+          "pos": "Striker"
+        },
+        {
+          "no": "44",
+          "name": "T Molokwane",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "48",
+          "name": "A Mashele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "G Philander",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "B Nikani",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "Sapholwethu Kelepu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "R Daniels",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "Lindokuhle Mathebula",
+          "pos": "Substitute"
+        },
+        {
+          "no": "47",
+          "name": "M Batlhabane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "28",
+          "name": "L Malatsi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "Malebogo Modise",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
 }
