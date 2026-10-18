@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-18T17:24:19+02:00",
+  "updated": "2026-10-18T17:30:24+02:00",
   "log": [
     {
       "pos": 1,
@@ -98,18 +98,18 @@
     },
     {
       "pos": 10,
-      "team": "Polokwane City",
-      "club": "Polokwane_City",
-      "p": 7,
+      "team": "Durban City",
+      "club": "Durban_City",
+      "p": 8,
       "w": 1,
       "d": 4,
-      "l": 2,
+      "l": 3,
       "pts": 7
     },
     {
       "pos": 11,
-      "team": "Durban City",
-      "club": "Durban_City",
+      "team": "Polokwane City",
+      "club": "Polokwane_City",
       "p": 8,
       "w": 1,
       "d": 4,
@@ -140,11 +140,11 @@
       "pos": 14,
       "team": "Siwelele",
       "club": "Siwelele",
-      "p": 7,
-      "w": 0,
+      "p": 8,
+      "w": 1,
       "d": 3,
       "l": 4,
-      "pts": 3
+      "pts": 6
     },
     {
       "pos": 15,
@@ -656,9 +656,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/2674040",
       "home_score": 1,
       "away_score": 0,
-      "status": "FT",
-      "minute": "90'",
-      "latest": "90' Goal, Michel N'Guessan (Siwelele)"
+      "status": "FT"
     }
   ],
   "fixtures": [
