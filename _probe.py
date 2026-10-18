@@ -6,12 +6,11 @@ def get(u):
         r = requests.get(u, headers=H, timeout=25); return r.status_code, r.text
     except Exception as e: return 0, str(e)
 def txt(h): return re.sub(r"\s+", " ", BeautifulSoup(h, "html.parser").get_text(" "))
-c, t = get("https://farpost.co.za/south-african-football/abc-motsepe-league/")
-links = list(dict.fromkeys(re.findall(r'https://(?:www\.)?farpost\.co\.za/20\d\d/\d\d/\d\d/[a-z0-9-]+/?', t)))
-print("=== farpost category", c); [print(l) for l in links[:25]]
-wraps = [l for l in links if "wrap" in l or "results" in l][:2]
-for w in wraps:
-    c, t = get(w); s = BeautifulSoup(t, "html.parser"); a = s.find("article") or s
-    print("=== WRAP", w, c); print(re.sub(r"\s+", " ", a.get_text("\n"))[:5000])
-c, t = get("https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327_SAFA_Second_Division&action=raw")
-print("=== wiki 26-27", c, t[:3000])
+for u in ["https://safa.ptsportsuite.com/competitions/abc-motsepe-league/", "https://safa.ptsportsuite.com/"]:
+    c, t = get(u); print("===", u, c, len(t)); print(txt(t)[:3000])
+    print("LINKS", sorted(set(re.findall(r'href="([^"]+)"', t)))[:150])
+    print("SCRIPTS", re.findall(r'(?:src|data-[a-z-]+)="([^"]*(?:api|json|ajax|widget)[^"]*)"', t)[:40])
+    print("APIHINTS", sorted(set(re.findall(r'https?://[a-z0-9.-]+/[^"\' ]*(?:api|json)[^"\' ]*', t)))[:40])
+for p in ["Limpopo", "Free_State", "Northern_Cape", "Mpumalanga"]:
+    c, t = get(f"https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327_SAFA_Second_Division_{p}&action=raw")
+    print("=== wiki", p, c, len(t)); print(t[:2500])
