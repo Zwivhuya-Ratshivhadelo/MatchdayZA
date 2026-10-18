@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-18T15:20:55+02:00",
+  "updated": "2026-10-18T15:31:28+02:00",
   "log": [
     {
       "pos": 1,
@@ -646,18 +646,21 @@
       "home_score": 0,
       "away_score": 1,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Siwelele",
       "away": "Polokwane City",
       "date": "2026-10-18T15:30:00+02:00",
       "venue": "Free State Stadium, Bloemfontein",
-      "status": "NS",
       "match_id": "2674040",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674040"
-    },
+      "url": "https://www.psl.co.za/matchcentre/detail/2674040",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "1'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Marumo Gallants",
       "away": "Siwelele",

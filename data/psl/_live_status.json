@@ -1,12 +1,13 @@
 {
-  "time": "2026-10-18T15:20:52+02:00",
+  "time": "2026-10-18T15:31:16+02:00",
   "links_found": 6,
   "games": [
     {
       "game": "Siwelele v Polokwane City",
       "kickoff": "2026-10-18T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674040",
-      "page": "NS None-None, line-ups 2"
+      "page": "NS None-None, line-ups 2",
+      "365scores": "LIVE 0-0 1'"
     }
   ]
 }

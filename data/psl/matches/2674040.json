@@ -3,13 +3,68 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T15:20:55+02:00",
-  "home_score": null,
-  "away_score": null,
-  "status": "NS",
-  "minute": null,
-  "events": [],
-  "stats": [],
+  "updated": "2026-10-18T15:31:28+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "1'",
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    },
+    {
+      "label": "Attacks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "0",
+      "away": "0"
+    }
+  ],
   "lineups": [
     {
       "team": "Siwelele",
@@ -225,5 +280,6 @@
         }
       ]
     }
-  ]
+  ],
+  "events": []
 }
