@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T16:08:05+02:00",
+  "updated": "2026-10-18T16:10:59+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "38'",
+  "minute": "40'",
   "events": [
     {
       "minute": "27'",
@@ -19,13 +19,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "74%",
-      "away": "26%"
+      "home": "73%",
+      "away": "27%"
     },
     {
       "label": "Attacks",
-      "home": "43",
-      "away": "34"
+      "home": "50",
+      "away": "37"
     },
     {
       "label": "Corners",
@@ -35,7 +35,7 @@
     {
       "label": "Free Kicks",
       "home": "3",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Offsides",
@@ -44,13 +44,13 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "7",
+      "home": "8",
       "away": "7"
     },
     {
       "label": "Goal Kicks",
-      "home": "2",
-      "away": "3"
+      "home": "3",
+      "away": "5"
     },
     {
       "label": "Yellow Cards",
@@ -79,8 +79,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "147",
-      "away": "29"
+      "home": "170",
+      "away": "37"
     },
     {
       "label": "Shots Off Target",
@@ -104,8 +104,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "177",
-      "away": "55"
+      "home": "203",
+      "away": "67"
     },
     {
       "label": "Shots Outside The Box",
@@ -119,18 +119,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "85",
-      "away": "14"
+      "home": "100",
+      "away": "16"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "94",
-      "away": "48"
+      "home": "105",
+      "away": "58"
     },
     {
       "label": "Long Passes Completed",
-      "home": "12/29 (41%)",
-      "away": "10/25 (40%)"
+      "home": "18/35 (51%)",
+      "away": "12/29 (41%)"
     },
     {
       "label": "Key Passes",
@@ -139,18 +139,18 @@
     },
     {
       "label": "Passes Into Final Third",
-      "home": "38",
-      "away": "14"
+      "home": "44",
+      "away": "15"
     },
     {
       "label": "Backward Passes",
-      "home": "37",
-      "away": "6"
+      "home": "40",
+      "away": "8"
     },
     {
       "label": "Interceptions",
-      "home": "1",
-      "away": "6"
+      "home": "2",
+      "away": "7"
     },
     {
       "label": "Goalkeeper Saves",
@@ -159,33 +159,38 @@
     },
     {
       "label": "Tackles Won",
-      "home": "1/2 (50%)",
-      "away": "3/4 (75%)"
+      "home": "2/3 (67%)",
+      "away": "4/5 (80%)"
     },
     {
       "label": "Clearances",
-      "home": "5",
-      "away": "5"
+      "home": "6",
+      "away": "7"
     },
     {
       "label": "Duels Won",
-      "home": "13",
-      "away": "12"
+      "home": "15",
+      "away": "16"
     },
     {
       "label": "Aerial Duels Won",
-      "home": "8/12 (67%)",
-      "away": "4/13 (31%)"
+      "home": "8/13 (62%)",
+      "away": "5/14 (36%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "5/13 (38%)",
-      "away": "8/13 (62%)"
+      "home": "7/18 (39%)",
+      "away": "11/18 (61%)"
     },
     {
       "label": "Was Fouled",
       "home": "3",
-      "away": "4"
+      "away": "5"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "1/4 (25%)",
+      "away": "1/3 (33%)"
     },
     {
       "label": "Was Dribbled Past",
@@ -199,12 +204,12 @@
     },
     {
       "label": "Possession Lost",
-      "home": "43",
-      "away": "43"
+      "home": "49",
+      "away": "48"
     },
     {
       "label": "Fouls",
-      "home": "4",
+      "home": "5",
       "away": "3"
     },
     {
@@ -355,8 +360,8 @@
           "pos": "Midfielder"
         },
         {
-          "no": "36",
-          "name": "J Mutudza",
+          "no": "17",
+          "name": "B Dlamini",
           "pos": "Midfielder"
         },
         {
@@ -370,8 +375,8 @@
           "pos": "Midfielder"
         },
         {
-          "no": "17",
-          "name": "B Dlamini",
+          "no": "36",
+          "name": "J Mutudza",
           "pos": "Striker"
         },
         {
