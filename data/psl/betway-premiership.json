@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-18T17:15:53+02:00",
+  "updated": "2026-10-18T17:18:10+02:00",
   "log": [
     {
       "pos": 1,
@@ -654,11 +654,11 @@
       "venue": "Free State Stadium, Bloemfontein",
       "match_id": "2674040",
       "url": "https://www.psl.co.za/matchcentre/detail/2674040",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "88'",
-      "latest": "75' Yellow card, Bonginkosi Dlamini (Polokwane City)"
+      "minute": "90'",
+      "latest": "90' Goal, Michel N'Guessan (Siwelele)"
     }
   ],
   "fixtures": [
