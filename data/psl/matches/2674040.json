@@ -3,21 +3,22 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T15:31:28+02:00",
+  "updated": "2026-10-18T15:33:53+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "1'",
+  "minute": "4'",
+  "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "50%",
-      "away": "50%"
+      "home": "79%",
+      "away": "21%"
     },
     {
       "label": "Attacks",
-      "home": "0",
-      "away": "0"
+      "home": "5",
+      "away": "3"
     },
     {
       "label": "Corners",
@@ -36,13 +37,13 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "0",
+      "home": "1",
       "away": "0"
     },
     {
       "label": "Goal Kicks",
       "home": "0",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Yellow Cards",
@@ -55,12 +56,112 @@
       "away": "0"
     },
     {
+      "label": "Total Shots",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
       "label": "Big Chances Created",
       "home": "0",
       "away": "0"
     },
     {
+      "label": "Passes Completed",
+      "home": "9",
+      "away": "1"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "10",
+      "away": "3"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "1/1 (100%)",
+      "away": "0/0"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "7",
+      "away": "0"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "2/3 (67%)",
+      "away": "0/1 (0%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "0/0",
+      "away": "1/1 (100%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Duels Won",
+      "home": "2",
+      "away": "1"
+    },
+    {
       "label": "Was Dribbled Past",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Substitutions",
       "home": "0",
       "away": "0"
     }
@@ -280,6 +381,5 @@
         }
       ]
     }
-  ],
-  "events": []
+  ]
 }
