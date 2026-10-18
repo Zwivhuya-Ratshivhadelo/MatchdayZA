@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T16:44:53+02:00",
+  "updated": "2026-10-18T16:47:08+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "57'",
+  "minute": "59'",
   "events": [
     {
       "minute": "45'",
@@ -30,8 +30,8 @@
     },
     {
       "label": "Attacks",
-      "home": "74",
-      "away": "58"
+      "home": "76",
+      "away": "61"
     },
     {
       "label": "Corners",
@@ -226,7 +226,7 @@
     {
       "label": "Substitutions",
       "home": "0",
-      "away": "1"
+      "away": "3"
     }
   ],
   "lineups": [
