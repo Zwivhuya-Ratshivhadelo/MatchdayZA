@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T15:57:25+02:00",
+  "updated": "2026-10-18T15:59:45+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "27'",
-  "events": [],
+  "minute": "29'",
+  "events": [
+    {
+      "minute": "27'",
+      "type": "yellow",
+      "team": "Siwelele",
+      "player": "Christian Saile"
+    }
+  ],
   "stats": [
     {
       "label": "Possession",
@@ -17,8 +24,8 @@
     },
     {
       "label": "Attacks",
-      "home": "26",
-      "away": "24"
+      "home": "29",
+      "away": "25"
     },
     {
       "label": "Corners",
@@ -28,7 +35,7 @@
     {
       "label": "Free Kicks",
       "home": "2",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Offsides",
@@ -163,7 +170,7 @@
     {
       "label": "Duels Won",
       "home": "11",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Aerial Duels Won",
@@ -173,12 +180,12 @@
     {
       "label": "Ground Duels Won",
       "home": "4/12 (33%)",
-      "away": "7/11 (64%)"
+      "away": "8/12 (67%)"
     },
     {
       "label": "Was Fouled",
       "home": "2",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Was Dribbled Past",
