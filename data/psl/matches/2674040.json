@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T16:40:23+02:00",
+  "updated": "2026-10-18T16:42:37+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "52'",
+  "minute": "55'",
   "events": [
     {
       "minute": "45'",
@@ -30,13 +30,13 @@
     },
     {
       "label": "Attacks",
-      "home": "67",
-      "away": "53"
+      "home": "68",
+      "away": "55"
     },
     {
       "label": "Corners",
       "home": "2",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Free Kicks",
@@ -71,7 +71,7 @@
     {
       "label": "Total Shots",
       "home": "7",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Shots On Target",
@@ -85,13 +85,13 @@
     },
     {
       "label": "Passes Completed",
-      "home": "240",
-      "away": "70"
+      "home": "249",
+      "away": "73"
     },
     {
       "label": "Shots Off Target",
       "home": "4",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Shots Blocked",
@@ -106,12 +106,12 @@
     {
       "label": "Shots Inside The Box",
       "home": "4",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Total Passes",
-      "home": "284",
-      "away": "113"
+      "home": "294",
+      "away": "117"
     },
     {
       "label": "Shots Outside The Box",
@@ -126,22 +126,22 @@
     {
       "label": "Crosses Completed",
       "home": "1/4 (25%)",
-      "away": "3/10 (30%)"
+      "away": "4/12 (33%)"
     },
     {
       "label": "Passes Own Half",
-      "home": "142",
+      "home": "149",
       "away": "41"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "146",
-      "away": "82"
+      "home": "149",
+      "away": "88"
     },
     {
       "label": "Long Passes Completed",
       "home": "22/47 (47%)",
-      "away": "16/41 (39%)"
+      "away": "17/42 (40%)"
     },
     {
       "label": "Key Passes",
@@ -151,11 +151,11 @@
     {
       "label": "Passes Into Final Third",
       "home": "57",
-      "away": "21"
+      "away": "23"
     },
     {
       "label": "Backward Passes",
-      "home": "58",
+      "home": "60",
       "away": "14"
     },
     {
@@ -175,8 +175,8 @@
     },
     {
       "label": "Clearances",
-      "home": "9",
-      "away": "9"
+      "home": "10",
+      "away": "10"
     },
     {
       "label": "Duels Won",
@@ -215,8 +215,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "64",
-      "away": "68"
+      "home": "65",
+      "away": "70"
     },
     {
       "label": "Fouls",
