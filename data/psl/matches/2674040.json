@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T16:25:44+02:00",
+  "updated": "2026-10-18T16:28:09+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
@@ -70,7 +70,7 @@
     },
     {
       "label": "Total Shots",
-      "home": "6",
+      "home": "7",
       "away": "2"
     },
     {
@@ -86,11 +86,11 @@
     {
       "label": "Passes Completed",
       "home": "205",
-      "away": "43"
+      "away": "44"
     },
     {
       "label": "Shots Off Target",
-      "home": "3",
+      "home": "4",
       "away": "1"
     },
     {
@@ -105,13 +105,13 @@
     },
     {
       "label": "Shots Inside The Box",
-      "home": "3",
+      "home": "4",
       "away": "1"
     },
     {
       "label": "Total Passes",
       "home": "244",
-      "away": "79"
+      "away": "80"
     },
     {
       "label": "Shots Outside The Box",
@@ -136,7 +136,7 @@
     {
       "label": "Passes Opposition Half",
       "home": "122",
-      "away": "70"
+      "away": "71"
     },
     {
       "label": "Long Passes Completed",
@@ -156,7 +156,7 @@
     {
       "label": "Backward Passes",
       "home": "49",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Interceptions",
@@ -215,7 +215,7 @@
     },
     {
       "label": "Possession Lost",
-      "home": "57",
+      "home": "56",
       "away": "57"
     },
     {
