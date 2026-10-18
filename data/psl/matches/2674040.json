@@ -3,22 +3,22 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T15:41:53+02:00",
+  "updated": "2026-10-18T15:44:22+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "11'",
+  "minute": "14'",
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "63%",
-      "away": "37%"
+      "home": "62%",
+      "away": "38%"
     },
     {
       "label": "Attacks",
-      "home": "8",
-      "away": "7"
+      "home": "10",
+      "away": "12"
     },
     {
       "label": "Corners",
@@ -27,7 +27,7 @@
     },
     {
       "label": "Free Kicks",
-      "home": "1",
+      "home": "2",
       "away": "3"
     },
     {
@@ -72,8 +72,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "25",
-      "away": "10"
+      "home": "26",
+      "away": "12"
     },
     {
       "label": "Shots Off Target",
@@ -97,8 +97,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "35",
-      "away": "16"
+      "home": "38",
+      "away": "19"
     },
     {
       "label": "Crosses Completed",
@@ -107,18 +107,18 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "19",
-      "away": "0"
+      "home": "21",
+      "away": "1"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "17",
-      "away": "21"
+      "home": "18",
+      "away": "23"
     },
     {
       "label": "Long Passes Completed",
-      "home": "2/7 (29%)",
-      "away": "2/5 (40%)"
+      "home": "2/9 (22%)",
+      "away": "3/7 (43%)"
     },
     {
       "label": "Key Passes",
@@ -152,22 +152,12 @@
     },
     {
       "label": "Duels Won",
-      "home": "5",
-      "away": "5"
-    },
-    {
-      "label": "Aerial Duels Won",
-      "home": "3/4 (75%)",
-      "away": "1/4 (25%)"
-    },
-    {
-      "label": "Ground Duels Won",
-      "home": "2/6 (33%)",
-      "away": "4/7 (57%)"
+      "home": "6",
+      "away": "4"
     },
     {
       "label": "Was Fouled",
-      "home": "1",
+      "home": "2",
       "away": "3"
     },
     {
@@ -182,8 +172,8 @@
     },
     {
       "label": "Possession Lost",
-      "home": "14",
-      "away": "14"
+      "home": "16",
+      "away": "15"
     },
     {
       "label": "Fouls",
