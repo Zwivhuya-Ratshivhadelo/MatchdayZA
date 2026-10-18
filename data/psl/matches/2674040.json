@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T16:49:30+02:00",
+  "updated": "2026-10-18T16:51:56+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "61'",
+  "minute": "64'",
   "events": [
+    {
+      "minute": "63'",
+      "type": "yellow",
+      "team": "Siwelele",
+      "player": "T. Letshedi"
+    },
     {
       "minute": "45'",
       "type": "yellow",
@@ -25,13 +31,13 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "69%",
-      "away": "31%"
+      "home": "68%",
+      "away": "32%"
     },
     {
       "label": "Attacks",
-      "home": "78",
-      "away": "64"
+      "home": "79",
+      "away": "68"
     },
     {
       "label": "Corners",
@@ -40,8 +46,8 @@
     },
     {
       "label": "Free Kicks",
-      "home": "9",
-      "away": "5"
+      "home": "10",
+      "away": "6"
     },
     {
       "label": "Offsides",
@@ -51,7 +57,7 @@
     {
       "label": "Throw-Ins",
       "home": "13",
-      "away": "14"
+      "away": "15"
     },
     {
       "label": "Goal Kicks",
@@ -85,8 +91,8 @@
     },
     {
       "label": "Passes Completed",
-      "home": "284",
-      "away": "92"
+      "home": "291",
+      "away": "99"
     },
     {
       "label": "Shots Off Target",
@@ -110,8 +116,8 @@
     },
     {
       "label": "Total Passes",
-      "home": "335",
-      "away": "141"
+      "home": "343",
+      "away": "148"
     },
     {
       "label": "Shots Outside The Box",
@@ -130,13 +136,13 @@
     },
     {
       "label": "Passes Own Half",
-      "home": "175",
-      "away": "55"
+      "home": "181",
+      "away": "59"
     },
     {
       "label": "Passes Opposition Half",
-      "home": "165",
-      "away": "98"
+      "home": "167",
+      "away": "101"
     },
     {
       "label": "Long Passes Completed",
@@ -155,13 +161,13 @@
     },
     {
       "label": "Backward Passes",
-      "home": "66",
-      "away": "18"
+      "home": "67",
+      "away": "19"
     },
     {
       "label": "Interceptions",
       "home": "3",
-      "away": "8"
+      "away": "9"
     },
     {
       "label": "Goalkeeper Saves",
@@ -170,18 +176,18 @@
     },
     {
       "label": "Tackles Won",
-      "home": "2/3 (67%)",
+      "home": "4/5 (80%)",
       "away": "6/9 (67%)"
     },
     {
       "label": "Clearances",
-      "home": "11",
+      "home": "12",
       "away": "10"
     },
     {
       "label": "Duels Won",
-      "home": "26",
-      "away": "20"
+      "home": "29",
+      "away": "22"
     },
     {
       "label": "Aerial Duels Won",
@@ -190,23 +196,23 @@
     },
     {
       "label": "Ground Duels Won",
-      "home": "14/29 (48%)",
-      "away": "15/30 (50%)"
+      "home": "17/33 (52%)",
+      "away": "17/34 (50%)"
     },
     {
       "label": "Was Fouled",
-      "home": "9",
-      "away": "5"
+      "home": "10",
+      "away": "6"
     },
     {
       "label": "Successful Dribbles",
       "home": "2/5 (40%)",
-      "away": "1/3 (33%)"
+      "away": "2/5 (40%)"
     },
     {
       "label": "Was Dribbled Past",
       "home": "3",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Final Third Possession Won",
@@ -215,13 +221,13 @@
     },
     {
       "label": "Possession Lost",
-      "home": "75",
-      "away": "83"
+      "home": "76",
+      "away": "85"
     },
     {
       "label": "Fouls",
       "home": "5",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Substitutions",
