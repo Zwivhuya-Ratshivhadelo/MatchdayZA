@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Siwelele",
   "away": "Polokwane City",
-  "updated": "2026-10-18T16:23:15+02:00",
+  "updated": "2026-10-18T16:25:44+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
@@ -171,27 +171,27 @@
     {
       "label": "Tackles Won",
       "home": "2/3 (67%)",
-      "away": "4/6 (67%)"
+      "away": "5/7 (71%)"
     },
     {
       "label": "Clearances",
       "home": "8",
-      "away": "9"
+      "away": "8"
     },
     {
       "label": "Duels Won",
-      "home": "20",
-      "away": "17"
+      "home": "21",
+      "away": "18"
     },
     {
       "label": "Aerial Duels Won",
-      "home": "10/15 (67%)",
+      "home": "11/16 (69%)",
       "away": "5/16 (31%)"
     },
     {
       "label": "Ground Duels Won",
-      "home": "10/22 (45%)",
-      "away": "12/22 (55%)"
+      "home": "10/23 (43%)",
+      "away": "13/23 (57%)"
     },
     {
       "label": "Was Fouled",
