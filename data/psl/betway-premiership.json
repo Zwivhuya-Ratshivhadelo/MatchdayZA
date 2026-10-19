@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-19T20:30:22+02:00",
+  "updated": "2026-10-19T21:30:21+02:00",
   "log": [
     {
       "pos": 1,
@@ -692,7 +692,7 @@
       "home": "AmaZulu FC",
       "away": "Golden Arrows",
       "date": "2026-10-31T18:00:00+02:00",
-      "venue": "Moses Mabhida Stadium, Durban",
+      "venue": "Princess Magogo Stadium, Durban",
       "status": "NS"
     },
     {
