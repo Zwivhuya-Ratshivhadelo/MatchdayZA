@@ -80,15 +80,6 @@
       "away_score": 0
     },
     {
-      "home": "15 de Agosto",
-      "away": "Fomboni",
-      "date": "2026-09-05T17:00:00+02:00",
-      "match_id": "c4805128",
-      "status": "FT",
-      "home_score": null,
-      "away_score": null
-    },
-    {
       "home": "Star Sport Academy",
       "away": "Medina United",
       "date": "2026-09-05T18:00:00+02:00",
@@ -682,16 +673,6 @@
       "home_score": 1,
       "away_score": 1,
       "venue": "Stade d'Honneur"
-    },
-    {
-      "home": "15 de Agosto",
-      "away": "Simba SC",
-      "date": "2026-10-21T14:00:00+02:00",
-      "match_id": "c4869894",
-      "status": "FT",
-      "home_score": null,
-      "away_score": null,
-      "venue": "Uhuru Stadium"
     }
   ],
   "fixtures": [

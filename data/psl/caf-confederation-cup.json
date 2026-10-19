@@ -134,15 +134,6 @@
       "away_score": 0
     },
     {
-      "home": "The Panthers",
-      "away": "ASPAC FC",
-      "date": "2026-09-05T19:00:00+02:00",
-      "match_id": "c4805205",
-      "status": "FT",
-      "home_score": null,
-      "away_score": null
-    },
-    {
       "home": "Durban City",
       "away": "Rukinzo FC",
       "date": "2026-09-06T15:00:00+02:00",
@@ -160,15 +151,6 @@
       "status": "FT",
       "home_score": 1,
       "away_score": 2
-    },
-    {
-      "home": "DC Virunga",
-      "away": "P. Bazar Brothers",
-      "date": "2026-09-06T15:00:00+02:00",
-      "match_id": "c4805173",
-      "status": "FT",
-      "home_score": null,
-      "away_score": null
     },
     {
       "home": "Al-Ghazal",
@@ -522,15 +504,6 @@
       "status": "FT",
       "home_score": 1,
       "away_score": 1
-    },
-    {
-      "home": "AS Douanes",
-      "away": "CR Belouizdad",
-      "date": "2026-10-17T19:00:00+02:00",
-      "match_id": "c4859966",
-      "status": "FT",
-      "home_score": null,
-      "away_score": null
     },
     {
       "home": "Tusker FC",

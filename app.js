@@ -319,7 +319,7 @@ async function feedPoll(games) {
       const list = ((await r.json()).games || []).map(feedNorm);
       for (const m of games.filter((g) => g._comp === k)) {
         const f = feedFind(list, m);
-        if (!f || f.status === "NS") continue;
+        if (!f || f.status === "NS" || f.home_score == null || f.away_score == null) continue;   // no score: not played
         const key = gameKey(m);
         const v = { status: f.status, minute: f.minute, home_score: f.home_score, away_score: f.away_score };
         // scorers straight from the feed while the game is on (or when the score has moved)

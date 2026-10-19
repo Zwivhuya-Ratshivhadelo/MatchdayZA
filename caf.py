@@ -155,7 +155,9 @@ def store(slug, games):
     meta = COMPETITIONS[slug]
     path = DATA / "psl" / f"{slug}.json"
     old = load_json(path, {}) or {}
-    matches = sorted((norm(g) for g in games), key=lambda m: m.get("date") or "")
+    # postponed, cancelled and walked-over games come through "ended" with no score: left out
+    matches = sorted((m for m in map(norm, games) if m["status"] == "NS" or m.get("home_score") is not None),
+                     key=lambda m: m.get("date") or "")
     venues = {f"c{g['id']}": (g.get("venue") or {}).get("name") for g in games}
     for m in matches:
         if venues.get(m["match_id"]):
@@ -223,7 +225,7 @@ def run():
 def refresh(slug, m):
     """One game now: its details, and its line in the competition file. Returns the game as stored."""
     d = detail(m)
-    if not d or d["status"] == "NS":
+    if not d or d["status"] == "NS" or d["home_score"] is None:
         return d
     path = DATA / "psl" / f"{slug}.json"
     comp = load_json(path, {}) or {}
