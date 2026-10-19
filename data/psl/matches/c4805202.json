@@ -1,0 +1,139 @@
+{
+  "home": "ZED FC",
+  "away": "Asas Djibouti Télécom",
+  "status": "FT",
+  "minute": null,
+  "home_score": 4,
+  "away_score": 0,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "ZED FC",
+      "player": "",
+      "score": [
+        4,
+        0
+      ]
+    },
+    {
+      "minute": "87'",
+      "type": "goal",
+      "team": "ZED FC",
+      "player": "",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "minute": "44'",
+      "type": "goal",
+      "team": "ZED FC",
+      "player": "",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "21'",
+      "type": "goal",
+      "team": "ZED FC",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "71%",
+      "away": "29%"
+    },
+    {
+      "label": "Attacks",
+      "home": "142",
+      "away": "82"
+    },
+    {
+      "label": "Corners",
+      "home": "8",
+      "away": "2"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "16",
+      "away": "11"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "18",
+      "away": "16"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "5",
+      "away": "13"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "21",
+      "away": "4"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "11",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "8",
+      "away": "4"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Cairo International Stadium"
+}

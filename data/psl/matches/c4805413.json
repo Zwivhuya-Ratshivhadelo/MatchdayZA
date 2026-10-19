@@ -1,0 +1,58 @@
+{
+  "home": "Panthere",
+  "away": "Rayon Sports",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 1,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "51%",
+      "away": "49%"
+    },
+    {
+      "label": "Attacks",
+      "home": "97",
+      "away": "63"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "6"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "19",
+      "away": "14"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "31",
+      "away": "20"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "9"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Omnisport Ahmadou Ahidjo"
+}

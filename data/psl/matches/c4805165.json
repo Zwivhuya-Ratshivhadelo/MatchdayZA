@@ -1,0 +1,58 @@
+{
+  "home": "Armée Patriotique Rwandaise FC",
+  "away": "Aigles du Congo",
+  "status": "FT",
+  "minute": null,
+  "home_score": 3,
+  "away_score": 0,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "51%",
+      "away": "49%"
+    },
+    {
+      "label": "Attacks",
+      "home": "151",
+      "away": "146"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "8"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "10",
+      "away": "14"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "29",
+      "away": "18"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "18",
+      "away": "14"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Amahoro"
+}

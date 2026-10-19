@@ -1,0 +1,83 @@
+{
+  "home": "KMKM",
+  "away": "Al Ahli Tripoli",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 3,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Attacks",
+      "home": "74",
+      "away": "66"
+    },
+    {
+      "label": "Corners",
+      "home": "3",
+      "away": "12"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "5",
+      "away": "8"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Amaan Stadium"
+}

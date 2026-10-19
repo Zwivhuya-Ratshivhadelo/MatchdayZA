@@ -1,0 +1,44 @@
+{
+  "home": "Enugu Rangers",
+  "away": "AS Sobemap",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "46'",
+      "type": "goal",
+      "team": "AS Sobemap",
+      "player": "",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "32'",
+      "type": "goal",
+      "team": "Enugu Rangers",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "1"
+    }
+  ],
+  "lineups": [],
+  "venue": "MKO Abiola Sports Arena"
+}

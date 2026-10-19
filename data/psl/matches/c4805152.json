@@ -1,0 +1,44 @@
+{
+  "home": "Club Africain Tunis",
+  "away": "Djoliba AC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 0,
+  "events": [
+    {
+      "minute": "71'",
+      "type": "goal",
+      "team": "Club Africain Tunis",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    },
+    {
+      "label": "Attacks",
+      "home": "83",
+      "away": "70"
+    },
+    {
+      "label": "Corners",
+      "home": "7",
+      "away": "5"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "2"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Olympique Hammadi Agrebi"
+}

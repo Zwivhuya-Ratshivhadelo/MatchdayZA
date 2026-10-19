@@ -1,0 +1,44 @@
+{
+  "home": "Medeama SC",
+  "away": "TP Mazembe",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "87'",
+      "type": "goal",
+      "team": "TP Mazembe",
+      "player": "",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    },
+    {
+      "label": "Attacks",
+      "home": "97",
+      "away": "77"
+    },
+    {
+      "label": "Corners",
+      "home": "13",
+      "away": "5"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "2"
+    }
+  ],
+  "lineups": [],
+  "venue": "Tarkawa T&amp;A Park"
+}

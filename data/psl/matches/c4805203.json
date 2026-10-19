@@ -1,0 +1,114 @@
+{
+  "home": "Hilal Alsahil SC Port Sudan",
+  "away": "Welwalo Adigrat Uni",
+  "status": "FT",
+  "minute": null,
+  "home_score": 2,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "87'",
+      "type": "goal",
+      "team": "Hilal Alsahil SC Port Sudan",
+      "player": "",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "43'",
+      "type": "goal",
+      "team": "Welwalo Adigrat Uni",
+      "player": "",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "41'",
+      "type": "goal",
+      "team": "Hilal Alsahil SC Port Sudan",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "64%",
+      "away": "36%"
+    },
+    {
+      "label": "Attacks",
+      "home": "158",
+      "away": "107"
+    },
+    {
+      "label": "Corners",
+      "home": "9",
+      "away": "1"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "11"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Régional de Nyamirambo"
+}

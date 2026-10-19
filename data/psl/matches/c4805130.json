@@ -1,0 +1,33 @@
+{
+  "home": "Gaborone United",
+  "away": "Young Africans",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 1,
+  "events": [],
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "88",
+      "away": "140"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "6"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "20",
+      "away": "11"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Botswana National Stadium"
+}

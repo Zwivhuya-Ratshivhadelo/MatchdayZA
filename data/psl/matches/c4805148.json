@@ -1,0 +1,59 @@
+{
+  "home": "Vipers",
+  "away": "FC Nouadhibou",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "23'",
+      "type": "goal",
+      "team": "FC Nouadhibou",
+      "player": "",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "3'",
+      "type": "goal",
+      "team": "Vipers",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    },
+    {
+      "label": "Attacks",
+      "home": "129",
+      "away": "75"
+    },
+    {
+      "label": "Corners",
+      "home": "13",
+      "away": "3"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "4",
+      "away": "16"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "1"
+    }
+  ],
+  "lineups": [],
+  "venue": "St. Mary's Stadium (Southampton)"
+}

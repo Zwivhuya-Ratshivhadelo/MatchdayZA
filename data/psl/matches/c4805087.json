@@ -1,0 +1,78 @@
+{
+  "home": "Ahli Wad Madani",
+  "away": "Tusker FC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 2,
+  "away_score": 2,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Attacks",
+      "home": "164",
+      "away": "125"
+    },
+    {
+      "label": "Corners",
+      "home": "3",
+      "away": "2"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Kigali Pelé Stadium"
+}

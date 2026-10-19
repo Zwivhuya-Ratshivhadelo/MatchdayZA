@@ -1,0 +1,59 @@
+{
+  "home": "Gor Mahia",
+  "away": "Pyramids",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 2,
+  "events": [
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "Pyramids",
+      "player": "",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "5'",
+      "type": "goal",
+      "team": "Pyramids",
+      "player": "",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "58%",
+      "away": "42%"
+    },
+    {
+      "label": "Attacks",
+      "home": "103",
+      "away": "94"
+    },
+    {
+      "label": "Corners",
+      "home": "7",
+      "away": "3"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "9",
+      "away": "11"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "3"
+    }
+  ],
+  "lineups": [],
+  "venue": "Nyayo National Stadium"
+}

@@ -1,0 +1,33 @@
+{
+  "home": "Red Arrows",
+  "away": "FC Rouge",
+  "status": "FT",
+  "minute": null,
+  "home_score": 2,
+  "away_score": 0,
+  "events": [
+    {
+      "minute": "58'",
+      "type": "goal",
+      "team": "Red Arrows",
+      "player": "",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "39'",
+      "type": "goal",
+      "team": "Red Arrows",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [],
+  "lineups": [],
+  "venue": "Levy Mwanawasa Stadium"
+}

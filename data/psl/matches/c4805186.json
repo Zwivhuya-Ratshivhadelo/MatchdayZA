@@ -1,0 +1,79 @@
+{
+  "home": "AS Sobemap",
+  "away": "Enugu Rangers",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "65'",
+      "type": "goal",
+      "team": "AS Sobemap",
+      "player": "",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "21'",
+      "type": "own_goal",
+      "team": "Enugu Rangers",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "48%",
+      "away": "52%"
+    },
+    {
+      "label": "Attacks",
+      "home": "85",
+      "away": "94"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "3"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "19",
+      "away": "25"
+    },
+    {
+      "label": "Offsides",
+      "home": "5",
+      "away": "3"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "27",
+      "away": "33"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "10",
+      "away": "9"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade de Kégué"
+}

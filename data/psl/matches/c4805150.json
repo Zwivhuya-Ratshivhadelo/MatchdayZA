@@ -1,0 +1,23 @@
+{
+  "home": "Merreikh Al Sudan",
+  "away": "Power Dynamos",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 0,
+  "events": [
+    {
+      "minute": "39'",
+      "type": "penalty_goal",
+      "team": "Merreikh Al Sudan",
+      "player": "Aboubacar Bachir Bangoura",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [],
+  "lineups": [],
+  "venue": "Stade Amahoro"
+}

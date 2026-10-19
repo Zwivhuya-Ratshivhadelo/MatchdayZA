@@ -1,0 +1,49 @@
+{
+  "home": "JS Saoura",
+  "away": "Horoya AC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 0,
+  "events": [
+    {
+      "minute": "44'",
+      "type": "goal",
+      "team": "JS Saoura",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "55%",
+      "away": "45%"
+    },
+    {
+      "label": "Attacks",
+      "home": "124",
+      "away": "106"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "5"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "11"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "4"
+    }
+  ],
+  "lineups": [],
+  "venue": "Miloud Hadefi Stadium"
+}

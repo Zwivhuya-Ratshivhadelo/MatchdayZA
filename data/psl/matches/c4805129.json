@@ -1,0 +1,49 @@
+{
+  "home": "Mighty Wanderers Be Forward FC",
+  "away": "Simba SC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "66'",
+      "type": "goal",
+      "team": "Simba SC",
+      "player": "",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "45%",
+      "away": "55%"
+    },
+    {
+      "label": "Attacks",
+      "home": "84",
+      "away": "88"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "7"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "11",
+      "away": "13"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "1"
+    }
+  ],
+  "lineups": [],
+  "venue": "Bingu National Stadium"
+}

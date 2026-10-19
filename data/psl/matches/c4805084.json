@@ -1,0 +1,89 @@
+{
+  "home": "Shooting Stars",
+  "away": "CS Sfaxien",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 0,
+  "events": [
+    {
+      "minute": "26'",
+      "type": "goal",
+      "team": "Shooting Stars",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "47%",
+      "away": "53%"
+    },
+    {
+      "label": "Attacks",
+      "home": "83",
+      "away": "72"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "MKO Abiola Sports Arena"
+}

@@ -1,0 +1,134 @@
+{
+  "home": "Maghreb Fès",
+  "away": "Rahimo",
+  "status": "FT",
+  "minute": null,
+  "home_score": 4,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "Maghreb Fès",
+      "player": "",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "minute": "73'",
+      "type": "goal",
+      "team": "Maghreb Fès",
+      "player": "",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "minute": "59'",
+      "type": "goal",
+      "team": "Rahimo",
+      "player": "",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "Maghreb Fès",
+      "player": "",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "7'",
+      "type": "goal",
+      "team": "Maghreb Fès",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "56%",
+      "away": "44%"
+    },
+    {
+      "label": "Attacks",
+      "home": "112",
+      "away": "94"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "5"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "19",
+      "away": "11"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "5"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "12",
+      "away": "12"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "8",
+      "away": "12"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "27",
+      "away": "13"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "11",
+      "away": "3"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "13",
+      "away": "9"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Complexe Sportif de Fès"
+}

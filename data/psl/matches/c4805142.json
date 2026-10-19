@@ -1,0 +1,54 @@
+{
+  "home": "ASC Kara",
+  "away": "ASEC Mimosas",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "40'",
+      "type": "goal",
+      "team": "ASEC Mimosas",
+      "player": "",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "20'",
+      "type": "goal",
+      "team": "ASC Kara",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "47%",
+      "away": "53%"
+    },
+    {
+      "label": "Attacks",
+      "home": "83",
+      "away": "99"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "2"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "2"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade de Kégué"
+}

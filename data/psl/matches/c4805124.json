@@ -1,0 +1,33 @@
+{
+  "home": "HCB Songo",
+  "away": "Petro Luanda",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 1,
+  "events": [],
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "83",
+      "away": "70"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "5"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "2"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "1"
+    }
+  ],
+  "lineups": [],
+  "venue": "Estádio Nacional do Zimpeto"
+}

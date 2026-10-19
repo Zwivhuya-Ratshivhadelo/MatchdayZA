@@ -1,0 +1,33 @@
+{
+  "home": "Colombe",
+  "away": "Stade Malien",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 0,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "57%",
+      "away": "43%"
+    },
+    {
+      "label": "Attacks",
+      "home": "109",
+      "away": "95"
+    },
+    {
+      "label": "Corners",
+      "home": "9",
+      "away": "4"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "1"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Omnisport Ahmadou Ahidjo"
+}

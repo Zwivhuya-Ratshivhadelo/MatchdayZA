@@ -1,0 +1,114 @@
+{
+  "home": "Mogadishu City",
+  "away": "Kitara FC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 2,
+  "events": [
+    {
+      "minute": "35'",
+      "type": "goal",
+      "team": "Kitara FC",
+      "player": "",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "minute": "34'",
+      "type": "goal",
+      "team": "Kitara FC",
+      "player": "",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "17'",
+      "type": "goal",
+      "team": "Mogadishu City",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "61%",
+      "away": "39%"
+    },
+    {
+      "label": "Attacks",
+      "home": "91",
+      "away": "89"
+    },
+    {
+      "label": "Corners",
+      "home": "3",
+      "away": "5"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Hoima City Stadium"
+}
