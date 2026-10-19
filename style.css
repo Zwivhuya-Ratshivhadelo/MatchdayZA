@@ -241,6 +241,8 @@ h1, h2, h3 { font-stretch: 75%; font-weight: 800; line-height: 1.05; margin: 0; 
 
 /* Standings table */
 .table-wrap { overflow-x: auto; }
+.group-name { font-size: 13px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; margin: 18px 0 6px; }
+.group-name:first-child { margin-top: 4px; }
 .standings { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; font-size: 14px; }
 .standings th { font-size: 12px; color: var(--muted); font-weight: 600; text-align: center; padding: 6px 4px; }
 .standings td { text-align: center; padding: 8px 4px; border-top: 1px solid var(--line); }

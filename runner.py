@@ -2,7 +2,7 @@
 
 GitHub drops some scheduled runs, so instead of one run an hour there are six; each one decides
 what is due and most finish in seconds:
-  - a PSL game kicks off within 80 minutes (or is on): follow it live until it ends (live.py)
+  - a PSL game (or a South African club's CAF game) kicks off within 80 minutes (or is on): follow it live until it ends (live.py)
   - the last update is more than 55 minutes old: run the normal update (update.py)
   - otherwise: nothing to do
 Data is pushed by commit.sh. Run:  python runner.py
@@ -31,10 +31,11 @@ def live_window(now):
     for f in sorted((DATA / "psl").glob("*.json")):
         comp = load_json(f, {})
         games = comp.get("fixtures", []) + [r for r in comp.get("results", []) if r.get("status") == "LIVE"]
+        caf = f.stem.startswith("caf-")
         for m in games:
             d = m.get("date") or ""
-            if d[:10] != today or "T" not in d:
-                continue
+            if d[:10] != today or "T" not in d or (caf and not m.get("sa")):
+                continue   # of CAF games, only South African clubs' games are followed live
             ko = datetime.fromisoformat(d)
             if ko - LEAD <= now < ko + timedelta(hours=2):
                 mins = ko.hour * 60 + ko.minute

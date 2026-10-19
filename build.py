@@ -3,7 +3,7 @@ matches and the game on the pitch), so search engines and ad reviewers see real 
 pages show something before the scripts run. app.js redraws the same markup with live data.
 
 Pages:  /  (Betway Premiership), /motsepe-foundation-championship/, /mtn8/, /carling-knockout/,
-        /nedbank-cup/, /abc.html, plus sitemap.xml.
+        /nedbank-cup/, /caf-champions-league/, /caf-confederation-cup/, /abc.html, plus sitemap.xml.
 Run:    python build.py
 """
 import html
@@ -19,6 +19,8 @@ PAGES = {   # data slug -> (address, name)
     "mtn8": ("/mtn8/", "MTN8"),
     "carling-knockout": ("/carling-knockout/", "Carling Knockout"),
     "nedbank-cup": ("/nedbank-cup/", "Nedbank Cup"),
+    "caf-champions-league": ("/caf-champions-league/", "CAF Champions League"),
+    "caf-confederation-cup": ("/caf-confederation-cup/", "CAF Confederation Cup"),
 }
 BIG_CLUBS = {"kaizer-chiefs", "orlando-pirates", "mamelodi-sundowns"}
 RESULTS_SHOWN = 6
@@ -205,6 +207,17 @@ def standings_table(rows, links=False, highlight=None):
             f'<th class="hide-sm">Form</th></tr></thead><tbody>{body}</tbody></table></div>')
 
 
+def groups_html(groups, results, links=False):
+    """CAF group tables, one under the other."""
+    return "".join(f'<h3 class="group-name">{esc(g["name"])}</h3>' + standings_table(enrich_log(g["log"], results), links)
+                   for g in groups if g.get("log"))
+
+
+def sa_first(games):
+    """South African clubs' games first (CAF pages), each part keeping its order."""
+    return [m for m in games if m.get("sa")] + [m for m in games if not m.get("sa")]
+
+
 def nav(active):
     items = [(k, url, name) for k, (url, name) in PAGES.items()] + [("abc", "/abc.html", "ABC Motsepe League")]
     return "".join(f'<a href="{url}" data-k="{k}" data-page="1"{" aria-current=" + chr(34) + "page" + chr(34) if k == active else ""}>'
@@ -230,7 +243,12 @@ def build_comp(slug_, template, svg, today):
     live = [m for m in results if m.get("status") == "LIVE"]
     done = sorted([m for m in results if m.get("status") == "FT"], key=lambda m: m.get("date") or "", reverse=True)
 
-    big = next((m for m in fixtures if slug(m["home"]) in BIG_CLUBS or slug(m["away"]) in BIG_CLUBS), None)
+    caf = slug_.startswith("caf-")
+    if caf:   # South African clubs' games come first, and go on the pitch
+        fixtures, live, done = sa_first(fixtures), sa_first(live), sa_first(done)
+        big = next((m for m in fixtures if m.get("sa")), None)
+    else:
+        big = next((m for m in fixtures if slug(m["home"]) in BIG_CLUBS or slug(m["away"]) in BIG_CLUBS), None)
     pick = (live[0] if live else None) or big or (fixtures[0] if fixtures else None) or (done[0] if done else None)
     pick_key = game_key(pick) if pick else None
 
@@ -253,8 +271,9 @@ def build_comp(slug_, template, svg, today):
         "featured": pitch_card(pick, name, today, svg) + goals_strip(pick) if pick else "",
         "results": results_list(done, pick=True, link=True),
         "next_hidden": "" if nxt else " hidden", "results_hidden": "" if done else " hidden",
-        "standings": standings_table(enrich_log(log, results, comp.get("extra")), links=True) if log else "",
-        "log_hidden": "" if log else " hidden",
+        "standings": (standings_table(enrich_log(log, results, comp.get("extra")), links=True) if log
+                      else groups_html(comp.get("groups") or [], results, links=True)),
+        "log_hidden": "" if log or any(g.get("log") for g in comp.get("groups") or []) else " hidden",
     })
     write(url, page)
     return url

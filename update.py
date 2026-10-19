@@ -1,4 +1,4 @@
-"""One run that updates everything: PSL scores every time, ABC Motsepe League four times a day,
+"""One run that updates everything: PSL and CAF scores every time, ABC Motsepe League four times a day,
 club logos once a day. Run with --all to do all three now (manual runs do this).
 
 Run:  python update.py [--all]
@@ -7,6 +7,7 @@ import sys
 
 import abc_league
 import build
+import caf
 import logos
 import psl
 from common import ROOT, now_sast
@@ -31,6 +32,7 @@ def main():
     everything = "--all" in sys.argv
     hour = now_sast().hour
     ok = step("PSL scores", psl.run)
+    ok &= step("CAF competitions", caf.run)
     if everything or hour in ABC_HOURS:
         ok &= step("ABC Motsepe League", abc_league.run)
     if everything or hour == LOGO_HOUR or not (ROOT / "logos").exists():

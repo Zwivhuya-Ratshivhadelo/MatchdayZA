@@ -8,6 +8,8 @@ const PSL = {
   "mtn8": { name: "MTN8", url: "/mtn8/" },
   "carling-knockout": { name: "Carling Knockout", url: "/carling-knockout/" },
   "nedbank-cup": { name: "Nedbank Cup", url: "/nedbank-cup/" },
+  "caf-champions-league": { name: "CAF Champions League", url: "/caf-champions-league/" },
+  "caf-confederation-cup": { name: "CAF Confederation Cup", url: "/caf-confederation-cup/" },
 };
 const BIG_CLUBS = ["kaizer-chiefs", "orlando-pirates", "mamelodi-sundowns"];
 const RESULTS_SHOWN = 6;
@@ -258,7 +260,8 @@ function clubLeague(comps, club) {
 /* ---------- live score and clock read straight from the live feed by the visitor's browser ----------
    The site's own data is updated every couple of minutes; while games are on, the page also asks the
    feed itself every 20 seconds, so the score and the game clock are as current as the feed. */
-const FEED_COMPS = { "national-first-division": 5822, "betway-premiership": 414, "mtn8": 5821 };
+const FEED_COMPS = { "national-first-division": 5822, "betway-premiership": 414, "mtn8": 5821,
+                     "caf-champions-league": 624, "caf-confederation-cup": 627 };
 const FEED = {};        // gameKey -> { status, minute, home_score, away_score }
 const FEED_EVERY = 20000;
 
@@ -282,6 +285,8 @@ function feedNorm(g) {
 const clubKey = (s) => slug(s).replace(/(^fc-|-fc$)/g, "");
 const sameClub = (a, b) => { a = clubKey(a); b = clubKey(b); return !!a && !!b && (a === b || a.startsWith(b) || b.startsWith(a)); };
 function feedFind(list, m) {
+  // CAF games are stored with the feed's own game number ("c" + id)
+  if (/^c\d+$/.test(m.match_id || "")) return list.find((g) => `c${g.id}` === m.match_id) || null;
   const day = (m.date || "").slice(0, 10), t = (m.date || "").slice(11, 16);
   const sameDay = list.filter((g) => (g.date || "").slice(0, 10) === day);
   const exact = sameDay.find((g) => sameClub(g.home, m.home) && sameClub(g.away, m.away));
@@ -384,13 +389,17 @@ async function renderBoard(view) {
     // fresher score and clock from the live feed; games that have kicked off move to the results
     const fx = v.fixtures.map(withFeed), rs = v.results.map(withFeed);
     const started = (m) => m.status === "LIVE" || m.status === "FT";
-    const fixtures = fx.filter((m) => !started(m)), results = [...rs, ...fx.filter(started)];
-    const live = results.filter((m) => m.status === "LIVE");
-    const games = [...live, ...fixtures, ...results];
+    let fixtures = fx.filter((m) => !started(m));
+    const results = [...rs, ...fx.filter(started)];
+    // CAF pages: South African clubs' games first
+    const saFirst = (lst) => (v.saFirst ? [...lst.filter((m) => m.sa), ...lst.filter((m) => !m.sa)] : lst);
+    const live = saFirst(results.filter((m) => m.status === "LIVE"));
+    fixtures = saFirst(fixtures);
     compNav(v.nav);
 
-    // the game on the pitch: live, else next big-club game, else next game, else latest result
+    // the game on the pitch: live, else next big-club (or South African) game, else next game, else latest result
     const auto = live[0]
+      || (v.saFirst && fixtures.find((m) => m.sa))
       || (v.bigFirst && fixtures.find((m) => BIG_CLUBS.includes(slug(m.home)) || BIG_CLUBS.includes(slug(m.away))))
       || fixtures[0] || [...results].sort(byDate).reverse()[0];
     // a finished game from an old shared link opens its own page
@@ -408,13 +417,16 @@ async function renderBoard(view) {
     $('[data-md="next-matches"]').innerHTML = next.map((m) => matchCard(m, { pick: true, selected: gameKey(m) === pickKey })).join("");
 
     // the finished game on the pitch is not repeated in the results
-    const done = results.filter((m) => m.status === "FT" && gameKey(m) !== pickKey).sort(byDate).reverse();
+    const done = saFirst(results.filter((m) => m.status === "FT" && gameKey(m) !== pickKey).sort(byDate).reverse());
     const resBox = $('[data-md="results"]');
     $('.results-block').hidden = !resultsList(resBox, done, v.labels ? compName : null, { link: true });
 
     const log = v.log;
     $('[data-md="log-section"]').hidden = !log;
-    $('[data-md="standings"]').innerHTML = log ? standingsTable(enrichLog(log.comp.log, log.comp.results, log.comp.extra), { links: true, highlight: v.highlight }) : "";
+    $('[data-md="standings"]').innerHTML = !log ? ""
+      : (log.comp.log || []).length ? standingsTable(enrichLog(log.comp.log, log.comp.results, log.comp.extra), { links: true, highlight: v.highlight })
+      : (log.comp.groups || []).filter((g) => (g.log || []).length)   // CAF group tables
+          .map((g) => `<h3 class="group-name">${esc(g.name)}</h3>${standingsTable(enrichLog(g.log, log.comp.results), { links: true, highlight: v.highlight })}`).join("");
 
     // pitch first with what we know, then the game's details once loaded
     const feat = $('[data-md="featured"]'), panel = $('[data-md="match-panel"]');
@@ -477,9 +489,9 @@ function renderHome() {
     const comp = comps[current] || {};
     const tag = (m) => ({ ...m, _comp: current });
     return {
-      nav: current, name: PSL[current].name, bigFirst: true,
+      nav: current, name: PSL[current].name, bigFirst: true, saFirst: current.startsWith("caf-"),
       fixtures: (comp.fixtures || []).map(tag).sort(byDate), results: (comp.results || []).map(tag),
-      log: (comp.log || []).length ? { comp } : null,
+      log: (comp.log || []).length || (comp.groups || []).some((g) => (g.log || []).length) ? { comp } : null,
     };
   });
 }

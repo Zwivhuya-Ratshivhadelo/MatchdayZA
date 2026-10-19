@@ -1,4 +1,4 @@
-"""Match-day loop for PSL games. Starts 75 minutes before kick-off so line-ups appear as soon as
+"""Match-day loop for PSL and CAF games. Starts 75 minutes before kick-off so line-ups appear as soon as
 the PSL publishes them, then polls psl.co.za every minute during the game, saving score, key
 moments, stats and line-ups to data/ and pushing them every couple of minutes.
 
@@ -16,6 +16,7 @@ from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 
 import build
+import caf
 import psl
 import scores365
 from common import DATA, fetch, load_json, match_key, now_sast, save_json, score_line
@@ -34,13 +35,13 @@ def todays_games(window):
     lo, hi = WINDOWS[window]
     today = now_sast().date().isoformat()
     games = []
-    for slug in psl.COMPETITIONS:
+    for slug in [*psl.COMPETITIONS, *caf.COMPETITIONS]:
         comp = load_json(DATA / "psl" / f"{slug}.json", {})
         # fixtures, plus games already under way (picked up again after a hand-over)
         for f in comp.get("fixtures", []) + [r for r in comp.get("results", []) if r.get("status") == "LIVE"]:
             d = f.get("date") or ""
-            if d[:10] != today or "T" not in d:
-                continue
+            if d[:10] != today or "T" not in d or (slug in caf.COMPETITIONS and not f.get("sa")):
+                continue   # of CAF games, only South African clubs' games are followed live
             ko = datetime.fromisoformat(d)
             if lo <= ko.hour * 60 + ko.minute < hi:
                 games.append({**f, "slug": slug, "kickoff": ko})
@@ -115,7 +116,7 @@ def run(window):
         polls += 1
         now = now_sast()
         links = []
-        for slug in {g["slug"] for g in games}:
+        for slug in {g["slug"] for g in games} - set(caf.COMPETITIONS):
             try:
                 links += psl._detail_links(BeautifulSoup(fetch(f"{psl.BASE}/tournament/{slug}"), "html.parser"))
             except Exception as e:
@@ -128,6 +129,14 @@ def run(window):
             entry = {"game": f"{g['home']} v {g['away']}", "kickoff": g["date"]}
             report["games"].append(entry)
             if key in finished or now < g["kickoff"] - LEAD:
+                continue
+            if g["slug"] in caf.COMPETITIONS:   # CAF games come straight from 365scores
+                if now < g["kickoff"] - timedelta(minutes=5):
+                    continue
+                d = caf.refresh(g["slug"], {k: v for k, v in g.items() if k not in ("slug", "kickoff")})
+                entry["365scores"] = f"{d['status']} {d['home_score']}-{d['away_score']} {d['minute'] or ''}" if d else "not found"
+                if d and d["status"] == "FT":
+                    finished.add(key)
                 continue
             link = psl._find_link(links, g["home"], g["away"]) or id_link(g, budget)
             entry["match_page"] = link["url"] if link else None
