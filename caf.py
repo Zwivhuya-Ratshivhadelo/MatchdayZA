@@ -125,6 +125,12 @@ def lineups(g):
     return out if len(out) == 2 else []
 
 
+def real_stats(stats):
+    """No stats at all rather than a page of zeros (the feed lists the headings for games it didn't cover)."""
+    zero = lambda v: str(v).strip().rstrip("%") in ("", "0", "0.0")
+    return [] if all(zero(x["home"]) and zero(x["away"]) for x in stats) else stats
+
+
 def detail(m):
     """Goals, cards, stats and line-ups of one game, saved for the match page."""
     gid = m["match_id"][1:]
@@ -138,7 +144,7 @@ def detail(m):
     d = {"home": m["home"], "away": m["away"], "status": x["status"], "minute": x["minute"],
          "home_score": x["home_score"], "away_score": x["away_score"],
          "events": scores365.events(gid, h.get("name"), a.get("name"), m["home"], m["away"]),
-         "stats": scores365.stats(gid, h.get("id")), "lineups": lineups(g),
+         "stats": real_stats(scores365.stats(gid, h.get("id"))), "lineups": lineups(g),
          "venue": (g.get("venue") or {}).get("name") or ""}
     save_json(DATA / "psl" / "matches" / f"{m['match_id']}.json", d)
     return d

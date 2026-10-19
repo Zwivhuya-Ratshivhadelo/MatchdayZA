@@ -17,23 +17,7 @@
       ]
     }
   ],
-  "stats": [
-    {
-      "label": "Attacks",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Yellow Cards",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Red Cards",
-      "home": "0",
-      "away": "0"
-    }
-  ],
+  "stats": [],
   "lineups": [],
   "venue": "Botswana National Stadium"
 }

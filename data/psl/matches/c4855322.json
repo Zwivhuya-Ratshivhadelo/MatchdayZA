@@ -37,18 +37,7 @@
       ]
     }
   ],
-  "stats": [
-    {
-      "label": "Yellow Cards",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Red Cards",
-      "home": "0",
-      "away": "0"
-    }
-  ],
+  "stats": [],
   "lineups": [],
   "venue": "Stade Laurent Pokou"
 }
