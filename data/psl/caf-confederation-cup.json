@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-19T16:30:38+02:00",
+  "updated": "2026-10-19T17:30:36+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -565,16 +565,6 @@
       "home_score": 3,
       "away_score": 2,
       "venue": "Stade Mamadou Konaté"
-    },
-    {
-      "home": "The Panthers",
-      "away": "USM Alger",
-      "date": "2026-10-20T21:00:00+02:00",
-      "match_id": "c4857199",
-      "status": "FT",
-      "home_score": 0,
-      "away_score": 3,
-      "venue": "Stade du 5 Juillet 1962"
     }
   ],
   "fixtures": [
