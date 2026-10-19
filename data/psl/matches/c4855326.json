@@ -1,0 +1,44 @@
+{
+  "home": "Sidama Bunna",
+  "away": "Al Hilal Omdurman",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 2,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Al Hilal Omdurman",
+      "player": "Mohamed Abdelrahman",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "own_goal",
+      "team": "Al Hilal Omdurman",
+      "player": "Sayyida Bouna",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Dire Dawa Stadium"
+}

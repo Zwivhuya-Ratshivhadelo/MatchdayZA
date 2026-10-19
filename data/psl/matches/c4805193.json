@@ -1,0 +1,53 @@
+{
+  "home": "Djoliba AC",
+  "away": "Club Africain Tunis",
+  "status": "FT",
+  "minute": null,
+  "home_score": 2,
+  "away_score": 2,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    },
+    {
+      "label": "Attacks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Mamadou Konaté"
+}

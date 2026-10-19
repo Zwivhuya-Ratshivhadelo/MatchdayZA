@@ -1,0 +1,109 @@
+{
+  "home": "Welwalo Adigrat Uni",
+  "away": "Al Ahli Tripoli",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 4,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Al Ahli Tripoli",
+      "player": "Ezzeddin Amer Faraj El Maremi",
+      "score": [
+        0,
+        4
+      ]
+    },
+    {
+      "minute": "51'",
+      "type": "goal",
+      "team": "Al Ahli Tripoli",
+      "player": "Abdulaziz Ali",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "minute": "21'",
+      "type": "goal",
+      "team": "Al Ahli Tripoli",
+      "player": "Mohamed Tougai",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "14'",
+      "type": "goal",
+      "team": "Al Ahli Tripoli",
+      "player": "Muaid Ellafi",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Dire Dawa Stadium"
+}

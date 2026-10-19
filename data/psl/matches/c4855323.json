@@ -1,0 +1,23 @@
+{
+  "home": "Horoya AC",
+  "away": "Merreikh Al Sudan",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 0,
+  "events": [
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "Horoya AC",
+      "player": "Yakhouba Barry",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [],
+  "lineups": [],
+  "venue": "Stade du 28 Septembre"
+}

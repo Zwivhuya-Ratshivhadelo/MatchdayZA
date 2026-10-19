@@ -1,0 +1,53 @@
+{
+  "home": "Petro Luanda",
+  "away": "HCB Songo",
+  "status": "FT",
+  "minute": null,
+  "home_score": 2,
+  "away_score": 2,
+  "events": [],
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "97",
+      "away": "82"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "6"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "6",
+      "away": "9"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "6",
+      "away": "11"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "8",
+      "away": "8"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Estádio 11 de Novembro"
+}

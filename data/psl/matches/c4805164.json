@@ -1,0 +1,53 @@
+{
+  "home": "KVZ",
+  "away": "Al Swehly SC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 3,
+  "events": [],
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "154",
+      "away": "145"
+    },
+    {
+      "label": "Corners",
+      "home": "8",
+      "away": "4"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "17",
+      "away": "18"
+    },
+    {
+      "label": "Offsides",
+      "home": "5",
+      "away": "1"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "13",
+      "away": "22"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "12"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "4"
+    },
+    {
+      "label": "Red Cards",
+      "home": "1",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Amaan Stadium"
+}

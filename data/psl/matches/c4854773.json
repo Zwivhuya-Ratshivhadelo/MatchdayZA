@@ -1,0 +1,119 @@
+{
+  "home": "ZED FC",
+  "away": "Azam FC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "58'",
+      "type": "goal",
+      "team": "Azam FC",
+      "player": "Lusajo Mwaikenda",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "ZED FC",
+      "player": "Mahmoud Bolbol",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "57",
+      "away": "43"
+    },
+    {
+      "label": "Attacks",
+      "home": "75",
+      "away": "86"
+    },
+    {
+      "label": "Corners",
+      "home": "6",
+      "away": "5"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "10",
+      "away": "25"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "21",
+      "away": "17"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "9",
+      "away": "7"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "4",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "8",
+      "away": "13"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "3",
+      "away": "4"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "5",
+      "away": "9"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Cairo International Stadium"
+}

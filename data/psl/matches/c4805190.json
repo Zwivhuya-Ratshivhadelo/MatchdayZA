@@ -1,0 +1,23 @@
+{
+  "home": "Horoya AC",
+  "away": "JS Saoura",
+  "status": "FT",
+  "minute": null,
+  "home_score": 3,
+  "away_score": 1,
+  "events": [],
+  "stats": [
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade du 28 Septembre"
+}

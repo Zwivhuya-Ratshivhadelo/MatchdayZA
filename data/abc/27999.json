@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-18T22:31:02+02:00",
+  "updated": "2026-10-19T05:05:15+02:00",
   "log": [
     {
       "pos": 1,
@@ -295,22 +295,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Ben 10 FC",
-      "away": "Tembisa Hollywood Thunder",
-      "match_no": 14,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=14&s=l",
-      "date": "2026-10-18T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Boipatong Football Club",
-      "away": "Tshwane South College FC",
-      "match_no": 15,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=15&s=l",
-      "date": "2026-10-18T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Free Agents Football Club",
       "away": "Boipatong Football Club",

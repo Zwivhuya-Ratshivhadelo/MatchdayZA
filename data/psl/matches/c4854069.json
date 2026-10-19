@@ -1,0 +1,39 @@
+{
+  "home": "African Stars",
+  "away": "Orlando Pirates",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "75'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Tshepang Moremi",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Botswana National Stadium"
+}

@@ -1,0 +1,109 @@
+{
+  "home": "Tusker FC",
+  "away": "Singida Black Stars SC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "52'",
+      "type": "goal",
+      "team": "Singida Black Stars SC",
+      "player": "",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Attacks",
+      "home": "94",
+      "away": "86"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "11",
+      "away": "11"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "22",
+      "away": "12"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "4"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Nyayo National Stadium"
+}

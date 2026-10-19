@@ -1,0 +1,43 @@
+{
+  "home": "Teungueth",
+  "away": "FC Canchungo",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 0,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "61%",
+      "away": "39%"
+    },
+    {
+      "label": "Attacks",
+      "home": "139",
+      "away": "116"
+    },
+    {
+      "label": "Corners",
+      "home": "8",
+      "away": "3"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "3",
+      "away": "12"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "1"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Léopold Sédar Senghor"
+}

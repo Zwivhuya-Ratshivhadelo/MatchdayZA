@@ -1,0 +1,89 @@
+{
+  "home": "Pyramids",
+  "away": "Gor Mahia",
+  "status": "FT",
+  "minute": null,
+  "home_score": 5,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Pyramids",
+      "player": "",
+      "score": [
+        5,
+        0
+      ]
+    },
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Pyramids",
+      "player": "",
+      "score": [
+        4,
+        0
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "Pyramids",
+      "player": "",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "minute": "37'",
+      "type": "goal",
+      "team": "Pyramids",
+      "player": "",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "27'",
+      "type": "goal",
+      "team": "Pyramids",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "61%",
+      "away": "39%"
+    },
+    {
+      "label": "Attacks",
+      "home": "97",
+      "away": "80"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "3"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "4",
+      "away": "9"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "1"
+    }
+  ],
+  "lineups": [],
+  "venue": "30 June Air Defence Stadium"
+}

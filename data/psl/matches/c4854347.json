@@ -1,0 +1,44 @@
+{
+  "home": "TP Mazembe",
+  "away": "Club Africain Tunis",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "39'",
+      "type": "goal",
+      "team": "Club Africain Tunis",
+      "player": "Alain Kanté",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "38'",
+      "type": "goal",
+      "team": "TP Mazembe",
+      "player": "Kazema Baso",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade du TP Mazembe"
+}

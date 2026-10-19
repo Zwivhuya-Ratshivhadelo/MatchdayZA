@@ -1,0 +1,98 @@
+{
+  "home": "Rukinzo FC",
+  "away": "Durban City",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 2,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Attacks",
+      "home": "98",
+      "away": "85"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Intwari"
+}

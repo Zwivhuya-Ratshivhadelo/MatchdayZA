@@ -1,0 +1,35 @@
+{
+  "home": "Merriekh Bentiu",
+  "away": "Pyramids",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "89'",
+      "type": "second_yellow",
+      "team": "Pyramids",
+      "player": "Mahmoud Marei"
+    },
+    {
+      "minute": "30'",
+      "type": "goal",
+      "team": "Pyramids",
+      "player": "Mahmoud Saber",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "1"
+    }
+  ],
+  "lineups": [],
+  "venue": "Juba Stadium"
+}

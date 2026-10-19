@@ -1,0 +1,75 @@
+{
+  "home": "Armée Patriotique Rwandaise FC",
+  "away": "Zamalek SC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "Zamalek SC",
+      "player": "Nasser Mansy"
+    },
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Zamalek SC",
+      "player": "Nasser Mansy",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "55%",
+      "away": "45%"
+    },
+    {
+      "label": "Attacks",
+      "home": "57",
+      "away": "56"
+    },
+    {
+      "label": "Corners",
+      "home": "8",
+      "away": "5"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "8",
+      "away": "16"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "27",
+      "away": "13"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "8",
+      "away": "21"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Amahoro"
+}

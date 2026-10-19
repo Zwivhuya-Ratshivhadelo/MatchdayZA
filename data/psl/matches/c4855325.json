@@ -1,0 +1,79 @@
+{
+  "home": "Maghreb Fès",
+  "away": "ASEC Mimosas",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "ASEC Mimosas",
+      "player": "Souhalio Bamba",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "31'",
+      "type": "goal",
+      "team": "Maghreb Fès",
+      "player": "Oussama Noureddine",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "69%",
+      "away": "31%"
+    },
+    {
+      "label": "Attacks",
+      "home": "135",
+      "away": "70"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "1"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "16",
+      "away": "12"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "26",
+      "away": "14"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "4",
+      "away": "17"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "4"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade d'Honneur"
+}

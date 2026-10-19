@@ -1,0 +1,109 @@
+{
+  "home": "Kitara FC",
+  "away": "Al Ahly SC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 2,
+  "events": [
+    {
+      "minute": "82'",
+      "type": "penalty_goal",
+      "team": "Al Ahly SC",
+      "player": "Ahmed Sayed Zizo",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "minute": "67'",
+      "type": "goal",
+      "team": "Al Ahly SC",
+      "player": "Omar El Saaiy",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "30'",
+      "type": "goal",
+      "team": "Kitara FC",
+      "player": "Gadafi Wahab",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Attacks",
+      "home": "68",
+      "away": "79"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "3"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Hoima City Stadium"
+}

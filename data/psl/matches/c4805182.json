@@ -1,0 +1,58 @@
+{
+  "home": "Rahimo",
+  "away": "Maghreb Fès",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 0,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "55%",
+      "away": "45%"
+    },
+    {
+      "label": "Attacks",
+      "home": "84",
+      "away": "58"
+    },
+    {
+      "label": "Corners",
+      "home": "8",
+      "away": "3"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "10",
+      "away": "8"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "13",
+      "away": "18"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "2",
+      "away": "14"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade du 4 Août"
+}

@@ -1,0 +1,58 @@
+{
+  "home": "Teungueth",
+  "away": "Colombe",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 2,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "62%",
+      "away": "38%"
+    },
+    {
+      "label": "Attacks",
+      "home": "103",
+      "away": "77"
+    },
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "4"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "24",
+      "away": "10"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "29",
+      "away": "28"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "8",
+      "away": "8"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "4"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Léopold Sédar Senghor"
+}

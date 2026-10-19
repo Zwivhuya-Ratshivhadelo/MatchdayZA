@@ -1,0 +1,79 @@
+{
+  "home": "Rivers United",
+  "away": "San Pédro",
+  "status": "FT",
+  "minute": null,
+  "home_score": 2,
+  "away_score": 2,
+  "events": [
+    {
+      "minute": "88'",
+      "type": "goal",
+      "team": "Rivers United",
+      "player": "",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "minute": "42'",
+      "type": "goal",
+      "team": "Rivers United",
+      "player": "",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "minute": "18'",
+      "type": "goal",
+      "team": "San Pédro",
+      "player": "",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "14'",
+      "type": "goal",
+      "team": "San Pédro",
+      "player": "",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    },
+    {
+      "label": "Attacks",
+      "home": "190",
+      "away": "87"
+    },
+    {
+      "label": "Corners",
+      "home": "7",
+      "away": "5"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "17"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "4"
+    }
+  ],
+  "lineups": [],
+  "venue": "Godswill Akpabio International Stadium"
+}

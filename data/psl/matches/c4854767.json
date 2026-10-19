@@ -1,0 +1,44 @@
+{
+  "home": "Star Sport Academy",
+  "away": "RSB Berkane",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 2,
+  "events": [
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "RSB Berkane",
+      "player": "Oussama Lamlioui",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "14'",
+      "type": "goal",
+      "team": "RSB Berkane",
+      "player": "Oussama Lamlioui",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Samuel Kanyon Doe Stadium"
+}

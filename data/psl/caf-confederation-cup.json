@@ -1,0 +1,680 @@
+{
+  "slug": "caf-confederation-cup",
+  "name": "CAF Confederation Cup",
+  "short": "CAF Confederation Cup",
+  "league": false,
+  "updated": "2026-10-19T05:04:33+02:00",
+  "log": [],
+  "groups": [],
+  "results": [
+    {
+      "home": "AS Psi",
+      "away": "CO Korhogo",
+      "date": "2026-09-04T16:30:00+02:00",
+      "match_id": "c4805206",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 2
+    },
+    {
+      "home": "Esperance Zarzis",
+      "away": "ASC Diambars",
+      "date": "2026-09-04T16:30:00+02:00",
+      "match_id": "c4805210",
+      "status": "FT",
+      "home_score": 3,
+      "away_score": 1
+    },
+    {
+      "home": "AS Port-Louis 2000",
+      "away": "Jwaneng Galaxy FC",
+      "date": "2026-09-04T17:00:00+02:00",
+      "match_id": "c4805212",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "home": "Panthere",
+      "away": "Rayon Sports",
+      "date": "2026-09-04T17:00:00+02:00",
+      "match_id": "c4805413",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "home": "Hilal Alsahil SC Port Sudan",
+      "away": "Welwalo Adigrat Uni",
+      "date": "2026-09-04T19:00:00+02:00",
+      "match_id": "c4805203",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 1
+    },
+    {
+      "home": "Green Mamba",
+      "away": "Primeiro de Agosto",
+      "date": "2026-09-05T15:00:00+02:00",
+      "match_id": "c4805081",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 2
+    },
+    {
+      "home": "KMKM",
+      "away": "Al Ahli Tripoli",
+      "date": "2026-09-05T15:00:00+02:00",
+      "match_id": "c4805086",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 3
+    },
+    {
+      "home": "Atomic Ngome",
+      "away": "Black Bulls Maputo",
+      "date": "2026-09-05T15:00:00+02:00",
+      "match_id": "c4805172",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 1
+    },
+    {
+      "home": "Red Arrows",
+      "away": "FC Rouge",
+      "date": "2026-09-05T15:00:00+02:00",
+      "match_id": "c4805216",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 0
+    },
+    {
+      "home": "Shooting Stars",
+      "away": "CS Sfaxien",
+      "date": "2026-09-05T17:00:00+02:00",
+      "match_id": "c4805084",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 0
+    },
+    {
+      "home": "AS Zam",
+      "away": "ASKO Kara",
+      "date": "2026-09-05T17:30:00+02:00",
+      "match_id": "c4805215",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 5
+    },
+    {
+      "home": "UNAM",
+      "away": "Kabuscorp SC",
+      "date": "2026-09-05T18:00:00+02:00",
+      "match_id": "c4805174",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 2
+    },
+    {
+      "home": "AS Douanes",
+      "away": "Hafia FC",
+      "date": "2026-09-05T18:00:00+02:00",
+      "match_id": "c4805207",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 2
+    },
+    {
+      "home": "Diarra",
+      "away": "Nations FC",
+      "date": "2026-09-05T18:00:00+02:00",
+      "match_id": "c4805211",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 0
+    },
+    {
+      "home": "The Panthers",
+      "away": "ASPAC FC",
+      "date": "2026-09-05T19:00:00+02:00",
+      "match_id": "c4805205",
+      "status": "FT",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "home": "Durban City",
+      "away": "Rukinzo FC",
+      "date": "2026-09-06T15:00:00+02:00",
+      "match_id": "c4805083",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 0,
+      "sa": true
+    },
+    {
+      "home": "Mogadishu City",
+      "away": "Kitara FC",
+      "date": "2026-09-06T15:00:00+02:00",
+      "match_id": "c4805088",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 2
+    },
+    {
+      "home": "DC Virunga",
+      "away": "P. Bazar Brothers",
+      "date": "2026-09-06T15:00:00+02:00",
+      "match_id": "c4805173",
+      "status": "FT",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "home": "Al-Ghazal",
+      "away": "Singida Black Stars SC",
+      "date": "2026-09-06T15:30:00+02:00",
+      "match_id": "c4807125",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 7
+    },
+    {
+      "home": "Ahli Wad Madani",
+      "away": "Tusker FC",
+      "date": "2026-09-06T16:00:00+02:00",
+      "match_id": "c4805087",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 2
+    },
+    {
+      "home": "El Kanemi Warriors",
+      "away": "UDIB",
+      "date": "2026-09-06T17:00:00+02:00",
+      "match_id": "c4805214",
+      "status": "FT",
+      "home_score": 3,
+      "away_score": 0
+    },
+    {
+      "home": "AFAD-Plateau",
+      "away": "East End Lions",
+      "date": "2026-09-06T18:00:00+02:00",
+      "match_id": "c4805085",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "home": "Vitesse FC",
+      "away": "AS Real Bamako",
+      "date": "2026-09-06T18:00:00+02:00",
+      "match_id": "c4805175",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 2
+    },
+    {
+      "home": "ZED FC",
+      "away": "Asas Djibouti Télécom",
+      "date": "2026-09-06T19:00:00+02:00",
+      "match_id": "c4805202",
+      "status": "FT",
+      "home_score": 4,
+      "away_score": 0
+    },
+    {
+      "home": "The Panthers",
+      "away": "ASPAC FC",
+      "date": "2026-09-10T17:00:00+02:00",
+      "match_id": "c4849373",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 3
+    },
+    {
+      "home": "Primeiro de Agosto",
+      "away": "Green Mamba",
+      "date": "2026-09-11T17:00:00+02:00",
+      "match_id": "c4805075",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 0
+    },
+    {
+      "home": "AS Real Bamako",
+      "away": "Vitesse FC",
+      "date": "2026-09-11T18:00:00+02:00",
+      "match_id": "c4805171",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 0
+    },
+    {
+      "home": "Tusker FC",
+      "away": "Ahli Wad Madani",
+      "date": "2026-09-12T14:00:00+02:00",
+      "match_id": "c4805080",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 0
+    },
+    {
+      "home": "Kitara FC",
+      "away": "Mogadishu City",
+      "date": "2026-09-12T15:00:00+02:00",
+      "match_id": "c4805082",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 0
+    },
+    {
+      "home": "East End Lions",
+      "away": "AFAD-Plateau",
+      "date": "2026-09-12T18:00:00+02:00",
+      "match_id": "c4805078",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 2
+    },
+    {
+      "home": "Welwalo Adigrat Uni",
+      "away": "Hilal Alsahil SC Port Sudan",
+      "date": "2026-09-12T18:00:00+02:00",
+      "match_id": "c4805219",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 1
+    },
+    {
+      "home": "Rayon Sports",
+      "away": "Panthere",
+      "date": "2026-09-12T18:00:00+02:00",
+      "match_id": "c4805411",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 0
+    },
+    {
+      "home": "Black Bulls Maputo",
+      "away": "Atomic Ngome",
+      "date": "2026-09-12T18:30:00+02:00",
+      "match_id": "c4805168",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 0
+    },
+    {
+      "home": "Al Ahli Tripoli",
+      "away": "KMKM",
+      "date": "2026-09-12T19:00:00+02:00",
+      "match_id": "c4805079",
+      "status": "FT",
+      "home_score": 4,
+      "away_score": 0
+    },
+    {
+      "home": "Asas Djibouti Télécom",
+      "away": "ZED FC",
+      "date": "2026-09-12T19:00:00+02:00",
+      "match_id": "c4805218",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "home": "ASC Diambars",
+      "away": "Esperance Zarzis",
+      "date": "2026-09-12T19:00:00+02:00",
+      "match_id": "c4805227",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 0
+    },
+    {
+      "home": "Jwaneng Galaxy FC",
+      "away": "AS Port-Louis 2000",
+      "date": "2026-09-12T19:00:00+02:00",
+      "match_id": "c4805231",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 1
+    },
+    {
+      "home": "FC Rouge",
+      "away": "Red Arrows",
+      "date": "2026-09-13T13:00:00+02:00",
+      "match_id": "c4805230",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 2
+    },
+    {
+      "home": "Rukinzo FC",
+      "away": "Durban City",
+      "date": "2026-09-13T15:00:00+02:00",
+      "match_id": "c4805076",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 2,
+      "sa": true
+    },
+    {
+      "home": "Singida Black Stars SC",
+      "away": "Al-Ghazal",
+      "date": "2026-09-13T15:00:00+02:00",
+      "match_id": "c4805222",
+      "status": "FT",
+      "home_score": 3,
+      "away_score": 0
+    },
+    {
+      "home": "P. Bazar Brothers",
+      "away": "DC Virunga",
+      "date": "2026-09-13T15:30:00+02:00",
+      "match_id": "c4805170",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 1
+    },
+    {
+      "home": "Kabuscorp SC",
+      "away": "UNAM",
+      "date": "2026-09-13T17:00:00+02:00",
+      "match_id": "c4805169",
+      "status": "FT",
+      "home_score": 3,
+      "away_score": 1
+    },
+    {
+      "home": "Nations FC",
+      "away": "Diarra",
+      "date": "2026-09-13T17:00:00+02:00",
+      "match_id": "c4805228",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "home": "ASKO Kara",
+      "away": "AS Zam",
+      "date": "2026-09-13T17:30:00+02:00",
+      "match_id": "c4805229",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 0
+    },
+    {
+      "home": "CO Korhogo",
+      "away": "AS Psi",
+      "date": "2026-09-13T18:00:00+02:00",
+      "match_id": "c4805224",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 0
+    },
+    {
+      "home": "UDIB",
+      "away": "El Kanemi Warriors",
+      "date": "2026-09-13T18:00:00+02:00",
+      "match_id": "c4805226",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 0
+    },
+    {
+      "home": "CS Sfaxien",
+      "away": "Shooting Stars",
+      "date": "2026-09-13T19:00:00+02:00",
+      "match_id": "c4805077",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 0
+    },
+    {
+      "home": "ASPAC FC",
+      "away": "The Panthers",
+      "date": "2026-09-16T17:00:00+02:00",
+      "match_id": "c4805223",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 4
+    },
+    {
+      "home": "Hafia FC",
+      "away": "AS Douanes",
+      "date": "2026-09-19T18:00:00+02:00",
+      "match_id": "c4805225",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 1
+    },
+    {
+      "home": "ZED FC",
+      "away": "Azam FC",
+      "date": "2026-10-16T19:00:00+02:00",
+      "match_id": "c4854773",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "home": "Welwalo Adigrat Uni",
+      "away": "Al Ahli Tripoli",
+      "date": "2026-10-16T19:00:00+02:00",
+      "match_id": "c4856486",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 4
+    },
+    {
+      "home": "Kitara FC",
+      "away": "Al Ahly SC",
+      "date": "2026-10-17T15:00:00+02:00",
+      "match_id": "c4854774",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 2
+    },
+    {
+      "home": "Red Arrows",
+      "away": "Kaizer Chiefs",
+      "date": "2026-10-17T15:00:00+02:00",
+      "match_id": "c4855304",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 0,
+      "sa": true
+    },
+    {
+      "home": "Esperance Zarzis",
+      "away": "AS Real Bamako",
+      "date": "2026-10-17T16:30:00+02:00",
+      "match_id": "c4877287",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 3
+    },
+    {
+      "home": "Rayon Sports",
+      "away": "Black Bulls Maputo",
+      "date": "2026-10-17T18:00:00+02:00",
+      "match_id": "c4854840",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 2
+    },
+    {
+      "home": "CO Korhogo",
+      "away": "AS FAR Rabat",
+      "date": "2026-10-17T18:00:00+02:00",
+      "match_id": "c4855335",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 0
+    },
+    {
+      "home": "AFAD-Plateau",
+      "away": "CS Sfaxien",
+      "date": "2026-10-17T18:00:00+02:00",
+      "match_id": "c4855387",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "home": "AS Douanes",
+      "away": "CR Belouizdad",
+      "date": "2026-10-17T19:00:00+02:00",
+      "match_id": "c4859966",
+      "status": "FT",
+      "home_score": null,
+      "away_score": null
+    },
+    {
+      "home": "Tusker FC",
+      "away": "Singida Black Stars SC",
+      "date": "2026-10-18T14:00:00+02:00",
+      "match_id": "c4855303",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "Nyayo National Stadium"
+    },
+    {
+      "home": "Durban City",
+      "away": "AS Port-Louis 2000",
+      "date": "2026-10-18T15:00:00+02:00",
+      "match_id": "c4855278",
+      "status": "FT",
+      "home_score": 3,
+      "away_score": 1,
+      "sa": true,
+      "venue": "Moses Mabhida Stadium (Durban)"
+    },
+    {
+      "home": "DC Virunga",
+      "away": "Primeiro de Agosto",
+      "date": "2026-10-18T16:00:00+02:00",
+      "match_id": "c4853672",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "Stade des Martyrs de la Pentecôte"
+    },
+    {
+      "home": "El Kanemi Warriors",
+      "away": "Raja Casablanca",
+      "date": "2026-10-18T17:00:00+02:00",
+      "match_id": "c4855333",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "Remo Stars Stadium"
+    },
+    {
+      "home": "Kabuscorp SC",
+      "away": "AS Maniema Union",
+      "date": "2026-10-18T17:00:00+02:00",
+      "match_id": "c4855332",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 4,
+      "venue": "Estádio 11 de Novembro"
+    },
+    {
+      "home": "Diarra",
+      "away": "ASKO Kara",
+      "date": "2026-10-18T18:30:00+02:00",
+      "match_id": "c4855334",
+      "status": "FT",
+      "home_score": 3,
+      "away_score": 2,
+      "venue": "Stade Mamadou Konaté"
+    },
+    {
+      "home": "The Panthers",
+      "away": "USM Alger",
+      "date": "2026-10-20T21:00:00+02:00",
+      "match_id": "c4857199",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "Stade du 5 Juillet 1962"
+    }
+  ],
+  "fixtures": [
+    {
+      "home": "CR Belouizdad",
+      "away": "AS Douanes",
+      "date": "2026-10-23T02:00:00+02:00",
+      "match_id": "c4859967",
+      "status": "NS"
+    },
+    {
+      "home": "Primeiro de Agosto",
+      "away": "DC Virunga",
+      "date": "2026-10-23T17:00:00+02:00",
+      "match_id": "c4853671",
+      "status": "NS",
+      "venue": "Estádio 11 de Novembro"
+    },
+    {
+      "home": "Kaizer Chiefs",
+      "away": "Red Arrows",
+      "date": "2026-10-23T18:00:00+02:00",
+      "match_id": "c4855301",
+      "status": "NS",
+      "sa": true,
+      "venue": "Moses Mabhida Stadium (Durban)"
+    },
+    {
+      "home": "AS Real Bamako",
+      "away": "ASC Diambars",
+      "date": "2026-10-23T19:00:00+02:00",
+      "match_id": "c4854768",
+      "status": "NS"
+    },
+    {
+      "home": "Raja Casablanca",
+      "away": "El Kanemi Warriors",
+      "date": "2026-10-23T22:00:00+02:00",
+      "match_id": "c4855329",
+      "status": "NS",
+      "venue": "Stade Mohammed V"
+    },
+    {
+      "home": "Azam FC",
+      "away": "ZED FC",
+      "date": "2026-10-24T15:00:00+02:00",
+      "match_id": "c4854770",
+      "status": "NS",
+      "venue": "Azam Complex Stadium"
+    },
+    {
+      "home": "Black Bulls Maputo",
+      "away": "Rayon Sports",
+      "date": "2026-10-24T19:00:00+02:00",
+      "match_id": "c4854839",
+      "status": "NS",
+      "venue": "Lalgy Arena 1"
+    },
+    {
+      "home": "CS Sfaxien",
+      "away": "AFAD-Plateau",
+      "date": "2026-10-24T19:00:00+02:00",
+      "match_id": "c4855386",
+      "status": "NS",
+      "venue": "Stade Taïeb Mhiri (Sfax)"
+    },
+    {
+      "home": "Al Ahli Tripoli",
+      "away": "Welwalo Adigrat Uni",
+      "date": "2026-10-24T19:00:00+02:00",
+      "match_id": "c4856488",
+      "status": "NS",
+      "venue": "11 June Stadium"
+    }
+  ]
+}

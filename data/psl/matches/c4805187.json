@@ -1,0 +1,53 @@
+{
+  "home": "MC Alger",
+  "away": "AS Nigelec",
+  "status": "FT",
+  "minute": null,
+  "home_score": 5,
+  "away_score": 0,
+  "events": [],
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "118",
+      "away": "82"
+    },
+    {
+      "label": "Corners",
+      "home": "6",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "21",
+      "away": "10"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "3"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "17",
+      "away": "18"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "5",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Ali-la-Pointe"
+}

@@ -5,7 +5,7 @@
   "name": "MP Stream B",
   "slug": "mp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27909",
-  "updated": "2026-10-18T22:31:33+02:00",
+  "updated": "2026-10-19T05:05:57+02:00",
   "log": [
     {
       "pos": 1,
@@ -373,14 +373,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Liver Brothers FC",
-      "away": "Matsulu Chelsea FC",
-      "match_no": 27,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=27&s=l",
-      "date": "2026-10-18T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Acornhoek United FC",
       "away": "Liver Brothers FC",

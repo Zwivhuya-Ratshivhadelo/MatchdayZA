@@ -1,0 +1,54 @@
+{
+  "home": "San Pédro",
+  "away": "FC Nouadhibou",
+  "status": "FT",
+  "minute": null,
+  "home_score": 2,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "San Pédro",
+      "player": "Mouhamadou Karamoko",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "39'",
+      "type": "goal",
+      "team": "FC Nouadhibou",
+      "player": "Oumar M'Bareck",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "11'",
+      "type": "goal",
+      "team": "San Pédro",
+      "player": "Abi Kassi Niamb",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Laurent Pokou"
+}

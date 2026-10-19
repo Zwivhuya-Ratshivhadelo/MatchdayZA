@@ -1,0 +1,99 @@
+{
+  "home": "CFFA",
+  "away": "Young Africans",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 4,
+  "events": [
+    {
+      "minute": "59'",
+      "type": "goal",
+      "team": "Young Africans",
+      "player": "Maxi Mpia Nzengeli",
+      "score": [
+        0,
+        4
+      ]
+    },
+    {
+      "minute": "54'",
+      "type": "goal",
+      "team": "Young Africans",
+      "player": "Mudathir Yahya",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "minute": "47'",
+      "type": "goal",
+      "team": "Young Africans",
+      "player": "Albert Kangwanda",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "39'",
+      "type": "goal",
+      "team": "Young Africans",
+      "player": "Cheikh Touré",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "37%",
+      "away": "63%"
+    },
+    {
+      "label": "Attacks",
+      "home": "73",
+      "away": "152"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "10"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "7",
+      "away": "6"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "3"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "6",
+      "away": "13"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "8",
+      "away": "4"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Azam Complex Stadium"
+}

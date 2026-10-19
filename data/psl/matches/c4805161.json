@@ -1,0 +1,129 @@
+{
+  "home": "Simba SC",
+  "away": "Mighty Wanderers Be Forward FC",
+  "status": "FT",
+  "minute": null,
+  "home_score": 6,
+  "away_score": 1,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Simba SC",
+      "player": "",
+      "score": [
+        6,
+        1
+      ]
+    },
+    {
+      "minute": "88'",
+      "type": "goal",
+      "team": "Simba SC",
+      "player": "",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "minute": "69'",
+      "type": "goal",
+      "team": "Simba SC",
+      "player": "",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "minute": "44'",
+      "type": "goal",
+      "team": "Mighty Wanderers Be Forward FC",
+      "player": "",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "minute": "34'",
+      "type": "goal",
+      "team": "Simba SC",
+      "player": "",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "minute": "27'",
+      "type": "goal",
+      "team": "Simba SC",
+      "player": "",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "8'",
+      "type": "goal",
+      "team": "Simba SC",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "62%",
+      "away": "38%"
+    },
+    {
+      "label": "Attacks",
+      "home": "25",
+      "away": "13"
+    },
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "10",
+      "away": "5"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "6",
+      "away": "10"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Uhuru Stadium"
+}

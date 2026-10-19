@@ -1,0 +1,53 @@
+{
+  "home": "Al Hilal Omdurman",
+  "away": "Aigle Noir",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 0,
+  "events": [],
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "124",
+      "away": "48"
+    },
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "6",
+      "away": "7"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "8",
+      "away": "5"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "1",
+      "away": "6"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Amahoro"
+}

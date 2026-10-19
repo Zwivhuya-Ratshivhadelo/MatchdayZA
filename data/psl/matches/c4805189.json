@@ -1,0 +1,23 @@
+{
+  "home": "FC Nouadhibou",
+  "away": "Vipers",
+  "status": "FT",
+  "minute": null,
+  "home_score": 0,
+  "away_score": 0,
+  "events": [],
+  "stats": [
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Cheikha Ould Boïdiya"
+}
