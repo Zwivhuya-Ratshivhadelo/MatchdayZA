@@ -184,10 +184,10 @@ def groups(cid):
             c = r.get("competitor") or {}
             gf, ga = r.get("for"), r.get("against")
             by.setdefault(r.get("groupNum"), []).append({
-                "pos": r.get("position"), "team": club_name(c.get("name")), "p": r.get("gamePlayed", 0),
-                "w": r.get("gamesWon", 0), "d": r.get("gamesEven", 0), "l": r.get("gamesLost", 0),
+                "pos": r.get("position"), "team": club_name(c.get("name")), "p": int(r.get("gamePlayed") or 0),
+                "w": int(r.get("gamesWon") or 0), "d": int(r.get("gamesEven") or 0), "l": int(r.get("gamesLost") or 0),
                 "gf": gf, "ga": ga, "gd": (gf - ga) if isinstance(gf, (int, float)) and isinstance(ga, (int, float)) else None,
-                "pts": r.get("points", 0)})
+                "pts": int(r.get("points") or 0)})
         for num, rows in sorted(by.items(), key=lambda kv: kv[0] or 0):
             out.append({"name": names.get(num) or (f"Group {chr(64 + num)}" if num else ""),
                         "log": sorted(rows, key=lambda r: r["pos"] or 99)})
