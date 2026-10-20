@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-20T01:30:28+02:00",
+  "updated": "2026-10-20T02:30:29+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -638,6 +638,15 @@
       "match_id": "c4856488",
       "status": "NS",
       "venue": "11 June Stadium"
+    },
+    {
+      "home": "AS Port-Louis 2000",
+      "away": "Durban City",
+      "date": "2026-10-25T15:00:00+02:00",
+      "match_id": "c4855276",
+      "status": "NS",
+      "sa": true,
+      "venue": "National Sports Complex Pitch 1"
     }
   ]
 }
