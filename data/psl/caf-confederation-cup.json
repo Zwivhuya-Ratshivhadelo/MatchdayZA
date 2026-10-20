@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-20T10:30:42+02:00",
+  "updated": "2026-10-20T11:30:41+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -598,7 +598,7 @@
       "date": "2026-10-23T22:00:00+02:00",
       "match_id": "c4855329",
       "status": "NS",
-      "venue": "Stade Mohammed V"
+      "venue": "Stade Mohamed V (Casablanca)"
     },
     {
       "home": "Azam FC",

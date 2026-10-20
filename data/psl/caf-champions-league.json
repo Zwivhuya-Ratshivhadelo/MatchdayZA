@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-20T10:30:40+02:00",
+  "updated": "2026-10-20T11:30:38+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -708,7 +708,7 @@
       "match_id": "c4854068",
       "status": "NS",
       "sa": true,
-      "venue": "Orlando Amstel Arena"
+      "venue": "Orlando Stadium"
     },
     {
       "home": "MC Alger",
