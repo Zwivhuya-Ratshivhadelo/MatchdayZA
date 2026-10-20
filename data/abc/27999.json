@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-20T06:30:52+02:00",
+  "updated": "2026-10-20T12:30:56+02:00",
   "log": [
     {
       "pos": 1,
@@ -340,7 +340,7 @@
       "away": "Boipatong Football Club",
       "match_no": 22,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=22&s=l",
-      "date": "2026-10-23T15:00:00+02:00",
+      "date": "2026-10-23T12:00:00+02:00",
       "status": "NS"
     },
     {
@@ -380,7 +380,7 @@
       "away": "Ben 10 FC",
       "match_no": 21,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=21&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
+      "date": "2026-10-24T15:30:00+02:00",
       "status": "NS"
     },
     {
@@ -460,7 +460,7 @@
       "away": "Tshwane South College FC",
       "match_no": 32,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=32&s=l",
-      "date": "2026-11-06T15:00:00+02:00",
+      "date": "2026-11-06T12:00:00+02:00",
       "status": "NS"
     },
     {
@@ -488,19 +488,19 @@
       "status": "NS"
     },
     {
-      "home": "Rrr Rams Football Club",
-      "away": "JBM FC",
-      "match_no": 31,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=31&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "Lesco FC",
       "away": "Ben 10 FC",
       "match_no": 35,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=35&s=l",
       "date": "2026-11-07T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Rrr Rams Football Club",
+      "away": "JBM FC",
+      "match_no": 31,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=31&s=l",
+      "date": "2026-11-07T15:30:00+02:00",
       "status": "NS"
     },
     {
@@ -517,14 +517,6 @@
       "match_no": 37,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=37&s=l",
       "date": "2026-11-13T16:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Rrr Rams Football Club",
-      "away": "University of Johannesburg FC",
-      "match_no": 38,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=38&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
       "status": "NS"
     },
     {
@@ -549,6 +541,22 @@
       "match_no": 42,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=42&s=l",
       "date": "2026-11-14T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Rrr Rams Football Club",
+      "away": "University of Johannesburg FC",
+      "match_no": 38,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=38&s=l",
+      "date": "2026-11-14T15:30:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ben 10 FC",
+      "away": "Boipatong Football Club",
+      "match_no": 42,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=42&s=l",
+      "date": "2026-11-15T14:00:00+02:00",
       "status": "NS"
     },
     {
