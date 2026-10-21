@@ -5,7 +5,7 @@
   "name": "EC Coastal Stream",
   "slug": "ec-coastal-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28223",
-  "updated": "2026-10-21T06:30:33+02:00",
+  "updated": "2026-10-21T12:40:36+02:00",
   "log": [
     {
       "pos": 1,
@@ -222,6 +222,14 @@
   ],
   "fixtures": [
     {
+      "home": "Gqeberha United FC",
+      "away": "FC Buffalo City Relatives",
+      "match_no": 13,
+      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=13&s=l",
+      "date": "2026-10-24T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Makana Rhini United FC",
       "away": "Amavarara",
       "match_no": 11,
@@ -234,14 +242,6 @@
       "away": "Sundays River Valley Academy",
       "match_no": 12,
       "url": "https://inqaku.com/match/view?stream_id=28223&match_no=12&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Gqeberha United FC",
-      "away": "FC Buffalo City Relatives",
-      "match_no": 13,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=13&s=l",
       "date": "2026-10-24T15:00:00+02:00",
       "status": "NS"
     },
@@ -259,6 +259,14 @@
       "match_no": 15,
       "url": "https://inqaku.com/match/view?stream_id=28223&match_no=15&s=l",
       "date": "2026-10-24T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Camdeboo Football Academy Development",
+      "away": "Sundays River Valley Academy",
+      "match_no": 12,
+      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=12&s=l",
+      "date": "2026-10-25T15:00:00+02:00",
       "status": "NS"
     },
     {
