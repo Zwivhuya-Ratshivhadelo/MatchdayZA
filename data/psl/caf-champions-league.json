@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-21T17:40:28+02:00",
+  "updated": "2026-10-21T18:40:31+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -683,17 +683,20 @@
       "home_score": 1,
       "away_score": 6,
       "venue": "Uhuru Stadium"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Young Africans",
       "away": "CFFA",
       "date": "2026-10-21T18:00:00+02:00",
       "match_id": "c4854346",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "minute": "40'",
       "venue": "Azam Complex Stadium"
-    },
+    }
+  ],
+  "fixtures": [
     {
       "home": "Petro Luanda",
       "away": "Scottland FC",
