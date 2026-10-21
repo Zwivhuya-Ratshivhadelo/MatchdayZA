@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-21T19:40:33+02:00",
+  "updated": "2026-10-21T20:40:33+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -689,10 +689,9 @@
       "away": "CFFA",
       "date": "2026-10-21T18:00:00+02:00",
       "match_id": "c4854346",
-      "status": "LIVE",
-      "home_score": 3,
+      "status": "FT",
+      "home_score": 4,
       "away_score": 1,
-      "minute": "81'",
       "venue": "Azam Complex Stadium"
     }
   ],
