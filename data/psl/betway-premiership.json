@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-21T23:40:23+02:00",
+  "updated": "2026-10-22T00:40:22+02:00",
   "log": [
     {
       "pos": 1,
@@ -1568,6 +1568,13 @@
       "away": "Mamelodi Sundowns",
       "date": "2027-04-18T17:30:00+02:00",
       "venue": "Dr Molemela Stadium, Bloemfontein",
+      "status": "NS"
+    },
+    {
+      "home": "Durban City",
+      "away": "Kaizer Chiefs",
+      "date": "2027-04-23T19:30:00+02:00",
+      "venue": "Chatsworth Stadium, Chatsworth",
       "status": "NS"
     }
   ],
