@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-21T15:40:33+02:00",
+  "updated": "2026-10-21T16:40:32+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -673,6 +673,16 @@
       "home_score": 1,
       "away_score": 1,
       "venue": "Stade d'Honneur"
+    },
+    {
+      "home": "15 de Agosto",
+      "away": "Simba SC",
+      "date": "2026-10-21T14:00:00+02:00",
+      "match_id": "c4869894",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 6,
+      "venue": "Uhuru Stadium"
     }
   ],
   "fixtures": [
