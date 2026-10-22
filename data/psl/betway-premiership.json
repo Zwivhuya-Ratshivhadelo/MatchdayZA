@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-22T23:40:22+02:00",
+  "updated": "2026-10-23T00:40:23+02:00",
   "log": [
     {
       "pos": 1,
@@ -1575,6 +1575,48 @@
       "away": "Kaizer Chiefs",
       "date": "2027-04-23T19:30:00+02:00",
       "venue": "Chatsworth Stadium, Chatsworth",
+      "status": "NS"
+    },
+    {
+      "home": "Chippa United",
+      "away": "Polokwane City",
+      "date": "2027-04-24T15:00:00+02:00",
+      "venue": "Buffalo City Stadium, East London, South Africa",
+      "status": "NS"
+    },
+    {
+      "home": "Marumo Gallants",
+      "away": "AmaZulu FC",
+      "date": "2027-04-24T15:00:00+02:00",
+      "venue": "Royal Bafokeng Stadium, Rustenburg",
+      "status": "NS"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Mamelodi Sundowns",
+      "date": "2027-04-24T15:00:00+02:00",
+      "venue": "Orlando Stadium, Soweto",
+      "status": "NS"
+    },
+    {
+      "home": "Richards Bay",
+      "away": "Milford FC",
+      "date": "2027-04-24T17:30:00+02:00",
+      "venue": "Richards Bay Stadium, Richards Bay",
+      "status": "NS"
+    },
+    {
+      "home": "TS Galaxy",
+      "away": "Stellenbosch FC",
+      "date": "2027-04-24T17:30:00+02:00",
+      "venue": "Mbombela Stadium, Nelspruit",
+      "status": "NS"
+    },
+    {
+      "home": "Golden Arrows",
+      "away": "Sekhukhune United",
+      "date": "2027-04-24T20:00:00+02:00",
+      "venue": "King Goodwill Zwelithini Stadium, Durban",
       "status": "NS"
     }
   ],
