@@ -5,7 +5,7 @@
   "name": "NW Stream B",
   "slug": "nw-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28493",
-  "updated": "2026-10-22T06:41:30+02:00",
+  "updated": "2026-10-22T12:41:40+02:00",
   "log": [
     {
       "pos": 1,
@@ -46,17 +46,29 @@
     {
       "pos": 4,
       "team": "Queenkay Stars FC",
-      "p": 2,
+      "p": 3,
       "w": 2,
       "d": 0,
-      "l": 0,
+      "l": 1,
       "gf": 3,
-      "ga": 0,
-      "gd": 3,
+      "ga": 1,
+      "gd": 2,
       "pts": 6
     },
     {
       "pos": 5,
+      "team": "Real Movers FC",
+      "p": 4,
+      "w": 2,
+      "d": 0,
+      "l": 2,
+      "gf": 6,
+      "ga": 8,
+      "gd": -2,
+      "pts": 6
+    },
+    {
+      "pos": 6,
       "team": "NW Signal FC",
       "p": 4,
       "w": 2,
@@ -68,7 +80,7 @@
       "pts": 6
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Thames FC",
       "p": 4,
       "w": 2,
@@ -80,7 +92,7 @@
       "pts": 6
     },
     {
-      "pos": 7,
+      "pos": 8,
       "team": "Spain FC",
       "p": 3,
       "w": 1,
@@ -92,7 +104,7 @@
       "pts": 4
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Kgositlile FC",
       "p": 4,
       "w": 1,
@@ -104,7 +116,7 @@
       "pts": 4
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Cheeky Boys FC",
       "p": 4,
       "w": 1,
@@ -113,18 +125,6 @@
       "gf": 5,
       "ga": 6,
       "gd": -1,
-      "pts": 3
-    },
-    {
-      "pos": 10,
-      "team": "Real Movers FC",
-      "p": 3,
-      "w": 1,
-      "d": 0,
-      "l": 2,
-      "gf": 5,
-      "ga": 8,
-      "gd": -3,
       "pts": 3
     },
     {
@@ -191,6 +191,16 @@
       "date": "2026-09-26",
       "home_score": 2,
       "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Real Movers FC",
+      "away": "Queenkay Stars FC",
+      "match_no": 4,
+      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=4&s=l",
+      "date": "2026-09-26",
+      "home_score": 1,
+      "away_score": 0,
       "status": "FT"
     },
     {

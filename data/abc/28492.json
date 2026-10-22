@@ -5,7 +5,7 @@
   "name": "NW Stream A",
   "slug": "nw-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28492",
-  "updated": "2026-10-22T06:41:25+02:00",
+  "updated": "2026-10-22T12:41:36+02:00",
   "log": [
     {
       "pos": 1,
@@ -45,7 +45,7 @@
     },
     {
       "pos": 4,
-      "team": "Golden Palace FC",
+      "team": "Mafikeng Rocks",
       "p": 4,
       "w": 2,
       "d": 0,
@@ -57,6 +57,18 @@
     },
     {
       "pos": 5,
+      "team": "Golden Palace FC",
+      "p": 4,
+      "w": 2,
+      "d": 0,
+      "l": 2,
+      "gf": 5,
+      "ga": 8,
+      "gd": -3,
+      "pts": 6
+    },
+    {
+      "pos": 6,
       "team": "FC Milan",
       "p": 4,
       "w": 1,
@@ -68,7 +80,7 @@
       "pts": 5
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Indomitable Lions FC",
       "p": 4,
       "w": 1,
@@ -80,7 +92,7 @@
       "pts": 4
     },
     {
-      "pos": 7,
+      "pos": 8,
       "team": "Montshioa Swallows FC",
       "p": 4,
       "w": 1,
@@ -92,19 +104,19 @@
       "pts": 4
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Nkamodira",
-      "p": 3,
+      "p": 4,
       "w": 1,
       "d": 1,
-      "l": 1,
-      "gf": 3,
-      "ga": 6,
-      "gd": -3,
+      "l": 2,
+      "gf": 4,
+      "ga": 9,
+      "gd": -5,
       "pts": 4
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Orkney Young Zebras Academy",
       "p": 4,
       "w": 1,
@@ -113,18 +125,6 @@
       "gf": 5,
       "ga": 9,
       "gd": -4,
-      "pts": 3
-    },
-    {
-      "pos": 10,
-      "team": "Mafikeng Rocks",
-      "p": 3,
-      "w": 1,
-      "d": 0,
-      "l": 2,
-      "gf": 2,
-      "ga": 7,
-      "gd": -5,
       "pts": 3
     },
     {
@@ -201,6 +201,16 @@
       "date": "2026-09-26",
       "home_score": 5,
       "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Mafikeng Rocks",
+      "away": "Nkamodira",
+      "match_no": 2,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=2&s=l",
+      "date": "2026-09-26",
+      "home_score": 3,
+      "away_score": 1,
       "status": "FT"
     },
     {
