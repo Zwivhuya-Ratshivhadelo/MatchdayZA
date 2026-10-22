@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-22T21:40:30+02:00",
+  "updated": "2026-10-22T22:40:33+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -568,14 +568,6 @@
   ],
   "fixtures": [
     {
-      "home": "Primeiro de Agosto",
-      "away": "DC Virunga",
-      "date": "2026-10-23T17:00:00+02:00",
-      "match_id": "c4853671",
-      "status": "NS",
-      "venue": "Estádio 11 de Novembro"
-    },
-    {
       "home": "Kaizer Chiefs",
       "away": "Red Arrows",
       "date": "2026-10-23T18:00:00+02:00",
@@ -590,6 +582,14 @@
       "date": "2026-10-23T19:00:00+02:00",
       "match_id": "c4854768",
       "status": "NS"
+    },
+    {
+      "home": "Primeiro de Agosto",
+      "away": "DC Virunga",
+      "date": "2026-10-23T21:00:00+02:00",
+      "match_id": "c4853671",
+      "status": "NS",
+      "venue": "Estádio 11 de Novembro"
     },
     {
       "home": "Raja Casablanca",

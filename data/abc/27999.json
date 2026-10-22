@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-22T18:41:04+02:00",
+  "updated": "2026-10-22T22:41:01+02:00",
   "log": [
     {
       "pos": 1,
@@ -388,7 +388,7 @@
       "away": "Free Agents Football Club",
       "match_no": 27,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=27&s=l",
-      "date": "2026-10-30T12:00:00+02:00",
+      "date": "2026-10-30T15:00:00+02:00",
       "status": "NS"
     },
     {

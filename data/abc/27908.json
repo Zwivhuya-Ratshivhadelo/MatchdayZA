@@ -5,7 +5,7 @@
   "name": "MP Stream A",
   "slug": "mp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27908",
-  "updated": "2026-10-22T18:41:31+02:00",
+  "updated": "2026-10-22T22:41:28+02:00",
   "log": [
     {
       "pos": 1,
@@ -619,6 +619,14 @@
       "match_no": 48,
       "url": "https://inqaku.com/match/view?stream_id=27908&match_no=48&s=l",
       "date": "2026-10-31T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Home Defenders",
+      "away": "Secunda M Stars FC",
+      "match_no": 46,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=46&s=l",
+      "date": "2026-11-01T15:00:00+02:00",
       "status": "NS"
     },
     {
