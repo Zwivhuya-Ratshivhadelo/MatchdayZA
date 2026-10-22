@@ -1,5 +1,3 @@
-/* MatchdayZA service worker: lets the site be added to a home screen. It caches nothing,
-   so scores are always fetched fresh. */
+/* No longer used: removes itself from browsers that registered it earlier. */
 self.addEventListener("install", () => self.skipWaiting());
-self.addEventListener("activate", (e) => e.waitUntil(self.clients.claim()));
-self.addEventListener("fetch", () => {});
+self.addEventListener("activate", () => self.registration.unregister());

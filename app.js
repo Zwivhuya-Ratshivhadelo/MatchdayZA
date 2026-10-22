@@ -630,7 +630,8 @@ function renderMatch() {
 
 /* ---------- start ---------- */
 $all('[data-md="year"]').forEach((el) => (el.textContent = new Date().getFullYear()));
-if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").catch(() => {});
+/* no install prompt: remove the old service worker from browsers that still have it */
+if ("serviceWorker" in navigator) navigator.serviceWorker.getRegistrations().then((rs) => rs.forEach((r) => r.unregister())).catch(() => {});
 
 /* "Show all results" works on built pages too */
 document.addEventListener("click", (e) => {
