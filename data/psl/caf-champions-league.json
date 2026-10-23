@@ -700,9 +700,9 @@
       "status": "LIVE",
       "sa": true,
       "venue": "Loftus Versfeld Stadium",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "minute": "9'"
+      "minute": "11'"
     },
     {
       "home": "Orlando Pirates",
@@ -714,7 +714,7 @@
       "venue": "Orlando Stadium",
       "home_score": 0,
       "away_score": 0,
-      "minute": "9'"
+      "minute": "11'"
     }
   ],
   "fixtures": [
