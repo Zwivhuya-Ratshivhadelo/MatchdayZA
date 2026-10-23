@@ -2,10 +2,20 @@
   "home": "Mamelodi Sundowns",
   "away": "Wiliete SC",
   "status": "LIVE",
-  "minute": "55'",
+  "minute": "59'",
   "home_score": 1,
   "away_score": 1,
   "events": [
+    {
+      "minute": "49'",
+      "type": "goal",
+      "team": "Wiliete SC",
+      "player": "Mabululu",
+      "score": [
+        1,
+        1
+      ]
+    },
     {
       "minute": "11'",
       "type": "goal",
@@ -25,8 +35,8 @@
     },
     {
       "label": "Attacks",
-      "home": "72",
-      "away": "38"
+      "home": "77",
+      "away": "41"
     },
     {
       "label": "Corners",
@@ -35,8 +45,8 @@
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
-      "away": "0"
+      "home": "1",
+      "away": "1"
     },
     {
       "label": "Red Cards",
