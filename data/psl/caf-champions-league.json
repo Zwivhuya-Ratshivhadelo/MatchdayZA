@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-23T22:25:53+02:00",
+  "updated": "2026-10-23T23:30:26+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -703,6 +703,17 @@
       "venue": "Estádio 11 de Novembro"
     },
     {
+      "home": "Mamelodi Sundowns",
+      "away": "Wiliete SC",
+      "date": "2026-10-23T20:00:00+02:00",
+      "match_id": "c4852376",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1,
+      "sa": true,
+      "venue": "Loftus Versfeld Stadium"
+    },
+    {
       "home": "Orlando Pirates",
       "away": "African Stars",
       "date": "2026-10-23T20:00:00+02:00",
@@ -714,26 +725,13 @@
       "venue": "Orlando Stadium"
     },
     {
-      "home": "Mamelodi Sundowns",
-      "away": "Wiliete SC",
-      "date": "2026-10-23T20:00:00+02:00",
-      "match_id": "c4852376",
-      "status": "LIVE",
-      "home_score": 1,
-      "away_score": 1,
-      "minute": "90'",
-      "sa": true,
-      "venue": "Loftus Versfeld Stadium"
-    },
-    {
       "home": "MC Alger",
       "away": "Enugu Rangers",
       "date": "2026-10-23T21:00:00+02:00",
       "match_id": "c4854838",
-      "status": "LIVE",
-      "home_score": 1,
+      "status": "FT",
+      "home_score": 3,
       "away_score": 0,
-      "minute": "67'",
       "venue": "Stade Ali-la-Pointe"
     }
   ],

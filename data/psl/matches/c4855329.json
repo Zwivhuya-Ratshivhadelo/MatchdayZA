@@ -2,7 +2,7 @@
   "home": "Raja Casablanca",
   "away": "El Kanemi Warriors",
   "status": "LIVE",
-  "minute": "28'",
+  "minute": "72'",
   "home_score": 0,
   "away_score": 0,
   "events": [],
@@ -14,8 +14,8 @@
     },
     {
       "label": "Attacks",
-      "home": "38",
-      "away": "26"
+      "home": "94",
+      "away": "59"
     },
     {
       "label": "Corners",
@@ -24,8 +24,8 @@
     },
     {
       "label": "Free Kicks",
-      "home": "2",
-      "away": "5"
+      "home": "8",
+      "away": "10"
     },
     {
       "label": "Offsides",
@@ -34,8 +34,8 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "6",
-      "away": "8"
+      "home": "11",
+      "away": "10"
     },
     {
       "label": "Goal Kicks",
