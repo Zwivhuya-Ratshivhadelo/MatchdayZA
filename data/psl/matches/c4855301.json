@@ -2,7 +2,7 @@
   "home": "Kaizer Chiefs",
   "away": "Red Arrows",
   "status": "LIVE",
-  "minute": "43'",
+  "minute": "45'",
   "home_score": 0,
   "away_score": 0,
   "events": [],
@@ -14,7 +14,7 @@
     },
     {
       "label": "Attacks",
-      "home": "30",
+      "home": "32",
       "away": "27"
     },
     {
@@ -34,8 +34,8 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "13",
-      "away": "9"
+      "home": "14",
+      "away": "10"
     },
     {
       "label": "Goal Kicks",
