@@ -2,10 +2,21 @@
   "home": "Mamelodi Sundowns",
   "away": "Wiliete SC",
   "status": "LIVE",
-  "minute": "16'",
+  "minute": "18'",
   "home_score": 1,
   "away_score": 0,
-  "events": [],
+  "events": [
+    {
+      "minute": "11'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Tashreeq Matthews",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [
     {
       "label": "Possession",
@@ -14,7 +25,7 @@
     },
     {
       "label": "Attacks",
-      "home": "13",
+      "home": "15",
       "away": "11"
     },
     {
