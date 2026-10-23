@@ -2,7 +2,7 @@
   "home": "Mamelodi Sundowns",
   "away": "Wiliete SC",
   "status": "LIVE",
-  "minute": "68'",
+  "minute": "70'",
   "home_score": 1,
   "away_score": 1,
   "events": [
@@ -35,8 +35,8 @@
     },
     {
       "label": "Attacks",
-      "home": "90",
-      "away": "49"
+      "home": "92",
+      "away": "51"
     },
     {
       "label": "Corners",
