@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-23T20:35:51+02:00",
+  "updated": "2026-10-23T20:38:09+02:00",
   "log": [
     {
       "pos": 1,
@@ -728,10 +728,10 @@
       "venue": "Olympia Park, Rustenburg, NW",
       "match_id": "3019600",
       "url": "https://www.psl.co.za/matchcentre/detail/3019600",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "47'"
+      "minute": "49'"
     }
   ],
   "fixtures": [

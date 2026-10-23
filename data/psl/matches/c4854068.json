@@ -2,7 +2,7 @@
   "home": "Orlando Pirates",
   "away": "African Stars",
   "status": "LIVE",
-  "minute": "35'",
+  "minute": "37'",
   "home_score": 1,
   "away_score": 0,
   "events": [
@@ -36,7 +36,7 @@
     {
       "label": "Yellow Cards",
       "home": "0",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",
