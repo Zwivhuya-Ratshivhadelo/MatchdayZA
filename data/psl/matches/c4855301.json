@@ -3,9 +3,29 @@
   "away": "Red Arrows",
   "status": "LIVE",
   "minute": "90+31'",
-  "home_score": 2,
-  "away_score": 2,
+  "home_score": 3,
+  "away_score": 3,
   "events": [
+    {
+      "minute": "4",
+      "type": "penalty_goal",
+      "team": "Red Arrows",
+      "player": "",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "minute": "4",
+      "type": "penalty_goal",
+      "team": "Kaizer Chiefs",
+      "player": "",
+      "score": [
+        3,
+        2
+      ]
+    },
     {
       "minute": "3",
       "type": "penalty_goal",
