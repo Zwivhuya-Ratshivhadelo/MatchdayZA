@@ -1,17 +1,10 @@
 {
-  "time": "2026-10-23T17:24:48+02:00",
-  "links_found": 6,
+  "time": "2026-10-23T17:30:12+02:00",
+  "links_found": 0,
   "games": [
     {
-      "game": "Midlands Wanderers v Upington City",
-      "kickoff": "2026-10-23T15:30:00+02:00"
-    },
-    {
-      "game": "Real Native FC v Highbury",
-      "kickoff": "2026-10-23T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019656",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "FT 1-1 "
+      "game": "Kaizer Chiefs v Red Arrows",
+      "kickoff": "2026-10-23T18:00:00+02:00"
     }
   ]
 }
