@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-23T13:40:27+02:00",
+  "updated": "2026-10-23T22:25:56+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -571,19 +571,20 @@
       "date": "2026-10-23T18:00:00+02:00",
       "match_id": "c4855301",
       "status": "FT",
-      "sa": true,
-      "venue": "Moses Mabhida Stadium (Durban)",
       "home_score": 1,
-      "away_score": 0
-    }
-  ],
-  "fixtures": [
+      "away_score": 0,
+      "sa": true,
+      "venue": "Moses Mabhida Stadium (Durban)"
+    },
     {
       "home": "Primeiro de Agosto",
       "away": "DC Virunga",
       "date": "2026-10-23T21:00:00+02:00",
       "match_id": "c4853671",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "minute": "66'",
       "venue": "Estádio 11 de Novembro"
     },
     {
@@ -591,9 +592,14 @@
       "away": "El Kanemi Warriors",
       "date": "2026-10-23T22:00:00+02:00",
       "match_id": "c4855329",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "minute": "28'",
       "venue": "Stade Mohamed V (Casablanca)"
-    },
+    }
+  ],
+  "fixtures": [
     {
       "home": "Azam FC",
       "away": "ZED FC",

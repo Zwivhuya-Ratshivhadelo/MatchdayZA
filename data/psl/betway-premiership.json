@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-23T13:40:20+02:00",
+  "updated": "2026-10-23T22:25:48+02:00",
   "log": [
     {
       "pos": 1,
@@ -580,10 +580,10 @@
     {
       "home": "Kaizer Chiefs",
       "away": "Stellenbosch FC",
-      "date": "2026-10-13T19:30:00+02:00",
+      "date": "2026-10-13",
       "venue": "FNB Stadium, Johannesburg",
       "match_id": "2674037",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674037",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674037-kaizer-chiefs-vs-stellenbosch-fc",
       "home_score": 1,
       "away_score": 1,
       "status": "FT",

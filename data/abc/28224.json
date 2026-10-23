@@ -5,19 +5,19 @@
   "name": "EC Inland Stream",
   "slug": "ec-inland-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28224",
-  "updated": "2026-10-23T12:40:37+02:00",
+  "updated": "2026-10-23T22:26:08+02:00",
   "log": [
     {
       "pos": 1,
       "team": "FC Ravens",
-      "p": 2,
-      "w": 2,
+      "p": 3,
+      "w": 3,
       "d": 0,
       "l": 0,
-      "gf": 4,
+      "gf": 6,
       "ga": 1,
-      "gd": 3,
-      "pts": 6
+      "gd": 5,
+      "pts": 9
     },
     {
       "pos": 2,
@@ -69,18 +69,6 @@
     },
     {
       "pos": 6,
-      "team": "University of Fort Hare FC",
-      "p": 2,
-      "w": 0,
-      "d": 1,
-      "l": 1,
-      "gf": 3,
-      "ga": 4,
-      "gd": -1,
-      "pts": 1
-    },
-    {
-      "pos": 7,
       "team": "United FC",
       "p": 2,
       "w": 0,
@@ -89,6 +77,18 @@
       "gf": 2,
       "ga": 4,
       "gd": -2,
+      "pts": 1
+    },
+    {
+      "pos": 7,
+      "team": "University of Fort Hare FC",
+      "p": 3,
+      "w": 0,
+      "d": 1,
+      "l": 2,
+      "gf": 3,
+      "ga": 6,
+      "gd": -3,
       "pts": 1
     },
     {
@@ -218,17 +218,19 @@
       "home_score": 5,
       "away_score": 0,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "University of Fort Hare FC",
       "away": "FC Ravens",
       "match_no": 14,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=14&s=l",
-      "date": "2026-10-23T18:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-10-23",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Bush Bucks FC",
       "away": "United FC",

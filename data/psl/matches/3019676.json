@@ -3,12 +3,13 @@
   "comp": "national-first-division",
   "home": "Midlands Wanderers",
   "away": "Upington City",
-  "updated": "2026-10-23T17:23:46+02:00",
+  "updated": "2026-10-23T22:25:51+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "FT",
   "minute": null,
+  "events": [],
   "stats": [],
   "lineups": [],
-  "events": []
+  "tried365": true
 }
