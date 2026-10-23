@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-23T10:40:33+02:00",
+  "updated": "2026-10-23T11:40:32+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -613,7 +613,7 @@
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4854839",
       "status": "NS",
-      "venue": "Lalgy Arena 1"
+      "venue": "Estádio do Costa do Sol"
     },
     {
       "home": "CS Sfaxien",
