@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-23T23:30:21+02:00",
+  "updated": "2026-10-24T00:30:22+02:00",
   "log": [
     {
       "pos": 1,
@@ -1617,6 +1617,13 @@
       "away": "Sekhukhune United",
       "date": "2027-04-24T20:00:00+02:00",
       "venue": "King Goodwill Zwelithini Stadium, Durban",
+      "status": "NS"
+    },
+    {
+      "home": "Siwelele",
+      "away": "Kruger United",
+      "date": "2027-04-25T15:00:00+02:00",
+      "venue": "Dr Molemela Stadium, Bloemfontein",
       "status": "NS"
     }
   ],

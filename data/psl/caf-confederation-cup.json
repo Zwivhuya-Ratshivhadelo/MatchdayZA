@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-23T23:30:26+02:00",
+  "updated": "2026-10-24T00:30:29+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -591,10 +591,9 @@
       "away": "El Kanemi Warriors",
       "date": "2026-10-23T22:00:00+02:00",
       "match_id": "c4855329",
-      "status": "LIVE",
-      "home_score": 0,
+      "status": "FT",
+      "home_score": 2,
       "away_score": 0,
-      "minute": "72'",
       "venue": "Stade Mohamed V (Casablanca)"
     }
   ],
