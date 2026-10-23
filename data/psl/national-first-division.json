@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-23T20:47:29+02:00",
+  "updated": "2026-10-23T20:49:46+02:00",
   "log": [
     {
       "pos": 1,
@@ -731,7 +731,7 @@
       "home_score": 1,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "59'"
+      "minute": "61'"
     }
   ],
   "fixtures": [
