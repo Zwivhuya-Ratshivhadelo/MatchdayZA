@@ -3,25 +3,25 @@
   "comp": "national-first-division",
   "home": "Real Native FC",
   "away": "Highbury",
-  "updated": "2026-10-23T17:12:51+02:00",
+  "updated": "2026-10-23T17:15:15+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "85'",
+  "minute": "87'",
   "stats": [
     {
       "label": "Possession",
-      "home": "38%",
-      "away": "62%"
+      "home": "39%",
+      "away": "61%"
     },
     {
       "label": "Attacks",
       "home": "81",
-      "away": "98"
+      "away": "99"
     },
     {
       "label": "Corners",
-      "home": "3",
+      "home": "4",
       "away": "9"
     },
     {
