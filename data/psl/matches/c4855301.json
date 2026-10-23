@@ -4,8 +4,18 @@
   "status": "LIVE",
   "minute": "90+31'",
   "home_score": 2,
-  "away_score": 1,
+  "away_score": 2,
   "events": [
+    {
+      "minute": "3",
+      "type": "penalty_goal",
+      "team": "Red Arrows",
+      "player": "",
+      "score": [
+        2,
+        2
+      ]
+    },
     {
       "minute": "2",
       "type": "penalty_goal",
