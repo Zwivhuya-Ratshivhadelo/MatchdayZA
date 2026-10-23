@@ -564,18 +564,21 @@
       "home_score": 3,
       "away_score": 2,
       "venue": "Stade Mamadou Konaté"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Kaizer Chiefs",
       "away": "Red Arrows",
       "date": "2026-10-23T18:00:00+02:00",
       "match_id": "c4855301",
-      "status": "NS",
+      "status": "LIVE",
       "sa": true,
-      "venue": "Moses Mabhida Stadium (Durban)"
-    },
+      "venue": "Moses Mabhida Stadium (Durban)",
+      "home_score": 0,
+      "away_score": 0,
+      "minute": "2'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Primeiro de Agosto",
       "away": "DC Virunga",
