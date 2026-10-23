@@ -691,6 +691,30 @@
       "home_score": 4,
       "away_score": 1,
       "venue": "Azam Complex Stadium"
+    },
+    {
+      "home": "Mamelodi Sundowns",
+      "away": "Wiliete SC",
+      "date": "2026-10-23T20:00:00+02:00",
+      "match_id": "c4852376",
+      "status": "LIVE",
+      "sa": true,
+      "venue": "Loftus Versfeld Stadium",
+      "home_score": 0,
+      "away_score": 0,
+      "minute": "9'"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "African Stars",
+      "date": "2026-10-23T20:00:00+02:00",
+      "match_id": "c4854068",
+      "status": "LIVE",
+      "sa": true,
+      "venue": "Orlando Stadium",
+      "home_score": 0,
+      "away_score": 0,
+      "minute": "9'"
     }
   ],
   "fixtures": [
@@ -701,24 +725,6 @@
       "match_id": "c4854345",
       "status": "NS",
       "venue": "Estádio 11 de Novembro"
-    },
-    {
-      "home": "Mamelodi Sundowns",
-      "away": "Wiliete SC",
-      "date": "2026-10-23T20:00:00+02:00",
-      "match_id": "c4852376",
-      "status": "NS",
-      "sa": true,
-      "venue": "Loftus Versfeld Stadium"
-    },
-    {
-      "home": "Orlando Pirates",
-      "away": "African Stars",
-      "date": "2026-10-23T20:00:00+02:00",
-      "match_id": "c4854068",
-      "status": "NS",
-      "sa": true,
-      "venue": "Orlando Stadium"
     },
     {
       "home": "MC Alger",
