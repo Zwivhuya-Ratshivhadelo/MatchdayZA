@@ -709,12 +709,11 @@
       "away": "African Stars",
       "date": "2026-10-23T20:00:00+02:00",
       "match_id": "c4854068",
-      "status": "LIVE",
+      "status": "FT",
       "sa": true,
       "venue": "Orlando Stadium",
       "home_score": 4,
-      "away_score": 0,
-      "minute": "90+3'"
+      "away_score": 0
     }
   ],
   "fixtures": [
