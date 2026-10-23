@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-23T01:40:32+02:00",
+  "updated": "2026-10-23T02:40:35+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -775,6 +775,38 @@
       "match_id": "c4869893",
       "status": "NS",
       "venue": "Uhuru Stadium"
+    },
+    {
+      "home": "Colombe",
+      "away": "Teungueth",
+      "date": "2026-10-25T17:00:00+02:00",
+      "match_id": "c4855316",
+      "status": "NS",
+      "venue": "Stade Omnisport Ahmadou Ahidjo"
+    },
+    {
+      "home": "ASEC Mimosas",
+      "away": "Maghreb Fès",
+      "date": "2026-10-25T18:00:00+02:00",
+      "match_id": "c4855319",
+      "status": "NS",
+      "venue": "Stade Félix Houphouët-Boigny"
+    },
+    {
+      "home": "Al Hilal Omdurman",
+      "away": "Sidama Bunna",
+      "date": "2026-10-25T18:00:00+02:00",
+      "match_id": "c4855320",
+      "status": "NS",
+      "venue": "Stade Amahoro"
+    },
+    {
+      "home": "Club Africain Tunis",
+      "away": "TP Mazembe",
+      "date": "2026-10-25T19:00:00+02:00",
+      "match_id": "c4854350",
+      "status": "NS",
+      "venue": "Stade Olympique Hammadi Agrebi"
     }
   ]
 }

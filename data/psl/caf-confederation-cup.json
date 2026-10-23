@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-23T01:40:34+02:00",
+  "updated": "2026-10-23T02:40:37+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -639,6 +639,46 @@
       "status": "NS",
       "sa": true,
       "venue": "Complexe Sportif de Côte d'Or"
+    },
+    {
+      "home": "AS Maniema Union",
+      "away": "Kabuscorp SC",
+      "date": "2026-10-25T15:00:00+02:00",
+      "match_id": "c4855328",
+      "status": "NS",
+      "venue": "Stade des Martyrs de la Pentecôte"
+    },
+    {
+      "home": "ASKO Kara",
+      "away": "Diarra",
+      "date": "2026-10-25T17:30:00+02:00",
+      "match_id": "c4855331",
+      "status": "NS",
+      "venue": "Stade de Kégué"
+    },
+    {
+      "home": "Al Ahly SC",
+      "away": "Kitara FC",
+      "date": "2026-10-25T18:00:00+02:00",
+      "match_id": "c4854771",
+      "status": "NS",
+      "venue": "Cairo International Stadium"
+    },
+    {
+      "home": "Singida Black Stars SC",
+      "away": "Tusker FC",
+      "date": "2026-10-25T18:00:00+02:00",
+      "match_id": "c4855302",
+      "status": "NS",
+      "venue": "Azam Complex Stadium"
+    },
+    {
+      "home": "AS FAR Rabat",
+      "away": "CO Korhogo",
+      "date": "2026-10-25T21:00:00+02:00",
+      "match_id": "c4855330",
+      "status": "NS",
+      "venue": "Stade Prince Moulay Abdallah"
     }
   ]
 }
