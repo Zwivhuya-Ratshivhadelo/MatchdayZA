@@ -2,10 +2,20 @@
   "home": "Orlando Pirates",
   "away": "African Stars",
   "status": "LIVE",
-  "minute": "44'",
-  "home_score": 1,
+  "minute": "45+1'",
+  "home_score": 2,
   "away_score": 0,
   "events": [
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "",
+      "score": [
+        2,
+        0
+      ]
+    },
     {
       "minute": "18'",
       "type": "goal",
