@@ -2,7 +2,7 @@
   "home": "Orlando Pirates",
   "away": "African Stars",
   "status": "LIVE",
-  "minute": "87'",
+  "minute": "89'",
   "home_score": 4,
   "away_score": 0,
   "events": [
@@ -62,6 +62,26 @@
       "label": "Corners",
       "home": "3",
       "away": "1"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "4",
+      "away": "10"
+    },
+    {
+      "label": "Offsides",
+      "home": "11",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "18",
+      "away": "13"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "4",
+      "away": "8"
     },
     {
       "label": "Yellow Cards",
