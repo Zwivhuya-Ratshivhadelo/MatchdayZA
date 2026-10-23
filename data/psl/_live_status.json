@@ -1,18 +1,20 @@
 {
-  "time": "2026-10-23T15:21:27+02:00",
+  "time": "2026-10-23T15:31:45+02:00",
   "links_found": 6,
   "games": [
     {
       "game": "Midlands Wanderers v Upington City",
       "kickoff": "2026-10-23T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019676",
-      "page": "NS None-None, line-ups 0"
+      "page": "NS None-None, line-ups 0",
+      "365scores": "NS None-None "
     },
     {
       "game": "Real Native FC v Highbury",
       "kickoff": "2026-10-23T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019656",
-      "page": "NS None-None, line-ups 0"
+      "page": "NS None-None, line-ups 0",
+      "365scores": "LIVE 0-0 2'"
     }
   ]
 }
