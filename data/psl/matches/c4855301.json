@@ -2,7 +2,7 @@
   "home": "Kaizer Chiefs",
   "away": "Red Arrows",
   "status": "LIVE",
-  "minute": "80'",
+  "minute": "82'",
   "home_score": 1,
   "away_score": 0,
   "events": [
@@ -25,8 +25,8 @@
     },
     {
       "label": "Attacks",
-      "home": "50",
-      "away": "49"
+      "home": "52",
+      "away": "50"
     },
     {
       "label": "Corners",
