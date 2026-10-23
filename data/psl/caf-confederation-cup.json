@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-23T12:40:28+02:00",
+  "updated": "2026-10-23T13:40:27+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -605,7 +605,8 @@
       "away": "Esperance Zarzis",
       "date": "2026-10-24T18:00:00+02:00",
       "match_id": "c4884000",
-      "status": "NS"
+      "status": "NS",
+      "venue": "Stade Mamadou Konaté"
     },
     {
       "home": "Black Bulls Maputo",
@@ -613,7 +614,7 @@
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4854839",
       "status": "NS",
-      "venue": "Estádio do Costa do Sol"
+      "venue": "Lalgy Arena 1"
     },
     {
       "home": "CS Sfaxien",
