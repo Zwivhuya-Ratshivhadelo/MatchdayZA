@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-23T20:42:41+02:00",
+  "time": "2026-10-23T20:45:01+02:00",
   "links_found": 6,
   "games": [
     {
@@ -7,17 +7,17 @@
       "kickoff": "2026-10-23T19:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019600",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 1-2 54'"
+      "365scores": "LIVE 1-2 56'"
     },
     {
       "game": "Mamelodi Sundowns v Wiliete SC",
       "kickoff": "2026-10-23T20:00:00+02:00",
-      "365scores": "LIVE 1-0 42'"
+      "365scores": "LIVE 1-0 44'"
     },
     {
       "game": "Orlando Pirates v African Stars",
       "kickoff": "2026-10-23T20:00:00+02:00",
-      "365scores": "LIVE 1-0 42'"
+      "365scores": "LIVE 1-0 44'"
     }
   ]
 }
