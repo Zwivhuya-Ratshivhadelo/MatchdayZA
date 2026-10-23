@@ -2,7 +2,7 @@
   "home": "Orlando Pirates",
   "away": "African Stars",
   "status": "LIVE",
-  "minute": "83'",
+  "minute": "85'",
   "home_score": 4,
   "away_score": 0,
   "events": [
@@ -50,8 +50,8 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "62%",
-      "away": "38%"
+      "home": "64%",
+      "away": "36%"
     },
     {
       "label": "Attacks",
