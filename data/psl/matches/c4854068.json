@@ -2,15 +2,25 @@
   "home": "Orlando Pirates",
   "away": "African Stars",
   "status": "LIVE",
-  "minute": "76'",
-  "home_score": 3,
+  "minute": "78'",
+  "home_score": 4,
   "away_score": 0,
   "events": [
+    {
+      "minute": "77'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "",
+      "score": [
+        4,
+        0
+      ]
+    },
     {
       "minute": "46'",
       "type": "goal",
       "team": "Orlando Pirates",
-      "player": "",
+      "player": "Mpho Padime",
       "score": [
         3,
         0
@@ -40,8 +50,8 @@
   "stats": [
     {
       "label": "Possession",
-      "home": "63%",
-      "away": "37%"
+      "home": "64%",
+      "away": "36%"
     },
     {
       "label": "Attacks",
