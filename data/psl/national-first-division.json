@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-23T13:40:14+02:00",
+  "updated": "2026-10-23T14:20:09+02:00",
   "log": [
     {
       "pos": 1,
@@ -704,14 +704,18 @@
       "away": "Upington City",
       "date": "2026-10-23T15:30:00+02:00",
       "venue": "Mpumalanga Stadium, Hammarsdale",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019676",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019676"
     },
     {
       "home": "Real Native FC",
       "away": "Highbury",
       "date": "2026-10-23T15:30:00+02:00",
       "venue": "Solomon Mahlangu Stadium, KwaMhlanga",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019656",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019656"
     },
     {
       "home": "Orbit College FC",

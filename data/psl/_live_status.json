@@ -1,12 +1,18 @@
 {
-  "time": "2026-10-18T17:24:18+02:00",
+  "time": "2026-10-23T14:20:05+02:00",
   "links_found": 6,
   "games": [
     {
-      "game": "Siwelele v Polokwane City",
-      "kickoff": "2026-10-18T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674040",
-      "page": "FT 1-0, line-ups 2"
+      "game": "Midlands Wanderers v Upington City",
+      "kickoff": "2026-10-23T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019676",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Real Native FC v Highbury",
+      "kickoff": "2026-10-23T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019656",
+      "page": "NS None-None, line-ups 0"
     }
   ]
 }
