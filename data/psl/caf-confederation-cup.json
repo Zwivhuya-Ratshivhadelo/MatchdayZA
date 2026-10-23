@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-23T11:40:32+02:00",
+  "updated": "2026-10-23T12:40:28+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -577,13 +577,6 @@
       "venue": "Moses Mabhida Stadium (Durban)"
     },
     {
-      "home": "AS Real Bamako",
-      "away": "ASC Diambars",
-      "date": "2026-10-23T19:00:00+02:00",
-      "match_id": "c4854768",
-      "status": "NS"
-    },
-    {
       "home": "Primeiro de Agosto",
       "away": "DC Virunga",
       "date": "2026-10-23T21:00:00+02:00",
@@ -606,6 +599,13 @@
       "match_id": "c4854770",
       "status": "NS",
       "venue": "Azam Complex Stadium"
+    },
+    {
+      "home": "AS Real Bamako",
+      "away": "Esperance Zarzis",
+      "date": "2026-10-24T18:00:00+02:00",
+      "match_id": "c4884000",
+      "status": "NS"
     },
     {
       "home": "Black Bulls Maputo",
@@ -671,14 +671,6 @@
       "match_id": "c4855302",
       "status": "NS",
       "venue": "Azam Complex Stadium"
-    },
-    {
-      "home": "AS FAR Rabat",
-      "away": "CO Korhogo",
-      "date": "2026-10-25T21:00:00+02:00",
-      "match_id": "c4855330",
-      "status": "NS",
-      "venue": "Stade Prince Moulay Abdallah"
     }
   ]
 }
