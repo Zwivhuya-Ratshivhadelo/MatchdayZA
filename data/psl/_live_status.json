@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-23T17:01:02+02:00",
+  "time": "2026-10-23T17:03:21+02:00",
   "links_found": 6,
   "games": [
     {
@@ -7,14 +7,14 @@
       "kickoff": "2026-10-23T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019676",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-0 75'"
+      "365scores": "LIVE 0-0 78'"
     },
     {
       "game": "Real Native FC v Highbury",
       "kickoff": "2026-10-23T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019656",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 1-1 73'"
+      "365scores": "LIVE 1-1 76'"
     }
   ]
 }
