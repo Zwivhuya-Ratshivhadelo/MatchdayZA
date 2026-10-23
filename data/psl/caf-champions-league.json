@@ -693,6 +693,17 @@
       "venue": "Azam Complex Stadium"
     },
     {
+      "home": "Orlando Pirates",
+      "away": "African Stars",
+      "date": "2026-10-23T20:00:00+02:00",
+      "match_id": "c4854068",
+      "status": "FT",
+      "sa": true,
+      "venue": "Orlando Stadium",
+      "home_score": 4,
+      "away_score": 0
+    },
+    {
       "home": "Mamelodi Sundowns",
       "away": "Wiliete SC",
       "date": "2026-10-23T20:00:00+02:00",
@@ -703,17 +714,6 @@
       "home_score": 1,
       "away_score": 1,
       "minute": "90+1'"
-    },
-    {
-      "home": "Orlando Pirates",
-      "away": "African Stars",
-      "date": "2026-10-23T20:00:00+02:00",
-      "match_id": "c4854068",
-      "status": "FT",
-      "sa": true,
-      "venue": "Orlando Stadium",
-      "home_score": 4,
-      "away_score": 0
     }
   ],
   "fixtures": [

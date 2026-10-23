@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-23T21:57:32+02:00",
+  "time": "2026-10-23T21:59:37+02:00",
   "links_found": 6,
   "games": [
     {
@@ -13,8 +13,7 @@
     },
     {
       "game": "Orlando Pirates v African Stars",
-      "kickoff": "2026-10-23T20:00:00+02:00",
-      "365scores": "FT 4-0 "
+      "kickoff": "2026-10-23T20:00:00+02:00"
     }
   ]
 }
