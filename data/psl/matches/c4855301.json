@@ -1,0 +1,18 @@
+{
+  "home": "Kaizer Chiefs",
+  "away": "Red Arrows",
+  "status": "NS",
+  "minute": null,
+  "home_score": null,
+  "away_score": null,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "50%",
+      "away": "50%"
+    }
+  ],
+  "lineups": [],
+  "venue": "Moses Mabhida Stadium (Durban)"
+}
