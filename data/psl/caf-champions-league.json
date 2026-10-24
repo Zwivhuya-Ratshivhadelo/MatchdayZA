@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-24T01:30:31+02:00",
+  "updated": "2026-10-24T02:30:36+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -639,18 +639,7 @@
       "match_id": "c4855323",
       "status": "FT",
       "home_score": 1,
-      "away_score": 0,
-      "venue": "Stade du 28 Septembre"
-    },
-    {
-      "home": "Teungueth",
-      "away": "Colombe",
-      "date": "2026-10-18T19:00:00+02:00",
-      "match_id": "c4855324",
-      "status": "FT",
-      "home_score": 0,
-      "away_score": 2,
-      "venue": "Stade Léopold Sédar Senghor"
+      "away_score": 0
     },
     {
       "home": "Al Swehly SC",
@@ -659,8 +648,16 @@
       "match_id": "c4855275",
       "status": "FT",
       "home_score": 1,
-      "away_score": 0,
-      "venue": "Misurata Stadium"
+      "away_score": 0
+    },
+    {
+      "home": "Teungueth",
+      "away": "Colombe",
+      "date": "2026-10-18T19:00:00+02:00",
+      "match_id": "c4855324",
+      "status": "FT",
+      "home_score": 0,
+      "away_score": 2
     },
     {
       "home": "Maghreb Fès",
@@ -669,8 +666,7 @@
       "match_id": "c4855325",
       "status": "FT",
       "home_score": 1,
-      "away_score": 1,
-      "venue": "Stade d'Honneur"
+      "away_score": 1
     },
     {
       "home": "15 de Agosto",
@@ -703,17 +699,6 @@
       "venue": "Estádio 11 de Novembro"
     },
     {
-      "home": "Mamelodi Sundowns",
-      "away": "Wiliete SC",
-      "date": "2026-10-23T20:00:00+02:00",
-      "match_id": "c4852376",
-      "status": "FT",
-      "home_score": 1,
-      "away_score": 1,
-      "sa": true,
-      "venue": "Loftus Versfeld Stadium"
-    },
-    {
       "home": "Orlando Pirates",
       "away": "African Stars",
       "date": "2026-10-23T20:00:00+02:00",
@@ -723,6 +708,17 @@
       "away_score": 0,
       "sa": true,
       "venue": "Orlando Stadium"
+    },
+    {
+      "home": "Mamelodi Sundowns",
+      "away": "Wiliete SC",
+      "date": "2026-10-23T20:00:00+02:00",
+      "match_id": "c4852376",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1,
+      "sa": true,
+      "venue": "Loftus Versfeld Stadium"
     },
     {
       "home": "MC Alger",
@@ -815,6 +811,14 @@
       "match_id": "c4854350",
       "status": "NS",
       "venue": "Stade Olympique Hammadi Agrebi"
+    },
+    {
+      "home": "FC Nouadhibou",
+      "away": "San Pédro",
+      "date": "2026-10-25T19:00:00+02:00",
+      "match_id": "c4855318",
+      "status": "NS",
+      "venue": "Stade Cheikha Ould Boïdiya"
     }
   ]
 }

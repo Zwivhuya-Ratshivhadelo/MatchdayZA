@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-24T01:30:33+02:00",
+  "updated": "2026-10-24T02:30:38+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -522,8 +522,7 @@
       "status": "FT",
       "home_score": 3,
       "away_score": 1,
-      "sa": true,
-      "venue": "Moses Mabhida Stadium (Durban)"
+      "sa": true
     },
     {
       "home": "DC Virunga",
@@ -532,8 +531,7 @@
       "match_id": "c4853672",
       "status": "FT",
       "home_score": 1,
-      "away_score": 2,
-      "venue": "Stade des Martyrs de la Pentecôte"
+      "away_score": 2
     },
     {
       "home": "El Kanemi Warriors",
@@ -552,8 +550,7 @@
       "match_id": "c4855332",
       "status": "FT",
       "home_score": 1,
-      "away_score": 4,
-      "venue": "Estádio 11 de Novembro"
+      "away_score": 4
     },
     {
       "home": "Diarra",
@@ -620,7 +617,7 @@
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4854839",
       "status": "NS",
-      "venue": "Estádio do Costa do Sol"
+      "venue": "Lalgy Arena 1"
     },
     {
       "home": "CS Sfaxien",
@@ -678,6 +675,14 @@
       "match_id": "c4855302",
       "status": "NS",
       "venue": "Azam Complex Stadium"
+    },
+    {
+      "home": "AS FAR Rabat",
+      "away": "CO Korhogo",
+      "date": "2026-10-25T21:00:00+02:00",
+      "match_id": "c4855330",
+      "status": "NS",
+      "venue": "Stade Prince Moulay Abdallah"
     }
   ]
 }
