@@ -5,7 +5,7 @@
   "name": "WC Stream A",
   "slug": "wc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28002",
-  "updated": "2026-10-23T22:27:07+02:00",
+  "updated": "2026-10-24T06:31:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -515,22 +515,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Hanover Park",
-      "away": "Seaside Spurs FC",
-      "match_no": 46,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=46&s=l",
-      "date": "2026-10-23T19:30:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Inter City FFC",
-      "away": "Ikapa Sporting FC",
-      "match_no": 47,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=47&s=l",
-      "date": "2026-10-23T19:30:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Cape Town Spurs",
       "away": "Santos FC",

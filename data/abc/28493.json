@@ -5,7 +5,7 @@
   "name": "NW Stream B",
   "slug": "nw-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28493",
-  "updated": "2026-10-23T22:27:03+02:00",
+  "updated": "2026-10-24T06:31:41+02:00",
   "log": [
     {
       "pos": 1,
@@ -385,14 +385,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "NWU Tawana FC",
-      "away": "Thames FC",
-      "match_no": 25,
-      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=25&s=l",
-      "date": "2026-10-23T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Queenkay Stars FC",
       "away": "Mavabaza United Football Club",

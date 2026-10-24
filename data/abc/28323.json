@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream B",
   "slug": "lp-limpopo-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28323",
-  "updated": "2026-10-23T22:26:44+02:00",
+  "updated": "2026-10-24T06:31:23+02:00",
   "log": [
     {
       "pos": 1,
@@ -325,38 +325,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Mokopane Pj Stars FC",
-      "away": "Ramatlaohle Mogalakwena United FC",
-      "match_no": 20,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=20&s=l",
-      "date": "2026-10-23T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Phinnet City FC",
-      "away": "Baroka FC",
-      "match_no": 19,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=19&s=l",
-      "date": "2026-10-23T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Mighty",
-      "away": "The Dolphins FC",
-      "match_no": 22,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=22&s=l",
-      "date": "2026-10-23T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Mohlabile United FC",
-      "away": "Royal Pirates",
-      "match_no": 21,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=21&s=l",
-      "date": "2026-10-23T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Mohlabile United FC",
       "away": "Royal Pirates",

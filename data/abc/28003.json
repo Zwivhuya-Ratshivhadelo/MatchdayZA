@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-10-23T22:27:11+02:00",
+  "updated": "2026-10-24T06:31:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -435,22 +435,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Maties FC",
-      "away": "Barcelona FC",
-      "match_no": 44,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=44&s=l",
-      "date": "2026-10-23T19:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Grassy Park United",
-      "away": "Ubuntu Spartans FC",
-      "match_no": 45,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=45&s=l",
-      "date": "2026-10-23T19:30:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Royal Blues FC",
       "away": "Diadora FC",

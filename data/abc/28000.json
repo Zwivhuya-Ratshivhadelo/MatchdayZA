@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-10-23T22:26:26+02:00",
+  "updated": "2026-10-24T06:31:05+02:00",
   "log": [
     {
       "pos": 1,
@@ -315,30 +315,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Orlando Pirates FC",
-      "away": "Spartans FC",
-      "match_no": 21,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=21&s=l",
-      "date": "2026-10-23T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Wits University FC",
-      "away": "Doornkop Students",
-      "match_no": 19,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=19&s=l",
-      "date": "2026-10-23T18:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "TUT FC",
-      "away": "Young Pirates FC",
-      "match_no": 20,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=20&s=l",
-      "date": "2026-10-23T18:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Mabopane Jm",
       "away": "Dube Continental FC",
