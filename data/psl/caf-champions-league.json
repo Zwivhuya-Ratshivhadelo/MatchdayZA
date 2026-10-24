@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-24T20:01:04+02:00",
+  "updated": "2026-10-24T21:00:36+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -735,10 +735,9 @@
       "away": "Al Swehly SC",
       "date": "2026-10-24T18:00:00+02:00",
       "match_id": "c4855277",
-      "status": "LIVE",
-      "home_score": 0,
+      "status": "FT",
+      "home_score": 1,
       "away_score": 0,
-      "minute": "120'",
       "venue": "Stade Olympique Hammadi Agrebi"
     },
     {
@@ -746,11 +745,20 @@
       "away": "Armée Patriotique Rwandaise FC",
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4854766",
-      "status": "LIVE",
+      "status": "FT",
       "home_score": 1,
       "away_score": 0,
-      "minute": "HT",
       "venue": "Cairo International Stadium"
+    },
+    {
+      "home": "Pyramids",
+      "away": "Merriekh Bentiu",
+      "date": "2026-10-24T19:00:00+02:00",
+      "match_id": "c4855321",
+      "status": "FT",
+      "home_score": 4,
+      "away_score": 0,
+      "venue": "30 June Air Defence Stadium"
     },
     {
       "home": "Merreikh Al Sudan",
@@ -758,32 +766,24 @@
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4855317",
       "status": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "minute": "HT",
+      "home_score": 2,
+      "away_score": 1,
+      "minute": "120'",
       "venue": "Stade Amahoro"
     },
-    {
-      "home": "Pyramids",
-      "away": "Merriekh Bentiu",
-      "date": "2026-10-24T19:00:00+02:00",
-      "match_id": "c4855321",
-      "status": "LIVE",
-      "home_score": 3,
-      "away_score": 0,
-      "minute": "HT",
-      "venue": "30 June Air Defence Stadium"
-    }
-  ],
-  "fixtures": [
     {
       "home": "RSB Berkane",
       "away": "Star Sport Academy",
       "date": "2026-10-24T21:00:00+02:00",
       "match_id": "c4854765",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "minute": "1'",
       "venue": "Stade Municipal de Berkane"
-    },
+    }
+  ],
+  "fixtures": [
     {
       "home": "Simba SC",
       "away": "15 de Agosto",

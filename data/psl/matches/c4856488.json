@@ -2,10 +2,41 @@
   "home": "Al Ahli Tripoli",
   "away": "Welwalo Adigrat Uni",
   "status": "LIVE",
-  "minute": "HT",
-  "home_score": 0,
+  "minute": "90+1'",
+  "home_score": 3,
   "away_score": 1,
-  "events": [],
+  "events": [
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "Al Ahli Tripoli",
+      "player": "Omran Al-Tawerghi",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "minute": "73'",
+      "type": "goal",
+      "team": "Al Ahli Tripoli",
+      "player": "Ezzeddin Amer Faraj El Maremi",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "51'",
+      "type": "goal",
+      "team": "Al Ahli Tripoli",
+      "player": "Fiston Mayele",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [],
   "lineups": [],
   "venue": "11 June Stadium"
