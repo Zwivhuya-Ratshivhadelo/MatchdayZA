@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-24T17:05:28+02:00",
+  "updated": "2026-10-24T17:07:51+02:00",
   "log": [
     {
       "pos": 1,
@@ -737,11 +737,11 @@
       "date": "2026-10-24T15:30:00+02:00",
       "match_id": "3019723",
       "url": "https://www.psl.co.za/matchcentre/detail/3019723",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "76'",
-      "latest": "57' Goal, Gomora United"
+      "minute": "78'",
+      "latest": "77' Goal, Magesi FC"
     },
     {
       "home": "Leicesterford City FC",
@@ -752,7 +752,7 @@
       "home_score": 0,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "77'"
+      "minute": "79'"
     },
     {
       "home": "Hungry Lions FC",
@@ -764,7 +764,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "75'"
+      "minute": "77'"
     }
   ],
   "fixtures": [
