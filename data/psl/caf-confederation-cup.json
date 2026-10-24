@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-24T19:00:39+02:00",
+  "updated": "2026-10-24T20:01:11+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -608,10 +608,9 @@
       "away": "Esperance Zarzis",
       "date": "2026-10-24T18:00:00+02:00",
       "match_id": "c4884000",
-      "status": "LIVE",
-      "home_score": 1,
-      "away_score": 0,
-      "minute": "HT",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 2,
       "venue": "Stade Mamadou Konaté"
     },
     {
@@ -621,8 +620,8 @@
       "match_id": "c4854839",
       "status": "LIVE",
       "home_score": 0,
-      "away_score": 0,
-      "minute": "1'",
+      "away_score": 1,
+      "minute": "HT",
       "venue": "Estádio do Costa do Sol"
     },
     {
@@ -631,21 +630,24 @@
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4855386",
       "status": "LIVE",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "minute": "1'",
+      "minute": "HT",
       "venue": "Stade Taïeb Mhiri (Sfax)"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Al Ahli Tripoli",
       "away": "Welwalo Adigrat Uni",
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4856488",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 0,
+      "away_score": 1,
+      "minute": "HT",
       "venue": "11 June Stadium"
-    },
+    }
+  ],
+  "fixtures": [
     {
       "home": "AS Port-Louis 2000",
       "away": "Durban City",

@@ -2,7 +2,7 @@
   "home": "Merreikh Al Sudan",
   "away": "Horoya AC",
   "status": "LIVE",
-  "minute": "3'",
+  "minute": "HT",
   "home_score": 0,
   "away_score": 0,
   "events": [],
@@ -14,8 +14,23 @@
     },
     {
       "label": "Attacks",
-      "home": "4",
-      "away": "3"
+      "home": "59",
+      "away": "50"
+    },
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
     }
   ],
   "lineups": [],

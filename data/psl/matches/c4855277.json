@@ -2,15 +2,15 @@
   "home": "Esperance ST",
   "away": "Al Swehly SC",
   "status": "LIVE",
-  "minute": "HT",
-  "home_score": 1,
+  "minute": "90+31'",
+  "home_score": 0,
   "away_score": 0,
   "events": [
     {
       "minute": "8'",
       "type": "goal",
       "team": "Esperance ST",
-      "player": "",
+      "player": "Imad Faraj",
       "score": [
         1,
         0
@@ -20,13 +20,43 @@
   "stats": [
     {
       "label": "Attacks",
-      "home": "44",
-      "away": "49"
+      "home": "91",
+      "away": "83"
     },
     {
       "label": "Corners",
+      "home": "6",
+      "away": "1"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "14",
+      "away": "24"
+    },
+    {
+      "label": "Offsides",
       "home": "3",
       "away": "1"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "17",
+      "away": "15"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "11"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "4",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
     }
   ],
   "lineups": [],
