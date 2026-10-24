@@ -3,15 +3,15 @@
   "comp": "national-first-division",
   "home": "Leicesterford City FC",
   "away": "Lerumo Lions",
-  "updated": "2026-10-24T16:18:06+02:00",
+  "updated": "2026-10-24T16:20:34+02:00",
   "home_score": 0,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "45'",
+  "minute": "HT",
   "stats": [
     {
       "label": "Attacks",
-      "home": "54",
+      "home": "56",
       "away": "52"
     },
     {
