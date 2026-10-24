@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-24T23:00:19+02:00",
+  "updated": "2026-10-25T00:00:18+02:00",
   "log": [
     {
       "pos": 1,
@@ -767,22 +767,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "North West University",
-      "away": "Pretoria University FC",
-      "date": "2026-10-24T15:30:00+02:00",
-      "venue": "NWU Fanie Du Toit Sports Ground, Potchefstroom",
-      "status": "NS"
-    },
-    {
-      "home": "Hope",
-      "away": "The Bees",
-      "date": "2026-10-24T15:30:00+02:00",
-      "venue": "TBC, TBC",
-      "status": "NS",
-      "match_id": "3019634",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019634"
-    },
     {
       "home": "Orbit College FC",
       "away": "Venda FC",
