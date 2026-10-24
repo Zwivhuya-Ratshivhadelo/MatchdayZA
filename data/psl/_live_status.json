@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-24T17:15:09+02:00",
+  "time": "2026-10-24T17:17:39+02:00",
   "links_found": 6,
   "games": [
     {
@@ -19,21 +19,21 @@
       "kickoff": "2026-10-24T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019704",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-0 85'"
+      "365scores": "LIVE 0-0 87'"
     },
     {
       "game": "Magesi FC v Gomora United",
       "kickoff": "2026-10-24T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019723",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 2-1 86'"
+      "365scores": "LIVE 2-1 88'"
     },
     {
       "game": "Leicesterford City FC v Lerumo Lions",
       "kickoff": "2026-10-24T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019740",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-3 86'"
+      "365scores": "LIVE 0-3 89'"
     }
   ]
 }
