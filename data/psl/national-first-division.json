@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-24T15:32:53+02:00",
+  "updated": "2026-10-24T15:35:25+02:00",
   "log": [
     {
       "pos": 1,
@@ -740,7 +740,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "3'"
+      "minute": "5'"
     },
     {
       "home": "Leicesterford City FC",
@@ -751,7 +751,19 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "3'"
+      "minute": "5'"
+    },
+    {
+      "home": "Hungry Lions FC",
+      "away": "Venda FC",
+      "date": "2026-10-24T15:30:00+02:00",
+      "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
+      "match_id": "3019704",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019704",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "1'"
     }
   ],
   "fixtures": [
@@ -770,15 +782,6 @@
       "status": "NS",
       "match_id": "3019634",
       "url": "https://www.psl.co.za/matchcentre/detail/3019634"
-    },
-    {
-      "home": "Hungry Lions FC",
-      "away": "Venda FC",
-      "date": "2026-10-24T15:30:00+02:00",
-      "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
-      "status": "NS",
-      "match_id": "3019704",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019704"
     },
     {
       "home": "Orbit College FC",
