@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-24T21:00:36+02:00",
+  "updated": "2026-10-24T22:00:37+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -751,6 +751,16 @@
       "venue": "Cairo International Stadium"
     },
     {
+      "home": "Merreikh Al Sudan",
+      "away": "Horoya AC",
+      "date": "2026-10-24T19:00:00+02:00",
+      "match_id": "c4855317",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 0,
+      "venue": "Stade Amahoro"
+    },
+    {
       "home": "Pyramids",
       "away": "Merriekh Bentiu",
       "date": "2026-10-24T19:00:00+02:00",
@@ -761,17 +771,6 @@
       "venue": "30 June Air Defence Stadium"
     },
     {
-      "home": "Merreikh Al Sudan",
-      "away": "Horoya AC",
-      "date": "2026-10-24T19:00:00+02:00",
-      "match_id": "c4855317",
-      "status": "LIVE",
-      "home_score": 2,
-      "away_score": 1,
-      "minute": "120'",
-      "venue": "Stade Amahoro"
-    },
-    {
       "home": "RSB Berkane",
       "away": "Star Sport Academy",
       "date": "2026-10-24T21:00:00+02:00",
@@ -779,7 +778,7 @@
       "status": "LIVE",
       "home_score": 0,
       "away_score": 0,
-      "minute": "1'",
+      "minute": "HT",
       "venue": "Stade Municipal de Berkane"
     }
   ],

@@ -2,20 +2,55 @@
   "home": "RSB Berkane",
   "away": "Star Sport Academy",
   "status": "LIVE",
-  "minute": "1'",
+  "minute": "HT",
   "home_score": 0,
   "away_score": 0,
   "events": [],
   "stats": [
     {
       "label": "Possession",
-      "home": "80%",
-      "away": "20%"
+      "home": "65%",
+      "away": "35%"
     },
     {
       "label": "Attacks",
+      "home": "39",
+      "away": "39"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "10",
+      "away": "7"
+    },
+    {
+      "label": "Offsides",
       "home": "1",
-      "away": "2"
+      "away": "1"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "6",
+      "away": "6"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "2",
+      "away": "5"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
     }
   ],
   "lineups": [],

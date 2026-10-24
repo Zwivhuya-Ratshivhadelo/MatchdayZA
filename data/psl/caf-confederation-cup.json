@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-24T21:00:37+02:00",
+  "updated": "2026-10-24T22:00:39+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -638,10 +638,9 @@
       "away": "Welwalo Adigrat Uni",
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4856488",
-      "status": "LIVE",
-      "home_score": 3,
+      "status": "FT",
+      "home_score": 4,
       "away_score": 1,
-      "minute": "90'",
       "venue": "11 June Stadium"
     }
   ],
