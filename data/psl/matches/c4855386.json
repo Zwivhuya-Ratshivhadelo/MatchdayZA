@@ -1,0 +1,23 @@
+{
+  "home": "CS Sfaxien",
+  "away": "AFAD-Plateau",
+  "status": "LIVE",
+  "minute": "1'",
+  "home_score": 0,
+  "away_score": 0,
+  "events": [],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "62%",
+      "away": "38%"
+    },
+    {
+      "label": "Attacks",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "venue": "Stade Taïeb Mhiri (Sfax)"
+}

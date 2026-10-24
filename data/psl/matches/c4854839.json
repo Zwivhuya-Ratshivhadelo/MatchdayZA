@@ -1,0 +1,18 @@
+{
+  "home": "Black Bulls Maputo",
+  "away": "Rayon Sports",
+  "status": "LIVE",
+  "minute": "1'",
+  "home_score": 0,
+  "away_score": 0,
+  "events": [],
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "0",
+      "away": "1"
+    }
+  ],
+  "lineups": [],
+  "venue": "Estádio do Costa do Sol"
+}

@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-24T17:57:25+02:00",
+  "updated": "2026-10-24T19:00:38+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -729,31 +729,27 @@
       "home_score": 3,
       "away_score": 0,
       "venue": "Stade Ali-la-Pointe"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Esperance ST",
       "away": "Al Swehly SC",
       "date": "2026-10-24T18:00:00+02:00",
       "match_id": "c4855277",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "minute": "HT",
       "venue": "Stade Olympique Hammadi Agrebi"
-    },
-    {
-      "home": "Zamalek SC",
-      "away": "Armée Patriotique Rwandaise FC",
-      "date": "2026-10-24T19:00:00+02:00",
-      "match_id": "c4854766",
-      "status": "NS",
-      "venue": "Cairo International Stadium"
     },
     {
       "home": "Merreikh Al Sudan",
       "away": "Horoya AC",
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4855317",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "minute": "3'",
       "venue": "Stade Amahoro"
     },
     {
@@ -761,8 +757,21 @@
       "away": "Merriekh Bentiu",
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4855321",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "minute": "1'",
       "venue": "30 June Air Defence Stadium"
+    }
+  ],
+  "fixtures": [
+    {
+      "home": "Zamalek SC",
+      "away": "Armée Patriotique Rwandaise FC",
+      "date": "2026-10-24T19:00:00+02:00",
+      "match_id": "c4854766",
+      "status": "NS",
+      "venue": "Cairo International Stadium"
     },
     {
       "home": "RSB Berkane",

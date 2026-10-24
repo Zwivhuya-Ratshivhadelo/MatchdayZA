@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-24T17:57:26+02:00",
+  "updated": "2026-10-24T19:00:39+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -602,15 +602,16 @@
       "home_score": 1,
       "away_score": 0,
       "venue": "Azam Complex Stadium"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "AS Real Bamako",
       "away": "Esperance Zarzis",
       "date": "2026-10-24T18:00:00+02:00",
       "match_id": "c4884000",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "minute": "HT",
       "venue": "Stade Mamadou Konaté"
     },
     {
@@ -618,7 +619,10 @@
       "away": "Rayon Sports",
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4854839",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "minute": "1'",
       "venue": "Estádio do Costa do Sol"
     },
     {
@@ -626,9 +630,14 @@
       "away": "AFAD-Plateau",
       "date": "2026-10-24T19:00:00+02:00",
       "match_id": "c4855386",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "minute": "1'",
       "venue": "Stade Taïeb Mhiri (Sfax)"
-    },
+    }
+  ],
+  "fixtures": [
     {
       "home": "Al Ahli Tripoli",
       "away": "Welwalo Adigrat Uni",
