@@ -189,6 +189,7 @@ https://www.matchdayza.co.za/match/horoya-ac-vs-js-saoura-2026-09-13/
 https://www.matchdayza.co.za/match/horoya-ac-vs-merreikh-al-sudan-2026-10-18/
 https://www.matchdayza.co.za/match/hungry-lions-fc-vs-gomora-united-2026-08-22/
 https://www.matchdayza.co.za/match/hungry-lions-fc-vs-the-bees-2026-09-12/
+https://www.matchdayza.co.za/match/hungry-lions-fc-vs-upington-city-2026-10-31/
 https://www.matchdayza.co.za/match/hungry-lions-fc-vs-venda-fc-2026-10-24/
 https://www.matchdayza.co.za/match/js-saoura-vs-horoya-ac-2026-09-04/
 https://www.matchdayza.co.za/match/jwaneng-galaxy-fc-vs-as-port-louis-2000-2026-09-12/
@@ -228,6 +229,7 @@ https://www.matchdayza.co.za/match/leicesterford-city-fc-vs-magesi-fc-2026-09-05
 https://www.matchdayza.co.za/match/leicesterford-city-fc-vs-midlands-wanderers-2026-09-19/
 https://www.matchdayza.co.za/match/leicesterford-city-fc-vs-orbit-college-fc-2026-08-22/
 https://www.matchdayza.co.za/match/lerumo-lions-vs-north-west-university-2026-08-29/
+https://www.matchdayza.co.za/match/lerumo-lions-vs-pretoria-university-fc-2026-10-31/
 https://www.matchdayza.co.za/match/lerumo-lions-vs-real-native-fc-2026-09-12/
 https://www.matchdayza.co.za/match/lijabatho-vs-cffa-2026-09-12/
 https://www.matchdayza.co.za/match/magesi-fc-vs-gomora-united-2026-10-24/
@@ -416,6 +418,7 @@ https://www.matchdayza.co.za/match/teungueth-vs-fc-canchungo-2026-09-13/
 https://www.matchdayza.co.za/match/the-bees-vs-gomora-united-2026-09-06/
 https://www.matchdayza.co.za/match/the-bees-vs-highbury-2026-08-22/
 https://www.matchdayza.co.za/match/the-bees-vs-lerumo-lions-2026-09-19/
+https://www.matchdayza.co.za/match/the-bees-vs-midlands-wanderers-2026-10-31/
 https://www.matchdayza.co.za/match/the-bees-vs-real-native-fc-2026-10-17/
 https://www.matchdayza.co.za/match/the-panthers-vs-aspac-fc-2026-09-10/
 https://www.matchdayza.co.za/match/tp-mazembe-vs-club-africain-tunis-2026-10-17/
