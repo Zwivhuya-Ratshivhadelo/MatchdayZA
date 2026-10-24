@@ -1,19 +1,35 @@
 {
-  "time": "2026-10-23T22:25:26+02:00",
+  "time": "2026-10-24T14:20:07+02:00",
   "links_found": 6,
   "games": [
     {
-      "game": "Orbit College FC v Cape Town City FC",
-      "kickoff": "2026-10-23T19:30:00+02:00"
+      "game": "North West University v Pretoria University FC",
+      "kickoff": "2026-10-24T15:30:00+02:00",
+      "match_page": null
     },
     {
-      "game": "Mamelodi Sundowns v Wiliete SC",
-      "kickoff": "2026-10-23T20:00:00+02:00",
-      "365scores": "LIVE 1-1 90+1'"
+      "game": "Hope v The Bees",
+      "kickoff": "2026-10-24T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019634",
+      "page": "NS None-None, line-ups 0"
     },
     {
-      "game": "Orlando Pirates v African Stars",
-      "kickoff": "2026-10-23T20:00:00+02:00"
+      "game": "Hungry Lions FC v Venda FC",
+      "kickoff": "2026-10-24T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019704",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Magesi FC v Gomora United",
+      "kickoff": "2026-10-24T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019723",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Leicesterford City FC v Lerumo Lions",
+      "kickoff": "2026-10-24T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019740",
+      "page": "NS None-None, line-ups 0"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-24T13:30:15+02:00",
+  "updated": "2026-10-24T14:20:15+02:00",
   "log": [
     {
       "pos": 1,
@@ -745,24 +745,32 @@
       "away": "The Bees",
       "date": "2026-10-24T15:30:00+02:00",
       "venue": "TBC, TBC",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019634",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019634"
     },
     {
       "home": "Hungry Lions FC",
       "away": "Venda FC",
       "date": "2026-10-24T15:30:00+02:00",
       "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019704",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019704"
     },
     {
       "home": "Magesi FC",
       "away": "Gomora United",
-      "date": "2026-10-24T15:30:00+02:00"
+      "date": "2026-10-24T15:30:00+02:00",
+      "match_id": "3019723",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019723"
     },
     {
       "home": "Leicesterford City FC",
       "away": "Lerumo Lions",
-      "date": "2026-10-24T15:30:00+02:00"
+      "date": "2026-10-24T15:30:00+02:00",
+      "match_id": "3019740",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019740"
     },
     {
       "home": "Orbit College FC",
