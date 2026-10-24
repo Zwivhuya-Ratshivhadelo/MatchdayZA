@@ -3,21 +3,21 @@
   "comp": "national-first-division",
   "home": "Magesi FC",
   "away": "Gomora United",
-  "updated": "2026-10-24T16:08:16+02:00",
-  "home_score": 0,
+  "updated": "2026-10-24T16:10:44+02:00",
+  "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "38'",
+  "minute": "40'",
   "stats": [
     {
       "label": "Possession",
-      "home": "51%",
-      "away": "49%"
+      "home": "52%",
+      "away": "48%"
     },
     {
       "label": "Attacks",
-      "home": "36",
-      "away": "40"
+      "home": "37",
+      "away": "43"
     },
     {
       "label": "Corners",
@@ -26,5 +26,16 @@
     }
   ],
   "lineups": [],
-  "events": []
+  "events": [
+    {
+      "minute": "39'",
+      "type": "goal",
+      "team": "Magesi FC",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ]
 }
