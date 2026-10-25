@@ -1,10 +1,11 @@
 {
-  "time": "2026-10-25T14:50:11+02:00",
+  "time": "2026-10-25T15:00:13+02:00",
   "links_found": 0,
   "games": [
     {
       "game": "AS Port-Louis 2000 v Durban City",
-      "kickoff": "2026-10-25T15:00:00+02:00"
+      "kickoff": "2026-10-25T15:00:00+02:00",
+      "365scores": "NS None-None "
     }
   ]
 }
