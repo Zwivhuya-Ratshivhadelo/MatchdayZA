@@ -5,7 +5,7 @@
   "name": "EC Coastal Stream",
   "slug": "ec-coastal-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28223",
-  "updated": "2026-10-25T06:00:36+02:00",
+  "updated": "2026-10-25T12:00:42+02:00",
   "log": [
     {
       "pos": 1,
@@ -21,6 +21,18 @@
     },
     {
       "pos": 2,
+      "team": "Gq Cavaliers FC",
+      "p": 3,
+      "w": 2,
+      "d": 0,
+      "l": 1,
+      "gf": 11,
+      "ga": 6,
+      "gd": 5,
+      "pts": 6
+    },
+    {
+      "pos": 3,
       "team": "Old Grey",
       "p": 3,
       "w": 2,
@@ -32,7 +44,7 @@
       "pts": 6
     },
     {
-      "pos": 3,
+      "pos": 4,
       "team": "FC Buffalo City Relatives",
       "p": 3,
       "w": 2,
@@ -42,18 +54,6 @@
       "ga": 7,
       "gd": -3,
       "pts": 6
-    },
-    {
-      "pos": 4,
-      "team": "Gq Cavaliers FC",
-      "p": 2,
-      "w": 1,
-      "d": 0,
-      "l": 1,
-      "gf": 9,
-      "ga": 5,
-      "gd": 4,
-      "pts": 3
     },
     {
       "pos": 5,
@@ -69,7 +69,7 @@
     },
     {
       "pos": 6,
-      "team": "Prides AFC",
+      "team": "Sundays River Valley Academy",
       "p": 1,
       "w": 1,
       "d": 0,
@@ -81,14 +81,14 @@
     },
     {
       "pos": 7,
-      "team": "Sundays River Valley Academy",
-      "p": 1,
+      "team": "Prides AFC",
+      "p": 2,
       "w": 1,
       "d": 0,
-      "l": 0,
-      "gf": 2,
-      "ga": 0,
-      "gd": 2,
+      "l": 1,
+      "gf": 3,
+      "ga": 2,
+      "gd": 1,
       "pts": 3
     },
     {
@@ -244,6 +244,16 @@
       "away": "FC Buffalo City Relatives",
       "match_no": 13,
       "url": "https://inqaku.com/match/view?stream_id=28223&match_no=13&s=l",
+      "date": "2026-10-24",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Prides AFC",
+      "away": "Gq Cavaliers FC",
+      "match_no": 14,
+      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=14&s=l",
       "date": "2026-10-24",
       "home_score": 1,
       "away_score": 2,
