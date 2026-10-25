@@ -65,6 +65,7 @@ https://www.matchdayza.co.za/match/amazulu-fc-vs-milford-fc-2026-11-28/
 https://www.matchdayza.co.za/match/amazulu-fc-vs-orlando-pirates-2026-08-12/
 https://www.matchdayza.co.za/match/amazulu-fc-vs-polokwane-city-2027-03-12/
 https://www.matchdayza.co.za/match/amazulu-fc-vs-richards-bay-2027-04-17/
+https://www.matchdayza.co.za/match/amazulu-fc-vs-sekhukhune-united-2027-04-27/
 https://www.matchdayza.co.za/match/amazulu-fc-vs-siwelele-2026-08-15/
 https://www.matchdayza.co.za/match/amazulu-fc-vs-stellenbosch-fc-2027-01-23/
 https://www.matchdayza.co.za/match/amazulu-fc-vs-ts-galaxy-2027-01-10/
@@ -259,6 +260,7 @@ https://www.matchdayza.co.za/match/marumo-gallants-vs-durban-city-2027-02-14/
 https://www.matchdayza.co.za/match/marumo-gallants-vs-kaizer-chiefs-2026-12-19/
 https://www.matchdayza.co.za/match/marumo-gallants-vs-kruger-united-2026-08-11/
 https://www.matchdayza.co.za/match/marumo-gallants-vs-mamelodi-sundowns-2027-03-14/
+https://www.matchdayza.co.za/match/marumo-gallants-vs-milford-fc-2027-04-27/
 https://www.matchdayza.co.za/match/marumo-gallants-vs-richards-bay-2026-11-29/
 https://www.matchdayza.co.za/match/marumo-gallants-vs-sekhukhune-united-2027-01-22/
 https://www.matchdayza.co.za/match/marumo-gallants-vs-siwelele-2026-10-30/
@@ -409,6 +411,7 @@ https://www.matchdayza.co.za/match/stellenbosch-fc-vs-kruger-united-2027-02-06/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-mamelodi-sundowns-2026-12-18/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-marumo-gallants-2026-08-14/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-milford-fc-2026-12-15/
+https://www.matchdayza.co.za/match/stellenbosch-fc-vs-orlando-pirates-2027-04-27/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-polokwane-city-2027-01-16/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-richards-bay-2027-02-12/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-siwelele-2027-03-06/
