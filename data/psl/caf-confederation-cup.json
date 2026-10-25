@@ -644,12 +644,11 @@
       "away": "Durban City",
       "date": "2026-10-25T15:00:00+02:00",
       "match_id": "c4855276",
-      "status": "LIVE",
+      "status": "FT",
       "sa": true,
       "venue": "Complexe Sportif de Côte d'Or",
       "home_score": 0,
-      "away_score": 3,
-      "minute": "90'"
+      "away_score": 3
     }
   ],
   "fixtures": [
