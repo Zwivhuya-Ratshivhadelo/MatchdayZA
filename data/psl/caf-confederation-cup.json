@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-26T00:00:38+02:00",
+  "updated": "2026-10-26T01:00:37+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -637,7 +637,7 @@
       "status": "FT",
       "home_score": 2,
       "away_score": 2,
-      "venue": "Estádio do Costa do Sol"
+      "venue": "Lalgy Arena 1"
     },
     {
       "home": "AS Port-Louis 2000",
