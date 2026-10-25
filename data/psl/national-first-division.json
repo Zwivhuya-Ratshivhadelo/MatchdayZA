@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-25T13:00:18+02:00",
+  "updated": "2026-10-25T17:00:15+02:00",
   "log": [
     {
       "pos": 1,
@@ -786,6 +786,16 @@
       "home": "Hungry Lions FC",
       "away": "Upington City",
       "date": "2026-10-31T15:30:00+02:00"
+    },
+    {
+      "home": "Cape Town City FC",
+      "away": "Magesi FC",
+      "date": "2026-11-01T15:30:00+02:00"
+    },
+    {
+      "home": "Highbury",
+      "away": "Leicesterford City FC",
+      "date": "2026-11-01T15:30:00+02:00"
     }
   ],
   "extra": [],

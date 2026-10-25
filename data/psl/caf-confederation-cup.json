@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-25T13:00:33+02:00",
+  "updated": "2026-10-25T17:00:35+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -645,21 +645,24 @@
       "date": "2026-10-25T15:00:00+02:00",
       "match_id": "c4855276",
       "status": "FT",
-      "sa": true,
-      "venue": "Complexe Sportif de Côte d'Or",
       "home_score": 0,
-      "away_score": 3
-    }
-  ],
-  "fixtures": [
+      "away_score": 3,
+      "sa": true,
+      "venue": "Complexe Sportif de Côte d'Or"
+    },
     {
       "home": "AS Maniema Union",
       "away": "Kabuscorp SC",
       "date": "2026-10-25T15:00:00+02:00",
       "match_id": "c4855328",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 4,
+      "away_score": 1,
+      "minute": "90'",
       "venue": "Stade des Martyrs de la Pentecôte"
-    },
+    }
+  ],
+  "fixtures": [
     {
       "home": "ASKO Kara",
       "away": "Diarra",

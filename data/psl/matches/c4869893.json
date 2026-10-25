@@ -1,0 +1,43 @@
+{
+  "home": "Simba SC",
+  "away": "15 de Agosto",
+  "status": "FT",
+  "minute": null,
+  "home_score": 3,
+  "away_score": 0,
+  "events": [
+    {
+      "minute": "78'",
+      "type": "goal",
+      "team": "Simba SC",
+      "player": "Keletso Makgalwa",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "minute": "69'",
+      "type": "goal",
+      "team": "Simba SC",
+      "player": "Elie Mpanzu",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "57'",
+      "type": "goal",
+      "team": "Simba SC",
+      "player": "Anicet Oura",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [],
+  "lineups": [],
+  "venue": "Uhuru Stadium"
+}
