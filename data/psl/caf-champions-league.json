@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-25T19:00:41+02:00",
+  "updated": "2026-10-25T20:00:50+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -800,10 +800,9 @@
       "away": "Maghreb Fès",
       "date": "2026-10-25T18:00:00+02:00",
       "match_id": "c4855319",
-      "status": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "minute": "HT",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 2,
       "venue": "Stade Félix Houphouët-Boigny"
     },
     {
@@ -811,11 +810,21 @@
       "away": "Sidama Bunna",
       "date": "2026-10-25T18:00:00+02:00",
       "match_id": "c4855320",
-      "status": "LIVE",
+      "status": "FT",
       "home_score": 2,
       "away_score": 0,
-      "minute": "HT",
       "venue": "Stade Amahoro"
+    },
+    {
+      "home": "Club Africain Tunis",
+      "away": "TP Mazembe",
+      "date": "2026-10-25T19:00:00+02:00",
+      "match_id": "c4854350",
+      "status": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "minute": "HT",
+      "venue": "Stade Olympique Hammadi Agrebi"
     },
     {
       "home": "FC Nouadhibou",
@@ -823,20 +832,11 @@
       "date": "2026-10-25T19:00:00+02:00",
       "match_id": "c4855318",
       "status": "LIVE",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "minute": "1'",
+      "minute": "HT",
       "venue": "Stade Cheikha Ould Boïdiya"
     }
   ],
-  "fixtures": [
-    {
-      "home": "Club Africain Tunis",
-      "away": "TP Mazembe",
-      "date": "2026-10-25T19:00:00+02:00",
-      "match_id": "c4854350",
-      "status": "NS",
-      "venue": "Stade Olympique Hammadi Agrebi"
-    }
-  ]
+  "fixtures": []
 }

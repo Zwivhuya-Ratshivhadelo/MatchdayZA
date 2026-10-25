@@ -2,8 +2,8 @@
   "home": "FC Nouadhibou",
   "away": "San Pédro",
   "status": "LIVE",
-  "minute": "1'",
-  "home_score": 0,
+  "minute": "HT",
+  "home_score": 1,
   "away_score": 0,
   "events": [],
   "stats": [
@@ -14,8 +14,43 @@
     },
     {
       "label": "Attacks",
+      "home": "34",
+      "away": "37"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "7",
+      "away": "7"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "10",
+      "away": "17"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "8",
+      "away": "2"
+    },
+    {
+      "label": "Yellow Cards",
       "home": "0",
       "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
     }
   ],
   "lineups": [],
