@@ -1,30 +1,10 @@
 {
-  "time": "2026-10-24T17:55:51+02:00",
-  "links_found": 6,
+  "time": "2026-10-25T13:50:00+02:00",
+  "links_found": 0,
   "games": [
     {
-      "game": "North West University v Pretoria University FC",
-      "kickoff": "2026-10-24T15:30:00+02:00",
-      "match_page": null
-    },
-    {
-      "game": "Hope v The Bees",
-      "kickoff": "2026-10-24T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019634",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "not found"
-    },
-    {
-      "game": "Hungry Lions FC v Venda FC",
-      "kickoff": "2026-10-24T15:30:00+02:00"
-    },
-    {
-      "game": "Magesi FC v Gomora United",
-      "kickoff": "2026-10-24T15:30:00+02:00"
-    },
-    {
-      "game": "Leicesterford City FC v Lerumo Lions",
-      "kickoff": "2026-10-24T15:30:00+02:00"
+      "game": "AS Port-Louis 2000 v Durban City",
+      "kickoff": "2026-10-25T15:00:00+02:00"
     }
   ]
 }
