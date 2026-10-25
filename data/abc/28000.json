@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-10-24T12:31:02+02:00",
+  "updated": "2026-10-25T06:00:58+02:00",
   "log": [
     {
       "pos": 1,
@@ -315,30 +315,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Mabopane Jm",
-      "away": "Dube Continental FC",
-      "match_no": 23,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=23&s=l",
-      "date": "2026-10-24T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Leruma United",
-      "away": "Jomo Cosmos FC",
-      "match_no": 24,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=24&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Mike-1-Stars FC",
-      "away": "Tembisa Destroyers FC",
-      "match_no": 22,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=22&s=l",
-      "date": "2026-10-24T15:30:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Dube Continental FC",
       "away": "Jomo Cosmos FC",

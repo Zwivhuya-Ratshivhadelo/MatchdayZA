@@ -5,7 +5,7 @@
   "name": "KZN Stream B",
   "slug": "kzn-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17736&stream_id=28490",
-  "updated": "2026-10-24T12:31:12+02:00",
+  "updated": "2026-10-25T06:01:07+02:00",
   "log": [
     {
       "pos": 1,
@@ -385,54 +385,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Durban Knights FC",
-      "away": "Mkhambathi FC",
-      "match_no": 25,
-      "url": "https://inqaku.com/match/view?stream_id=28490&match_no=25&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Umshwathi United FC",
-      "away": "Riverside FC",
-      "match_no": 26,
-      "url": "https://inqaku.com/match/view?stream_id=28490&match_no=26&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ditlou FC",
-      "away": "Chess FC",
-      "match_no": 27,
-      "url": "https://inqaku.com/match/view?stream_id=28490&match_no=27&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "MP Thwala FC",
-      "away": "Newcastle All Stars FC",
-      "match_no": 28,
-      "url": "https://inqaku.com/match/view?stream_id=28490&match_no=28&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Umgungundlovu United FC",
-      "away": "Newcastle Warriors FC",
-      "match_no": 29,
-      "url": "https://inqaku.com/match/view?stream_id=28490&match_no=29&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Msinga United FC",
-      "away": "Ethekwini Coastal FC",
-      "match_no": 30,
-      "url": "https://inqaku.com/match/view?stream_id=28490&match_no=30&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Riverside FC",
       "away": "Durban Knights FC",

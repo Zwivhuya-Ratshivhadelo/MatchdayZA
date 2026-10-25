@@ -5,7 +5,7 @@
   "name": "FS Group 1A",
   "slug": "fs-group-1a",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28594",
-  "updated": "2026-10-24T12:30:47+02:00",
+  "updated": "2026-10-25T06:00:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -159,22 +159,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "African Warriors FC",
-      "away": "Tower United",
-      "match_no": 9,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=9&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Remember Elite Soccer Academy",
-      "away": "Elite Athletics FC",
-      "match_no": 10,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=10&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Motsomotle FC",
       "away": "Young Boys FC",

@@ -5,7 +5,7 @@
   "name": "WC Stream A",
   "slug": "wc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28002",
-  "updated": "2026-10-24T12:31:58+02:00",
+  "updated": "2026-10-25T06:01:38+02:00",
   "log": [
     {
       "pos": 1,
@@ -515,38 +515,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Cape Town Spurs",
-      "away": "Santos FC",
-      "match_no": 45,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=45&s=l",
-      "date": "2026-10-24T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "FN Rangers",
-      "away": "Harambee FC",
-      "match_no": 43,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=43&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "HBU FC",
-      "away": "Saxon Rovers FC",
-      "match_no": 44,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=44&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ubuntu Football Club",
-      "away": "Young Bafana",
-      "match_no": 48,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=48&s=l",
-      "date": "2026-10-24T16:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Santos FC",
       "away": "Inter City FFC",

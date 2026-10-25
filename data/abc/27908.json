@@ -5,7 +5,7 @@
   "name": "MP Stream A",
   "slug": "mp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27908",
-  "updated": "2026-10-24T12:31:29+02:00",
+  "updated": "2026-10-25T06:01:21+02:00",
   "log": [
     {
       "pos": 1,
@@ -517,54 +517,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Amsterdam United FC",
-      "away": "Phaphama Football Club",
-      "match_no": 37,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=37&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Phezulu FC",
-      "away": "Middelburg United",
-      "match_no": 38,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=38&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Secunda M Stars FC",
-      "away": "Armory Football Club",
-      "match_no": 39,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=39&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Shimadel Football Club",
-      "away": "Kwandebele United FC",
-      "match_no": 40,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=40&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Mjali All Stars",
-      "away": "Home Defenders",
-      "match_no": 41,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=41&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Witbank City Lads FC",
-      "away": "Home Culture Express FC",
-      "match_no": 42,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=42&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Witbank City Lads FC",
       "away": "Middelburg United",

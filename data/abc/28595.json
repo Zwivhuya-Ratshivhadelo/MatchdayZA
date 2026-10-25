@@ -5,7 +5,7 @@
   "name": "FS Group 1B",
   "slug": "fs-group-1b",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28595",
-  "updated": "2026-10-24T12:30:52+02:00",
+  "updated": "2026-10-25T06:00:49+02:00",
   "log": [
     {
       "pos": 1,
@@ -149,30 +149,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Mangaung City FC",
-      "away": "FC Spartans Cfx pty Ltd",
-      "match_no": 12,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=12&s=l",
-      "date": "2026-10-24T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Sasolburg United FC",
-      "away": "Super Eagles",
-      "match_no": 10,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=10&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Welkom Real Stars FC",
-      "away": "Mangaung Unite",
-      "match_no": 11,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=11&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Mangaung Unite",
       "away": "Sasolburg United FC",

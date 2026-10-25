@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-10-24T12:30:57+02:00",
+  "updated": "2026-10-25T06:00:54+02:00",
   "log": [
     {
       "pos": 1,
@@ -335,38 +335,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "University of Johannesburg FC",
-      "away": "Ssu M-17 FC",
-      "match_no": 23,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=23&s=l",
-      "date": "2026-10-24T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Tembisa Hollywood Thunder",
-      "away": "JBM FC",
-      "match_no": 19,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=19&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Tshwane South College FC",
-      "away": "Dinoko City FC",
-      "match_no": 20,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=20&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Rrr Rams Football Club",
-      "away": "Ben 10 FC",
-      "match_no": 21,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=21&s=l",
-      "date": "2026-10-24T15:30:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Dinoko City FC",
       "away": "Free Agents Football Club",

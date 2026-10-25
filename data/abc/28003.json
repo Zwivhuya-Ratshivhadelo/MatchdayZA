@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-10-24T12:32:04+02:00",
+  "updated": "2026-10-25T06:01:43+02:00",
   "log": [
     {
       "pos": 1,
@@ -435,38 +435,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Royal Blues FC",
-      "away": "Diadora FC",
-      "match_no": 43,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=43&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "FC Kayamandi",
-      "away": "One Football Club",
-      "match_no": 47,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=47&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Relentless Football",
-      "away": "Mbekweni Cosmos FC",
-      "match_no": 48,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=48&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ammar Soccer Academy",
-      "away": "Batalions FC",
-      "match_no": 46,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=46&s=l",
-      "date": "2026-10-24T17:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "One Football Club",
       "away": "Mbekweni Cosmos FC",

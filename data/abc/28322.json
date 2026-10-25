@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream A",
   "slug": "lp-limpopo-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28322",
-  "updated": "2026-10-24T12:31:17+02:00",
+  "updated": "2026-10-25T06:01:12+02:00",
   "log": [
     {
       "pos": 1,
@@ -305,46 +305,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Ramahantsha Blackpool FC",
-      "away": "Abc FC",
-      "match_no": 19,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=19&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Nkowankowa Continental",
-      "away": "Tzaneen United FC",
-      "match_no": 20,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=20&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Musina United",
-      "away": "Selwana White Vultures",
-      "match_no": 22,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=22&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Mukondeni Young Chiefs FC",
-      "away": "Baduzah Celtics FC",
-      "match_no": 23,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=23&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Mpheni Defenders",
-      "away": "Goue Seuns Cf",
-      "match_no": 24,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=24&s=l",
-      "date": "2026-10-24T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Abc FC",
       "away": "Nkowankowa Continental",
