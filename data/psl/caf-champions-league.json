@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-25T01:00:33+02:00",
+  "updated": "2026-10-25T02:01:13+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -675,8 +675,7 @@
       "match_id": "c4869894",
       "status": "FT",
       "home_score": 1,
-      "away_score": 6,
-      "venue": "Uhuru Stadium"
+      "away_score": 6
     },
     {
       "home": "Young Africans",
@@ -685,8 +684,7 @@
       "match_id": "c4854346",
       "status": "FT",
       "home_score": 4,
-      "away_score": 1,
-      "venue": "Azam Complex Stadium"
+      "away_score": 1
     },
     {
       "home": "Petro Luanda",
@@ -695,19 +693,7 @@
       "match_id": "c4854345",
       "status": "FT",
       "home_score": 3,
-      "away_score": 0,
-      "venue": "Estádio 11 de Novembro"
-    },
-    {
-      "home": "Orlando Pirates",
-      "away": "African Stars",
-      "date": "2026-10-23T20:00:00+02:00",
-      "match_id": "c4854068",
-      "status": "FT",
-      "home_score": 4,
-      "away_score": 0,
-      "sa": true,
-      "venue": "Orlando Stadium"
+      "away_score": 0
     },
     {
       "home": "Mamelodi Sundowns",
@@ -717,8 +703,17 @@
       "status": "FT",
       "home_score": 1,
       "away_score": 1,
-      "sa": true,
-      "venue": "Loftus Versfeld Stadium"
+      "sa": true
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "African Stars",
+      "date": "2026-10-23T20:00:00+02:00",
+      "match_id": "c4854068",
+      "status": "FT",
+      "home_score": 4,
+      "away_score": 0,
+      "sa": true
     },
     {
       "home": "MC Alger",
@@ -741,14 +736,14 @@
       "venue": "Stade Olympique Hammadi Agrebi"
     },
     {
-      "home": "Zamalek SC",
-      "away": "Armée Patriotique Rwandaise FC",
+      "home": "Pyramids",
+      "away": "Merriekh Bentiu",
       "date": "2026-10-24T19:00:00+02:00",
-      "match_id": "c4854766",
+      "match_id": "c4855321",
       "status": "FT",
-      "home_score": 1,
+      "home_score": 4,
       "away_score": 0,
-      "venue": "Cairo International Stadium"
+      "venue": "30 June Air Defence Stadium"
     },
     {
       "home": "Merreikh Al Sudan",
@@ -761,14 +756,14 @@
       "venue": "Stade Amahoro"
     },
     {
-      "home": "Pyramids",
-      "away": "Merriekh Bentiu",
+      "home": "Zamalek SC",
+      "away": "Armée Patriotique Rwandaise FC",
       "date": "2026-10-24T19:00:00+02:00",
-      "match_id": "c4855321",
+      "match_id": "c4854766",
       "status": "FT",
-      "home_score": 4,
+      "home_score": 1,
       "away_score": 0,
-      "venue": "30 June Air Defence Stadium"
+      "venue": "Cairo International Stadium"
     },
     {
       "home": "RSB Berkane",

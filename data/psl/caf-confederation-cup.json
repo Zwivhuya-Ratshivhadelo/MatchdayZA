@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-25T01:00:34+02:00",
+  "updated": "2026-10-25T02:01:14+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -534,16 +534,6 @@
       "away_score": 2
     },
     {
-      "home": "El Kanemi Warriors",
-      "away": "Raja Casablanca",
-      "date": "2026-10-18T17:00:00+02:00",
-      "match_id": "c4855333",
-      "status": "FT",
-      "home_score": 2,
-      "away_score": 2,
-      "venue": "Remo Stars Stadium"
-    },
-    {
       "home": "Kabuscorp SC",
       "away": "AS Maniema Union",
       "date": "2026-10-18T17:00:00+02:00",
@@ -553,14 +543,22 @@
       "away_score": 4
     },
     {
+      "home": "El Kanemi Warriors",
+      "away": "Raja Casablanca",
+      "date": "2026-10-18T17:00:00+02:00",
+      "match_id": "c4855333",
+      "status": "FT",
+      "home_score": 2,
+      "away_score": 2
+    },
+    {
       "home": "Diarra",
       "away": "ASKO Kara",
       "date": "2026-10-18T18:30:00+02:00",
       "match_id": "c4855334",
       "status": "FT",
       "home_score": 3,
-      "away_score": 2,
-      "venue": "Stade Mamadou Konaté"
+      "away_score": 2
     },
     {
       "home": "Kaizer Chiefs",
@@ -570,8 +568,7 @@
       "status": "FT",
       "home_score": 1,
       "away_score": 0,
-      "sa": true,
-      "venue": "Moses Mabhida Stadium (Durban)"
+      "sa": true
     },
     {
       "home": "Primeiro de Agosto",
@@ -580,8 +577,7 @@
       "match_id": "c4853671",
       "status": "FT",
       "home_score": 1,
-      "away_score": 0,
-      "venue": "Estádio 11 de Novembro"
+      "away_score": 0
     },
     {
       "home": "Raja Casablanca",
@@ -614,14 +610,14 @@
       "venue": "Stade Mamadou Konaté"
     },
     {
-      "home": "Black Bulls Maputo",
-      "away": "Rayon Sports",
+      "home": "Al Ahli Tripoli",
+      "away": "Welwalo Adigrat Uni",
       "date": "2026-10-24T19:00:00+02:00",
-      "match_id": "c4854839",
+      "match_id": "c4856488",
       "status": "FT",
-      "home_score": 2,
-      "away_score": 2,
-      "venue": "Estádio do Costa do Sol"
+      "home_score": 4,
+      "away_score": 1,
+      "venue": "11 June Stadium"
     },
     {
       "home": "CS Sfaxien",
@@ -634,14 +630,14 @@
       "venue": "Stade Taïeb Mhiri (Sfax)"
     },
     {
-      "home": "Al Ahli Tripoli",
-      "away": "Welwalo Adigrat Uni",
+      "home": "Black Bulls Maputo",
+      "away": "Rayon Sports",
       "date": "2026-10-24T19:00:00+02:00",
-      "match_id": "c4856488",
+      "match_id": "c4854839",
       "status": "FT",
-      "home_score": 4,
-      "away_score": 1,
-      "venue": "11 June Stadium"
+      "home_score": 2,
+      "away_score": 2,
+      "venue": "Estádio do Costa do Sol"
     }
   ],
   "fixtures": [
