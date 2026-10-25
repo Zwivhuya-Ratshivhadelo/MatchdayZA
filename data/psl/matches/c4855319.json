@@ -2,20 +2,20 @@
   "home": "ASEC Mimosas",
   "away": "Maghreb Fès",
   "status": "LIVE",
-  "minute": "2'",
+  "minute": "HT",
   "home_score": 0,
   "away_score": 0,
   "events": [],
   "stats": [
     {
       "label": "Attacks",
-      "home": "0",
-      "away": "1"
+      "home": "30",
+      "away": "35"
     },
     {
       "label": "Corners",
       "home": "0",
-      "away": "0"
+      "away": "3"
     },
     {
       "label": "Free Kicks",
@@ -40,7 +40,7 @@
     {
       "label": "Yellow Cards",
       "home": "0",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",

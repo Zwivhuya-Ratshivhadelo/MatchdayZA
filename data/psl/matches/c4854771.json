@@ -2,19 +2,95 @@
   "home": "Al Ahly SC",
   "away": "Kitara FC",
   "status": "LIVE",
-  "minute": "1'",
-  "home_score": 0,
+  "minute": "HT",
+  "home_score": 2,
   "away_score": 0,
-  "events": [],
+  "events": [
+    {
+      "minute": "44'",
+      "type": "goal",
+      "team": "Al Ahly SC",
+      "player": "Mohamed Magdy Afsha",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "37'",
+      "type": "goal",
+      "team": "Al Ahly SC",
+      "player": "Hussein El Shahat",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
   "stats": [
     {
       "label": "Possession",
-      "home": "100%",
-      "away": "0%"
+      "home": "0",
+      "away": "0"
     },
     {
       "label": "Attacks",
-      "home": "3",
+      "home": "58",
+      "away": "39"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
       "away": "0"
     }
   ],
