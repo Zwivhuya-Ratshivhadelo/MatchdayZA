@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-25T21:00:38+02:00",
+  "updated": "2026-10-25T22:00:52+02:00",
   "log": [],
   "groups": [],
   "results": [
@@ -689,16 +689,18 @@
       "home_score": 1,
       "away_score": 1,
       "venue": "Azam Complex Stadium"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "AS FAR Rabat",
       "away": "CO Korhogo",
       "date": "2026-10-25T21:00:00+02:00",
       "match_id": "c4855330",
-      "status": "NS",
+      "status": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "minute": "HT",
       "venue": "Stade Prince Moulay Abdallah"
     }
-  ]
+  ],
+  "fixtures": []
 }
