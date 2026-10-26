@@ -5,10 +5,22 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-10-26T12:03:39+02:00",
+  "updated": "2026-10-26T18:12:10+02:00",
   "log": [
     {
       "pos": 1,
+      "team": "Grassy Park United",
+      "p": 7,
+      "w": 5,
+      "d": 2,
+      "l": 0,
+      "gf": 22,
+      "ga": 6,
+      "gd": 16,
+      "pts": 17
+    },
+    {
+      "pos": 2,
       "team": "Batalions FC",
       "p": 6,
       "w": 5,
@@ -18,18 +30,6 @@
       "ga": 5,
       "gd": 6,
       "pts": 15
-    },
-    {
-      "pos": 2,
-      "team": "Grassy Park United",
-      "p": 6,
-      "w": 4,
-      "d": 2,
-      "l": 0,
-      "gf": 17,
-      "ga": 6,
-      "gd": 11,
-      "pts": 14
     },
     {
       "pos": 3,
@@ -70,86 +70,86 @@
     {
       "pos": 6,
       "team": "Diadora FC",
-      "p": 4,
+      "p": 5,
       "w": 2,
-      "d": 0,
+      "d": 1,
       "l": 2,
       "gf": 7,
       "ga": 4,
       "gd": 3,
-      "pts": 6
+      "pts": 7
     },
     {
       "pos": 7,
-      "team": "Ubuntu Spartans FC",
-      "p": 3,
+      "team": "Maties FC",
+      "p": 5,
       "w": 2,
-      "d": 0,
-      "l": 1,
-      "gf": 8,
-      "ga": 8,
-      "gd": 0,
-      "pts": 6
+      "d": 1,
+      "l": 2,
+      "gf": 6,
+      "ga": 7,
+      "gd": -1,
+      "pts": 7
     },
     {
       "pos": 8,
-      "team": "Maties FC",
+      "team": "Ubuntu Spartans FC",
       "p": 4,
-      "w": 1,
-      "d": 1,
+      "w": 2,
+      "d": 0,
       "l": 2,
-      "gf": 5,
-      "ga": 7,
-      "gd": -2,
-      "pts": 4
+      "gf": 8,
+      "ga": 13,
+      "gd": -5,
+      "pts": 6
     },
     {
       "pos": 9,
       "team": "Barcelona FC",
-      "p": 5,
+      "p": 6,
       "w": 1,
       "d": 1,
-      "l": 3,
+      "l": 4,
       "gf": 5,
-      "ga": 12,
-      "gd": -7,
+      "ga": 13,
+      "gd": -8,
       "pts": 4
     },
     {
       "pos": 10,
       "team": "Relentless Football",
-      "p": 5,
+      "p": 6,
       "w": 1,
-      "d": 0,
+      "d": 1,
       "l": 4,
       "gf": 8,
       "ga": 20,
       "gd": -12,
-      "pts": 3
+      "pts": 4
     },
     {
       "pos": 11,
       "team": "Royal Blues FC",
-      "p": 3,
+      "p": 4,
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 2,
       "gf": 5,
       "ga": 7,
       "gd": -2,
-      "pts": 1
+      "pts": 2
     },
     {
       "pos": 12,
       "team": "Mbekweni Cosmos FC",
-      "p": 5,
+      "p": 6,
       "w": 0,
-      "d": 0,
+      "d": 1,
       "l": 5,
       "gf": 3,
       "ga": 14,
       "gd": -11,
-      "pts": 0
+      "pts": 1
     }
   ],
   "results": [
@@ -431,6 +431,46 @@
       "date": "2026-10-17",
       "home_score": 0,
       "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Grassy Park United",
+      "away": "Ubuntu Spartans FC",
+      "match_no": 45,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=45&s=l",
+      "date": "2026-10-23",
+      "home_score": 5,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Maties FC",
+      "away": "Barcelona FC",
+      "match_no": 44,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=44&s=l",
+      "date": "2026-10-23",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Relentless Football",
+      "away": "Mbekweni Cosmos FC",
+      "match_no": 48,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=48&s=l",
+      "date": "2026-10-24",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Royal Blues FC",
+      "away": "Diadora FC",
+      "match_no": 43,
+      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=43&s=l",
+      "date": "2026-10-24",
+      "home_score": 0,
+      "away_score": 0,
       "status": "FT"
     }
   ],

@@ -5,34 +5,46 @@
   "name": "FS Group 1B",
   "slug": "fs-group-1b",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28595",
-  "updated": "2026-10-26T12:01:26+02:00",
+  "updated": "2026-10-26T18:11:13+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Sasolburg United FC",
-      "p": 1,
-      "w": 1,
+      "p": 2,
+      "w": 2,
       "d": 0,
       "l": 0,
-      "gf": 2,
+      "gf": 3,
       "ga": 1,
-      "gd": 1,
-      "pts": 3
+      "gd": 2,
+      "pts": 6
     },
     {
       "pos": 2,
       "team": "Welkom Real Stars FC",
-      "p": 1,
+      "p": 2,
       "w": 1,
-      "d": 0,
+      "d": 1,
       "l": 0,
       "gf": 1,
       "ga": 0,
       "gd": 1,
-      "pts": 3
+      "pts": 4
     },
     {
       "pos": 3,
+      "team": "Free State United FC",
+      "p": 1,
+      "w": 1,
+      "d": 0,
+      "l": 0,
+      "gf": 3,
+      "ga": 1,
+      "gd": 2,
+      "pts": 3
+    },
+    {
+      "pos": 4,
       "team": "Kovsies FC",
       "p": 1,
       "w": 1,
@@ -44,75 +56,63 @@
       "pts": 3
     },
     {
-      "pos": 4,
-      "team": "FC Spartans Cfx pty Ltd",
-      "p": 0,
-      "w": 0,
-      "d": 0,
-      "l": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "pts": 0
-    },
-    {
       "pos": 5,
-      "team": "Mangaung Unite",
-      "p": 0,
+      "team": "FC Spartans Cfx pty Ltd",
+      "p": 1,
       "w": 0,
-      "d": 0,
+      "d": 1,
       "l": 0,
-      "gf": 0,
-      "ga": 0,
+      "gf": 1,
+      "ga": 1,
       "gd": 0,
-      "pts": 0
+      "pts": 1
     },
     {
       "pos": 6,
-      "team": "Free State United FC",
-      "p": 0,
+      "team": "Mangaung Unite",
+      "p": 1,
       "w": 0,
-      "d": 0,
+      "d": 1,
       "l": 0,
       "gf": 0,
       "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 1
     },
     {
       "pos": 7,
-      "team": "Sibanye Stillwater FC",
-      "p": 1,
+      "team": "Mangaung City FC",
+      "p": 2,
       "w": 0,
-      "d": 0,
+      "d": 1,
       "l": 1,
       "gf": 1,
       "ga": 2,
       "gd": -1,
-      "pts": 0
+      "pts": 1
     },
     {
       "pos": 8,
-      "team": "Mangaung City FC",
-      "p": 1,
+      "team": "Super Eagles",
+      "p": 2,
       "w": 0,
       "d": 0,
-      "l": 1,
+      "l": 2,
       "gf": 0,
-      "ga": 1,
-      "gd": -1,
+      "ga": 2,
+      "gd": -2,
       "pts": 0
     },
     {
       "pos": 9,
-      "team": "Super Eagles",
-      "p": 1,
+      "team": "Sibanye Stillwater FC",
+      "p": 2,
       "w": 0,
       "d": 0,
-      "l": 1,
-      "gf": 0,
-      "ga": 1,
-      "gd": -1,
+      "l": 2,
+      "gf": 2,
+      "ga": 5,
+      "gd": -3,
       "pts": 0
     }
   ],
@@ -146,6 +146,46 @@
       "home_score": 2,
       "away_score": 1,
       "status": "FT"
+    },
+    {
+      "home": "Sibanye Stillwater FC",
+      "away": "Free State United FC",
+      "match_no": 9,
+      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=9&s=l",
+      "date": "2026-10-23",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Welkom Real Stars FC",
+      "away": "Mangaung Unite",
+      "match_no": 11,
+      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=11&s=l",
+      "date": "2026-10-24",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Sasolburg United FC",
+      "away": "Super Eagles",
+      "match_no": 10,
+      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=10&s=l",
+      "date": "2026-10-24",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Mangaung City FC",
+      "away": "FC Spartans Cfx pty Ltd",
+      "match_no": 12,
+      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=12&s=l",
+      "date": "2026-10-24",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
     }
   ],
   "fixtures": [
@@ -162,7 +202,7 @@
       "away": "Welkom Real Stars FC",
       "match_no": 16,
       "url": "https://inqaku.com/match/view?stream_id=28595&match_no=16&s=l",
-      "date": "2026-10-31T12:00:00+02:00",
+      "date": "2026-10-31T13:00:00+02:00",
       "status": "NS"
     },
     {

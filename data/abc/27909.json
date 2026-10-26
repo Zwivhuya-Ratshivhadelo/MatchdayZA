@@ -5,7 +5,7 @@
   "name": "MP Stream B",
   "slug": "mp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27909",
-  "updated": "2026-10-26T12:03:07+02:00",
+  "updated": "2026-10-26T18:11:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -770,6 +770,30 @@
       "status": "NS"
     },
     {
+      "home": "Liver Brothers FC",
+      "away": "Luthuli Brigades FC",
+      "match_no": 5,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=5&s=l",
+      "date": "2026-12-12T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "KaMhlushwa Real Madrid",
+      "away": "Dankie Son FC",
+      "match_no": 19,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=19&s=l",
+      "date": "2026-12-12T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Dankie Son FC",
+      "away": "Matsulu Chelsea FC",
+      "match_no": 39,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=39&s=l",
+      "date": "2027-01-16T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Acornhoek United FC",
       "away": "Oriental Spurs FC",
       "match_no": 71,
@@ -810,6 +834,14 @@
       "status": "NS"
     },
     {
+      "home": "Junior Callies FC",
+      "away": "Liver Brothers FC",
+      "match_no": 37,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=37&s=l",
+      "date": "2027-01-16T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Luthuli Brigades FC",
       "away": "Oriental Spurs FC",
       "match_no": 77,
@@ -838,6 +870,46 @@
       "away": "Dankie Son FC",
       "match_no": 80,
       "url": "https://inqaku.com/match/view?stream_id=27909&match_no=80&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Sibange Young Bucks FC",
+      "away": "Acornhoek United FC",
+      "match_no": 66,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=66&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Oriental Spurs FC",
+      "away": "Zebras FC",
+      "match_no": 67,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=67&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Luthuli Brigades FC",
+      "away": "Dankie Son FC",
+      "match_no": 68,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=68&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Liver Brothers FC",
+      "away": "Fernie Battalion FC",
+      "match_no": 69,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=69&s=l",
+      "date": "2027-01-23T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "KaMhlushwa Real Madrid",
+      "away": "Junior Callies FC",
+      "match_no": 70,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=70&s=l",
       "date": "2027-01-23T15:00:00+02:00",
       "status": "NS"
     },
@@ -890,6 +962,46 @@
       "status": "NS"
     },
     {
+      "home": "Acornhoek United FC",
+      "away": "Oriental Spurs FC",
+      "match_no": 71,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=71&s=l",
+      "date": "2027-01-30T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Sibange Young Bucks FC",
+      "away": "Matsulu Chelsea FC",
+      "match_no": 72,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=72&s=l",
+      "date": "2027-01-30T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Zebras FC",
+      "away": "Luthuli Brigades FC",
+      "match_no": 73,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=73&s=l",
+      "date": "2027-01-30T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Dankie Son FC",
+      "away": "KaMhlushwa Real Madrid",
+      "match_no": 74,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=74&s=l",
+      "date": "2027-01-30T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Fernie Battalion FC",
+      "away": "Junior Callies FC",
+      "match_no": 75,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=75&s=l",
+      "date": "2027-01-30T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Junior Callies FC",
       "away": "Matsulu Chelsea FC",
       "match_no": 88,
@@ -926,6 +1038,46 @@
       "away": "Sibange Young Bucks FC",
       "match_no": 90,
       "url": "https://inqaku.com/match/view?stream_id=27909&match_no=90&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Matsulu Chelsea FC",
+      "away": "Acornhoek United FC",
+      "match_no": 76,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=76&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Luthuli Brigades FC",
+      "away": "Oriental Spurs FC",
+      "match_no": 77,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=77&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Liver Brothers FC",
+      "away": "Sibange Young Bucks FC",
+      "match_no": 78,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=78&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "KaMhlushwa Real Madrid",
+      "away": "Zebras FC",
+      "match_no": 79,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=79&s=l",
+      "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Fernie Battalion FC",
+      "away": "Dankie Son FC",
+      "match_no": 80,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=80&s=l",
       "date": "2027-02-06T15:00:00+02:00",
       "status": "NS"
     },
@@ -970,10 +1122,58 @@
       "status": "NS"
     },
     {
+      "home": "Acornhoek United FC",
+      "away": "Luthuli Brigades FC",
+      "match_no": 81,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=81&s=l",
+      "date": "2027-02-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Matsulu Chelsea FC",
+      "away": "Liver Brothers FC",
+      "match_no": 82,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=82&s=l",
+      "date": "2027-02-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Oriental Spurs FC",
+      "away": "KaMhlushwa Real Madrid",
+      "match_no": 83,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=83&s=l",
+      "date": "2027-02-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Sibange Young Bucks FC",
+      "away": "Junior Callies FC",
+      "match_no": 84,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=84&s=l",
+      "date": "2027-02-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Zebras FC",
+      "away": "Fernie Battalion FC",
+      "match_no": 85,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=85&s=l",
+      "date": "2027-02-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Dankie Son FC",
       "away": "Liver Brothers FC",
       "match_no": 98,
       "url": "https://inqaku.com/match/view?stream_id=27909&match_no=98&s=l",
+      "date": "2027-02-20T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Junior Callies FC",
+      "away": "Matsulu Chelsea FC",
+      "match_no": 88,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=88&s=l",
       "date": "2027-02-20T13:00:00+02:00",
       "status": "NS"
     },
@@ -1010,6 +1210,38 @@
       "status": "NS"
     },
     {
+      "home": "Liver Brothers FC",
+      "away": "Acornhoek United FC",
+      "match_no": 86,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=86&s=l",
+      "date": "2027-02-20T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "KaMhlushwa Real Madrid",
+      "away": "Luthuli Brigades FC",
+      "match_no": 87,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=87&s=l",
+      "date": "2027-02-20T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Fernie Battalion FC",
+      "away": "Oriental Spurs FC",
+      "match_no": 89,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=89&s=l",
+      "date": "2027-02-20T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Dankie Son FC",
+      "away": "Sibange Young Bucks FC",
+      "match_no": 90,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=90&s=l",
+      "date": "2027-02-20T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Acornhoek United FC",
       "away": "Fernie Battalion FC",
       "match_no": 101,
@@ -1042,6 +1274,46 @@
       "status": "NS"
     },
     {
+      "home": "Acornhoek United FC",
+      "away": "KaMhlushwa Real Madrid",
+      "match_no": 91,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=91&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Liver Brothers FC",
+      "away": "Junior Callies FC",
+      "match_no": 92,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=92&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Luthuli Brigades FC",
+      "away": "Fernie Battalion FC",
+      "match_no": 93,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=93&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Matsulu Chelsea FC",
+      "away": "Dankie Son FC",
+      "match_no": 94,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=94&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Sibange Young Bucks FC",
+      "away": "Zebras FC",
+      "match_no": 95,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=95&s=l",
+      "date": "2027-02-27T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Matsulu Chelsea FC",
       "away": "Oriental Spurs FC",
       "match_no": 105,
@@ -1054,6 +1326,14 @@
       "away": "Acornhoek United FC",
       "match_no": 106,
       "url": "https://inqaku.com/match/view?stream_id=27909&match_no=106&s=l",
+      "date": "2027-03-06T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Dankie Son FC",
+      "away": "Liver Brothers FC",
+      "match_no": 98,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=98&s=l",
       "date": "2027-03-06T13:00:00+02:00",
       "status": "NS"
     },
@@ -1087,6 +1367,118 @@
       "match_no": 110,
       "url": "https://inqaku.com/match/view?stream_id=27909&match_no=110&s=l",
       "date": "2027-03-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Junior Callies FC",
+      "away": "Acornhoek United FC",
+      "match_no": 96,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=96&s=l",
+      "date": "2027-03-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Fernie Battalion FC",
+      "away": "KaMhlushwa Real Madrid",
+      "match_no": 97,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=97&s=l",
+      "date": "2027-03-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Zebras FC",
+      "away": "Matsulu Chelsea FC",
+      "match_no": 99,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=99&s=l",
+      "date": "2027-03-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Sibange Young Bucks FC",
+      "away": "Oriental Spurs FC",
+      "match_no": 100,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=100&s=l",
+      "date": "2027-03-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Acornhoek United FC",
+      "away": "Fernie Battalion FC",
+      "match_no": 101,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=101&s=l",
+      "date": "2027-03-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Junior Callies FC",
+      "away": "Dankie Son FC",
+      "match_no": 102,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=102&s=l",
+      "date": "2027-03-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Liver Brothers FC",
+      "away": "Zebras FC",
+      "match_no": 103,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=103&s=l",
+      "date": "2027-03-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Luthuli Brigades FC",
+      "away": "Sibange Young Bucks FC",
+      "match_no": 104,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=104&s=l",
+      "date": "2027-03-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Matsulu Chelsea FC",
+      "away": "Oriental Spurs FC",
+      "match_no": 105,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=105&s=l",
+      "date": "2027-03-13T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Dankie Son FC",
+      "away": "Acornhoek United FC",
+      "match_no": 106,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=106&s=l",
+      "date": "2027-03-20T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Zebras FC",
+      "away": "Junior Callies FC",
+      "match_no": 107,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=107&s=l",
+      "date": "2027-03-20T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Sibange Young Bucks FC",
+      "away": "KaMhlushwa Real Madrid",
+      "match_no": 108,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=108&s=l",
+      "date": "2027-03-20T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Oriental Spurs FC",
+      "away": "Liver Brothers FC",
+      "match_no": 109,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=109&s=l",
+      "date": "2027-03-20T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Matsulu Chelsea FC",
+      "away": "Luthuli Brigades FC",
+      "match_no": 110,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=110&s=l",
+      "date": "2027-03-20T15:00:00+02:00",
       "status": "NS"
     }
   ]
