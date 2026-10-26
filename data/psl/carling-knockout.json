@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-10-26T10:00:18+02:00",
+  "updated": "2026-10-26T11:00:23+02:00",
   "log": [],
   "results": [
     {
@@ -61,9 +61,71 @@
       "status": "FT",
       "match_id": "2608773",
       "url": "https://www.psl.co.za/matchcentre/detail/2608773-orlando-pirates-vs-marumo-gallants"
+    },
+    {
+      "home": "Golden Arrows",
+      "away": "Chippa United",
+      "date": "2026-10-24",
+      "venue": "King Goodwill Zwelithini Stadium, Durban",
+      "home_score": 4,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "2698879",
+      "url": "https://www.psl.co.za/matchcentre/detail/2698879-golden-arrows-vs-chippa-united"
+    },
+    {
+      "home": "Sekhukhune United",
+      "away": "Richards Bay",
+      "date": "2026-10-25",
+      "venue": "Peter Mokaba Stadium, Polokwane",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2698882",
+      "url": "https://www.psl.co.za/matchcentre/detail/2698882-sekhukhune-united-vs-richards-bay"
+    },
+    {
+      "home": "Kruger United",
+      "away": "AmaZulu FC",
+      "date": "2026-10-25",
+      "venue": "Mbombela Stadium, Nelspruit",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2698881",
+      "url": "https://www.psl.co.za/matchcentre/detail/2698881-kruger-united-vs-amazulu-fc"
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "Kaizer Chiefs",
+      "away": "TS Galaxy",
+      "date": "2026-10-27T19:00:00+02:00",
+      "venue": "FNB Stadium, Johannesburg",
+      "status": "NS"
+    },
+    {
+      "home": "Mamelodi Sundowns",
+      "away": "Marumo Gallants",
+      "date": "2026-10-27T19:00:00+02:00",
+      "venue": "Loftus Versfeld Stadium, Pretoria",
+      "status": "NS"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Milford FC",
+      "date": "2026-10-27T19:00:00+02:00",
+      "venue": "Orlando Amstel Arena, Soweto",
+      "status": "NS"
+    },
+    {
+      "home": "Durban City",
+      "away": "Stellenbosch FC",
+      "date": "2026-10-28T19:00:00+02:00",
+      "venue": "Chatsworth Stadium, Chatsworth",
+      "status": "NS"
+    }
+  ],
   "extra": [],
   "not_ours": [],
   "checked": {}

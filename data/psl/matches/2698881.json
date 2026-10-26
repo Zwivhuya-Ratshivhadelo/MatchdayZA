@@ -1,0 +1,391 @@
+{
+  "match_id": "2698881",
+  "comp": "carling-knockout",
+  "home": "Kruger United",
+  "away": "AmaZulu FC",
+  "updated": "2026-10-26T11:00:38+02:00",
+  "home_score": 0,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+8'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+5'",
+      "type": "yellow",
+      "player": "Riaan Hanamub",
+      "team": "AmaZulu"
+    },
+    {
+      "minute": "90+3'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Luyolo Slatsha",
+      "player_out": "Athini Maqokola"
+    },
+    {
+      "minute": "87'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Lesedi Kapinga",
+      "player_out": "Ntsako Makhubela"
+    },
+    {
+      "minute": "87'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Aphiwe Mpothwe",
+      "player_out": "Asekho Tiwani"
+    },
+    {
+      "minute": "78'",
+      "type": "penalty_goal",
+      "player": "Hendrick Ekstein",
+      "team": "AmaZulu",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "player": "Marcel Dandjinou",
+      "team": "Kruger United"
+    },
+    {
+      "minute": "75'",
+      "type": "yellow",
+      "player": "Tatenda Tavengwa",
+      "team": "Kruger United"
+    },
+    {
+      "minute": "73'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Bayanda Thabede",
+      "player_out": "Mondli Mbanjwa"
+    },
+    {
+      "minute": "73'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Sphamandla Zikhali",
+      "player_out": "Sphesihle Maduna"
+    },
+    {
+      "minute": "63'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Hendrick Ekstein",
+      "player_out": "Thando Ngwenya"
+    },
+    {
+      "minute": "57'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Kwandakwensizwa Mngonyama",
+      "player_out": "Khetukuthula Ndlovu"
+    },
+    {
+      "minute": "57'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Tatenda Tavengwa",
+      "player_out": "Mlungisi Zwane"
+    },
+    {
+      "minute": "57'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Wonderboy Makhubu",
+      "player_out": "Sipho Sibiya"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45+5'",
+      "type": "half_time"
+    },
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "player": "Celimpilo Ngema",
+      "team": "Kruger United"
+    },
+    {
+      "minute": "4'",
+      "type": "yellow",
+      "player": "Khetukuthula Ndlovu",
+      "team": "Kruger United"
+    },
+    {
+      "minute": "3'",
+      "type": "yellow",
+      "player": "Sipho Sibiya",
+      "team": "Kruger United"
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "18",
+      "away": "14"
+    },
+    {
+      "label": "Shots on target",
+      "home": "6",
+      "away": "2"
+    },
+    {
+      "label": "Corners",
+      "home": "8",
+      "away": "8"
+    },
+    {
+      "label": "Offsides",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Fouls",
+      "home": "11",
+      "away": "12"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "5",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Kruger United",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Marcel Dandjinou",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "55",
+          "name": "Ayabulela Konqobe",
+          "pos": "Defender"
+        },
+        {
+          "no": "12",
+          "name": "B Malatjie",
+          "pos": "Defender"
+        },
+        {
+          "no": "38",
+          "name": "Sphiwe Mahlangu",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "S Sibiya",
+          "pos": "Defender"
+        },
+        {
+          "no": "27",
+          "name": "A Tiwani",
+          "pos": "Defender"
+        },
+        {
+          "no": "35",
+          "name": "Motsie Mervyn Matima",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "Celimpilo Ngema",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "Ntsako Makhubela",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "22",
+          "name": "K Ndlovu",
+          "pos": "Striker"
+        },
+        {
+          "no": "7",
+          "name": "M Zwane",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "44",
+          "name": "T Tavengwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "43",
+          "name": "T Moleleki",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "F Ntwari",
+          "pos": "Substitute"
+        },
+        {
+          "no": "45",
+          "name": "Kwandakwensizwa Mngonyama",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Wonderboy Makhubu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "74",
+          "name": "Lesedi Kapinga",
+          "pos": "Substitute"
+        },
+        {
+          "no": "28",
+          "name": "N Thwala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "A Mpothwe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "30",
+          "name": "M Zwane",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "AmaZulu FC",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Olwethu Mzimela",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "12",
+          "name": "Taariq Fielies",
+          "pos": "Defender"
+        },
+        {
+          "no": "42",
+          "name": "Sandile Mthethwa",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "Riaan Hanamub",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "O Mdaka",
+          "pos": "Defender"
+        },
+        {
+          "no": "10",
+          "name": "Sphesihle Maduna",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "M Mbanjwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "14",
+          "name": "N Radebe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "6",
+          "name": "S Hlangabeza",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "23",
+          "name": "T Ngwenya",
+          "pos": "Striker"
+        },
+        {
+          "no": "2",
+          "name": "A Maqokola",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "17",
+          "name": "L Bern",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "L Slatsha",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "T Masuku",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "S Zikhali",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "K Allan",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "Keenan Phillips",
+          "pos": "Substitute"
+        },
+        {
+          "no": "24",
+          "name": "W Kouassi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "B Thabede",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "Hendrick Ekstein",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

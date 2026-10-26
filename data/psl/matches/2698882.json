@@ -1,0 +1,398 @@
+{
+  "match_id": "2698882",
+  "comp": "carling-knockout",
+  "home": "Sekhukhune United",
+  "away": "Richards Bay",
+  "updated": "2026-10-26T11:00:39+02:00",
+  "home_score": 3,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+5'",
+      "type": "full_time"
+    },
+    {
+      "minute": "88'",
+      "type": "goal",
+      "player": "Bethuel Muzeu",
+      "team": "Sekhukhune United",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "minute": "84'",
+      "type": "goal",
+      "player": "Nqaba Xulu",
+      "team": "Richards Bay",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "83'",
+      "type": "goal",
+      "player": "Thabang Makubo",
+      "team": "Sekhukhune United",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "83'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Lundi Mahala",
+      "player_out": "Moses Mthembu"
+    },
+    {
+      "minute": "82'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Thabang Makubo",
+      "player_out": "Ellis Rammala"
+    },
+    {
+      "minute": "74'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Philani Sithebe",
+      "player_out": "Lindokuhle Zikhali"
+    },
+    {
+      "minute": "74'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Sanele Barns",
+      "player_out": "Siyabonga Nzama"
+    },
+    {
+      "minute": "73'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Siyabonga Ndlozi",
+      "player_out": "Nyiko Mobbie"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "D'Angelo Kazeem",
+      "player_out": "Athenkosi Mcaba"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Bethuel Muzeu",
+      "player_out": "Chibuike Ohizu"
+    },
+    {
+      "minute": "61'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Luyanda Khumalo",
+      "player_out": "Wandile Ngema"
+    },
+    {
+      "minute": "52'",
+      "type": "goal",
+      "player": "Chibuike Ohizu",
+      "team": "Sekhukhune United",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Mcedi Vandala",
+      "player_out": "Oageng Phiri"
+    },
+    {
+      "minute": "45+3'",
+      "type": "half_time"
+    },
+    {
+      "minute": "45+1'",
+      "type": "yellow",
+      "player": "Sanele Barns",
+      "team": "Richards Bay"
+    },
+    {
+      "minute": "28'",
+      "type": "yellow",
+      "player": "Moses Mthembu",
+      "team": "Richards Bay"
+    },
+    {
+      "minute": "20'",
+      "type": "yellow",
+      "player": "Samba O’Neil",
+      "team": "Sekhukhune United"
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "15",
+      "away": "4"
+    },
+    {
+      "label": "Shots on target",
+      "home": "5",
+      "away": "1"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "1"
+    },
+    {
+      "label": "Offsides",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Fouls",
+      "home": "11",
+      "away": "8"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Sekhukhune United",
+      "starting": [
+        {
+          "no": "30",
+          "name": "Melusi Buthelezi",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "14",
+          "name": "S O’Neil",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "T Matsimbi",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "A Mcaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "Nyiko Mobbie",
+          "pos": "Defender"
+        },
+        {
+          "no": "8",
+          "name": "O Phiri",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "Givemore Khupe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "Siphesihle Mkhize",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "N Rammala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "31",
+          "name": "T Mokoane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "34",
+          "name": "Chibuike Ohizu",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "23",
+          "name": "M Sapunga Mbara",
+          "pos": "Substitute"
+        },
+        {
+          "no": "36",
+          "name": "S Ndlozi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "T Makubo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "T Nkwana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "41",
+          "name": "B Muzeu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "D Kazeem",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "B Ndlovu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Thato Khiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "M Vandala",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Richards Bay",
+      "starting": [
+        {
+          "no": "1",
+          "name": "I Otieno",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "5",
+          "name": "Thembela Sikhakhane",
+          "pos": "Defender"
+        },
+        {
+          "no": "49",
+          "name": "N Mkhabela",
+          "pos": "Defender"
+        },
+        {
+          "no": "37",
+          "name": "S Gwele",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "L Mabuya",
+          "pos": "Defender"
+        },
+        {
+          "no": "20",
+          "name": "M Mthembu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "S Gumbi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "19",
+          "name": "S Nzama",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "L Zikhali",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "W Ngema",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "27",
+          "name": "N Xulu",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "24",
+          "name": "S Gumede",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "N Ngcobo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "T Ndelu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "S Khumalo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "P Sithebe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "30",
+          "name": "Sanele Barns",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "L Mahala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "77",
+          "name": "L Khumalo",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

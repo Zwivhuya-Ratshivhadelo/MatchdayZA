@@ -1,0 +1,404 @@
+{
+  "match_id": "2698879",
+  "comp": "carling-knockout",
+  "home": "Golden Arrows",
+  "away": "Chippa United",
+  "updated": "2026-10-26T11:00:41+02:00",
+  "home_score": 4,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90+4'",
+      "type": "full_time"
+    },
+    {
+      "minute": "85'",
+      "type": "goal",
+      "player": "Jerome Karlese",
+      "team": "Golden Arrows",
+      "score": [
+        4,
+        0
+      ]
+    },
+    {
+      "minute": "83'",
+      "type": "goal",
+      "player": "Nhlanhla Zwane",
+      "team": "Golden Arrows",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "minute": "81'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Ousmane Barry",
+      "player_out": "Nqobeko Dlamini"
+    },
+    {
+      "minute": "81'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Gcina Nkosi",
+      "player_out": "Sabelo Sithole"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "player": "Boy Madingwane",
+      "team": "Chippa United"
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Chippa United",
+      "player_in": "Bandile Dlamini",
+      "player_out": "Ntuthuko Mlotshwa"
+    },
+    {
+      "minute": "75'",
+      "type": "yellow",
+      "player": "Jerome Karlese",
+      "team": "Golden Arrows"
+    },
+    {
+      "minute": "70'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Ronaldo Van Neel",
+      "player_out": "Philani Kumalo"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Chippa United",
+      "player_in": "Xolani Sithole",
+      "player_out": "Imraan Jones"
+    },
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Jerome Karlese",
+      "player_out": "Sede Dion"
+    },
+    {
+      "minute": "64'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Nhlanhla Zwane",
+      "player_out": "Nhlanhla Gasa"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Chippa United",
+      "player_in": "Azola Tshobeni",
+      "player_out": "Ibrahim Bancé"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Chippa United",
+      "player_in": "Justice Figuareido",
+      "player_out": "Sammy Seabi"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Chippa United",
+      "player_in": "Boy Madingwane",
+      "player_out": "Obakhe Tshaya"
+    },
+    {
+      "minute": "45+4'",
+      "type": "half_time"
+    },
+    {
+      "minute": "22'",
+      "type": "goal",
+      "player": "Sabelo Sithole",
+      "team": "Golden Arrows",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "10'",
+      "type": "goal",
+      "player": "Sede Dion",
+      "team": "Golden Arrows",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "15",
+      "away": "19"
+    },
+    {
+      "label": "Shots on target",
+      "home": "8",
+      "away": "5"
+    },
+    {
+      "label": "Corners",
+      "home": "3",
+      "away": "4"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "13",
+      "away": "6"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Golden Arrows",
+      "starting": [
+        {
+          "no": "19",
+          "name": "Dumisani Msibi",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "3",
+          "name": "K Shezi",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "E Agnikoi",
+          "pos": "Defender"
+        },
+        {
+          "no": "38",
+          "name": "N Mabaso",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "A Jiyane",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "N Dlamini",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "25",
+          "name": "A Maxwele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "49",
+          "name": "N Gasa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "36",
+          "name": "P Kumalo",
+          "pos": "Striker"
+        },
+        {
+          "no": "18",
+          "name": "S Dion",
+          "pos": "Striker"
+        },
+        {
+          "no": "29",
+          "name": "S Sithole",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "48",
+          "name": "G Nkosi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "Thakasani Mbanjwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "42",
+          "name": "H Mandla",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "O Maluleke",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "O Barry",
+          "pos": "Substitute"
+        },
+        {
+          "no": "28",
+          "name": "R Van Neel",
+          "pos": "Substitute"
+        },
+        {
+          "no": "41",
+          "name": "N Zwane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "J Karlese",
+          "pos": "Substitute"
+        },
+        {
+          "no": "46",
+          "name": "Siphesihle Msomi",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Chippa United",
+      "starting": [
+        {
+          "no": "23",
+          "name": "Stanley Nwabali",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "35",
+          "name": "K Majadibodu",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "Abbubaker Mobara",
+          "pos": "Defender"
+        },
+        {
+          "no": "33",
+          "name": "O Tshaya",
+          "pos": "Defender"
+        },
+        {
+          "no": "31",
+          "name": "I Jones",
+          "pos": "Defender"
+        },
+        {
+          "no": "25",
+          "name": "Sirgio Kammies",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "Sammy Seabi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "Goodman Mosele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "44",
+          "name": "I Bancé",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "A Matrose",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "29",
+          "name": "N Mlotshwa",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "49",
+          "name": "L Saville",
+          "pos": "Substitute"
+        },
+        {
+          "no": "28",
+          "name": "B Madingwane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "37",
+          "name": "M Tshepang",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "X Sithole",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "B Dlamini",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "E Sithole",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "M Carrim",
+          "pos": "Substitute"
+        },
+        {
+          "no": "15",
+          "name": "A Tshobeni",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "Justice Figuareido",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}
