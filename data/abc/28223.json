@@ -5,7 +5,7 @@
   "name": "EC Coastal Stream",
   "slug": "ec-coastal-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28223",
-  "updated": "2026-10-25T22:00:58+02:00",
+  "updated": "2026-10-26T06:00:38+02:00",
   "log": [
     {
       "pos": 1,
@@ -261,14 +261,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Camdeboo Football Academy Development",
-      "away": "Sundays River Valley Academy",
-      "match_no": 12,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=12&s=l",
-      "date": "2026-10-25T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Old Grey",
       "away": "Gqeberha United FC",
