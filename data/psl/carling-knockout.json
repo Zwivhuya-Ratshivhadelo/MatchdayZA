@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-10-27T19:48:02+02:00",
+  "updated": "2026-10-27T19:50:13+02:00",
   "log": [],
   "results": [
     {
@@ -102,11 +102,11 @@
       "venue": "FNB Stadium, Johannesburg",
       "match_id": "2698885",
       "url": "https://www.psl.co.za/matchcentre/detail/2698885-kaizer-chiefs-vs-ts-galaxy",
-      "latest": "26' Yellow card, Veluyeke Zulu (TS Galaxy)",
+      "latest": "45+4' Half-time",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "45+1'"
+      "minute": "45+4'"
     },
     {
       "home": "Mamelodi Sundowns",
@@ -115,11 +115,11 @@
       "venue": "Loftus Versfeld Stadium, Pretoria",
       "match_id": "2698883",
       "url": "https://www.psl.co.za/matchcentre/detail/2698883-mamelodi-sundowns-vs-marumo-gallants",
-      "latest": "33' Yellow card, Ndabayithethwa Ndlondlo (Marumo Gallants)",
+      "latest": "45+2' Half-time",
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "42'"
+      "minute": "45+2'"
     },
     {
       "home": "Orlando Pirates",
@@ -128,11 +128,11 @@
       "venue": "Orlando Amstel Arena, Soweto",
       "match_id": "2698884",
       "url": "https://www.psl.co.za/matchcentre/detail/2698884-orlando-pirates-vs-milford-fc",
-      "latest": "39' Sub, Orlando Pirates: Mpho Padime on for Gamphani Lungu",
-      "home_score": 2,
+      "latest": "45+3' Half-time",
+      "home_score": 3,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "45+1'"
+      "minute": "45+3'"
     }
   ],
   "fixtures": [

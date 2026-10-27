@@ -3,12 +3,26 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Milford FC",
-  "updated": "2026-10-27T19:48:02+02:00",
-  "home_score": 2,
+  "updated": "2026-10-27T19:50:13+02:00",
+  "home_score": 3,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "45+1'",
+  "minute": "45+3'",
   "events": [
+    {
+      "minute": "45+3'",
+      "type": "half_time"
+    },
+    {
+      "minute": "45+2'",
+      "type": "goal",
+      "player": "Tshepang Moremi",
+      "team": "Orlando Pirates",
+      "score": [
+        3,
+        0
+      ]
+    },
     {
       "minute": "39'",
       "type": "sub",
@@ -68,12 +82,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "12",
-      "away": "0"
+      "home": "13",
+      "away": "1"
     },
     {
       "label": "Shots on target",
-      "home": "6",
+      "home": "7",
       "away": "0"
     },
     {
