@@ -3,12 +3,22 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Milford FC",
-  "updated": "2026-10-27T19:34:51+02:00",
-  "home_score": 1,
+  "updated": "2026-10-27T19:37:03+02:00",
+  "home_score": 2,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "33'",
+  "minute": "34'",
   "events": [
+    {
+      "minute": "34'",
+      "type": "goal",
+      "player": "Tshepang Moremi",
+      "team": "Orlando Pirates",
+      "score": [
+        2,
+        0
+      ]
+    },
     {
       "minute": "23'",
       "type": "yellow",
@@ -45,17 +55,17 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "8",
+      "home": "11",
       "away": "0"
     },
     {
       "label": "Shots on target",
-      "home": "3",
+      "home": "5",
       "away": "0"
     },
     {
       "label": "Corners",
-      "home": "2",
+      "home": "3",
       "away": "0"
     },
     {
@@ -216,6 +226,11 @@
           "pos": "Defender"
         },
         {
+          "no": "38",
+          "name": "Y Nomandela",
+          "pos": "Midfielder"
+        },
+        {
           "no": "17",
           "name": "J Gxakoshe",
           "pos": "Midfielder"
@@ -228,11 +243,6 @@
         {
           "no": "11",
           "name": "M Zikakayo",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "38",
-          "name": "Y Nomandela",
           "pos": "Midfielder"
         },
         {
@@ -253,6 +263,11 @@
           "pos": "Substitute"
         },
         {
+          "no": "90",
+          "name": "S Masilela",
+          "pos": "Substitute"
+        },
+        {
           "no": "35",
           "name": "T Mabena",
           "pos": "Substitute"
@@ -260,11 +275,6 @@
         {
           "no": "5",
           "name": "Vusumuzi Mthabela",
-          "pos": "Substitute"
-        },
-        {
-          "no": "90",
-          "name": "S Masilela",
           "pos": "Substitute"
         },
         {
@@ -285,6 +295,11 @@
         {
           "no": "3",
           "name": "M Mbhele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "24",
+          "name": "N Biyela",
           "pos": "Substitute"
         }
       ]
