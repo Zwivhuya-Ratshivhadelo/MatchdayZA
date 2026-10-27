@@ -3,12 +3,30 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T20:05:46+02:00",
+  "updated": "2026-10-27T20:08:00+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "45+4'",
+  "minute": "47'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Siphesihle Tati",
+      "player_out": "Makhama Rantoa"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Sedwyn George",
+      "player_out": "Thulani Zandamela"
+    },
     {
       "minute": "45+4'",
       "type": "half_time"
@@ -67,7 +85,7 @@
     {
       "label": "Fouls",
       "home": "4",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Yellow Cards",
