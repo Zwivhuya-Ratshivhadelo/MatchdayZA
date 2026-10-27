@@ -3,12 +3,25 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Milford FC",
-  "updated": "2026-10-27T19:39:14+02:00",
+  "updated": "2026-10-27T19:41:26+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "38'",
+  "minute": "39'",
   "events": [
+    {
+      "minute": "39'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Mpho Padime",
+      "player_out": "Gamphani Lungu"
+    },
+    {
+      "minute": "38'",
+      "type": "yellow",
+      "player": "Yanelisa Nomandela",
+      "team": "Milford"
+    },
     {
       "minute": "34'",
       "type": "goal",
@@ -81,7 +94,7 @@
     {
       "label": "Yellow Cards",
       "home": "2",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Red Cards",
