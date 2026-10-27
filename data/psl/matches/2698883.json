@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Marumo Gallants",
-  "updated": "2026-10-27T20:30:05+02:00",
+  "updated": "2026-10-27T20:32:17+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "70'",
+  "minute": "73'",
   "events": [
     {
       "minute": "68'",
@@ -110,7 +110,7 @@
     },
     {
       "label": "Offsides",
-      "home": "2",
+      "home": "3",
       "away": "1"
     },
     {
