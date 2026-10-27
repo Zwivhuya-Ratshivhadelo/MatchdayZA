@@ -3,7 +3,7 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Marumo Gallants",
-  "updated": "2026-10-27T20:36:41+02:00",
+  "updated": "2026-10-27T20:38:53+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
@@ -176,6 +176,11 @@
           "pos": "Midfielder"
         },
         {
+          "no": "9",
+          "name": "A De Oliveira Sales",
+          "pos": "Midfielder"
+        },
+        {
           "no": "29",
           "name": "A Van Wyk",
           "pos": "Midfielder"
@@ -188,11 +193,6 @@
         {
           "no": "13",
           "name": "Iqraam Rayners",
-          "pos": "Striker"
-        },
-        {
-          "no": "9",
-          "name": "A De Oliveira Sales",
           "pos": "Striker"
         }
       ],
@@ -278,6 +278,11 @@
           "pos": "Midfielder"
         },
         {
+          "no": "27",
+          "name": "Saketso Moremi",
+          "pos": "Midfielder"
+        },
+        {
           "no": "18",
           "name": "M Ndlovu",
           "pos": "Midfielder"
@@ -291,11 +296,6 @@
           "no": "19",
           "name": "T Pheeha",
           "pos": "Midfielder"
-        },
-        {
-          "no": "27",
-          "name": "Saketso Moremi",
-          "pos": "Striker"
         },
         {
           "no": "38",

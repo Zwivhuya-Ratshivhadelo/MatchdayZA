@@ -3,12 +3,26 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T20:36:39+02:00",
+  "updated": "2026-10-27T20:38:51+02:00",
   "home_score": 3,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "76'",
+  "minute": "77'",
   "events": [
+    {
+      "minute": "77'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Asanele Velebayi",
+      "player_out": "Pule Mmodi"
+    },
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Thulani Mabaso",
+      "player_out": "Lebohang Maboe"
+    },
     {
       "minute": "76'",
       "type": "sub",

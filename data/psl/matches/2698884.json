@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Milford FC",
-  "updated": "2026-10-27T20:36:42+02:00",
+  "updated": "2026-10-27T20:38:54+02:00",
   "home_score": 3,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "76'",
+  "minute": "78'",
   "events": [
     {
       "minute": "64'",
@@ -149,12 +149,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "18",
+      "home": "20",
       "away": "6"
     },
     {
       "label": "Shots on target",
-      "home": "8",
+      "home": "9",
       "away": "1"
     },
     {
@@ -169,8 +169,8 @@
     },
     {
       "label": "Fouls",
-      "home": "10",
-      "away": "9"
+      "home": "11",
+      "away": "10"
     },
     {
       "label": "Yellow Cards",
