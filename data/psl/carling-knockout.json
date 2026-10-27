@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-10-27T20:55:23+02:00",
+  "updated": "2026-10-27T21:01:32+02:00",
   "log": [],
   "results": [
     {
@@ -102,10 +102,10 @@
       "venue": "FNB Stadium, Johannesburg",
       "match_id": "2698885",
       "url": "https://www.psl.co.za/matchcentre/detail/2698885-kaizer-chiefs-vs-ts-galaxy",
-      "latest": "85' Sub, Kaizer Chiefs: Zitha Kwinika on for Thabo Moloisane",
+      "latest": "90+5' Full time",
       "home_score": 3,
       "away_score": 0,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+4'"
     },
     {
