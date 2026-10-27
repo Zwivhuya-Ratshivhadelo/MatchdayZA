@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-10-27T20:08:02+02:00",
+  "updated": "2026-10-27T20:10:13+02:00",
   "log": [],
   "results": [
     {
@@ -106,7 +106,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "47'"
+      "minute": "48'"
     },
     {
       "home": "Mamelodi Sundowns",
@@ -115,11 +115,11 @@
       "venue": "Loftus Versfeld Stadium, Pretoria",
       "match_id": "2698883",
       "url": "https://www.psl.co.za/matchcentre/detail/2698883-mamelodi-sundowns-vs-marumo-gallants",
-      "latest": "45+2' Half-time",
+      "latest": "45' Sub, Mamelodi Sundowns: Aubrey Modiba on for Fawaaz Basadien",
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "45+2'"
+      "minute": "45'"
     },
     {
       "home": "Orlando Pirates",
@@ -132,7 +132,7 @@
       "home_score": 3,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "45'"
+      "minute": "48'"
     }
   ],
   "fixtures": [

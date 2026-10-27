@@ -3,12 +3,30 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Marumo Gallants",
-  "updated": "2026-10-27T20:08:00+02:00",
+  "updated": "2026-10-27T20:10:12+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "45+2'",
+  "minute": "45'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Aubrey Modiba",
+      "player_out": "Fawaaz Basadien"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Marcelo Allende",
+      "player_out": "Thabo Cele"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
     {
       "minute": "45+2'",
       "type": "half_time"
