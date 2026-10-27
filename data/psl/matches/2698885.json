@@ -3,12 +3,24 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T20:21:14+02:00",
+  "updated": "2026-10-27T20:23:28+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "59'",
+  "minute": "62'",
   "events": [
+    {
+      "minute": "62'",
+      "type": "penalty_saved",
+      "player": "Mfundo Vilakazi",
+      "team": "Kaizer Chiefs"
+    },
+    {
+      "minute": "61'",
+      "type": "penalty_won",
+      "team": "Kaizer Chiefs",
+      "player": "Mduduzi Shabalala"
+    },
     {
       "minute": "56'",
       "type": "yellow",
@@ -86,12 +98,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "5",
+      "home": "6",
       "away": "5"
     },
     {
       "label": "Shots on target",
-      "home": "2",
+      "home": "3",
       "away": "1"
     },
     {
@@ -107,7 +119,7 @@
     {
       "label": "Fouls",
       "home": "8",
-      "away": "13"
+      "away": "14"
     },
     {
       "label": "Yellow Cards",
