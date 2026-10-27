@@ -3,12 +3,16 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Milford FC",
-  "updated": "2026-10-27T20:54:17+02:00",
+  "updated": "2026-10-27T20:55:23+02:00",
   "home_score": 3,
   "away_score": 0,
-  "status": "LIVE",
-  "minute": "90+1'",
+  "status": "FT",
+  "minute": null,
   "events": [
+    {
+      "minute": "90+4'",
+      "type": "full_time"
+    },
     {
       "minute": "64'",
       "type": "sub",
