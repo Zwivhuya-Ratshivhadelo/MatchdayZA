@@ -3,14 +3,14 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Marumo Gallants",
-  "updated": "2026-10-27T20:43:16+02:00",
+  "updated": "2026-10-27T20:45:28+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "84'",
+  "minute": "86'",
   "events": [
     {
-      "minute": "84'",
+      "minute": "83'",
       "type": "sub",
       "team": "Mamelodi Sundowns",
       "player_in": "Monnapule Saleng",
@@ -117,12 +117,12 @@
     {
       "label": "Shots",
       "home": "7",
-      "away": "12"
+      "away": "13"
     },
     {
       "label": "Shots on target",
       "home": "1",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Corners",
@@ -137,7 +137,7 @@
     {
       "label": "Fouls",
       "home": "8",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Yellow Cards",
