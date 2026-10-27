@@ -3,12 +3,33 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Marumo Gallants",
-  "updated": "2026-10-27T20:25:41+02:00",
+  "updated": "2026-10-27T20:27:54+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "65'",
+  "minute": "68'",
   "events": [
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Lebogang Button",
+      "player_out": "Samkele Sihlali"
+    },
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Onke Moletshe",
+      "player_out": "Saketso Moremi"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Katlego Otladisa",
+      "player_out": "Sibusiso Ncube"
+    },
     {
       "minute": "65'",
       "type": "sub",
