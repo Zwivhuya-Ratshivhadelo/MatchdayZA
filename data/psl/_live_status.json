@@ -1,11 +1,21 @@
 {
-  "time": "2026-10-25T16:55:48+02:00",
-  "links_found": 0,
+  "time": "2026-10-27T17:53:19+02:00",
+  "links_found": 4,
   "games": [
     {
-      "game": "AS Port-Louis 2000 v Durban City",
-      "kickoff": "2026-10-25T15:00:00+02:00",
-      "365scores": "FT 0-3 "
+      "game": "Kaizer Chiefs v TS Galaxy",
+      "kickoff": "2026-10-27T19:00:00+02:00",
+      "match_page": null
+    },
+    {
+      "game": "Mamelodi Sundowns v Marumo Gallants",
+      "kickoff": "2026-10-27T19:00:00+02:00",
+      "match_page": null
+    },
+    {
+      "game": "Orlando Pirates v Milford FC",
+      "kickoff": "2026-10-27T19:00:00+02:00",
+      "match_page": null
     }
   ]
 }
