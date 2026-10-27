@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T19:43:35+02:00",
+  "updated": "2026-10-27T19:45:46+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "42'",
+  "minute": "44'",
   "events": [
     {
       "minute": "26'",
@@ -63,7 +63,7 @@
     {
       "label": "Fouls",
       "home": "4",
-      "away": "8"
+      "away": "9"
     },
     {
       "label": "Yellow Cards",
