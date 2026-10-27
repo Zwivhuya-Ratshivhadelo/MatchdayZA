@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Marumo Gallants",
-  "updated": "2026-10-27T19:23:47+02:00",
+  "updated": "2026-10-27T19:25:59+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "22'",
+  "minute": "24'",
   "events": [
+    {
+      "minute": "22'",
+      "type": "yellow",
+      "player": "Thabo Cele",
+      "team": "Mamelodi Sundowns"
+    },
     {
       "minute": "20'",
       "type": "goal",
@@ -34,7 +40,7 @@
     {
       "label": "Shots",
       "home": "1",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Shots on target",
@@ -49,16 +55,16 @@
     {
       "label": "Offsides",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Fouls",
-      "home": "4",
+      "home": "5",
       "away": "1"
     },
     {
       "label": "Yellow Cards",
-      "home": "1",
+      "home": "2",
       "away": "0"
     },
     {
