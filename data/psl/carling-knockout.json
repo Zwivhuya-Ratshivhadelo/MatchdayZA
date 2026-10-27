@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-10-27T19:45:49+02:00",
+  "updated": "2026-10-27T19:48:02+02:00",
   "log": [],
   "results": [
     {
@@ -106,7 +106,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "44'"
+      "minute": "45+1'"
     },
     {
       "home": "Mamelodi Sundowns",
@@ -132,7 +132,7 @@
       "home_score": 2,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "45'"
+      "minute": "45+1'"
     }
   ],
   "fixtures": [
