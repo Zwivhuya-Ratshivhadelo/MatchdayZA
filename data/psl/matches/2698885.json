@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T20:12:22+02:00",
+  "updated": "2026-10-27T20:14:35+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "50'",
+  "minute": "53'",
   "events": [
+    {
+      "minute": "53'",
+      "type": "yellow",
+      "player": "Victor Letsoalo",
+      "team": "TS Galaxy"
+    },
     {
       "minute": "48'",
       "type": "goal",
@@ -95,12 +101,12 @@
     {
       "label": "Fouls",
       "home": "4",
-      "away": "10"
+      "away": "11"
     },
     {
       "label": "Yellow Cards",
       "home": "1",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Red Cards",
