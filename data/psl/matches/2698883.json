@@ -3,12 +3,16 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Marumo Gallants",
-  "updated": "2026-10-27T20:52:03+02:00",
+  "updated": "2026-10-27T20:54:16+02:00",
   "home_score": 1,
   "away_score": 0,
-  "status": "LIVE",
-  "minute": "90'",
+  "status": "FT",
+  "minute": null,
   "events": [
+    {
+      "minute": "90+4'",
+      "type": "full_time"
+    },
     {
       "minute": "90'",
       "type": "yellow",
@@ -123,7 +127,7 @@
     {
       "label": "Shots",
       "home": "7",
-      "away": "14"
+      "away": "15"
     },
     {
       "label": "Shots on target",
@@ -133,7 +137,7 @@
     {
       "label": "Corners",
       "home": "2",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Offsides",
