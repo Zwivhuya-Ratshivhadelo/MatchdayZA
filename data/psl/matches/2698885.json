@@ -3,12 +3,22 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T20:10:10+02:00",
-  "home_score": 0,
+  "updated": "2026-10-27T20:12:22+02:00",
+  "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "48'",
+  "minute": "50'",
   "events": [
+    {
+      "minute": "48'",
+      "type": "goal",
+      "player": "Wandile Duba",
+      "team": "Kaizer Chiefs",
+      "score": [
+        1,
+        0
+      ]
+    },
     {
       "minute": "45'",
       "type": "second_half"
@@ -64,12 +74,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "4",
+      "home": "5",
       "away": "4"
     },
     {
       "label": "Shots on target",
-      "home": "1",
+      "home": "2",
       "away": "1"
     },
     {
