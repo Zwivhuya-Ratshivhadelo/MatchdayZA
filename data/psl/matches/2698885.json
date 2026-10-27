@@ -3,12 +3,28 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T20:27:52+02:00",
-  "home_score": 2,
+  "updated": "2026-10-27T20:30:04+02:00",
+  "home_score": 3,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "65'",
+  "minute": "68'",
   "events": [
+    {
+      "minute": "68'",
+      "type": "yellow",
+      "player": "Lennol Mathebula",
+      "team": "TS Galaxy"
+    },
+    {
+      "minute": "66'",
+      "type": "goal",
+      "player": "Wandile Duba",
+      "team": "Kaizer Chiefs",
+      "score": [
+        3,
+        0
+      ]
+    },
     {
       "minute": "62'",
       "type": "goal",
@@ -108,12 +124,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "7",
+      "home": "8",
       "away": "5"
     },
     {
       "label": "Shots on target",
-      "home": "4",
+      "home": "5",
       "away": "1"
     },
     {
@@ -129,12 +145,12 @@
     {
       "label": "Fouls",
       "home": "8",
-      "away": "14"
+      "away": "15"
     },
     {
       "label": "Yellow Cards",
       "home": "2",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Red Cards",
