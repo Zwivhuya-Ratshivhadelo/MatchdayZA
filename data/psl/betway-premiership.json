@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-27T17:10:24+02:00",
+  "updated": "2026-10-27T21:02:13+02:00",
   "log": [
     {
       "pos": 1,
@@ -452,6 +452,17 @@
       "url": "https://www.psl.co.za/matchcentre/detail/2674004-marumo-gallants-vs-ts-galaxy",
       "home_score": 2,
       "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Sekhukhune United",
+      "date": "2026-08-25",
+      "venue": "Orlando Amstel Arena, Soweto",
+      "match_id": "2674005",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674005-orlando-pirates-vs-sekhukhune-united",
+      "home_score": 2,
+      "away_score": 0,
       "status": "FT"
     },
     {
