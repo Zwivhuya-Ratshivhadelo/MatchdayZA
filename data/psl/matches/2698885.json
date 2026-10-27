@@ -1,0 +1,270 @@
+{
+  "match_id": "2698885",
+  "comp": "carling-knockout",
+  "home": "Kaizer Chiefs",
+  "away": "TS Galaxy",
+  "updated": "2026-10-27T19:03:50+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "2'",
+  "events": [
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots on target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Kaizer Chiefs",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Brandon Petersen",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "39",
+          "name": "Reeve Frosler",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "R Dortley",
+          "pos": "Defender"
+        },
+        {
+          "no": "42",
+          "name": "Thabo Moloisane",
+          "pos": "Defender"
+        },
+        {
+          "no": "29",
+          "name": "Paseka Mako",
+          "pos": "Defender"
+        },
+        {
+          "no": "13",
+          "name": "Pule Mmodi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "6",
+          "name": "Lebohang Maboe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "5",
+          "name": "S Mthethwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "47",
+          "name": "W Duba",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "28",
+          "name": "M Vilakazi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "M Shabalala",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "44",
+          "name": "Bruce Bvuma",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "Zitha Kwinika",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Dillan Solomons",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "Ethan Chislett",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "Asenele Velebayi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "77",
+          "name": "F Silva",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "F Abrahams",
+          "pos": "Substitute"
+        },
+        {
+          "no": "34",
+          "name": "T Mabaso",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "K Nkgwesa",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "TS Galaxy",
+      "starting": [
+        {
+          "no": "32",
+          "name": "M Mathebula",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "3",
+          "name": "M Mncwango",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "L Mathebula",
+          "pos": "Defender"
+        },
+        {
+          "no": "25",
+          "name": "K Mhlongo",
+          "pos": "Defender"
+        },
+        {
+          "no": "15",
+          "name": "M Rantoa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "Mlungisi Mbunjana",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "Junior Zindoga",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "S Mahlambi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "14",
+          "name": "T Kakora",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "29",
+          "name": "T Zandamela",
+          "pos": "Striker"
+        },
+        {
+          "no": "17",
+          "name": "Victor Letsoalo",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "2",
+          "name": "Mpho Mvelase",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "S Maseti",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "A Williams",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "S Tati",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "N Nkosi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "MacBeth Mahlangu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "45",
+          "name": "Veluyeke Zulu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "S Xulu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "Sedwyn George",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

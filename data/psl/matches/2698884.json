@@ -1,0 +1,229 @@
+{
+  "match_id": "2698884",
+  "comp": "carling-knockout",
+  "home": "Orlando Pirates",
+  "away": "Milford FC",
+  "updated": "2026-10-27T19:03:53+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "1'",
+  "events": [
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Orlando Pirates",
+      "starting": [
+        {
+          "no": "24",
+          "name": "Sipho Chaine",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "7",
+          "name": "Deon Hotto",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "L Seema",
+          "pos": "Defender"
+        },
+        {
+          "no": "37",
+          "name": "S Zulu",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "B Sigomoshe",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "Gamphani Lungu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "16",
+          "name": "Thalente Mbatha",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "T Moremi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "S Selepe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "T Mokobodi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "Evidence Makgopa",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "38",
+          "name": "M Padime",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Nkosinathi Sibisi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "46",
+          "name": "C Dansin",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "S Dladla",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "M Mthiyane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "M Nkota",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "N Ndaba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "25",
+          "name": "B Radiopane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Oswin Appollis",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Milford FC",
+      "starting": [
+        {
+          "no": "32",
+          "name": "Siphamandla Hleza",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "14",
+          "name": "S Mdluli",
+          "pos": "Defender"
+        },
+        {
+          "no": "18",
+          "name": "K Khwanya",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "T Bhengu",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "O Cele",
+          "pos": "Defender"
+        },
+        {
+          "no": "17",
+          "name": "J Gxakoshe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "M Mkhize",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "M Zikakayo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "38",
+          "name": "Y Nomandela",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "M Chili",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "S Ndlabi",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "30",
+          "name": "M Madondo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "T Mabena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Vusumuzi Mthabela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "90",
+          "name": "S Masilela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "L Dyonasi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "P Jwara",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "A Chabanhu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "M Mbhele",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

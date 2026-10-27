@@ -1,0 +1,229 @@
+{
+  "match_id": "2698883",
+  "comp": "carling-knockout",
+  "home": "Mamelodi Sundowns",
+  "away": "Marumo Gallants",
+  "updated": "2026-10-27T19:03:53+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "0'",
+  "events": [
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Mamelodi Sundowns",
+      "starting": [
+        {
+          "no": "31",
+          "name": "Ricardo Goss",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "42",
+          "name": "M Khoza",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "Fawaaz Basadien",
+          "pos": "Defender"
+        },
+        {
+          "no": "27",
+          "name": "Thapelo Morena",
+          "pos": "Defender"
+        },
+        {
+          "no": "40",
+          "name": "Mothobi Mvala",
+          "pos": "Defender"
+        },
+        {
+          "no": "19",
+          "name": "T Cele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "Sphelele Mkhulise",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "29",
+          "name": "A Van Wyk",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "38",
+          "name": "S Mthanti",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "13",
+          "name": "Iqraam Rayners",
+          "pos": "Striker"
+        },
+        {
+          "no": "9",
+          "name": "A De Oliveira Sales",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "6",
+          "name": "Aubrey Modiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "M Allende",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "Monnapule Saleng",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "Nuno Santos Valente Santos",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "T Matthews",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "B Léon",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "K Ndamane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "Denis Onyango",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Marumo Gallants",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Kagiso Mlambo",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "22",
+          "name": "Mbhazima Rikhotso",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "Siphosakhe Ntiya-Ntiya",
+          "pos": "Defender"
+        },
+        {
+          "no": "17",
+          "name": "P Motsoeneng",
+          "pos": "Defender"
+        },
+        {
+          "no": "20",
+          "name": "P Manku",
+          "pos": "Defender"
+        },
+        {
+          "no": "15",
+          "name": "Ndabayithethwa Ndlondlo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "M Ndlovu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "13",
+          "name": "S Ncube",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "19",
+          "name": "T Pheeha",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "27",
+          "name": "Saketso Moremi",
+          "pos": "Striker"
+        },
+        {
+          "no": "38",
+          "name": "S Sihlali",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "37",
+          "name": "N Ralenkoane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Diala Manaka",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "L Button",
+          "pos": "Substitute"
+        },
+        {
+          "no": "30",
+          "name": "E Lako",
+          "pos": "Substitute"
+        },
+        {
+          "no": "24",
+          "name": "Y Madiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "D Lukhele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "S Mbhele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Onke Moletshe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Katlego Otladisa",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}
