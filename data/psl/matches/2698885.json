@@ -3,7 +3,7 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T19:28:09+02:00",
+  "updated": "2026-10-27T19:30:22+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
@@ -42,12 +42,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "1",
+      "home": "3",
       "away": "1"
     },
     {
       "label": "Shots on target",
-      "home": "0",
+      "home": "1",
       "away": "0"
     },
     {
