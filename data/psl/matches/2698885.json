@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T20:45:27+02:00",
+  "updated": "2026-10-27T20:47:38+02:00",
   "home_score": 3,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "84'",
+  "minute": "86'",
   "events": [
+    {
+      "minute": "85'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Zitha Kwinika",
+      "player_out": "Thabo Moloisane"
+    },
     {
       "minute": "81'",
       "type": "sub",
@@ -166,12 +173,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "9",
-      "away": "7"
+      "home": "11",
+      "away": "8"
     },
     {
       "label": "Shots on target",
-      "home": "5",
+      "home": "6",
       "away": "1"
     },
     {
