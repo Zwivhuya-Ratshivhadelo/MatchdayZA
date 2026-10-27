@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-10-27T19:26:00+02:00",
+  "updated": "2026-10-27T19:28:12+02:00",
   "log": [],
   "results": [
     {
@@ -102,11 +102,11 @@
       "venue": "FNB Stadium, Johannesburg",
       "match_id": "2698885",
       "url": "https://www.psl.co.za/matchcentre/detail/2698885-kaizer-chiefs-vs-ts-galaxy",
-      "latest": "21' Sub, TS Galaxy: Veluyeke Zulu on for Mlondi Mncwango",
+      "latest": "26' Yellow card, Veluyeke Zulu (TS Galaxy)",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "21'"
+      "minute": "26'"
     },
     {
       "home": "Mamelodi Sundowns",
@@ -132,7 +132,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "23'"
+      "minute": "25'"
     }
   ],
   "fixtures": [

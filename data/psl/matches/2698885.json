@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T19:25:57+02:00",
+  "updated": "2026-10-27T19:28:09+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "21'",
+  "minute": "26'",
   "events": [
+    {
+      "minute": "26'",
+      "type": "yellow",
+      "player": "Veluyeke Zulu",
+      "team": "TS Galaxy"
+    },
     {
       "minute": "21'",
       "type": "sub",
@@ -52,17 +58,17 @@
     {
       "label": "Offsides",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Fouls",
       "home": "2",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Yellow Cards",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Red Cards",
