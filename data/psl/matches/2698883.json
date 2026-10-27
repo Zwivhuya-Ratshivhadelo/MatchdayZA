@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Marumo Gallants",
-  "updated": "2026-10-27T20:49:51+02:00",
+  "updated": "2026-10-27T20:52:03+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "88'",
+  "minute": "90'",
   "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "player": "Katlego Otladisa",
+      "team": "Marumo Gallants"
+    },
     {
       "minute": "83'",
       "type": "sub",
@@ -117,7 +123,7 @@
     {
       "label": "Shots",
       "home": "7",
-      "away": "13"
+      "away": "14"
     },
     {
       "label": "Shots on target",
@@ -137,12 +143,12 @@
     {
       "label": "Fouls",
       "home": "9",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Yellow Cards",
       "home": "2",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Red Cards",
