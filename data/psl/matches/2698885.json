@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "TS Galaxy",
-  "updated": "2026-10-27T19:08:16+02:00",
+  "updated": "2026-10-27T19:10:28+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "7'",
+  "minute": "9'",
   "events": [
+    {
+      "minute": "7'",
+      "type": "yellow",
+      "player": "Wandile Duba",
+      "team": "Kaizer Chiefs"
+    },
     {
       "minute": "6'",
       "type": "yellow",
@@ -44,11 +50,11 @@
     {
       "label": "Fouls",
       "home": "2",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
+      "home": "1",
       "away": "1"
     },
     {
