@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream A",
   "slug": "lp-limpopo-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28322",
-  "updated": "2026-10-27T12:11:27+02:00",
+  "updated": "2026-10-27T22:01:55+02:00",
   "log": [
     {
       "pos": 1,
@@ -356,6 +356,14 @@
   ],
   "fixtures": [
     {
+      "home": "Vondwe Xi Bullets",
+      "away": "Mukondeni Young Chiefs FC",
+      "match_no": 28,
+      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=28&s=l",
+      "date": "2026-10-31T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Abc FC",
       "away": "Nkowankowa Continental",
       "match_no": 25,
@@ -376,14 +384,6 @@
       "away": "Musina United",
       "match_no": 27,
       "url": "https://inqaku.com/match/view?stream_id=28322&match_no=27&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Vondwe Xi Bullets",
-      "away": "Mukondeni Young Chiefs FC",
-      "match_no": 28,
-      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=28&s=l",
       "date": "2026-10-31T15:00:00+02:00",
       "status": "NS"
     },

@@ -5,7 +5,7 @@
   "name": "EC Inland Stream",
   "slug": "ec-inland-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28224",
-  "updated": "2026-10-27T12:10:49+02:00",
+  "updated": "2026-10-27T22:01:04+02:00",
   "log": [
     {
       "pos": 1,
@@ -276,7 +276,15 @@
       "away": "SA Spear of the Nation FC",
       "match_no": 16,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=16&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
+      "date": "2026-10-31T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Sinenkani FC",
+      "away": "University of Fort Hare FC",
+      "match_no": 20,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=20&s=l",
+      "date": "2026-10-31T13:00:00+02:00",
       "status": "NS"
     },
     {
@@ -304,11 +312,11 @@
       "status": "NS"
     },
     {
-      "home": "Sinenkani FC",
-      "away": "University of Fort Hare FC",
-      "match_no": 20,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=20&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
+      "home": "Komani United FC",
+      "away": "FC Ravens",
+      "match_no": 22,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=22&s=l",
+      "date": "2026-11-07T13:00:00+02:00",
       "status": "NS"
     },
     {
@@ -316,14 +324,6 @@
       "away": "United FC",
       "match_no": 21,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=21&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Komani United FC",
-      "away": "FC Ravens",
-      "match_no": 22,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=22&s=l",
       "date": "2026-11-07T15:00:00+02:00",
       "status": "NS"
     },
@@ -352,6 +352,14 @@
       "status": "NS"
     },
     {
+      "home": "Sinenkani FC",
+      "away": "Komani United FC",
+      "match_no": 28,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=28&s=l",
+      "date": "2026-11-14T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "FC Ravens",
       "away": "SA Spear of the Nation FC",
       "match_no": 26,
@@ -364,14 +372,6 @@
       "away": "United FC",
       "match_no": 27,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=27&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Sinenkani FC",
-      "away": "Komani United FC",
-      "match_no": 28,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=28&s=l",
       "date": "2026-11-14T15:00:00+02:00",
       "status": "NS"
     },
@@ -436,7 +436,7 @@
       "away": "SA Spear of the Nation FC",
       "match_no": 36,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=36&s=l",
-      "date": "2026-11-28T15:00:00+02:00",
+      "date": "2026-11-28T13:00:00+02:00",
       "status": "NS"
     },
     {
@@ -472,18 +472,18 @@
       "status": "NS"
     },
     {
-      "home": "SA Spear of the Nation FC",
-      "away": "University of Fort Hare FC",
-      "match_no": 41,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=41&s=l",
-      "date": "2026-12-05T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "Sinenkani FC",
       "away": "Bush Bucks FC",
       "match_no": 42,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=42&s=l",
+      "date": "2026-12-05T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "SA Spear of the Nation FC",
+      "away": "University of Fort Hare FC",
+      "match_no": 41,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=41&s=l",
       "date": "2026-12-05T15:00:00+02:00",
       "status": "NS"
     },
@@ -512,6 +512,22 @@
       "status": "NS"
     },
     {
+      "home": "Komani United FC",
+      "away": "Amaxesibe FC",
+      "match_no": 49,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=49&s=l",
+      "date": "2026-12-12T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "United FC",
+      "away": "FC Ravens",
+      "match_no": 50,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=50&s=l",
+      "date": "2026-12-12T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Bush Bucks FC",
       "away": "SA Spear of the Nation FC",
       "match_no": 46,
@@ -536,27 +552,19 @@
       "status": "NS"
     },
     {
-      "home": "Komani United FC",
-      "away": "Amaxesibe FC",
-      "match_no": 49,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=49&s=l",
-      "date": "2026-12-12T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "United FC",
-      "away": "FC Ravens",
-      "match_no": 50,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=50&s=l",
-      "date": "2026-12-12T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "SA Spear of the Nation FC",
       "away": "Bush Bucks FC",
       "match_no": 1,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=1&s=l",
       "date": "2027-01-09T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Sinenkani FC",
+      "away": "United FC",
+      "match_no": 54,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=54&s=l",
+      "date": "2027-01-16T13:00:00+02:00",
       "status": "NS"
     },
     {
@@ -580,14 +588,6 @@
       "away": "Komani United FC",
       "match_no": 53,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=53&s=l",
-      "date": "2027-01-16T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Sinenkani FC",
-      "away": "United FC",
-      "match_no": 54,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=54&s=l",
       "date": "2027-01-16T15:00:00+02:00",
       "status": "NS"
     },
@@ -680,6 +680,14 @@
       "status": "NS"
     },
     {
+      "home": "Sinenkani FC",
+      "away": "Bizana Pondo City FC",
+      "match_no": 69,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=69&s=l",
+      "date": "2027-02-06T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "United FC",
       "away": "SA Spear of the Nation FC",
       "match_no": 66,
@@ -704,19 +712,19 @@
       "status": "NS"
     },
     {
-      "home": "Sinenkani FC",
-      "away": "Bizana Pondo City FC",
-      "match_no": 69,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=69&s=l",
-      "date": "2027-02-06T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "University of Fort Hare FC",
       "away": "Bush Bucks FC",
       "match_no": 70,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=70&s=l",
       "date": "2027-02-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Komani United FC",
+      "away": "Sinenkani FC",
+      "match_no": 73,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=73&s=l",
+      "date": "2027-02-13T13:00:00+02:00",
       "status": "NS"
     },
     {
@@ -732,14 +740,6 @@
       "away": "Amaxesibe FC",
       "match_no": 72,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=72&s=l",
-      "date": "2027-02-13T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Komani United FC",
-      "away": "Sinenkani FC",
-      "match_no": 73,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=73&s=l",
       "date": "2027-02-13T15:00:00+02:00",
       "status": "NS"
     },
@@ -760,18 +760,18 @@
       "status": "NS"
     },
     {
-      "home": "Amaxesibe FC",
-      "away": "SA Spear of the Nation FC",
-      "match_no": 76,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=76&s=l",
-      "date": "2027-02-20T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "Sinenkani FC",
       "away": "FC Ravens",
       "match_no": 77,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=77&s=l",
+      "date": "2027-02-20T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Amaxesibe FC",
+      "away": "SA Spear of the Nation FC",
+      "match_no": 76,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=76&s=l",
       "date": "2027-02-20T15:00:00+02:00",
       "status": "NS"
     },

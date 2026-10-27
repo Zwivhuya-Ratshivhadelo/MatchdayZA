@@ -5,7 +5,7 @@
   "name": "EC Coastal Stream",
   "slug": "ec-coastal-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28223",
-  "updated": "2026-10-27T12:10:43+02:00",
+  "updated": "2026-10-27T22:00:59+02:00",
   "log": [
     {
       "pos": 1,
@@ -21,6 +21,18 @@
     },
     {
       "pos": 2,
+      "team": "Old Grey",
+      "p": 4,
+      "w": 2,
+      "d": 1,
+      "l": 1,
+      "gf": 9,
+      "ga": 6,
+      "gd": 3,
+      "pts": 7
+    },
+    {
+      "pos": 3,
       "team": "Gq Cavaliers FC",
       "p": 3,
       "w": 2,
@@ -29,18 +41,6 @@
       "gf": 11,
       "ga": 6,
       "gd": 5,
-      "pts": 6
-    },
-    {
-      "pos": 3,
-      "team": "Old Grey",
-      "p": 3,
-      "w": 2,
-      "d": 0,
-      "l": 1,
-      "gf": 8,
-      "ga": 5,
-      "gd": 3,
       "pts": 6
     },
     {
@@ -58,42 +58,42 @@
     {
       "pos": 5,
       "team": "Gqeberha United FC",
-      "p": 3,
+      "p": 4,
       "w": 1,
-      "d": 0,
+      "d": 1,
       "l": 2,
-      "gf": 7,
-      "ga": 5,
+      "gf": 8,
+      "ga": 6,
       "gd": 2,
-      "pts": 3
+      "pts": 4
     },
     {
       "pos": 6,
       "team": "Sundays River Valley Academy",
-      "p": 1,
+      "p": 2,
       "w": 1,
-      "d": 0,
+      "d": 1,
       "l": 0,
       "gf": 2,
       "ga": 0,
       "gd": 2,
-      "pts": 3
+      "pts": 4
     },
     {
       "pos": 7,
-      "team": "Prides AFC",
-      "p": 2,
+      "team": "Camdeboo Football Academy Development",
+      "p": 3,
       "w": 1,
-      "d": 0,
+      "d": 1,
       "l": 1,
       "gf": 3,
       "ga": 2,
       "gd": 1,
-      "pts": 3
+      "pts": 4
     },
     {
       "pos": 8,
-      "team": "Camdeboo Football Academy Development",
+      "team": "Prides AFC",
       "p": 2,
       "w": 1,
       "d": 0,
@@ -258,17 +258,29 @@
       "home_score": 1,
       "away_score": 2,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
+    {
+      "home": "Camdeboo Football Academy Development",
+      "away": "Sundays River Valley Academy",
+      "match_no": 12,
+      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=12&s=l",
+      "date": "2026-10-25",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT"
+    },
     {
       "home": "Old Grey",
       "away": "Gqeberha United FC",
       "match_no": 19,
       "url": "https://inqaku.com/match/view?stream_id=28223&match_no=19&s=l",
-      "date": "2026-10-27T16:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-10-27",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Old Grey",
       "away": "Gqeberha United FC",
@@ -398,6 +410,14 @@
       "status": "NS"
     },
     {
+      "home": "Amavarara",
+      "away": "Camdeboo Football Academy Development",
+      "match_no": 35,
+      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=35&s=l",
+      "date": "2026-11-21T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Makana Rhini United FC",
       "away": "Old Grey",
       "match_no": 31,
@@ -431,10 +451,10 @@
     },
     {
       "home": "Amavarara",
-      "away": "Camdeboo Football Academy Development",
-      "match_no": 35,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=35&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
+      "away": "Sundays River Valley Academy",
+      "match_no": 40,
+      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=40&s=l",
+      "date": "2026-11-28T13:00:00+02:00",
       "status": "NS"
     },
     {
@@ -466,14 +486,6 @@
       "away": "FC Buffalo City Relatives",
       "match_no": 39,
       "url": "https://inqaku.com/match/view?stream_id=28223&match_no=39&s=l",
-      "date": "2026-11-28T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Amavarara",
-      "away": "Sundays River Valley Academy",
-      "match_no": 40,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=40&s=l",
       "date": "2026-11-28T15:00:00+02:00",
       "status": "NS"
     },
@@ -610,7 +622,7 @@
       "away": "Makana Rhini United FC",
       "match_no": 56,
       "url": "https://inqaku.com/match/view?stream_id=28223&match_no=56&s=l",
-      "date": "2027-01-23T15:00:00+02:00",
+      "date": "2027-01-23T13:00:00+02:00",
       "status": "NS"
     },
     {
@@ -846,6 +858,14 @@
       "status": "NS"
     },
     {
+      "home": "Amavarara",
+      "away": "Gq Cavaliers FC",
+      "match_no": 89,
+      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=89&s=l",
+      "date": "2027-03-06T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Prides AFC",
       "away": "Makana Rhini United FC",
       "match_no": 86,
@@ -866,14 +886,6 @@
       "away": "Old Grey",
       "match_no": 88,
       "url": "https://inqaku.com/match/view?stream_id=28223&match_no=88&s=l",
-      "date": "2027-03-06T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Amavarara",
-      "away": "Gq Cavaliers FC",
-      "match_no": 89,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=89&s=l",
       "date": "2027-03-06T15:00:00+02:00",
       "status": "NS"
     },
