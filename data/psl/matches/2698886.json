@@ -1,0 +1,234 @@
+{
+  "match_id": "2698886",
+  "comp": "carling-knockout",
+  "home": "Durban City",
+  "away": "Stellenbosch FC",
+  "updated": "2026-10-28T19:02:46+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "3'",
+  "events": [
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Durban City",
+      "starting": [
+        {
+          "no": "33",
+          "name": "F Asare",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "4",
+          "name": "Fezile Gcaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "Mfanafuthi Mkhize",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "S Ncanana",
+          "pos": "Defender"
+        },
+        {
+          "no": "29",
+          "name": "A Doumbia",
+          "pos": "Defender"
+        },
+        {
+          "no": "7",
+          "name": "Haashim Domingo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "23",
+          "name": "T Sanger",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "Brooklyn Poggenpoel",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "Gastón Sirino",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "K Jurgens",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "14",
+          "name": "Letsie Koapeng",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "28",
+          "name": "E Brooks",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "S Msomi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "S Maseko",
+          "pos": "Substitute"
+        },
+        {
+          "no": "24",
+          "name": "J Mokone",
+          "pos": "Substitute"
+        },
+        {
+          "no": "15",
+          "name": "B Mokwena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "L Sifumba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "Bandile Shandu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "Thabo Nodada",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "Salim Magoola",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Stellenbosch FC",
+      "starting": [
+        {
+          "no": "1",
+          "name": "N Garrow",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "27",
+          "name": "Terrence Mashego",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "Spiwe Msimango",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "L Vena",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "S Nkwali",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "Lehlogonolo Matlou",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "Ashley Du Preez",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "37",
+          "name": "Thabiso Lebitso",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "Njabulo Blom",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "Q Plaatjies",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "14",
+          "name": "S Kwayiba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "17",
+          "name": "Sage Stephens",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "V Andries",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "Q Sibande",
+          "pos": "Substitute"
+        },
+        {
+          "no": "31",
+          "name": "D Matsheke",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "G Taunyana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "K Johannessen",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "C Butsaka",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "R Daniels",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "A Lateef",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}
