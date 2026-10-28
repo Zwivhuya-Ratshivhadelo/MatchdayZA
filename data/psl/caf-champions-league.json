@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-28T15:00:35+02:00",
+  "updated": "2026-10-28T16:00:34+02:00",
   "log": [],
   "groups": [
     {
@@ -628,7 +628,7 @@
         },
         {
           "pos": 2,
-          "team": "Petro Luanda",
+          "team": "FC Nouadhibou",
           "p": 0,
           "w": 0,
           "d": 0,
@@ -640,7 +640,7 @@
         },
         {
           "pos": 3,
-          "team": "FC Nouadhibou",
+          "team": "Petro Luanda",
           "p": 0,
           "w": 0,
           "d": 0,
@@ -669,18 +669,6 @@
       "log": [
         {
           "pos": 1,
-          "team": "Zamalek SC",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 2,
           "team": "Club Africain Tunis",
           "p": 0,
           "w": 0,
@@ -692,7 +680,7 @@
           "pts": 0
         },
         {
-          "pos": 3,
+          "pos": 2,
           "team": "MC Alger",
           "p": 0,
           "w": 0,
@@ -704,8 +692,20 @@
           "pts": 0
         },
         {
-          "pos": 4,
+          "pos": 3,
           "team": "Young Africans",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 4,
+          "team": "Zamalek SC",
           "p": 0,
           "w": 0,
           "d": 0,
@@ -734,7 +734,7 @@
         },
         {
           "pos": 2,
-          "team": "RSB Berkane",
+          "team": "Orlando Pirates",
           "p": 0,
           "w": 0,
           "d": 0,
@@ -746,7 +746,7 @@
         },
         {
           "pos": 3,
-          "team": "Orlando Pirates",
+          "team": "RSB Berkane",
           "p": 0,
           "w": 0,
           "d": 0,
@@ -775,7 +775,7 @@
       "log": [
         {
           "pos": 1,
-          "team": "Pyramids",
+          "team": "Al Hilal Omdurman",
           "p": 0,
           "w": 0,
           "d": 0,
@@ -787,18 +787,6 @@
         },
         {
           "pos": 2,
-          "team": "Maghreb Fès",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 3,
           "team": "Horoya AC",
           "p": 0,
           "w": 0,
@@ -810,8 +798,20 @@
           "pts": 0
         },
         {
+          "pos": 3,
+          "team": "Maghreb Fès",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
           "pos": 4,
-          "team": "Al Hilal Omdurman",
+          "team": "Pyramids",
           "p": 0,
           "w": 0,
           "d": 0,
