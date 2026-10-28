@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-10-28T22:00:21+02:00",
+  "updated": "2026-10-28T23:00:20+02:00",
   "log": [],
   "results": [
     {
@@ -148,7 +148,36 @@
       "minute": "90+4'"
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "Kaizer Chiefs",
+      "away": "Siwelele",
+      "date": "2026-11-06T02:00:00+02:00",
+      "venue": "TBC, TBC",
+      "status": "NS"
+    },
+    {
+      "home": "Mamelodi Sundowns",
+      "away": "Golden Arrows",
+      "date": "2026-11-06T02:00:00+02:00",
+      "venue": "TBC, TBC",
+      "status": "NS"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Sekhukhune United",
+      "date": "2026-11-06T02:00:00+02:00",
+      "venue": "TBC, TBC",
+      "status": "NS"
+    },
+    {
+      "home": "Stellenbosch FC",
+      "away": "AmaZulu FC",
+      "date": "2026-11-06T02:00:00+02:00",
+      "venue": "TBC, TBC",
+      "status": "NS"
+    }
+  ],
   "extra": [],
   "not_ours": [],
   "checked": {}
