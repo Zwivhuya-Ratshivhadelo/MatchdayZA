@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-10-28T19:45:08+02:00",
+  "updated": "2026-10-28T19:47:15+02:00",
   "log": [],
   "results": [
     {
@@ -141,11 +141,11 @@
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2698886",
       "url": "https://www.psl.co.za/matchcentre/detail/2698886-durban-city-vs-stellenbosch-fc",
-      "latest": "16' Sub, Durban City: Samkelo Maseko on for Gastón Sirino",
+      "latest": "45+2' Half-time",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "44'"
+      "minute": "45+2'"
     }
   ],
   "fixtures": [],
