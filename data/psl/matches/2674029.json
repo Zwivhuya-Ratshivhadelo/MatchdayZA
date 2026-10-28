@@ -1,0 +1,239 @@
+{
+  "match_id": "2674029",
+  "comp": "betway-premiership",
+  "home": "Polokwane City",
+  "away": "AmaZulu FC",
+  "updated": "2026-10-28T13:00:35+02:00",
+  "home_score": 0,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "74'",
+      "type": "yellow",
+      "team": "AmaZulu FC",
+      "player": "Mondli Mbanjwa"
+    },
+    {
+      "minute": "54'",
+      "type": "yellow",
+      "team": "Polokwane City",
+      "player": "Bonginkosi Dlamini"
+    },
+    {
+      "minute": "4'",
+      "type": "goal",
+      "team": "AmaZulu FC",
+      "player": "Thandolwenkosi Ngwenya",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "54%",
+      "away": "46%"
+    },
+    {
+      "label": "Attacks",
+      "home": "130",
+      "away": "120"
+    },
+    {
+      "label": "Corners",
+      "home": "10",
+      "away": "3"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "6",
+      "away": "8"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "19",
+      "away": "14"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "12",
+      "away": "13"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "17",
+      "away": "10"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "396",
+      "away": "330"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "11",
+      "away": "6"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "5",
+      "away": "1"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "9",
+      "away": "7"
+    },
+    {
+      "label": "Total Passes",
+      "home": "474",
+      "away": "417"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "8",
+      "away": "3"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "8/36 (22%)",
+      "away": "4/11 (36%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "159",
+      "away": "177"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "351",
+      "away": "251"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "28/63 (44%)",
+      "away": "31/74 (42%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "12",
+      "away": "9"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "103",
+      "away": "71"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "68",
+      "away": "70"
+    },
+    {
+      "label": "Interceptions",
+      "home": "7",
+      "away": "10"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "8/10 (80%)",
+      "away": "11/15 (73%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "18",
+      "away": "40"
+    },
+    {
+      "label": "Duels Won",
+      "home": "36",
+      "away": "43"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "13/28 (46%)",
+      "away": "15/28 (54%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "23/51 (45%)",
+      "away": "28/51 (55%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "6",
+      "away": "8"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "7/15 (47%)",
+      "away": "5/9 (56%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "8",
+      "away": "4"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "4",
+      "away": "4"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "151",
+      "away": "129"
+    },
+    {
+      "label": "Fouls",
+      "home": "8",
+      "away": "7"
+    },
+    {
+      "label": "Substitutions",
+      "home": "4",
+      "away": "5"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}

@@ -1,0 +1,262 @@
+{
+  "match_id": "2674013",
+  "comp": "betway-premiership",
+  "home": "Kruger United",
+  "away": "Orlando Pirates",
+  "updated": "2026-10-28T13:00:33+02:00",
+  "home_score": 0,
+  "away_score": 4,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Yanela Mbuthuma",
+      "score": [
+        0,
+        4
+      ]
+    },
+    {
+      "minute": "79'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Yanela Mbuthuma",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "minute": "54'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Boitumelo Radiopane",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "4'",
+      "type": "penalty_goal",
+      "team": "Orlando Pirates",
+      "player": "Gamphani Lungu",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "54%",
+      "away": "46%"
+    },
+    {
+      "label": "Attacks",
+      "home": "147",
+      "away": "89"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "12",
+      "away": "17"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "29",
+      "away": "26"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "16",
+      "away": "13"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "2",
+      "away": "6"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "5"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "325",
+      "away": "267"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "8",
+      "away": "5"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "6",
+      "away": "2"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "7",
+      "away": "8"
+    },
+    {
+      "label": "Total Passes",
+      "home": "407",
+      "away": "357"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "9",
+      "away": "5"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "6/18 (33%)",
+      "away": "2/9 (22%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "190",
+      "away": "192"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "235",
+      "away": "174"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "50/81 (62%)",
+      "away": "30/76 (39%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "9",
+      "away": "10"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "69",
+      "away": "64"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "73",
+      "away": "56"
+    },
+    {
+      "label": "Interceptions",
+      "home": "16",
+      "away": "10"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "12/13 (92%)",
+      "away": "9/14 (64%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "14",
+      "away": "44"
+    },
+    {
+      "label": "Duels Won",
+      "home": "52",
+      "away": "57"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "20/39 (51%)",
+      "away": "19/39 (49%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "32/70 (46%)",
+      "away": "38/70 (54%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "12",
+      "away": "17"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "7/12 (58%)",
+      "away": "7/15 (47%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "5",
+      "away": "8"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "5",
+      "away": "6"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "148",
+      "away": "139"
+    },
+    {
+      "label": "Fouls",
+      "home": "18",
+      "away": "13"
+    },
+    {
+      "label": "Substitutions",
+      "home": "4",
+      "away": "5"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}

@@ -1,0 +1,333 @@
+{
+  "match_id": "2674003",
+  "comp": "betway-premiership",
+  "home": "Mamelodi Sundowns",
+  "away": "AmaZulu FC",
+  "updated": "2026-10-28T13:00:33+02:00",
+  "home_score": 5,
+  "away_score": 2,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Bennet Mokoena",
+      "score": [
+        5,
+        2
+      ]
+    },
+    {
+      "minute": "86'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Cassius Mailula"
+    },
+    {
+      "minute": "84'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Miguel Cardoso"
+    },
+    {
+      "minute": "80'",
+      "type": "yellow",
+      "team": "AmaZulu FC",
+      "player": "Sandile Mthethwa"
+    },
+    {
+      "minute": "70'",
+      "type": "goal",
+      "team": "AmaZulu FC",
+      "player": "Thandolwenkosi Ngwenya",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "minute": "66'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Brayan Leon",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "minute": "65'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Brayan Leon"
+    },
+    {
+      "minute": "58'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Marcelo Allende"
+    },
+    {
+      "minute": "51'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Tashreeq Matthews",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "minute": "46'",
+      "type": "goal",
+      "team": "AmaZulu FC",
+      "player": "Thandolwenkosi Ngwenya",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Sphelele Mkhulise"
+    },
+    {
+      "minute": "32'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Teboho Mokoena",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "25'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Brayan Leon",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "69%",
+      "away": "31%"
+    },
+    {
+      "label": "Attacks",
+      "home": "99",
+      "away": "82"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "5"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "8",
+      "away": "19"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "6"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "17",
+      "away": "17"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "9",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "4",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "22",
+      "away": "6"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "8",
+      "away": "3"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "7",
+      "away": "1"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "558",
+      "away": "203"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "9",
+      "away": "2"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "5",
+      "away": "1"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "13",
+      "away": "5"
+    },
+    {
+      "label": "Total Passes",
+      "home": "616",
+      "away": "263"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "9",
+      "away": "1"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "4",
+      "away": "0"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "1/14 (7%)",
+      "away": "3/22 (14%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "330",
+      "away": "126"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "300",
+      "away": "159"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "25/41 (61%)",
+      "away": "29/58 (50%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "16",
+      "away": "4"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "80",
+      "away": "38"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "119",
+      "away": "45"
+    },
+    {
+      "label": "Interceptions",
+      "home": "9",
+      "away": "9"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "6/11 (55%)",
+      "away": "7/11 (64%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "23",
+      "away": "21"
+    },
+    {
+      "label": "Error Led To Goal",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Duels Won",
+      "home": "37",
+      "away": "39"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "9/14 (64%)",
+      "away": "5/14 (36%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "28/62 (45%)",
+      "away": "34/62 (55%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "8",
+      "away": "19"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "9/16 (56%)",
+      "away": "4/7 (57%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "7",
+      "away": "3"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "91",
+      "away": "119"
+    },
+    {
+      "label": "Fouls",
+      "home": "19",
+      "away": "8"
+    },
+    {
+      "label": "Substitutions",
+      "home": "5",
+      "away": "5"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}

@@ -1,0 +1,248 @@
+{
+  "match_id": "2674033",
+  "comp": "betway-premiership",
+  "home": "Marumo Gallants",
+  "away": "Orlando Pirates",
+  "updated": "2026-10-28T13:00:35+02:00",
+  "home_score": 0,
+  "away_score": 2,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "74'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Nkosinathi Sibisi",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "47'",
+      "type": "yellow",
+      "team": "Orlando Pirates",
+      "player": "Yanela Mbuthuma"
+    },
+    {
+      "minute": "32'",
+      "type": "goal",
+      "team": "Orlando Pirates",
+      "player": "Kabelo Kgostlile",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "35%",
+      "away": "65%"
+    },
+    {
+      "label": "Attacks",
+      "home": "79",
+      "away": "98"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "7"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "9",
+      "away": "13"
+    },
+    {
+      "label": "Offsides",
+      "home": "2",
+      "away": "3"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "19",
+      "away": "23"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "5",
+      "away": "6"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "4",
+      "away": "10"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "5"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "240",
+      "away": "513"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "3",
+      "away": "4"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "1",
+      "away": "6"
+    },
+    {
+      "label": "Total Passes",
+      "home": "302",
+      "away": "578"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "3",
+      "away": "4"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "3/16 (19%)",
+      "away": "2/14 (14%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "136",
+      "away": "311"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "182",
+      "away": "281"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "22/51 (43%)",
+      "away": "25/49 (51%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "2",
+      "away": "8"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "58",
+      "away": "85"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "60",
+      "away": "108"
+    },
+    {
+      "label": "Interceptions",
+      "home": "11",
+      "away": "12"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "3",
+      "away": "0"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "10/16 (62%)",
+      "away": "24/33 (73%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "19",
+      "away": "15"
+    },
+    {
+      "label": "Duels Won",
+      "home": "39",
+      "away": "55"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "7/8 (88%)",
+      "away": "1/8 (12%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "32/86 (37%)",
+      "away": "54/86 (63%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "9",
+      "away": "13"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "7/24 (29%)",
+      "away": "8/14 (57%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "17",
+      "away": "6"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "5",
+      "away": "4"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "124",
+      "away": "121"
+    },
+    {
+      "label": "Fouls",
+      "home": "13",
+      "away": "9"
+    },
+    {
+      "label": "Substitutions",
+      "home": "3",
+      "away": "5"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}

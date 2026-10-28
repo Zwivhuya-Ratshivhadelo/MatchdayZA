@@ -1,0 +1,246 @@
+{
+  "match_id": "2674017",
+  "comp": "betway-premiership",
+  "home": "Durban City",
+  "away": "Stellenbosch FC",
+  "updated": "2026-10-28T13:00:33+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "Durban City",
+      "player": "Khalil Ben Youssef"
+    },
+    {
+      "minute": "69'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Quwan Plaatjies"
+    },
+    {
+      "minute": "29'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Daniels"
+    },
+    {
+      "minute": "16'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Genino Palace"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "66%",
+      "away": "34%"
+    },
+    {
+      "label": "Attacks",
+      "home": "96",
+      "away": "76"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "0"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "13",
+      "away": "7"
+    },
+    {
+      "label": "Offsides",
+      "home": "3",
+      "away": "7"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "33",
+      "away": "31"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "8",
+      "away": "15"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "12",
+      "away": "6"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "449",
+      "away": "179"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "10",
+      "away": "4"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "5",
+      "away": "2"
+    },
+    {
+      "label": "Total Passes",
+      "home": "586",
+      "away": "293"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "7",
+      "away": "4"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "1",
+      "away": "2"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "2/17 (12%)",
+      "away": "2/15 (13%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "310",
+      "away": "99"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "293",
+      "away": "209"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "41/87 (47%)",
+      "away": "18/64 (28%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "8",
+      "away": "5"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "84",
+      "away": "51"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "74",
+      "away": "44"
+    },
+    {
+      "label": "Interceptions",
+      "home": "6",
+      "away": "20"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "7/9 (78%)",
+      "away": "12/16 (75%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "31",
+      "away": "23"
+    },
+    {
+      "label": "Duels Won",
+      "home": "66",
+      "away": "49"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "31/54 (57%)",
+      "away": "23/54 (43%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "35/61 (57%)",
+      "away": "26/61 (43%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "13",
+      "away": "7"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "13/18 (72%)",
+      "away": "3/7 (43%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "5",
+      "away": "4"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "2",
+      "away": "3"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "212",
+      "away": "188"
+    },
+    {
+      "label": "Fouls",
+      "home": "8",
+      "away": "13"
+    },
+    {
+      "label": "Substitutions",
+      "home": "5",
+      "away": "4"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}

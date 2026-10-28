@@ -1,0 +1,229 @@
+{
+  "match_id": "2674008",
+  "comp": "betway-premiership",
+  "home": "Polokwane City",
+  "away": "Milford FC",
+  "updated": "2026-10-28T13:00:33+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "team": "Polokwane City",
+      "player": "S. Manthosi"
+    },
+    {
+      "minute": "24'",
+      "type": "yellow",
+      "team": "Polokwane City",
+      "player": "Mpho Mvundlela"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "34%",
+      "away": "66%"
+    },
+    {
+      "label": "Attacks",
+      "home": "100",
+      "away": "101"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "4"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "6",
+      "away": "11"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "34",
+      "away": "34"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "13",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "2",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "7",
+      "away": "16"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "3",
+      "away": "2"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "180",
+      "away": "440"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "4",
+      "away": "8"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "0",
+      "away": "6"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Total Passes",
+      "home": "286",
+      "away": "552"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "3",
+      "away": "13"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "2/12 (17%)",
+      "away": "3/16 (19%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "108",
+      "away": "307"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "190",
+      "away": "261"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "23/81 (28%)",
+      "away": "29/68 (43%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "3",
+      "away": "14"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "35",
+      "away": "70"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "46",
+      "away": "88"
+    },
+    {
+      "label": "Interceptions",
+      "home": "12",
+      "away": "16"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "2",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "8/10 (80%)",
+      "away": "12/15 (80%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "42",
+      "away": "33"
+    },
+    {
+      "label": "Duels Won",
+      "home": "41",
+      "away": "47"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "18/35 (51%)",
+      "away": "17/35 (49%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "23/53 (43%)",
+      "away": "30/53 (57%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "6",
+      "away": "11"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "7/14 (50%)",
+      "away": "4/9 (44%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "7",
+      "away": "5"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "5",
+      "away": "2"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "188",
+      "away": "178"
+    },
+    {
+      "label": "Fouls",
+      "home": "12",
+      "away": "7"
+    },
+    {
+      "label": "Substitutions",
+      "home": "4",
+      "away": "4"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}

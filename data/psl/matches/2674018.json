@@ -1,0 +1,279 @@
+{
+  "match_id": "2674018",
+  "comp": "betway-premiership",
+  "home": "Stellenbosch FC",
+  "away": "Sekhukhune United",
+  "updated": "2026-10-28T13:00:34+02:00",
+  "home_score": 1,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Lehlogonolo George Matlou"
+    },
+    {
+      "minute": "87'",
+      "type": "goal",
+      "team": "Stellenbosch FC",
+      "player": "B. Grobler",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "86'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "B. Grobler"
+    },
+    {
+      "minute": "74'",
+      "type": "yellow",
+      "team": "Sekhukhune United",
+      "player": "Olerato Mandi"
+    },
+    {
+      "minute": "63'",
+      "type": "goal",
+      "team": "Sekhukhune United",
+      "player": "B. Muzeu",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "minute": "55'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Terrence Mashego"
+    },
+    {
+      "minute": "49'",
+      "type": "yellow",
+      "team": "Stellenbosch FC",
+      "player": "Sinoxolo Kwayiba"
+    },
+    {
+      "minute": "42'",
+      "type": "yellow",
+      "team": "Sekhukhune United",
+      "player": "Ngoanamello Rammala"
+    },
+    {
+      "minute": "39'",
+      "type": "yellow",
+      "team": "Sekhukhune United",
+      "player": "L. Mojela"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "55%",
+      "away": "45%"
+    },
+    {
+      "label": "Attacks",
+      "home": "89",
+      "away": "66"
+    },
+    {
+      "label": "Corners",
+      "home": "7",
+      "away": "1"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "21",
+      "away": "17"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "2"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "26",
+      "away": "25"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "6",
+      "away": "16"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "14",
+      "away": "6"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "5",
+      "away": "4"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "282",
+      "away": "234"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "8",
+      "away": "2"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "7",
+      "away": "5"
+    },
+    {
+      "label": "Total Passes",
+      "home": "397",
+      "away": "350"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "7",
+      "away": "1"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "8/36 (22%)",
+      "away": "2/6 (33%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "149",
+      "away": "176"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "284",
+      "away": "180"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "28/73 (38%)",
+      "away": "22/75 (29%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "9",
+      "away": "6"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "69",
+      "away": "37"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "71",
+      "away": "50"
+    },
+    {
+      "label": "Interceptions",
+      "home": "8",
+      "away": "12"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "3",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "7/14 (50%)",
+      "away": "13/19 (68%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "7",
+      "away": "31"
+    },
+    {
+      "label": "Duels Won",
+      "home": "63",
+      "away": "66"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "23/44 (52%)",
+      "away": "21/44 (48%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "40/85 (47%)",
+      "away": "45/85 (53%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "21",
+      "away": "17"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "5/19 (26%)",
+      "away": "9/18 (50%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "14",
+      "away": "9"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "185",
+      "away": "168"
+    },
+    {
+      "label": "Fouls",
+      "home": "18",
+      "away": "21"
+    },
+    {
+      "label": "Substitutions",
+      "home": "3",
+      "away": "5"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}

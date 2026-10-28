@@ -1,0 +1,277 @@
+{
+  "match_id": "2674056",
+  "comp": "betway-premiership",
+  "home": "Mamelodi Sundowns",
+  "away": "Milford FC",
+  "updated": "2026-10-28T13:00:33+02:00",
+  "home_score": 2,
+  "away_score": 0,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "90'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Grant Kekana"
+    },
+    {
+      "minute": "80'",
+      "type": "yellow",
+      "team": "Milford FC",
+      "player": "Cebolenkosi Mthethwa"
+    },
+    {
+      "minute": "76'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Antonio Van Wyk",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "minute": "67'",
+      "type": "yellow",
+      "team": "Milford FC",
+      "player": "Khanyisani Radebe"
+    },
+    {
+      "minute": "56'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Zuko Mdunyelwa"
+    },
+    {
+      "minute": "55'",
+      "type": "yellow",
+      "team": "Mamelodi Sundowns",
+      "player": "Malibongwe Khoza"
+    },
+    {
+      "minute": "45'",
+      "type": "goal",
+      "team": "Mamelodi Sundowns",
+      "player": "Iqraam Rayners",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "61%",
+      "away": "39%"
+    },
+    {
+      "label": "Attacks",
+      "home": "117",
+      "away": "90"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "4"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "11",
+      "away": "10"
+    },
+    {
+      "label": "Offsides",
+      "home": "5",
+      "away": "6"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "24",
+      "away": "18"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "5",
+      "away": "5"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "2"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "11",
+      "away": "9"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "6",
+      "away": "6"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "6",
+      "away": "2"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "526",
+      "away": "309"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "3",
+      "away": "2"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "8",
+      "away": "4"
+    },
+    {
+      "label": "Total Passes",
+      "home": "588",
+      "away": "367"
+    },
+    {
+      "label": "Shots Outside The Box",
+      "home": "3",
+      "away": "5"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "4",
+      "away": "2"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "2/6 (33%)",
+      "away": "0/10 (0%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "371",
+      "away": "247"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "223",
+      "away": "130"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "18/38 (47%)",
+      "away": "15/35 (43%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "9",
+      "away": "6"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "68",
+      "away": "27"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "111",
+      "away": "76"
+    },
+    {
+      "label": "Interceptions",
+      "home": "12",
+      "away": "13"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "6",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "6/11 (55%)",
+      "away": "10/17 (59%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "6",
+      "away": "9"
+    },
+    {
+      "label": "Error Led To Goal",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Duels Won",
+      "home": "32",
+      "away": "40"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "5/13 (38%)",
+      "away": "8/13 (62%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "27/59 (46%)",
+      "away": "32/59 (54%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "11",
+      "away": "10"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "5/16 (31%)",
+      "away": "5/10 (50%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "11",
+      "away": "5"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "3",
+      "away": "7"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "100",
+      "away": "101"
+    },
+    {
+      "label": "Fouls",
+      "home": "11",
+      "away": "11"
+    },
+    {
+      "label": "Substitutions",
+      "home": "5",
+      "away": "4"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}
