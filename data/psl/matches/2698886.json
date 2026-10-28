@@ -3,7 +3,7 @@
   "comp": "carling-knockout",
   "home": "Durban City",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-28T20:52:55+02:00",
+  "updated": "2026-10-28T21:00:22+02:00",
   "home_score": 0,
   "away_score": 2,
   "status": "FT",
@@ -118,13 +118,13 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "11",
+      "home": "12",
       "away": "11"
     },
     {
       "label": "Shots on target",
       "home": "1",
-      "away": "6"
+      "away": "5"
     },
     {
       "label": "Corners",

@@ -1,11 +1,12 @@
 {
-  "time": "2026-10-28T20:58:18+02:00",
+  "time": "2026-10-28T21:00:20+02:00",
   "links_found": 6,
   "games": [
     {
       "game": "Durban City v Stellenbosch FC",
       "kickoff": "2026-10-28T19:00:00+02:00",
-      "match_page": null
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2698886-durban-city-vs-stellenbosch-fc",
+      "page": "FT 0-2, line-ups 2"
     }
   ]
 }
