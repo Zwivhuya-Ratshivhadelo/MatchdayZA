@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Durban City",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-28T19:26:02+02:00",
+  "updated": "2026-10-28T19:28:08+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "25'",
+  "minute": "26'",
   "events": [
     {
       "minute": "16'",
@@ -24,7 +24,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "1",
+      "home": "2",
       "away": "3"
     },
     {
@@ -190,9 +190,29 @@
           "pos": "Defender"
         },
         {
+          "no": "37",
+          "name": "Thabiso Lebitso",
+          "pos": "Defender"
+        },
+        {
+          "no": "14",
+          "name": "S Kwayiba",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "Q Plaatjies",
+          "pos": "Midfielder"
+        },
+        {
           "no": "26",
           "name": "S Nkwali",
-          "pos": "Defender"
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "Njabulo Blom",
+          "pos": "Midfielder"
         },
         {
           "no": "28",
@@ -202,38 +222,13 @@
         {
           "no": "10",
           "name": "Ashley Du Preez",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "37",
-          "name": "Thabiso Lebitso",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "35",
-          "name": "Njabulo Blom",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "11",
-          "name": "Q Plaatjies",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "14",
-          "name": "S Kwayiba",
           "pos": "Striker"
         }
       ],
       "subs": [
         {
-          "no": "17",
-          "name": "Sage Stephens",
-          "pos": "Substitute"
-        },
-        {
-          "no": "8",
-          "name": "V Andries",
+          "no": "31",
+          "name": "D Matsheke",
           "pos": "Substitute"
         },
         {
@@ -242,8 +237,18 @@
           "pos": "Substitute"
         },
         {
-          "no": "31",
-          "name": "D Matsheke",
+          "no": "17",
+          "name": "Sage Stephens",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "C Butsaka",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "V Andries",
           "pos": "Substitute"
         },
         {
@@ -254,11 +259,6 @@
         {
           "no": "20",
           "name": "K Johannessen",
-          "pos": "Substitute"
-        },
-        {
-          "no": "33",
-          "name": "C Butsaka",
           "pos": "Substitute"
         },
         {
