@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Durban City",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-28T20:38:05+02:00",
+  "updated": "2026-10-28T20:40:13+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "81'",
+  "minute": "83'",
   "events": [
     {
       "minute": "81'",
@@ -15,6 +15,20 @@
       "team": "Stellenbosch",
       "player_in": "Darrel Matsheke",
       "player_out": "Njabulo Blom"
+    },
+    {
+      "minute": "81'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Trevor Mokwena",
+      "player_out": "Letsie Koapeng"
+    },
+    {
+      "minute": "81'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Ethan Brooks",
+      "player_out": "Kyle Jurgens"
     },
     {
       "minute": "72'",
@@ -101,7 +115,7 @@
     {
       "label": "Fouls",
       "home": "8",
-      "away": "10"
+      "away": "11"
     },
     {
       "label": "Yellow Cards",
