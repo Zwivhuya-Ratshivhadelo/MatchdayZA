@@ -3,12 +3,26 @@
   "comp": "carling-knockout",
   "home": "Durban City",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-28T20:50:50+02:00",
+  "updated": "2026-10-28T20:52:55+02:00",
   "home_score": 0,
-  "away_score": 1,
-  "status": "LIVE",
-  "minute": "90+4'",
+  "away_score": 2,
+  "status": "FT",
+  "minute": null,
   "events": [
+    {
+      "minute": "90+6'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+4'",
+      "type": "goal",
+      "player": "Sinoxolo Kwayiba",
+      "team": "Stellenbosch",
+      "score": [
+        0,
+        2
+      ]
+    },
     {
       "minute": "84'",
       "type": "goal",
@@ -104,13 +118,13 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "9",
-      "away": "10"
+      "home": "11",
+      "away": "11"
     },
     {
       "label": "Shots on target",
       "home": "1",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Corners",

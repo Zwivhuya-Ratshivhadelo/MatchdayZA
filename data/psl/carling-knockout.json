@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-10-28T20:50:50+02:00",
+  "updated": "2026-10-28T20:52:55+02:00",
   "log": [],
   "results": [
     {
@@ -141,10 +141,10 @@
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2698886",
       "url": "https://www.psl.co.za/matchcentre/detail/2698886-durban-city-vs-stellenbosch-fc",
-      "latest": "84' Goal, Sinoxolo Kwayiba (Stellenbosch)",
+      "latest": "90+6' Full time",
       "home_score": 0,
-      "away_score": 1,
-      "status": "LIVE",
+      "away_score": 2,
+      "status": "FT",
       "minute": "90+4'"
     }
   ],
