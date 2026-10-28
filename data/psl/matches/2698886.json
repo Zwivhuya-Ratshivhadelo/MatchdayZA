@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Durban City",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-28T20:21:10+02:00",
+  "updated": "2026-10-28T20:23:16+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "63'",
+  "minute": "66'",
   "events": [
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Adeyanju Lateef",
+      "player_out": "Ashley Du Preez"
+    },
     {
       "minute": "63'",
       "type": "sub",
