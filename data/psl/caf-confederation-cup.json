@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-28T13:00:38+02:00",
+  "updated": "2026-10-28T14:00:32+02:00",
   "log": [],
   "groups": [
     {
@@ -11,54 +11,6 @@
       "log": [
         {
           "pos": 1,
-          "team": "Al Ahly SC",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 2,
-          "team": "Raja Casablanca",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 3,
-          "team": "AS FAR Rabat",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 4,
-          "team": "USM Alger",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 5,
           "team": "CR Belouizdad",
           "p": 0,
           "w": 0,
@@ -70,19 +22,7 @@
           "pts": 0
         },
         {
-          "pos": 6,
-          "team": "CS Sfaxien",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 7,
+          "pos": 2,
           "team": "Kaizer Chiefs",
           "p": 0,
           "w": 0,
@@ -94,7 +34,7 @@
           "pts": 0
         },
         {
-          "pos": 8,
+          "pos": 3,
           "team": "Hilal Alsahil SC Port Sudan",
           "p": 0,
           "w": 0,
@@ -106,7 +46,7 @@
           "pts": 0
         },
         {
-          "pos": 9,
+          "pos": 4,
           "team": "Ahli Wad Madani",
           "p": 0,
           "w": 0,
@@ -118,31 +58,7 @@
           "pts": 0
         },
         {
-          "pos": 10,
-          "team": "AS Maniema Union",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 11,
-          "team": "Primeiro de Agosto",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 12,
+          "pos": 5,
           "team": "Desportivo Huila",
           "p": 0,
           "w": 0,
@@ -154,31 +70,7 @@
           "pts": 0
         },
         {
-          "pos": 13,
-          "team": "Azam FC",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 14,
-          "team": "Singida Black Stars SC",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 15,
+          "pos": 6,
           "team": "AFAD-Plateau",
           "p": 0,
           "w": 0,
@@ -190,19 +82,7 @@
           "pts": 0
         },
         {
-          "pos": 16,
-          "team": "AS Real Bamako",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 17,
+          "pos": 7,
           "team": "El Kanemi Warriors",
           "p": 0,
           "w": 0,
@@ -214,19 +94,7 @@
           "pts": 0
         },
         {
-          "pos": 18,
-          "team": "Al Ahli Tripoli",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 19,
+          "pos": 8,
           "team": "ZED FC",
           "p": 0,
           "w": 0,
@@ -238,7 +106,7 @@
           "pts": 0
         },
         {
-          "pos": 20,
+          "pos": 9,
           "team": "Esperance Zarzis",
           "p": 0,
           "w": 0,
@@ -250,19 +118,7 @@
           "pts": 0
         },
         {
-          "pos": 21,
-          "team": "Durban City",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 22,
+          "pos": 10,
           "team": "CO Korhogo",
           "p": 0,
           "w": 0,
@@ -274,7 +130,7 @@
           "pts": 0
         },
         {
-          "pos": 23,
+          "pos": 11,
           "team": "Shooting Stars",
           "p": 0,
           "w": 0,
@@ -286,7 +142,7 @@
           "pts": 0
         },
         {
-          "pos": 24,
+          "pos": 12,
           "team": "Mogadishu City",
           "p": 0,
           "w": 0,
@@ -298,7 +154,7 @@
           "pts": 0
         },
         {
-          "pos": 25,
+          "pos": 13,
           "team": "Kitara FC",
           "p": 0,
           "w": 0,
@@ -310,7 +166,7 @@
           "pts": 0
         },
         {
-          "pos": 26,
+          "pos": 14,
           "team": "Asas Djibouti Télécom",
           "p": 0,
           "w": 0,
@@ -322,7 +178,7 @@
           "pts": 0
         },
         {
-          "pos": 27,
+          "pos": 15,
           "team": "KMKM",
           "p": 0,
           "w": 0,
@@ -334,7 +190,7 @@
           "pts": 0
         },
         {
-          "pos": 28,
+          "pos": 16,
           "team": "Tusker FC",
           "p": 0,
           "w": 0,
@@ -346,7 +202,7 @@
           "pts": 0
         },
         {
-          "pos": 29,
+          "pos": 17,
           "team": "Al-Ghazal",
           "p": 0,
           "w": 0,
@@ -358,7 +214,7 @@
           "pts": 0
         },
         {
-          "pos": 30,
+          "pos": 18,
           "team": "The Panthers",
           "p": 0,
           "w": 0,
@@ -370,7 +226,7 @@
           "pts": 0
         },
         {
-          "pos": 31,
+          "pos": 19,
           "team": "AS Psi",
           "p": 0,
           "w": 0,
@@ -382,7 +238,7 @@
           "pts": 0
         },
         {
-          "pos": 32,
+          "pos": 20,
           "team": "ASPAC FC",
           "p": 0,
           "w": 0,
@@ -394,7 +250,7 @@
           "pts": 0
         },
         {
-          "pos": 33,
+          "pos": 21,
           "team": "AS Douanes",
           "p": 0,
           "w": 0,
@@ -406,7 +262,7 @@
           "pts": 0
         },
         {
-          "pos": 34,
+          "pos": 22,
           "team": "Hafia FC",
           "p": 0,
           "w": 0,
@@ -418,7 +274,7 @@
           "pts": 0
         },
         {
-          "pos": 35,
+          "pos": 23,
           "team": "East End Lions",
           "p": 0,
           "w": 0,
@@ -430,7 +286,7 @@
           "pts": 0
         },
         {
-          "pos": 36,
+          "pos": 24,
           "team": "ASC Diambars",
           "p": 0,
           "w": 0,
@@ -442,7 +298,7 @@
           "pts": 0
         },
         {
-          "pos": 37,
+          "pos": 25,
           "team": "Kabuscorp SC",
           "p": 0,
           "w": 0,
@@ -454,19 +310,7 @@
           "pts": 0
         },
         {
-          "pos": 38,
-          "team": "Red Arrows",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 39,
+          "pos": 26,
           "team": "Rukinzo FC",
           "p": 0,
           "w": 0,
@@ -478,7 +322,7 @@
           "pts": 0
         },
         {
-          "pos": 40,
+          "pos": 27,
           "team": "Panthere",
           "p": 0,
           "w": 0,
@@ -490,7 +334,7 @@
           "pts": 0
         },
         {
-          "pos": 41,
+          "pos": 28,
           "team": "Rayon Sports",
           "p": 0,
           "w": 0,
@@ -502,19 +346,7 @@
           "pts": 0
         },
         {
-          "pos": 42,
-          "team": "ASKO Kara",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 43,
+          "pos": 29,
           "team": "AS Port-Louis 2000",
           "p": 0,
           "w": 0,
@@ -526,7 +358,7 @@
           "pts": 0
         },
         {
-          "pos": 44,
+          "pos": 30,
           "team": "Jwaneng Galaxy FC",
           "p": 0,
           "w": 0,
@@ -538,19 +370,7 @@
           "pts": 0
         },
         {
-          "pos": 45,
-          "team": "Black Bulls Maputo",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 46,
+          "pos": 31,
           "team": "Green Mamba",
           "p": 0,
           "w": 0,
@@ -562,7 +382,7 @@
           "pts": 0
         },
         {
-          "pos": 47,
+          "pos": 32,
           "team": "Welwalo Adigrat Uni",
           "p": 0,
           "w": 0,
@@ -574,7 +394,7 @@
           "pts": 0
         },
         {
-          "pos": 48,
+          "pos": 33,
           "team": "Diarra",
           "p": 0,
           "w": 0,
@@ -586,7 +406,7 @@
           "pts": 0
         },
         {
-          "pos": 49,
+          "pos": 34,
           "team": "Nations FC",
           "p": 0,
           "w": 0,
@@ -598,7 +418,7 @@
           "pts": 0
         },
         {
-          "pos": 50,
+          "pos": 35,
           "team": "UDIB",
           "p": 0,
           "w": 0,
@@ -610,7 +430,7 @@
           "pts": 0
         },
         {
-          "pos": 51,
+          "pos": 36,
           "team": "AS Zam",
           "p": 0,
           "w": 0,
@@ -622,7 +442,7 @@
           "pts": 0
         },
         {
-          "pos": 52,
+          "pos": 37,
           "team": "UNAM",
           "p": 0,
           "w": 0,
@@ -634,7 +454,7 @@
           "pts": 0
         },
         {
-          "pos": 53,
+          "pos": 38,
           "team": "Vitesse FC",
           "p": 0,
           "w": 0,
@@ -646,7 +466,7 @@
           "pts": 0
         },
         {
-          "pos": 54,
+          "pos": 39,
           "team": "Atomic Ngome",
           "p": 0,
           "w": 0,
@@ -658,7 +478,7 @@
           "pts": 0
         },
         {
-          "pos": 55,
+          "pos": 40,
           "team": "DC Virunga",
           "p": 0,
           "w": 0,
@@ -670,7 +490,7 @@
           "pts": 0
         },
         {
-          "pos": 56,
+          "pos": 41,
           "team": "P. Bazar Brothers",
           "p": 0,
           "w": 0,
@@ -682,8 +502,208 @@
           "pts": 0
         },
         {
-          "pos": 57,
+          "pos": 42,
           "team": "FC Rouge",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "name": "Group A",
+      "log": [
+        {
+          "pos": 1,
+          "team": "Primeiro de Agosto",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 2,
+          "team": "ASKO Kara",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 3,
+          "team": "Al Ahly SC",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 4,
+          "team": "Raja Casablanca",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "log": [
+        {
+          "pos": 1,
+          "team": "Al Ahli Tripoli",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 2,
+          "team": "Azam FC",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 3,
+          "team": "Durban City",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 4,
+          "team": "AS FAR Rabat",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "log": [
+        {
+          "pos": 1,
+          "team": "AS Maniema Union",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 2,
+          "team": "Red Arrows",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 3,
+          "team": "Singida Black Stars SC",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "log": [
+        {
+          "pos": 1,
+          "team": "USM Alger",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 2,
+          "team": "AS Real Bamako",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 3,
+          "team": "Black Bulls Maputo",
+          "p": 0,
+          "w": 0,
+          "d": 0,
+          "l": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 4,
+          "team": "CS Sfaxien",
           "p": 0,
           "w": 0,
           "d": 0,
