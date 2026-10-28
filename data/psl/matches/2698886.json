@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Durban City",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-28T20:23:16+02:00",
+  "updated": "2026-10-28T20:25:24+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "66'",
+  "minute": "67'",
   "events": [
     {
       "minute": "66'",
@@ -15,6 +15,20 @@
       "team": "Stellenbosch",
       "player_in": "Adeyanju Lateef",
       "player_out": "Ashley Du Preez"
+    },
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Raoul Daniels",
+      "player_out": "Quwan Plaatjies"
+    },
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Chumani Butsaka",
+      "player_out": "Lehlogonolo Matlou"
     },
     {
       "minute": "63'",
@@ -54,7 +68,7 @@
     {
       "label": "Shots",
       "home": "5",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Shots on target",
