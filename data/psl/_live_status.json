@@ -1,20 +1,11 @@
 {
-  "time": "2026-10-27T21:01:31+02:00",
+  "time": "2026-10-28T17:50:01+02:00",
   "links_found": 6,
   "games": [
     {
-      "game": "Kaizer Chiefs v TS Galaxy",
-      "kickoff": "2026-10-27T19:00:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2698885-kaizer-chiefs-vs-ts-galaxy",
-      "page": "FT 3-0, line-ups 2"
-    },
-    {
-      "game": "Mamelodi Sundowns v Marumo Gallants",
-      "kickoff": "2026-10-27T19:00:00+02:00"
-    },
-    {
-      "game": "Orlando Pirates v Milford FC",
-      "kickoff": "2026-10-27T19:00:00+02:00"
+      "game": "Durban City v Stellenbosch FC",
+      "kickoff": "2026-10-28T19:00:00+02:00",
+      "match_page": null
     }
   ]
 }
