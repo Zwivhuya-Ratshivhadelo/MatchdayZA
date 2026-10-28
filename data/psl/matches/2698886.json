@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Durban City",
   "away": "Stellenbosch FC",
-  "updated": "2026-10-28T19:17:36+02:00",
+  "updated": "2026-10-28T19:19:43+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "16'",
+  "minute": "19'",
   "events": [
+    {
+      "minute": "16'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Samkelo Maseko",
+      "player_out": "Gastón Sirino"
+    },
     {
       "minute": "0'",
       "type": "kickoff"
@@ -18,12 +25,12 @@
     {
       "label": "Shots",
       "home": "0",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Shots on target",
       "home": "0",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Corners",
