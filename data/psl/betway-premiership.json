@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-29T05:00:23+02:00",
+  "updated": "2026-10-29T06:00:22+02:00",
   "log": [
     {
       "pos": 1,
@@ -964,6 +964,20 @@
     {
       "home": "TS Galaxy",
       "away": "Durban City",
+      "date": "2026-11-24",
+      "venue": "Durban City",
+      "status": "NS"
+    },
+    {
+      "home": "Durban City",
+      "away": "Polokwane City",
+      "date": "2026-11-24T19:30:00+02:00",
+      "venue": "Chatsworth Stadium, Chatsworth",
+      "status": "NS"
+    },
+    {
+      "home": "TS Galaxy",
+      "away": "Durban City",
       "date": "2026-11-27",
       "venue": "Durban City",
       "status": "NS"
@@ -1358,6 +1372,13 @@
       "away": "Polokwane City",
       "date": "2027-01-24T15:30:00+02:00",
       "venue": "Mbombela Stadium, Nelspruit",
+      "status": "NS"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Kruger United",
+      "date": "2027-02-03T19:30:00+02:00",
+      "venue": "Orlando Amstel Arena, Soweto",
       "status": "NS"
     },
     {
