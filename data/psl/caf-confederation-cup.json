@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-10-29T18:00:35+02:00",
+  "updated": "2026-10-29T19:00:53+02:00",
   "log": [],
   "groups": [
     {
@@ -1408,35 +1408,35 @@
     {
       "home": "CS Sfaxien",
       "away": "Black Bulls Maputo",
-      "date": "2026-11-27T16:00:00+02:00",
+      "date": "2026-11-27T19:00:00+02:00",
       "match_id": "c4886729",
       "status": "NS"
     },
     {
       "home": "USM Alger",
       "away": "AS Real Bamako",
-      "date": "2026-11-27T16:00:00+02:00",
+      "date": "2026-11-27T19:00:00+02:00",
       "match_id": "c4886730",
       "status": "NS"
     },
     {
       "home": "AS Maniema Union",
       "away": "Singida Black Stars SC",
-      "date": "2026-11-27T16:00:00+02:00",
+      "date": "2026-11-27T19:00:00+02:00",
       "match_id": "c4886731",
       "status": "NS"
     },
     {
       "home": "Azam FC",
       "away": "Al Ahli Tripoli",
-      "date": "2026-11-27T16:00:00+02:00",
+      "date": "2026-11-27T19:00:00+02:00",
       "match_id": "c4886732",
       "status": "NS"
     },
     {
       "home": "AS FAR Rabat",
       "away": "Durban City",
-      "date": "2026-11-27T16:00:00+02:00",
+      "date": "2026-11-27T19:00:00+02:00",
       "match_id": "c4886733",
       "status": "NS",
       "sa": true
@@ -1444,35 +1444,35 @@
     {
       "home": "Raja Casablanca",
       "away": "ASKO Kara",
-      "date": "2026-11-27T16:00:00+02:00",
+      "date": "2026-11-27T19:00:00+02:00",
       "match_id": "c4886734",
       "status": "NS"
     },
     {
       "home": "Al Ahly SC",
       "away": "Primeiro de Agosto",
-      "date": "2026-11-27T16:00:00+02:00",
+      "date": "2026-11-27T19:00:00+02:00",
       "match_id": "c4886735",
       "status": "NS"
     },
     {
       "home": "AS Real Bamako",
       "away": "CS Sfaxien",
-      "date": "2026-12-04T16:00:00+02:00",
+      "date": "2026-12-04T19:00:00+02:00",
       "match_id": "c4886722",
       "status": "NS"
     },
     {
       "home": "Black Bulls Maputo",
       "away": "USM Alger",
-      "date": "2026-12-04T16:00:00+02:00",
+      "date": "2026-12-04T19:00:00+02:00",
       "match_id": "c4886723",
       "status": "NS"
     },
     {
       "home": "Red Arrows",
       "away": "AS Maniema Union",
-      "date": "2026-12-04T16:00:00+02:00",
+      "date": "2026-12-04T19:00:00+02:00",
       "match_id": "c4886724",
       "status": "NS"
     }
