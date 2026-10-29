@@ -5,7 +5,7 @@
   "name": "NW Stream B",
   "slug": "nw-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28493",
-  "updated": "2026-10-29T12:01:35+02:00",
+  "updated": "2026-10-29T18:02:16+02:00",
   "log": [
     {
       "pos": 1,
@@ -45,6 +45,18 @@
     },
     {
       "pos": 4,
+      "team": "Queenkay Stars FC",
+      "p": 5,
+      "w": 3,
+      "d": 1,
+      "l": 1,
+      "gf": 6,
+      "ga": 1,
+      "gd": 5,
+      "pts": 10
+    },
+    {
+      "pos": 5,
       "team": "NW Signal FC",
       "p": 5,
       "w": 3,
@@ -56,27 +68,15 @@
       "pts": 9
     },
     {
-      "pos": 5,
-      "team": "Queenkay Stars FC",
-      "p": 4,
-      "w": 2,
-      "d": 1,
-      "l": 1,
-      "gf": 3,
-      "ga": 1,
-      "gd": 2,
-      "pts": 7
-    },
-    {
       "pos": 6,
       "team": "Spain FC",
-      "p": 4,
+      "p": 5,
       "w": 2,
       "d": 1,
-      "l": 1,
+      "l": 2,
       "gf": 4,
-      "ga": 3,
-      "gd": 1,
+      "ga": 6,
+      "gd": -2,
       "pts": 7
     },
     {
@@ -260,6 +260,16 @@
       "url": "https://inqaku.com/match/view?stream_id=28493&match_no=7&s=l",
       "date": "2026-10-03",
       "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Queenkay Stars FC",
+      "away": "Spain FC",
+      "match_no": 9,
+      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=9&s=l",
+      "date": "2026-10-03",
+      "home_score": 3,
       "away_score": 0,
       "status": "FT"
     },

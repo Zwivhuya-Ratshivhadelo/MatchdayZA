@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-10-29T17:00:39+02:00",
+  "updated": "2026-10-29T18:00:33+02:00",
   "log": [],
   "groups": [
     {
@@ -1652,21 +1652,21 @@
     {
       "home": "Al Hilal Omdurman",
       "away": "Horoya AC",
-      "date": "2026-11-27T17:00:00+02:00",
+      "date": "2026-11-27T16:00:00+02:00",
       "match_id": "c4886686",
       "status": "NS"
     },
     {
       "home": "Pyramids",
       "away": "Maghreb Fès",
-      "date": "2026-11-27T17:00:00+02:00",
+      "date": "2026-11-27T16:00:00+02:00",
       "match_id": "c4886687",
       "status": "NS"
     },
     {
       "home": "Simba SC",
       "away": "Orlando Pirates",
-      "date": "2026-11-27T17:00:00+02:00",
+      "date": "2026-11-27T16:00:00+02:00",
       "match_id": "c4886688",
       "status": "NS",
       "sa": true
@@ -1674,49 +1674,49 @@
     {
       "home": "RSB Berkane",
       "away": "Colombe",
-      "date": "2026-11-27T17:00:00+02:00",
+      "date": "2026-11-27T16:00:00+02:00",
       "match_id": "c4886689",
       "status": "NS"
     },
     {
       "home": "Young Africans",
       "away": "MC Alger",
-      "date": "2026-11-27T17:00:00+02:00",
+      "date": "2026-11-27T16:00:00+02:00",
       "match_id": "c4886690",
       "status": "NS"
     },
     {
       "home": "Zamalek SC",
       "away": "Club Africain Tunis",
-      "date": "2026-11-27T17:00:00+02:00",
+      "date": "2026-11-27T16:00:00+02:00",
       "match_id": "c4886691",
       "status": "NS"
     },
     {
       "home": "Petro Luanda",
       "away": "FC Nouadhibou",
-      "date": "2026-11-27T17:00:00+02:00",
+      "date": "2026-11-27T16:00:00+02:00",
       "match_id": "c4886692",
       "status": "NS"
     },
     {
       "home": "Esperance ST",
       "away": "Wiliete SC",
-      "date": "2026-11-27T17:00:00+02:00",
+      "date": "2026-11-27T16:00:00+02:00",
       "match_id": "c4886693",
       "status": "NS"
     },
     {
       "home": "Maghreb Fès",
       "away": "Al Hilal Omdurman",
-      "date": "2026-12-04T17:00:00+02:00",
+      "date": "2026-12-04T16:00:00+02:00",
       "match_id": "c4886678",
       "status": "NS"
     },
     {
       "home": "Horoya AC",
       "away": "Pyramids",
-      "date": "2026-12-04T17:00:00+02:00",
+      "date": "2026-12-04T16:00:00+02:00",
       "match_id": "c4886679",
       "status": "NS"
     }

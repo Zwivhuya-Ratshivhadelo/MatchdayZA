@@ -5,10 +5,22 @@
   "name": "NW Stream A",
   "slug": "nw-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28492",
-  "updated": "2026-10-29T12:01:31+02:00",
+  "updated": "2026-10-29T18:02:12+02:00",
   "log": [
     {
       "pos": 1,
+      "team": "Stilfontein Real Hearts FC",
+      "p": 5,
+      "w": 5,
+      "d": 0,
+      "l": 0,
+      "gf": 33,
+      "ga": 4,
+      "gd": 29,
+      "pts": 15
+    },
+    {
+      "pos": 2,
       "team": "Gm5 United",
       "p": 5,
       "w": 5,
@@ -18,18 +30,6 @@
       "ga": 0,
       "gd": 27,
       "pts": 15
-    },
-    {
-      "pos": 2,
-      "team": "Stilfontein Real Hearts FC",
-      "p": 4,
-      "w": 4,
-      "d": 0,
-      "l": 0,
-      "gf": 16,
-      "ga": 4,
-      "gd": 12,
-      "pts": 12
     },
     {
       "pos": 3,
@@ -142,13 +142,13 @@
     {
       "pos": 12,
       "team": "The B Boys Academy",
-      "p": 4,
+      "p": 5,
       "w": 1,
       "d": 0,
-      "l": 3,
+      "l": 4,
       "gf": 7,
-      "ga": 27,
-      "gd": -20,
+      "ga": 44,
+      "gd": -37,
       "pts": 3
     }
   ],
@@ -260,6 +260,16 @@
       "url": "https://inqaku.com/match/view?stream_id=28492&match_no=7&s=l",
       "date": "2026-10-03",
       "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Stilfontein Real Hearts FC",
+      "away": "The B Boys Academy",
+      "match_no": 11,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=11&s=l",
+      "date": "2026-10-03",
+      "home_score": 17,
       "away_score": 0,
       "status": "FT"
     },
