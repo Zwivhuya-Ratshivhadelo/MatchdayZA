@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T19:57:18+02:00",
+  "updated": "2026-10-30T19:59:40+02:00",
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 1,
   "status": "LIVE",
-  "minute": "25'",
+  "minute": "26'",
   "events": [
+    {
+      "minute": "26'",
+      "type": "goal",
+      "player": "Raymond Makhuvele",
+      "team": "Siwelele",
+      "score": [
+        1,
+        1
+      ]
+    },
     {
       "minute": "7'",
       "type": "goal",
@@ -27,18 +37,18 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "7",
-      "away": "1"
+      "home": "8",
+      "away": "2"
     },
     {
       "label": "Shots on target",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Corners",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Offsides",

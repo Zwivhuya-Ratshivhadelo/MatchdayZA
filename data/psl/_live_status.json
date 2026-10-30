@@ -1,12 +1,12 @@
 {
-  "time": "2026-10-30T19:57:14+02:00",
+  "time": "2026-10-30T19:59:37+02:00",
   "links_found": 13,
   "games": [
     {
       "game": "Marumo Gallants v Siwelele",
       "kickoff": "2026-10-30T19:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674042-marumo-gallants-vs-siwelele",
-      "page": "LIVE 1-0, line-ups 2"
+      "page": "LIVE 1-1, line-ups 2"
     },
     {
       "game": "Stellenbosch FC v Chippa United",
@@ -20,7 +20,7 @@
       "kickoff": "2026-10-30T19:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019652",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-0 28'"
+      "365scores": "LIVE 0-0 31'"
     }
   ]
 }
