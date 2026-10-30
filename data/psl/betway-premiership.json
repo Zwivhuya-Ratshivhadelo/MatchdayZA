@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-30T23:00:22+02:00",
+  "updated": "2026-10-31T00:00:24+02:00",
   "log": [
     {
       "pos": 1,
@@ -904,15 +904,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Stellenbosch FC",
-      "away": "Chippa United",
-      "date": "2026-10-30T19:30:00+02:00",
-      "venue": "Danie Craven Stadium, Stellenbosch",
-      "status": "NS",
-      "match_id": "2674043",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674043"
-    },
     {
       "home": "Orlando Pirates",
       "away": "Kaizer Chiefs",
