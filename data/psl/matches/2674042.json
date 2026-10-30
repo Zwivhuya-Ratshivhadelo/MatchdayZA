@@ -3,12 +3,39 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T20:57:26+02:00",
+  "updated": "2026-10-30T21:00:21+02:00",
   "home_score": 3,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "66'",
+  "minute": "68'",
   "events": [
+    {
+      "minute": "68'",
+      "type": "yellow",
+      "player": "Thabiso Sesane",
+      "team": "Siwelele"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Katlego Otladisa",
+      "player_out": "Msindisi Kunene"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Onke Moletshe",
+      "player_out": "Sibusiso Ncube"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Yanga Madiba",
+      "player_out": "Saketso Moremi"
+    },
     {
       "minute": "59'",
       "type": "sub",
@@ -123,12 +150,12 @@
     {
       "label": "Fouls",
       "home": "7",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Yellow Cards",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",
