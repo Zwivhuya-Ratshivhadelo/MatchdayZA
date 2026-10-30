@@ -3,15 +3,15 @@
   "comp": "national-first-division",
   "home": "Orbit College FC",
   "away": "Venda FC",
-  "updated": "2026-10-30T20:45:31+02:00",
+  "updated": "2026-10-30T20:47:54+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "58'",
+  "minute": "60'",
   "stats": [
     {
       "label": "Attacks",
-      "home": "47",
+      "home": "50",
       "away": "65"
     },
     {
