@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-30T19:40:13+02:00",
+  "updated": "2026-10-30T19:42:43+02:00",
   "log": [
     {
       "pos": 1,
@@ -896,11 +896,11 @@
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "match_id": "2674042",
       "url": "https://www.psl.co.za/matchcentre/detail/2674042-marumo-gallants-vs-siwelele",
-      "latest": "0' Kick-off",
-      "home_score": 0,
+      "latest": "7' Goal, Samkele Sihlali (Marumo Gallants)",
+      "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "7'"
+      "minute": "10'"
     }
   ],
   "fixtures": [
