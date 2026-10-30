@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-30T21:24:30+02:00",
+  "updated": "2026-10-30T21:26:52+02:00",
   "log": [
     {
       "pos": 1,
@@ -895,11 +895,11 @@
       "date": "2026-10-30T19:30:00+02:00",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "match_id": "2674042",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674042-marumo-gallants-vs-siwelele",
-      "latest": "84' Sub, Marumo Gallants: Diala Manaka on for Siphosakhe Ntiya-Ntiya",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674042",
+      "latest": "90+5' Full time",
       "home_score": 3,
       "away_score": 2,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+3'"
     }
   ],

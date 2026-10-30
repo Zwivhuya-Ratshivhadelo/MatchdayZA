@@ -1,12 +1,12 @@
 {
-  "time": "2026-10-30T21:24:21+02:00",
-  "links_found": 13,
+  "time": "2026-10-30T21:26:43+02:00",
+  "links_found": 12,
   "games": [
     {
       "game": "Marumo Gallants v Siwelele",
       "kickoff": "2026-10-30T19:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674042-marumo-gallants-vs-siwelele",
-      "page": "LIVE 3-2, line-ups 2"
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674042",
+      "page": "FT 3-2, line-ups 2"
     },
     {
       "game": "Stellenbosch FC v Chippa United",
@@ -17,10 +17,7 @@
     },
     {
       "game": "Orbit College FC v Venda FC",
-      "kickoff": "2026-10-30T19:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019652",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "FT 0-0 "
+      "kickoff": "2026-10-30T19:30:00+02:00"
     }
   ]
 }
