@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-30T21:17:17+02:00",
+  "updated": "2026-10-30T21:19:41+02:00",
   "log": [
     {
       "pos": 1,
@@ -900,7 +900,7 @@
       "home_score": 3,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "86'"
+      "minute": "88'"
     }
   ],
   "fixtures": [
