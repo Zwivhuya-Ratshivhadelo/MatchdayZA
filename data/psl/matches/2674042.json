@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T21:05:14+02:00",
+  "updated": "2026-10-30T21:07:37+02:00",
   "home_score": 3,
   "away_score": 2,
   "status": "LIVE",
@@ -136,12 +136,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "15",
+      "home": "16",
       "away": "4"
     },
     {
       "label": "Shots on target",
-      "home": "5",
+      "home": "6",
       "away": "2"
     },
     {
