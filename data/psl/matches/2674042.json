@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T20:33:23+02:00",
+  "updated": "2026-10-30T20:35:48+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "45+3'",
+  "minute": "45'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Maliele Pule",
+      "player_out": "Neo Mokhachane"
+    },
     {
       "minute": "45+3'",
       "type": "half_time"
