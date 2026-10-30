@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T21:07:37+02:00",
+  "updated": "2026-10-30T21:09:58+02:00",
   "home_score": 3,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "74'",
+  "minute": "79'",
   "events": [
+    {
+      "minute": "78'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Thato Letshedi",
+      "player_out": "Shadrack Kobedi"
+    },
     {
       "minute": "71'",
       "type": "sub",
@@ -156,8 +163,8 @@
     },
     {
       "label": "Fouls",
-      "home": "8",
-      "away": "9"
+      "home": "9",
+      "away": "10"
     },
     {
       "label": "Yellow Cards",
