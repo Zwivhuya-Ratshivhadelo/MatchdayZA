@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T20:40:37+02:00",
-  "home_score": 2,
+  "updated": "2026-10-30T20:43:00+02:00",
+  "home_score": 3,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "49'",
+  "minute": "51'",
   "events": [
+    {
+      "minute": "49'",
+      "type": "goal",
+      "player": "Samkele Sihlali",
+      "team": "Marumo Gallants",
+      "score": [
+        3,
+        1
+      ]
+    },
     {
       "minute": "45'",
       "type": "second_half"
@@ -75,12 +85,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "11",
+      "home": "12",
       "away": "3"
     },
     {
       "label": "Shots on target",
-      "home": "3",
+      "home": "4",
       "away": "1"
     },
     {
@@ -91,7 +101,7 @@
     {
       "label": "Offsides",
       "home": "1",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Fouls",
