@@ -3,12 +3,23 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T20:35:48+02:00",
+  "updated": "2026-10-30T20:38:13+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "45'",
+  "minute": "46'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Christian Saile",
+      "player_out": "Kwanda Lupalulele"
+    },
     {
       "minute": "45'",
       "type": "sub",
@@ -75,7 +86,7 @@
     {
       "label": "Corners",
       "home": "2",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Offsides",
