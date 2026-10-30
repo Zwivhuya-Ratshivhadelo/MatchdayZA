@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-30T18:00:24+02:00",
+  "updated": "2026-10-30T18:20:17+02:00",
   "log": [
     {
       "pos": 1,
@@ -896,14 +896,18 @@
       "away": "Siwelele",
       "date": "2026-10-30T19:30:00+02:00",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674042",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674042"
     },
     {
       "home": "Stellenbosch FC",
       "away": "Chippa United",
       "date": "2026-10-30T19:30:00+02:00",
       "venue": "Danie Craven Stadium, Stellenbosch",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674043",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674043"
     },
     {
       "home": "Orlando Pirates",

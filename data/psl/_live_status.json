@@ -1,12 +1,24 @@
 {
-  "time": "2026-10-28T21:00:20+02:00",
-  "links_found": 6,
+  "time": "2026-10-30T18:20:11+02:00",
+  "links_found": 12,
   "games": [
     {
-      "game": "Durban City v Stellenbosch FC",
-      "kickoff": "2026-10-28T19:00:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2698886-durban-city-vs-stellenbosch-fc",
-      "page": "FT 0-2, line-ups 2"
+      "game": "Marumo Gallants v Siwelele",
+      "kickoff": "2026-10-30T19:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674042",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Stellenbosch FC v Chippa United",
+      "kickoff": "2026-10-30T19:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674043",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Orbit College FC v Venda FC",
+      "kickoff": "2026-10-30T19:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019652",
+      "page": "NS None-None, line-ups 0"
     }
   ]
 }
