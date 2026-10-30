@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T20:02:05+02:00",
+  "updated": "2026-10-30T20:04:30+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "29'",
+  "minute": "31'",
   "events": [
+    {
+      "minute": "30'",
+      "type": "yellow",
+      "player": "Msindisi Kunene",
+      "team": "Marumo Gallants"
+    },
     {
       "minute": "26'",
       "type": "goal",
@@ -57,12 +63,12 @@
     },
     {
       "label": "Fouls",
-      "home": "3",
+      "home": "4",
       "away": "3"
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
+      "home": "1",
       "away": "0"
     },
     {
