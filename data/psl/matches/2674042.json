@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T21:12:24+02:00",
+  "updated": "2026-10-30T21:14:48+02:00",
   "home_score": 3,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "80'",
+  "minute": "84'",
   "events": [
+    {
+      "minute": "84'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Zakhele Lepasa",
+      "player_out": "Manoke Noge"
+    },
     {
       "minute": "78'",
       "type": "sub",
@@ -143,7 +150,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "16",
+      "home": "17",
       "away": "4"
     },
     {
