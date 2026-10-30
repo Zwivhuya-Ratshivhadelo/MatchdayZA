@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-30T21:55:46+02:00",
+  "updated": "2026-10-30T21:56:12+02:00",
   "log": [
     {
       "pos": 1,
@@ -140,14 +140,24 @@
       "pos": 14,
       "team": "Siwelele",
       "club": "Siwelele",
-      "p": 8,
+      "p": 9,
       "w": 1,
       "d": 3,
-      "l": 4,
+      "l": 5,
       "pts": 6
     },
     {
       "pos": 15,
+      "team": "Marumo Gallants",
+      "club": "Marumo_Gallants",
+      "p": 9,
+      "w": 1,
+      "d": 2,
+      "l": 6,
+      "pts": 5
+    },
+    {
+      "pos": 16,
       "team": "Richards Bay",
       "club": "Richards_Bay",
       "p": 8,
@@ -155,16 +165,6 @@
       "d": 3,
       "l": 5,
       "pts": 3
-    },
-    {
-      "pos": 16,
-      "team": "Marumo Gallants",
-      "club": "Marumo_Gallants",
-      "p": 8,
-      "w": 0,
-      "d": 2,
-      "l": 6,
-      "pts": 2
     }
   ],
   "results": [
@@ -892,10 +892,10 @@
     {
       "home": "Marumo Gallants",
       "away": "Siwelele",
-      "date": "2026-10-30T19:30:00+02:00",
+      "date": "2026-10-30",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "match_id": "2674042",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674042",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674042-marumo-gallants-vs-siwelele",
       "latest": "90+5' Full time",
       "home_score": 3,
       "away_score": 2,

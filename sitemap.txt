@@ -20,8 +20,8 @@ https://www.matchdayza.co.za/polokwane-city/
 https://www.matchdayza.co.za/kruger-united/
 https://www.matchdayza.co.za/ts-galaxy/
 https://www.matchdayza.co.za/siwelele/
-https://www.matchdayza.co.za/richards-bay/
 https://www.matchdayza.co.za/marumo-gallants/
+https://www.matchdayza.co.za/richards-bay/
 https://www.matchdayza.co.za/magesi-fc/
 https://www.matchdayza.co.za/real-native-fc/
 https://www.matchdayza.co.za/leicesterford-city-fc/
@@ -268,6 +268,7 @@ https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-amazulu-fc-2026-08-26/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-durban-city-2026-10-31/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-durban-city-2026-11-01/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-golden-arrows-2026-08-23/
+https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-golden-arrows-2026-11-03/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-golden-arrows-2026-11-06/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-golden-arrows-2027-03-06/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-kaizer-chiefs-2027-02-06/
