@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-30T20:04:37+02:00",
+  "updated": "2026-10-30T20:07:04+02:00",
   "log": [
     {
       "pos": 1,
@@ -896,11 +896,11 @@
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "match_id": "2674042",
       "url": "https://www.psl.co.za/matchcentre/detail/2674042-marumo-gallants-vs-siwelele",
-      "latest": "30' Yellow card, Msindisi Kunene (Marumo Gallants)",
-      "home_score": 1,
+      "latest": "32' Goal, Ndabayithethwa Ndlondlo (Marumo Gallants)",
+      "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "31'"
+      "minute": "32'"
     }
   ],
   "fixtures": [

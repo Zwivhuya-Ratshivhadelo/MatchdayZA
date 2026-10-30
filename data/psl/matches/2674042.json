@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T20:04:30+02:00",
-  "home_score": 1,
+  "updated": "2026-10-30T20:06:55+02:00",
+  "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "31'",
+  "minute": "32'",
   "events": [
+    {
+      "minute": "32'",
+      "type": "goal",
+      "player": "Ndabayithethwa Ndlondlo",
+      "team": "Marumo Gallants",
+      "score": [
+        2,
+        1
+      ]
+    },
     {
       "minute": "30'",
       "type": "yellow",
@@ -43,12 +53,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "8",
+      "home": "9",
       "away": "2"
     },
     {
       "label": "Shots on target",
-      "home": "2",
+      "home": "3",
       "away": "1"
     },
     {
