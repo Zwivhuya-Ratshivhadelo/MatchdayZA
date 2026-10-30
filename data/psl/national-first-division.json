@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-30T19:22:09+02:00",
+  "updated": "2026-10-30T19:32:46+02:00",
   "log": [
     {
       "pos": 1,
@@ -764,16 +764,20 @@
       "home_score": 1,
       "away_score": 0,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Orbit College FC",
       "away": "Venda FC",
       "date": "2026-10-30T19:30:00+02:00",
       "match_id": "3019652",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019652"
-    },
+      "url": "https://www.psl.co.za/matchcentre/detail/3019652",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "4'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "The Bees",
       "away": "Midlands Wanderers",

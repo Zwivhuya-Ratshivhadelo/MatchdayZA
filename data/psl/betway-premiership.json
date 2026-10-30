@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-30T19:22:08+02:00",
+  "updated": "2026-10-30T19:32:44+02:00",
   "log": [
     {
       "pos": 1,
@@ -888,18 +888,22 @@
       "home_score": 1,
       "away_score": 0,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Marumo Gallants",
       "away": "Siwelele",
       "date": "2026-10-30T19:30:00+02:00",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
-      "status": "NS",
       "match_id": "2674042",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674042"
-    },
+      "url": "https://www.psl.co.za/matchcentre/detail/2674042",
+      "latest": "0' Kick-off",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "0'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Stellenbosch FC",
       "away": "Chippa United",
