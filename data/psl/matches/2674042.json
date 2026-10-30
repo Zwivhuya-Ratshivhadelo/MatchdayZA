@@ -3,12 +3,222 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T19:01:34+02:00",
+  "updated": "2026-10-30T19:11:49+02:00",
   "home_score": null,
   "away_score": null,
   "status": "NS",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [
+    {
+      "team": "Marumo Gallants",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Kagiso Mlambo",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "22",
+          "name": "Mbhazima Rikhotso",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "Siphosakhe Ntiya-Ntiya",
+          "pos": "Defender"
+        },
+        {
+          "no": "17",
+          "name": "P Motsoeneng",
+          "pos": "Defender"
+        },
+        {
+          "no": "20",
+          "name": "P Manku",
+          "pos": "Defender"
+        },
+        {
+          "no": "15",
+          "name": "Ndabayithethwa Ndlondlo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "27",
+          "name": "Saketso Moremi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "M Ndlovu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "13",
+          "name": "S Ncube",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "19",
+          "name": "T Pheeha",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "38",
+          "name": "S Sihlali",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "37",
+          "name": "N Ralenkoane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Diala Manaka",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "L Button",
+          "pos": "Substitute"
+        },
+        {
+          "no": "30",
+          "name": "E Lako",
+          "pos": "Substitute"
+        },
+        {
+          "no": "24",
+          "name": "Y Madiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "D Lukhele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "S Mbhele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Onke Moletshe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Katlego Otladisa",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Siwelele",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Jody February",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "22",
+          "name": "K Lupalulele",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "T Sesane",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "Y Mfolozi",
+          "pos": "Defender"
+        },
+        {
+          "no": "33",
+          "name": "S Ndebele",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "Shadrack Kobedi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "3",
+          "name": "Manoke Noge",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "N Mokhachane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "S Jeza",
+          "pos": "Striker"
+        },
+        {
+          "no": "12",
+          "name": "M Mazibuko",
+          "pos": "Striker"
+        },
+        {
+          "no": "11",
+          "name": "C Basomboli",
+          "pos": "Substitute"
+        }
+      ],
+      "subs": [
+        {
+          "no": "47",
+          "name": "M Marou",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "K Khonyane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "36",
+          "name": "T Letshedi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "T Mthombeni",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "B Baloyi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Zakhele Lepasa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "Relebogile Mokhuoane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "Vincent Pule",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
 }
