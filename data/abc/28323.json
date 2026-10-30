@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream B",
   "slug": "lp-limpopo-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28323",
-  "updated": "2026-10-29T22:01:23+02:00",
+  "updated": "2026-10-30T06:01:18+02:00",
   "log": [
     {
       "pos": 1,
@@ -385,14 +385,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Phinnet City FC",
-      "away": "Mohlabile United FC",
-      "match_no": 26,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=26&s=l",
-      "date": "2026-10-29T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Phinnet City FC",
       "away": "Mohlabile United FC",
