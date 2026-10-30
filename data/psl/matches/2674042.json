@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Marumo Gallants",
   "away": "Siwelele",
-  "updated": "2026-10-30T21:14:48+02:00",
+  "updated": "2026-10-30T21:17:11+02:00",
   "home_score": 3,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "84'",
+  "minute": "86'",
   "events": [
+    {
+      "minute": "84'",
+      "type": "sub",
+      "team": "Marumo Gallants",
+      "player_in": "Diala Manaka",
+      "player_out": "Siphosakhe Ntiya-Ntiya"
+    },
     {
       "minute": "84'",
       "type": "sub",
@@ -151,7 +158,7 @@
     {
       "label": "Shots",
       "home": "17",
-      "away": "4"
+      "away": "6"
     },
     {
       "label": "Shots on target",
