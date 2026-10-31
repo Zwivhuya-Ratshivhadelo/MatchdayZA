@@ -3,12 +3,23 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Golden Arrows",
-  "updated": "2026-10-31T19:05:26+02:00",
+  "updated": "2026-10-31T19:07:37+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "45+3'",
+  "minute": "45'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Siphesihle Msomi",
+      "player_out": "Nqobeko Dlamini"
+    },
     {
       "minute": "45+3'",
       "type": "half_time"
@@ -98,18 +109,13 @@
           "pos": "Defender"
         },
         {
-          "no": "14",
-          "name": "N Radebe",
+          "no": "3",
+          "name": "O Mdaka",
           "pos": "Defender"
         },
         {
           "no": "10",
           "name": "Sphesihle Maduna",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "3",
-          "name": "O Mdaka",
           "pos": "Midfielder"
         },
         {
@@ -120,6 +126,11 @@
         {
           "no": "6",
           "name": "S Hlangabeza",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "14",
+          "name": "N Radebe",
           "pos": "Midfielder"
         },
         {
