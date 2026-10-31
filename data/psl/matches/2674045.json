@@ -3,12 +3,227 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Sekhukhune United",
-  "updated": "2026-10-31T15:01:41+02:00",
+  "updated": "2026-10-31T15:12:00+02:00",
   "home_score": null,
   "away_score": null,
   "status": "NS",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [
+    {
+      "team": "Milford FC",
+      "starting": [
+        {
+          "no": "32",
+          "name": "Siphamandla Hleza",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "14",
+          "name": "S Mdluli",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "M Mbhele",
+          "pos": "Defender"
+        },
+        {
+          "no": "23",
+          "name": "T Bhengu",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "O Cele",
+          "pos": "Defender"
+        },
+        {
+          "no": "55",
+          "name": "C Mthethwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "M Zikakayo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "S Ndlabi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "38",
+          "name": "Y Nomandela",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "M Chili",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "90",
+          "name": "S Masilela",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "17",
+          "name": "J Gxakoshe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "30",
+          "name": "M Madondo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "M Mkhize",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "T Mabena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Vusumuzi Mthabela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "K Khwanya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "L Dyonasi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "P Jwara",
+          "pos": "Substitute"
+        },
+        {
+          "no": "24",
+          "name": "N Biyela",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Sekhukhune United",
+      "starting": [
+        {
+          "no": "30",
+          "name": "Melusi Buthelezi",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "2",
+          "name": "Nyiko Mobbie",
+          "pos": "Defender"
+        },
+        {
+          "no": "14",
+          "name": "S O’Neil",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "A Mcaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "T Matsimbi",
+          "pos": "Defender"
+        },
+        {
+          "no": "13",
+          "name": "M Vandala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "31",
+          "name": "T Mokoane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "N Rammala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "Siphesihle Mkhize",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "Givemore Khupe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "34",
+          "name": "Chibuike Ohizu",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "3",
+          "name": "B Ndlovu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "M Sapunga Mbara",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "D Kazeem",
+          "pos": "Substitute"
+        },
+        {
+          "no": "41",
+          "name": "B Muzeu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "M Ramabu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "T Makubo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Thato Khiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "36",
+          "name": "S Ndlozi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "O Phiri",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
 }
