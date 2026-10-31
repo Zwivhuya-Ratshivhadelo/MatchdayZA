@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Richards Bay",
-  "updated": "2026-10-31T20:20:20+02:00",
-  "home_score": 0,
+  "updated": "2026-10-31T20:22:29+02:00",
+  "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "3'",
+  "minute": "6'",
   "events": [
+    {
+      "minute": "3'",
+      "type": "goal",
+      "player": "Wonderboy Makhubu",
+      "team": "Kruger United",
+      "score": [
+        1,
+        0
+      ]
+    },
     {
       "minute": "0'",
       "type": "kickoff"
