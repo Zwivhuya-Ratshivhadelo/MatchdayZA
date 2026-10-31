@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Richards Bay",
-  "updated": "2026-10-31T21:01:06+02:00",
+  "updated": "2026-10-31T21:03:16+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "44'",
+  "minute": "45+2'",
   "events": [
+    {
+      "minute": "45+1'",
+      "type": "yellow",
+      "player": "Ayabulela Konqobe",
+      "team": "Kruger United"
+    },
     {
       "minute": "39'",
       "type": "goal",
@@ -48,7 +54,7 @@
     {
       "label": "Shots",
       "home": "5",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Shots on target",
@@ -62,17 +68,17 @@
     },
     {
       "label": "Offsides",
-      "home": "2",
+      "home": "3",
       "away": "2"
     },
     {
       "label": "Fouls",
-      "home": "8",
+      "home": "9",
       "away": "4"
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
+      "home": "1",
       "away": "0"
     },
     {
