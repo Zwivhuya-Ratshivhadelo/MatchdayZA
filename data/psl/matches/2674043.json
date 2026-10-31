@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "Chippa United",
-  "updated": "2026-10-31T19:34:05+02:00",
+  "updated": "2026-10-31T19:36:20+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "76'",
+  "minute": "79'",
   "events": [
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "Chippa United",
+      "player_in": "Ibrahim Bancé",
+      "player_out": "Harold Majadibodu"
+    },
     {
       "minute": "76'",
       "type": "sub",
@@ -76,7 +83,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "11",
+      "home": "12",
       "away": "6"
     },
     {
@@ -96,7 +103,7 @@
     },
     {
       "label": "Fouls",
-      "home": "10",
+      "home": "11",
       "away": "6"
     },
     {

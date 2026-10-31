@@ -3,17 +3,23 @@
   "comp": "betway-premiership",
   "home": "Polokwane City",
   "away": "TS Galaxy",
-  "updated": "2026-10-31T19:34:03+02:00",
+  "updated": "2026-10-31T19:36:18+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "70'",
+  "minute": "73'",
   "events": [
     {
-      "minute": "62'",
+      "minute": "73'",
       "type": "yellow",
       "player": "Monty Batlhabane",
       "team": "Polokwane City"
+    },
+    {
+      "minute": "62'",
+      "type": "yellow",
+      "player": "Tshepo Kakora",
+      "team": "TS Galaxy"
     },
     {
       "minute": "61'",
@@ -86,13 +92,13 @@
     },
     {
       "label": "Fouls",
-      "home": "7",
+      "home": "8",
       "away": "14"
     },
     {
       "label": "Yellow Cards",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",
