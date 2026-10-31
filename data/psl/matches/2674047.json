@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Richards Bay",
-  "updated": "2026-10-31T20:56:50+02:00",
+  "updated": "2026-10-31T20:58:58+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "39'",
+  "minute": "43'",
   "events": [
     {
       "minute": "39'",
@@ -67,7 +67,7 @@
     },
     {
       "label": "Fouls",
-      "home": "4",
+      "home": "6",
       "away": "4"
     },
     {
@@ -91,18 +91,8 @@
           "pos": "Goalkeeper"
         },
         {
-          "no": "13",
-          "name": "Ebrahim Seedat",
-          "pos": "Defender"
-        },
-        {
           "no": "55",
           "name": "Ayabulela Konqobe",
-          "pos": "Defender"
-        },
-        {
-          "no": "12",
-          "name": "B Malatjie",
           "pos": "Defender"
         },
         {
@@ -116,6 +106,11 @@
           "pos": "Defender"
         },
         {
+          "no": "13",
+          "name": "Ebrahim Seedat",
+          "pos": "Midfielder"
+        },
+        {
           "no": "28",
           "name": "N Thwala",
           "pos": "Midfielder"
@@ -126,9 +121,14 @@
           "pos": "Midfielder"
         },
         {
+          "no": "12",
+          "name": "B Malatjie",
+          "pos": "Midfielder"
+        },
+        {
           "no": "20",
           "name": "Celimpilo Ngema",
-          "pos": "Midfielder"
+          "pos": "Striker"
         },
         {
           "no": "10",
@@ -148,7 +148,7 @@
           "pos": "Substitute"
         },
         {
-          "no": "98",
+          "no": "19",
           "name": "T Mmakgolane",
           "pos": "Substitute"
         },
@@ -158,7 +158,7 @@
           "pos": "Substitute"
         },
         {
-          "no": "99",
+          "no": "48",
           "name": "P Manqele",
           "pos": "Substitute"
         },
@@ -213,8 +213,8 @@
           "pos": "Defender"
         },
         {
-          "no": "37",
-          "name": "S Gwele",
+          "no": "24",
+          "name": "S Gumede",
           "pos": "Defender"
         },
         {
@@ -223,13 +223,13 @@
           "pos": "Midfielder"
         },
         {
-          "no": "12",
-          "name": "S Gumbi",
+          "no": "37",
+          "name": "S Gwele",
           "pos": "Midfielder"
         },
         {
-          "no": "24",
-          "name": "S Gumede",
+          "no": "12",
+          "name": "S Gumbi",
           "pos": "Midfielder"
         },
         {

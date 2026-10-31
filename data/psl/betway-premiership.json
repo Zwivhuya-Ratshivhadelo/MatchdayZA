@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T20:56:51+02:00",
+  "updated": "2026-10-31T20:59:00+02:00",
   "log": [
     {
       "pos": 1,
@@ -977,7 +977,7 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "39'",
+      "minute": "43'",
       "latest": "39' Goal, Luyanda Khumalo (Richards Bay)"
     },
     {
@@ -991,7 +991,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "40'"
+      "minute": "41'"
     }
   ],
   "fixtures": [
