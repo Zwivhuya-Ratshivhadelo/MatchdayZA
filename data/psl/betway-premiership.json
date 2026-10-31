@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T18:28:07+02:00",
+  "updated": "2026-10-31T18:30:18+02:00",
   "log": [
     {
       "pos": 1,
@@ -952,7 +952,7 @@
       "home_score": 0,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "27'"
+      "minute": "30'"
     },
     {
       "home": "Polokwane City",
