@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Mamelodi Sundowns",
   "away": "Durban City",
-  "updated": "2026-10-31T21:24:45+02:00",
+  "updated": "2026-10-31T21:26:53+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "47'",
+  "minute": "50'",
   "events": [
     {
       "minute": "45'",
@@ -76,8 +76,8 @@
     },
     {
       "label": "Fouls",
-      "home": "8",
-      "away": "4"
+      "home": "9",
+      "away": "5"
     },
     {
       "label": "Yellow Cards",
