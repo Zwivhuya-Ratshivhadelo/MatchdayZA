@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T21:35:33+02:00",
+  "updated": "2026-10-31T21:37:42+02:00",
   "log": [
     {
       "pos": 1,
@@ -977,7 +977,7 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "57'",
+      "minute": "62'",
       "latest": "55' Sub, Richards Bay: Siyabonga Nzama on for Sanele Barns"
     },
     {
