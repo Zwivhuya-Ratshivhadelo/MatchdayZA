@@ -1,18 +1,14 @@
 {
-  "time": "2026-10-31T17:27:22+02:00",
-  "links_found": 13,
+  "time": "2026-10-31T17:29:40+02:00",
+  "links_found": 12,
   "games": [
     {
       "game": "Orlando Pirates v Kaizer Chiefs",
-      "kickoff": "2026-10-31T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674044-orlando-pirates-vs-kaizer-chiefs",
-      "page": "LIVE 2-1, line-ups 2"
+      "kickoff": "2026-10-31T15:30:00+02:00"
     },
     {
       "game": "Milford FC v Sekhukhune United",
-      "kickoff": "2026-10-31T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674045",
-      "page": "FT 1-0, line-ups 2"
+      "kickoff": "2026-10-31T15:30:00+02:00"
     },
     {
       "game": "The Bees v Midlands Wanderers",

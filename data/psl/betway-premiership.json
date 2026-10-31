@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T17:27:27+02:00",
+  "updated": "2026-10-31T17:28:36+02:00",
   "log": [
     {
       "pos": 1,
@@ -911,9 +911,9 @@
       "url": "https://www.psl.co.za/matchcentre/detail/2674044-orlando-pirates-vs-kaizer-chiefs",
       "home_score": 2,
       "away_score": 1,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+4'",
-      "latest": "82' Sub, Kaizer Chiefs: Ethan Chislett on for Lebohang Maboe"
+      "latest": "90+6' Full time"
     },
     {
       "home": "Milford FC",
