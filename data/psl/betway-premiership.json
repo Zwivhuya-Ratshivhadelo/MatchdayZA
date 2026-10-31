@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T16:37:33+02:00",
+  "updated": "2026-10-31T16:40:01+02:00",
   "log": [
     {
       "pos": 1,
@@ -912,8 +912,8 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "45+4'",
-      "latest": "45+4' Half-time"
+      "minute": "47'",
+      "latest": "45' Sub, Orlando Pirates: Gamphani Lungu on for Nkosikhona Ndaba"
     },
     {
       "home": "Milford FC",
@@ -926,7 +926,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "47'"
+      "minute": "48'"
     }
   ],
   "fixtures": [

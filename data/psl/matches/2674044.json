@@ -3,12 +3,23 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T16:37:31+02:00",
+  "updated": "2026-10-31T16:39:59+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "45+4'",
+  "minute": "47'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Gamphani Lungu",
+      "player_out": "Nkosikhona Ndaba"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
     {
       "minute": "45+4'",
       "type": "half_time"
@@ -79,7 +90,7 @@
     },
     {
       "label": "Fouls",
-      "home": "9",
+      "home": "10",
       "away": "3"
     },
     {
