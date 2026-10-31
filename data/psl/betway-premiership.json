@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T18:21:33+02:00",
+  "updated": "2026-10-31T18:23:44+02:00",
   "log": [
     {
       "pos": 1,
@@ -939,7 +939,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "19'"
+      "minute": "20'"
     },
     {
       "home": "Stellenbosch FC",
@@ -964,7 +964,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "17'",
+      "minute": "18'",
       "latest": "0' Kick-off"
     }
   ],
