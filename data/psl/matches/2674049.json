@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Mamelodi Sundowns",
   "away": "Durban City",
-  "updated": "2026-10-31T21:18:19+02:00",
+  "updated": "2026-10-31T21:20:28+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "45+2'",
+  "minute": "45'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Trevor Mokwena",
+      "player_out": "Ethan Brooks"
+    },
     {
       "minute": "45+2'",
       "type": "half_time"
