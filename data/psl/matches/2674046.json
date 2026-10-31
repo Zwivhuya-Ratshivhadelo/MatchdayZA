@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Polokwane City",
   "away": "TS Galaxy",
-  "updated": "2026-10-31T19:18:37+02:00",
+  "updated": "2026-10-31T19:20:49+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "56'",
+  "minute": "58'",
   "events": [
     {
       "minute": "45'",
@@ -59,8 +59,8 @@
     },
     {
       "label": "Fouls",
-      "home": "4",
-      "away": "11"
+      "home": "5",
+      "away": "13"
     },
     {
       "label": "Yellow Cards",
