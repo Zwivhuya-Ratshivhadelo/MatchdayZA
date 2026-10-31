@@ -1,13 +1,12 @@
 {
-  "time": "2026-10-31T15:32:40+02:00",
-  "links_found": 13,
+  "time": "2026-10-31T15:35:11+02:00",
+  "links_found": 14,
   "games": [
     {
       "game": "Orlando Pirates v Kaizer Chiefs",
       "kickoff": "2026-10-31T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674044",
-      "page": "NS None-None, line-ups 2",
-      "365scores": "LIVE 0-0 1'"
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674044-orlando-pirates-vs-kaizer-chiefs",
+      "page": "LIVE 0-0, line-ups 2"
     },
     {
       "game": "Milford FC v Sekhukhune United",
@@ -20,7 +19,7 @@
       "kickoff": "2026-10-31T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019769",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-0 1'"
+      "365scores": "LIVE 0-0 3'"
     },
     {
       "game": "Lerumo Lions v Pretoria University FC",
@@ -32,7 +31,7 @@
       "kickoff": "2026-10-31T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019670",
       "page": "NS None-None, line-ups 0",
-      "365scores": "NS None-None "
+      "365scores": "LIVE 0-0 1'"
     }
   ]
 }

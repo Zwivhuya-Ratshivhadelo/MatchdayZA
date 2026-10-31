@@ -3,88 +3,18 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T15:32:50+02:00",
+  "updated": "2026-10-31T15:35:19+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "1'",
-  "stats": [
+  "minute": "0'",
+  "events": [
     {
-      "label": "Possession",
-      "home": "0%",
-      "away": "100%"
-    },
-    {
-      "label": "Attacks",
-      "home": "0",
-      "away": "1"
-    },
-    {
-      "label": "Corners",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Free Kicks",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Offsides",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Throw-Ins",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Goal Kicks",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Yellow Cards",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Red Cards",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Big Chances Created",
-      "home": "0",
-      "away": "0"
-    },
-    {
-      "label": "Passes Completed",
-      "home": "0",
-      "away": "1"
-    },
-    {
-      "label": "Total Passes",
-      "home": "0",
-      "away": "1"
-    },
-    {
-      "label": "Passes Own Half",
-      "home": "0",
-      "away": "1"
-    },
-    {
-      "label": "Backward Passes",
-      "home": "0",
-      "away": "1"
-    },
-    {
-      "label": "Was Dribbled Past",
-      "home": "0",
-      "away": "0"
+      "minute": "0'",
+      "type": "kickoff"
     }
   ],
+  "stats": [],
   "lineups": [
     {
       "team": "Orlando Pirates",
@@ -300,6 +230,5 @@
         }
       ]
     }
-  ],
-  "events": []
+  ]
 }

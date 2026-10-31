@@ -3,19 +3,24 @@
   "comp": "national-first-division",
   "home": "The Bees",
   "away": "Midlands Wanderers",
-  "updated": "2026-10-31T15:32:53+02:00",
+  "updated": "2026-10-31T15:35:38+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "1'",
+  "minute": "3'",
   "stats": [
     {
       "label": "Possession",
-      "home": "100%",
-      "away": "0%"
+      "home": "79%",
+      "away": "21%"
     },
     {
       "label": "Attacks",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "label": "Corners",
       "home": "1",
       "away": "0"
     }

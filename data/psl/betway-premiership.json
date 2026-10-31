@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T15:32:51+02:00",
+  "updated": "2026-10-31T15:35:24+02:00",
   "log": [
     {
       "pos": 1,
@@ -908,11 +908,12 @@
       "date": "2026-10-31T15:30:00+02:00",
       "venue": "FNB Stadium, Johannesburg",
       "match_id": "2674044",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674044",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674044-orlando-pirates-vs-kaizer-chiefs",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "1'"
+      "minute": "0'",
+      "latest": "0' Kick-off"
     },
     {
       "home": "Milford FC",
@@ -925,7 +926,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "0'"
+      "minute": "3'"
     }
   ],
   "fixtures": [
