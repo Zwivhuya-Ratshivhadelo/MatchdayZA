@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T16:59:50+02:00",
+  "updated": "2026-10-31T17:02:17+02:00",
   "log": [
     {
       "pos": 1,
@@ -912,7 +912,7 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "64'",
+      "minute": "66'",
       "latest": "59' Sub, Orlando Pirates: Mthetheleli Mthiyane on for Simphiwe Selepe"
     },
     {
