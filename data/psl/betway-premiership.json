@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T17:07:20+02:00",
+  "updated": "2026-10-31T17:09:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -912,8 +912,8 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "70'",
-      "latest": "69' Sub, Kaizer Chiefs: Zitha Kwinika on for Reeve Frosler"
+      "minute": "76'",
+      "latest": "75' Sub, Kaizer Chiefs: Faiz Abrahams on for Mfundo Vilakazi"
     },
     {
       "home": "Milford FC",
@@ -926,7 +926,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "75'"
+      "minute": "77'"
     }
   ],
   "fixtures": [

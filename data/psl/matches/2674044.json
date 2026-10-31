@@ -3,12 +3,33 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T17:07:18+02:00",
+  "updated": "2026-10-31T17:09:48+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "70'",
+  "minute": "76'",
   "events": [
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Faiz Abrahams",
+      "player_out": "Mfundo Vilakazi"
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Oswin Appollis",
+      "player_out": "Simphiwe Masilela"
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Evidence Makgopa",
+      "player_out": "Yamela Mbuthuma"
+    },
     {
       "minute": "69'",
       "type": "sub",
@@ -102,7 +123,7 @@
     {
       "label": "Shots",
       "home": "8",
-      "away": "10"
+      "away": "11"
     },
     {
       "label": "Shots on target",
@@ -116,7 +137,7 @@
     },
     {
       "label": "Offsides",
-      "home": "1",
+      "home": "2",
       "away": "0"
     },
     {
