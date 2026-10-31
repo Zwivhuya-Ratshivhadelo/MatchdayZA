@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Richards Bay",
-  "updated": "2026-10-31T21:48:34+02:00",
+  "updated": "2026-10-31T21:50:44+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "72'",
+  "minute": "75'",
   "events": [
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Philani Sithebe",
+      "player_out": "Luyanda Khumalo"
+    },
     {
       "minute": "62'",
       "type": "yellow",
@@ -115,8 +122,8 @@
     },
     {
       "label": "Fouls",
-      "home": "16",
-      "away": "6"
+      "home": "17",
+      "away": "7"
     },
     {
       "label": "Yellow Cards",
