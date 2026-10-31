@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-31T17:02:12+02:00",
+  "time": "2026-10-31T17:04:42+02:00",
   "links_found": 14,
   "games": [
     {
@@ -19,7 +19,7 @@
       "kickoff": "2026-10-31T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019769",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 1-0 74'"
+      "365scores": "LIVE 1-0 76'"
     },
     {
       "game": "Lerumo Lions v Pretoria University FC",
@@ -31,7 +31,7 @@
       "kickoff": "2026-10-31T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019670",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-0 72'"
+      "365scores": "LIVE 0-0 75'"
     }
   ]
 }

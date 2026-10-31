@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T17:02:15+02:00",
+  "updated": "2026-10-31T17:04:45+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "66'",
+  "minute": "70'",
   "events": [
+    {
+      "minute": "69'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Zitha Kwinika",
+      "player_out": "Reeve Frosler"
+    },
     {
       "minute": "59'",
       "type": "sub",
@@ -114,7 +121,7 @@
     },
     {
       "label": "Fouls",
-      "home": "13",
+      "home": "14",
       "away": "4"
     },
     {
