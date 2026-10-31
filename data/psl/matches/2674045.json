@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Sekhukhune United",
-  "updated": "2026-10-31T16:44:54+02:00",
+  "updated": "2026-10-31T16:47:19+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "54'",
+  "minute": "55'",
   "events": [
     {
       "minute": "45'",
@@ -75,7 +75,7 @@
     },
     {
       "label": "Fouls",
-      "home": "8",
+      "home": "10",
       "away": "9"
     },
     {
