@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T17:04:47+02:00",
+  "updated": "2026-10-31T17:07:20+02:00",
   "log": [
     {
       "pos": 1,
@@ -922,11 +922,11 @@
       "venue": "Sugar Ray Xulu Stadium, Clermont",
       "match_id": "2674045",
       "url": "https://www.psl.co.za/matchcentre/detail/2674045-milford-fc-vs-sekhukhune-united",
-      "latest": "65' Sub, Sekhukhune United: Mokibelo Ramabu on for Mcedi Vandala",
+      "latest": "75' Sub, Milford: Vusumuzi Mthabela on for Mvelo Zikakayo",
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "73'"
+      "minute": "75'"
     }
   ],
   "fixtures": [
