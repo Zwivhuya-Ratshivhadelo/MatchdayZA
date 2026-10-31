@@ -1,21 +1,35 @@
 {
-  "time": "2026-10-30T21:55:35+02:00",
+  "time": "2026-10-31T14:20:17+02:00",
   "links_found": 12,
   "games": [
     {
-      "game": "Marumo Gallants v Siwelele",
-      "kickoff": "2026-10-30T19:30:00+02:00"
+      "game": "Orlando Pirates v Kaizer Chiefs",
+      "kickoff": "2026-10-31T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674044",
+      "page": "NS None-None, line-ups 0"
     },
     {
-      "game": "Stellenbosch FC v Chippa United",
-      "kickoff": "2026-10-30T19:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674043",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "not found"
+      "game": "Milford FC v Sekhukhune United",
+      "kickoff": "2026-10-31T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674045",
+      "page": "NS None-None, line-ups 0"
     },
     {
-      "game": "Orbit College FC v Venda FC",
-      "kickoff": "2026-10-30T19:30:00+02:00"
+      "game": "The Bees v Midlands Wanderers",
+      "kickoff": "2026-10-31T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019769",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Lerumo Lions v Pretoria University FC",
+      "kickoff": "2026-10-31T15:30:00+02:00",
+      "match_page": null
+    },
+    {
+      "game": "Hungry Lions FC v Upington City",
+      "kickoff": "2026-10-31T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019670",
+      "page": "NS None-None, line-ups 0"
     }
   ]
 }

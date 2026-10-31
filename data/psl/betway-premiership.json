@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T14:00:29+02:00",
+  "updated": "2026-10-31T14:20:22+02:00",
   "log": [
     {
       "pos": 1,
@@ -909,14 +909,18 @@
       "away": "Kaizer Chiefs",
       "date": "2026-10-31T15:30:00+02:00",
       "venue": "FNB Stadium, Johannesburg",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674044",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674044"
     },
     {
       "home": "Milford FC",
       "away": "Sekhukhune United",
       "date": "2026-10-31T15:30:00+02:00",
       "venue": "Sugar Ray Xulu Stadium, Clermont",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674045",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674045"
     },
     {
       "home": "AmaZulu FC",

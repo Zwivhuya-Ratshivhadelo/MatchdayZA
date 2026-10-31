@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-31T14:00:23+02:00",
+  "updated": "2026-10-31T14:20:25+02:00",
   "log": [
     {
       "pos": 1,
@@ -781,7 +781,9 @@
     {
       "home": "The Bees",
       "away": "Midlands Wanderers",
-      "date": "2026-10-31T15:30:00+02:00"
+      "date": "2026-10-31T15:30:00+02:00",
+      "match_id": "3019769",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019769"
     },
     {
       "home": "Lerumo Lions",
@@ -791,7 +793,9 @@
     {
       "home": "Hungry Lions FC",
       "away": "Upington City",
-      "date": "2026-10-31T15:30:00+02:00"
+      "date": "2026-10-31T15:30:00+02:00",
+      "match_id": "3019670",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019670"
     },
     {
       "home": "Highbury",
