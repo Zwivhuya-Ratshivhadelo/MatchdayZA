@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T21:26:53+02:00",
+  "updated": "2026-10-31T21:29:02+02:00",
   "log": [
     {
       "pos": 1,
@@ -977,7 +977,7 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "50'",
+      "minute": "54'",
       "latest": "45' Sub, Kruger United: Khetukuthula Ndlovu on for Ebrahim Seedat"
     },
     {
@@ -991,7 +991,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "50'"
+      "minute": "51'"
     }
   ],
   "fixtures": [
