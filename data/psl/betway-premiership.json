@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T16:47:19+02:00",
+  "updated": "2026-10-31T16:49:44+02:00",
   "log": [
     {
       "pos": 1,
@@ -909,11 +909,11 @@
       "venue": "FNB Stadium, Johannesburg",
       "match_id": "2674044",
       "url": "https://www.psl.co.za/matchcentre/detail/2674044-orlando-pirates-vs-kaizer-chiefs",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "53'",
-      "latest": "45' Sub, Orlando Pirates: Gamphani Lungu on for Nkosikhona Ndaba"
+      "minute": "55'",
+      "latest": "55' Goal, Tshepang Moremi (Orlando Pirates)"
     },
     {
       "home": "Milford FC",
@@ -926,7 +926,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "55'"
+      "minute": "59'"
     }
   ],
   "fixtures": [
