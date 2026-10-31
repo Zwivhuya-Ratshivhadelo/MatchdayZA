@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T16:52:08+02:00",
+  "updated": "2026-10-31T16:54:49+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "57'",
+  "minute": "60'",
   "events": [
+    {
+      "minute": "59'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Mthetheleli Mthiyane",
+      "player_out": "Simphiwe Selepe"
+    },
+    {
+      "minute": "59'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Mpho Padime",
+      "player_out": "Thalente Mbatha"
+    },
     {
       "minute": "55'",
       "type": "goal",
@@ -91,7 +105,7 @@
     {
       "label": "Corners",
       "home": "1",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Offsides",

@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Sekhukhune United",
-  "updated": "2026-10-31T16:52:09+02:00",
+  "updated": "2026-10-31T16:54:52+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "61'",
+  "minute": "63'",
   "events": [
+    {
+      "minute": "62'",
+      "type": "sub",
+      "team": "Milford",
+      "player_in": "Thabana Mabena",
+      "player_out": "Menzi Chili"
+    },
+    {
+      "minute": "62'",
+      "type": "sub",
+      "team": "Milford",
+      "player_in": "Phakamani Jwara",
+      "player_out": "Sicelo Masilela"
+    },
     {
       "minute": "45'",
       "type": "second_half"
@@ -56,7 +70,7 @@
     {
       "label": "Shots",
       "home": "3",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Shots on target",
