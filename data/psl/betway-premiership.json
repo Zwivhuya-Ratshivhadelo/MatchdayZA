@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T17:12:21+02:00",
+  "updated": "2026-10-31T17:14:55+02:00",
   "log": [
     {
       "pos": 1,
@@ -912,7 +912,7 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "77'",
+      "minute": "81'",
       "latest": "76' Sub, Kaizer Chiefs: Faiz Abrahams on for Mfundo Vilakazi"
     },
     {
@@ -922,11 +922,11 @@
       "venue": "Sugar Ray Xulu Stadium, Clermont",
       "match_id": "2674045",
       "url": "https://www.psl.co.za/matchcentre/detail/2674045-milford-fc-vs-sekhukhune-united",
-      "latest": "75' Sub, Milford: Vusumuzi Mthabela on for Mvelo Zikakayo",
+      "latest": "81' Sub, Sekhukhune United: Bright Ndlovu on for Siphesihle Mkhize",
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "79'"
+      "minute": "82'"
     }
   ],
   "fixtures": [
