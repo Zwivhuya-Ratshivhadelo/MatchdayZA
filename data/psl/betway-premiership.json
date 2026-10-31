@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T21:44:09+02:00",
+  "updated": "2026-10-31T21:46:27+02:00",
   "log": [
     {
       "pos": 1,
@@ -987,11 +987,11 @@
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "match_id": "2674049",
       "url": "https://www.psl.co.za/matchcentre/detail/2674049-mamelodi-sundowns-vs-durban-city",
-      "latest": "66' Goal, Thabang Matuludi (Mamelodi Sundowns)",
+      "latest": "70' Sub, Durban City: Seth Green on for Letsie Koapeng",
       "home_score": 2,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "68'"
+      "minute": "70'"
     }
   ],
   "fixtures": [
