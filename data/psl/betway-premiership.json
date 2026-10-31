@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T19:55:55+02:00",
+  "updated": "2026-10-31T19:58:01+02:00",
   "log": [
     {
       "pos": 1,
@@ -935,10 +935,10 @@
       "venue": "Princess Magogo Stadium, Durban",
       "match_id": "2674048",
       "url": "https://www.psl.co.za/matchcentre/detail/2674048-amazulu-fc-vs-golden-arrows",
-      "latest": "86' Sub, AmaZulu: Liam Bern on for Thando Ngwenya",
+      "latest": "90+5' Full time",
       "home_score": 1,
       "away_score": 0,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+3'"
     },
     {
@@ -963,9 +963,9 @@
       "url": "https://www.psl.co.za/matchcentre/detail/2674046-polokwane-city-vs-ts-galaxy",
       "home_score": 0,
       "away_score": 0,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+2'",
-      "latest": "90+2' Sub, TS Galaxy: Sedwyn George on for Victor Letsoalo"
+      "latest": "90+6' Full time"
     }
   ],
   "fixtures": [
