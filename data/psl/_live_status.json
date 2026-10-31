@@ -1,6 +1,6 @@
 {
-  "time": "2026-10-31T22:11:09+02:00",
-  "links_found": 7,
+  "time": "2026-10-31T22:11:30+02:00",
+  "links_found": 6,
   "games": [
     {
       "game": "Kruger United v Richards Bay",
@@ -11,7 +11,7 @@
     {
       "game": "Mamelodi Sundowns v Durban City",
       "kickoff": "2026-10-31T20:15:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674049-mamelodi-sundowns-vs-durban-city",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674049",
       "page": "FT 4-1, line-ups 2"
     }
   ]
