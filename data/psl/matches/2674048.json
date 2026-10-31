@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Golden Arrows",
-  "updated": "2026-10-31T19:38:28+02:00",
+  "updated": "2026-10-31T19:40:40+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "75'",
+  "minute": "79'",
   "events": [
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Lungelo Nguse",
+      "player_out": "Khulekani Shezi"
+    },
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Keenan Phillips",
+      "player_out": "Nkosikhona Radebe"
+    },
     {
       "minute": "70'",
       "type": "yellow",
@@ -122,7 +136,7 @@
     {
       "label": "Fouls",
       "home": "13",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Yellow Cards",
