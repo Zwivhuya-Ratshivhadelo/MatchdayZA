@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T15:55:33+02:00",
+  "updated": "2026-10-31T15:58:05+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "19'",
+  "minute": "24'",
   "events": [
+    {
+      "minute": "24'",
+      "type": "goal",
+      "player": "Yamela Mbuthuma",
+      "team": "Orlando Pirates",
+      "score": [
+        1,
+        0
+      ]
+    },
     {
       "minute": "8'",
       "type": "yellow",
@@ -23,12 +33,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "3",
+      "home": "4",
       "away": "4"
     },
     {
       "label": "Shots on target",
-      "home": "0",
+      "home": "1",
       "away": "1"
     },
     {

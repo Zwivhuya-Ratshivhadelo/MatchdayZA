@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Sekhukhune United",
-  "updated": "2026-10-31T15:55:35+02:00",
-  "home_score": 0,
+  "updated": "2026-10-31T15:58:07+02:00",
+  "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "22'",
+  "minute": "24'",
   "events": [
+    {
+      "minute": "24'",
+      "type": "goal",
+      "player": "Mvelo Zikakayo",
+      "team": "Milford",
+      "score": [
+        1,
+        0
+      ]
+    },
     {
       "minute": "0'",
       "type": "kickoff"
@@ -17,12 +27,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "0",
+      "home": "1",
       "away": "3"
     },
     {
       "label": "Shots on target",
-      "home": "0",
+      "home": "1",
       "away": "2"
     },
     {
