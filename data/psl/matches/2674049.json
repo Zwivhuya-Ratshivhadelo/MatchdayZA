@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Mamelodi Sundowns",
   "away": "Durban City",
-  "updated": "2026-10-31T22:10:07+02:00",
-  "home_score": 3,
+  "updated": "2026-10-31T22:11:16+02:00",
+  "home_score": 4,
   "away_score": 1,
-  "status": "LIVE",
-  "minute": "90+3'",
+  "status": "FT",
+  "minute": null,
   "events": [
+    {
+      "minute": "90+6'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+4'",
+      "type": "goal",
+      "player": "Antonio Van Wyk",
+      "team": "Mamelodi Sundowns",
+      "score": [
+        4,
+        1
+      ]
+    },
     {
       "minute": "86'",
       "type": "goal",
@@ -134,12 +148,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "21",
+      "home": "22",
       "away": "5"
     },
     {
       "label": "Shots on target",
-      "home": "8",
+      "home": "9",
       "away": "1"
     },
     {
