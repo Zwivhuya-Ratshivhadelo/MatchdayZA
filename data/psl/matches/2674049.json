@@ -3,12 +3,28 @@
   "comp": "betway-premiership",
   "home": "Mamelodi Sundowns",
   "away": "Durban City",
-  "updated": "2026-10-31T22:01:32+02:00",
+  "updated": "2026-10-31T22:03:42+02:00",
   "home_score": 3,
-  "away_score": 0,
+  "away_score": 1,
   "status": "LIVE",
-  "minute": "85'",
+  "minute": "87'",
   "events": [
+    {
+      "minute": "86'",
+      "type": "goal",
+      "player": "Jean Lwamba",
+      "team": "Durban City",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "minute": "85'",
+      "type": "yellow",
+      "player": "Thabang Matuludi",
+      "team": "Mamelodi Sundowns"
+    },
     {
       "minute": "82'",
       "type": "sub",
@@ -119,12 +135,12 @@
     {
       "label": "Shots",
       "home": "20",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Shots on target",
       "home": "8",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Corners",
@@ -139,11 +155,11 @@
     {
       "label": "Fouls",
       "home": "12",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
+      "home": "1",
       "away": "0"
     },
     {
