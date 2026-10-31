@@ -3,12 +3,32 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T17:14:51+02:00",
+  "updated": "2026-10-31T17:17:23+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "81'",
+  "minute": "84'",
   "events": [
+    {
+      "minute": "82'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Ethan Chislett",
+      "player_out": "Lebohang Maboe"
+    },
+    {
+      "minute": "82'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Flávio Silva",
+      "player_out": "Pule Mmodi"
+    },
+    {
+      "minute": "81'",
+      "type": "yellow",
+      "player": "Inácio Miguel",
+      "team": "Kaizer Chiefs"
+    },
     {
       "minute": "76'",
       "type": "sub",
@@ -137,18 +157,18 @@
     },
     {
       "label": "Offsides",
-      "home": "2",
+      "home": "3",
       "away": "0"
     },
     {
       "label": "Fouls",
       "home": "15",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Yellow Cards",
       "home": "2",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Red Cards",

@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T17:14:55+02:00",
+  "updated": "2026-10-31T17:17:25+02:00",
   "log": [
     {
       "pos": 1,
@@ -912,8 +912,8 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "81'",
-      "latest": "76' Sub, Kaizer Chiefs: Faiz Abrahams on for Mfundo Vilakazi"
+      "minute": "84'",
+      "latest": "82' Sub, Kaizer Chiefs: Ethan Chislett on for Lebohang Maboe"
     },
     {
       "home": "Milford FC",
