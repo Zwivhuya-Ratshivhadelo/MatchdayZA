@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "Chippa United",
-  "updated": "2026-10-31T18:25:56+02:00",
+  "updated": "2026-10-31T18:28:07+02:00",
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": "LIVE",
-  "minute": "26'",
+  "minute": "27'",
   "events": [
+    {
+      "minute": "27'",
+      "type": "goal",
+      "player": "Harold Majadibodu",
+      "team": "Chippa United",
+      "score": [
+        0,
+        1
+      ]
+    },
     {
       "minute": "0'",
       "type": "kickoff"
@@ -18,12 +28,12 @@
     {
       "label": "Shots",
       "home": "2",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Shots on target",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Corners",
