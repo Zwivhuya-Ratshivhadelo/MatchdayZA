@@ -1,5 +1,5 @@
 {
-  "time": "2026-10-31T17:29:40+02:00",
+  "time": "2026-10-31T17:31:56+02:00",
   "links_found": 12,
   "games": [
     {
@@ -21,10 +21,7 @@
     },
     {
       "game": "Hungry Lions FC v Upington City",
-      "kickoff": "2026-10-31T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019670",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-0 90'"
+      "kickoff": "2026-10-31T15:30:00+02:00"
     }
   ]
 }
