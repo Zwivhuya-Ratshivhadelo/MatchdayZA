@@ -1,6 +1,6 @@
 {
-  "time": "2026-10-31T19:51:34+02:00",
-  "links_found": 9,
+  "time": "2026-10-31T19:53:44+02:00",
+  "links_found": 8,
   "games": [
     {
       "game": "AmaZulu FC v Golden Arrows",
@@ -16,9 +16,7 @@
     },
     {
       "game": "Stellenbosch FC v Chippa United",
-      "kickoff": "2026-10-31T18:00:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674043-stellenbosch-fc-vs-chippa-united",
-      "page": "FT 0-2, line-ups 2"
+      "kickoff": "2026-10-31T18:00:00+02:00"
     }
   ]
 }
