@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Golden Arrows",
-  "updated": "2026-10-31T19:49:25+02:00",
+  "updated": "2026-10-31T19:51:36+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "86'",
+  "minute": "89'",
   "events": [
+    {
+      "minute": "86'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Thapelo Matlhoko",
+      "player_out": "Sphesihle Maduna"
+    },
     {
       "minute": "86'",
       "type": "sub",
@@ -133,7 +140,7 @@
     {
       "label": "Corners",
       "home": "2",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Offsides",
@@ -143,7 +150,7 @@
     {
       "label": "Fouls",
       "home": "14",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Yellow Cards",

@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T19:49:28+02:00",
+  "updated": "2026-10-31T19:51:39+02:00",
   "log": [
     {
       "pos": 1,
@@ -935,11 +935,11 @@
       "venue": "Princess Magogo Stadium, Durban",
       "match_id": "2674048",
       "url": "https://www.psl.co.za/matchcentre/detail/2674048-amazulu-fc-vs-golden-arrows",
-      "latest": "86' Sub, AmaZulu: Liam Bern on for Thando Ngwenya",
+      "latest": "86' Sub, AmaZulu: Thapelo Matlhoko on for Sphesihle Maduna",
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "86'"
+      "minute": "89'"
     },
     {
       "home": "Stellenbosch FC",
@@ -948,10 +948,10 @@
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2674043",
       "url": "https://www.psl.co.za/matchcentre/detail/2674043-stellenbosch-fc-vs-chippa-united",
-      "latest": "84' Sub, Chippa United: Bongani Sam on for Azola Tshobeni",
+      "latest": "90+5' Full time",
       "home_score": 0,
       "away_score": 2,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+3'"
     },
     {
@@ -964,8 +964,8 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "87'",
-      "latest": "87' Sub, TS Galaxy: Mpho Maoke on for Junior Zindoga"
+      "minute": "89'",
+      "latest": "87' Sub, TS Galaxy: Mpho Mvelase on for Mlungisi Mbunjana"
     }
   ],
   "fixtures": [
