@@ -5,126 +5,126 @@
   "name": "EC Inland Stream",
   "slug": "ec-inland-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28224",
-  "updated": "2026-10-31T12:00:44+02:00",
+  "updated": "2026-10-31T22:20:45+02:00",
   "log": [
     {
       "pos": 1,
-      "team": "FC Ravens",
-      "p": 3,
-      "w": 3,
+      "team": "Komani United FC",
+      "p": 4,
+      "w": 4,
       "d": 0,
       "l": 0,
-      "gf": 6,
-      "ga": 1,
-      "gd": 5,
-      "pts": 9
+      "gf": 8,
+      "ga": 2,
+      "gd": 6,
+      "pts": 12
     },
     {
       "pos": 2,
-      "team": "Komani United FC",
-      "p": 3,
+      "team": "Sinenkani FC",
+      "p": 4,
       "w": 3,
-      "d": 0,
+      "d": 1,
       "l": 0,
-      "gf": 5,
-      "ga": 2,
-      "gd": 3,
-      "pts": 9
+      "gf": 8,
+      "ga": 1,
+      "gd": 7,
+      "pts": 10
     },
     {
       "pos": 3,
-      "team": "Sinenkani FC",
-      "p": 3,
-      "w": 2,
-      "d": 1,
-      "l": 0,
-      "gf": 7,
-      "ga": 1,
-      "gd": 6,
-      "pts": 7
-    },
-    {
-      "pos": 4,
-      "team": "Bizana Pondo City FC",
-      "p": 3,
-      "w": 1,
-      "d": 1,
+      "team": "FC Ravens",
+      "p": 4,
+      "w": 3,
+      "d": 0,
       "l": 1,
       "gf": 7,
       "ga": 3,
       "gd": 4,
-      "pts": 4
+      "pts": 9
+    },
+    {
+      "pos": 4,
+      "team": "Bizana Pondo City FC",
+      "p": 4,
+      "w": 2,
+      "d": 1,
+      "l": 1,
+      "gf": 9,
+      "ga": 4,
+      "gd": 5,
+      "pts": 7
     },
     {
       "pos": 5,
       "team": "Bush Bucks FC",
-      "p": 2,
-      "w": 1,
+      "p": 3,
+      "w": 2,
       "d": 1,
       "l": 0,
-      "gf": 2,
+      "gf": 4,
       "ga": 1,
-      "gd": 1,
-      "pts": 4
+      "gd": 3,
+      "pts": 7
     },
     {
       "pos": 6,
       "team": "Matta Milan",
-      "p": 3,
+      "p": 4,
       "w": 0,
-      "d": 2,
+      "d": 3,
       "l": 1,
       "gf": 1,
       "ga": 4,
       "gd": -3,
-      "pts": 2
+      "pts": 3
     },
     {
       "pos": 7,
-      "team": "University of Fort Hare FC",
-      "p": 3,
+      "team": "United FC",
+      "p": 4,
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 2,
       "gf": 3,
       "ga": 6,
       "gd": -3,
-      "pts": 1
+      "pts": 2
     },
     {
       "pos": 8,
-      "team": "United FC",
-      "p": 3,
+      "team": "University of Fort Hare FC",
+      "p": 4,
       "w": 0,
       "d": 1,
-      "l": 2,
+      "l": 3,
       "gf": 3,
-      "ga": 6,
-      "gd": -3,
+      "ga": 7,
+      "gd": -4,
       "pts": 1
     },
     {
       "pos": 9,
       "team": "SA Spear of the Nation FC",
-      "p": 2,
+      "p": 3,
       "w": 0,
       "d": 1,
-      "l": 1,
+      "l": 2,
       "gf": 1,
-      "ga": 6,
-      "gd": -5,
+      "ga": 9,
+      "gd": -8,
       "pts": 1
     },
     {
       "pos": 10,
       "team": "Amaxesibe FC",
-      "p": 3,
+      "p": 4,
       "w": 0,
       "d": 0,
-      "l": 3,
+      "l": 4,
       "gf": 1,
-      "ga": 6,
-      "gd": -5,
+      "ga": 8,
+      "gd": -7,
       "pts": 0
     }
   ],
@@ -268,49 +268,59 @@
       "home_score": 2,
       "away_score": 1,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
-    {
-      "home": "Komani United FC",
-      "away": "SA Spear of the Nation FC",
-      "match_no": 16,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=16&s=l",
-      "date": "2026-10-31T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Sinenkani FC",
-      "away": "University of Fort Hare FC",
-      "match_no": 20,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=20&s=l",
-      "date": "2026-10-31T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "United FC",
-      "away": "Matta Milan",
-      "match_no": 17,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=17&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "FC Ravens",
-      "away": "Bizana Pondo City FC",
-      "match_no": 18,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=18&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
     },
     {
       "home": "Amaxesibe FC",
       "away": "Bush Bucks FC",
       "match_no": 19,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=19&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
+      "date": "2026-10-31",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
     },
+    {
+      "home": "FC Ravens",
+      "away": "Bizana Pondo City FC",
+      "match_no": 18,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=18&s=l",
+      "date": "2026-10-31",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "United FC",
+      "away": "Matta Milan",
+      "match_no": 17,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=17&s=l",
+      "date": "2026-10-31",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Sinenkani FC",
+      "away": "University of Fort Hare FC",
+      "match_no": 20,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=20&s=l",
+      "date": "2026-10-31",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Komani United FC",
+      "away": "SA Spear of the Nation FC",
+      "match_no": 16,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=16&s=l",
+      "date": "2026-10-31",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Komani United FC",
       "away": "FC Ravens",

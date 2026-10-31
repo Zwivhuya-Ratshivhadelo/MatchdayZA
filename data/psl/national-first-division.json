@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-31T17:30:56+02:00",
+  "updated": "2026-10-31T22:20:29+02:00",
   "log": [
     {
       "pos": 1,
@@ -789,6 +789,14 @@
       "latest": "77' Goal, The Bees"
     },
     {
+      "home": "Lerumo Lions",
+      "away": "Pretoria University FC",
+      "date": "2026-10-31T15:30:00+02:00",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
       "home": "Hungry Lions FC",
       "away": "Upington City",
       "date": "2026-10-31T15:30:00+02:00",
@@ -796,16 +804,10 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019670",
       "home_score": 0,
       "away_score": 0,
-      "status": "FT",
-      "minute": "90'"
+      "status": "FT"
     }
   ],
   "fixtures": [
-    {
-      "home": "Lerumo Lions",
-      "away": "Pretoria University FC",
-      "date": "2026-10-31T15:30:00+02:00"
-    },
     {
       "home": "Highbury",
       "away": "Leicesterford City FC",
@@ -815,6 +817,31 @@
       "home": "Cape Town City FC",
       "away": "Magesi FC",
       "date": "2026-11-02T19:30:00+02:00"
+    },
+    {
+      "home": "Upington City",
+      "away": "Cape Town City FC",
+      "date": "2026-11-07T15:30:00+02:00"
+    },
+    {
+      "home": "Pretoria University FC",
+      "away": "Gomora United",
+      "date": "2026-11-07T15:30:00+02:00"
+    },
+    {
+      "home": "Midlands Wanderers",
+      "away": "Lerumo Lions",
+      "date": "2026-11-07T15:30:00+02:00"
+    },
+    {
+      "home": "Magesi FC",
+      "away": "Orbit College FC",
+      "date": "2026-11-07T15:30:00+02:00"
+    },
+    {
+      "home": "Venda FC",
+      "away": "The Bees",
+      "date": "2026-11-07T15:30:00+02:00"
     }
   ],
   "extra": [],

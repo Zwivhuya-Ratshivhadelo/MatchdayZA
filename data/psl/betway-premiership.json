@@ -4,137 +4,137 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T22:11:34+02:00",
+  "updated": "2026-10-31T22:20:21+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Mamelodi Sundowns",
       "club": "Mamelodi_Sundowns",
-      "p": 9,
-      "w": 7,
+      "p": 10,
+      "w": 8,
       "d": 2,
       "l": 0,
-      "pts": 23
+      "pts": 26
     },
     {
       "pos": 2,
       "team": "Orlando Pirates",
       "club": "Orlando_Pirates",
-      "p": 8,
-      "w": 7,
+      "p": 9,
+      "w": 8,
       "d": 1,
       "l": 0,
-      "pts": 22
+      "pts": 25
     },
     {
       "pos": 3,
       "team": "AmaZulu FC",
       "club": "AmaZulu_FC",
-      "p": 8,
-      "w": 6,
+      "p": 9,
+      "w": 7,
       "d": 1,
       "l": 1,
-      "pts": 19
+      "pts": 22
     },
     {
       "pos": 4,
       "team": "Milford FC",
       "club": "Milford_FC",
-      "p": 9,
-      "w": 4,
+      "p": 10,
+      "w": 5,
       "d": 3,
       "l": 2,
-      "pts": 15
+      "pts": 18
     },
     {
       "pos": 5,
       "team": "Kaizer Chiefs",
       "club": "Kaizer_Chiefs",
-      "p": 8,
+      "p": 9,
       "w": 3,
       "d": 5,
-      "l": 0,
+      "l": 1,
       "pts": 14
     },
     {
       "pos": 6,
       "team": "Sekhukhune United",
       "club": "Sekhukhune_United",
-      "p": 8,
+      "p": 9,
       "w": 4,
       "d": 2,
-      "l": 2,
+      "l": 3,
       "pts": 14
     },
     {
       "pos": 7,
-      "team": "Stellenbosch FC",
-      "club": "Stellenbosch_FC",
-      "p": 8,
+      "team": "Chippa United",
+      "club": "Chippa_United",
+      "p": 9,
       "w": 2,
-      "d": 4,
+      "d": 5,
       "l": 2,
-      "pts": 10
+      "pts": 11
     },
     {
       "pos": 8,
-      "team": "Golden Arrows",
-      "club": "Golden_Arrows",
-      "p": 8,
-      "w": 1,
-      "d": 5,
-      "l": 2,
-      "pts": 8
+      "team": "Stellenbosch FC",
+      "club": "Stellenbosch_FC",
+      "p": 9,
+      "w": 2,
+      "d": 4,
+      "l": 3,
+      "pts": 10
     },
     {
       "pos": 9,
-      "team": "Chippa United",
-      "club": "Chippa_United",
-      "p": 8,
-      "w": 1,
-      "d": 5,
-      "l": 2,
-      "pts": 8
+      "team": "Kruger United",
+      "club": "Kruger_United",
+      "p": 9,
+      "w": 3,
+      "d": 1,
+      "l": 5,
+      "pts": 10
     },
     {
       "pos": 10,
-      "team": "Durban City",
-      "club": "Durban_City",
-      "p": 8,
+      "team": "Golden Arrows",
+      "club": "Golden_Arrows",
+      "p": 9,
       "w": 1,
-      "d": 4,
+      "d": 5,
       "l": 3,
-      "pts": 7
+      "pts": 8
     },
     {
       "pos": 11,
       "team": "Polokwane City",
       "club": "Polokwane_City",
-      "p": 8,
+      "p": 9,
       "w": 1,
-      "d": 4,
+      "d": 5,
       "l": 3,
-      "pts": 7
+      "pts": 8
     },
     {
       "pos": 12,
-      "team": "Kruger United",
-      "club": "Kruger_United",
-      "p": 8,
-      "w": 2,
-      "d": 1,
-      "l": 5,
+      "team": "TS Galaxy",
+      "club": "TS_Galaxy",
+      "p": 9,
+      "w": 1,
+      "d": 4,
+      "l": 4,
       "pts": 7
     },
     {
       "pos": 13,
-      "team": "TS Galaxy",
-      "club": "TS_Galaxy",
-      "p": 8,
+      "team": "Durban City",
+      "club": "Durban_City",
+      "p": 9,
       "w": 1,
-      "d": 3,
+      "d": 4,
       "l": 4,
-      "pts": 6
+      "pts": 7
     },
     {
       "pos": 14,
@@ -160,10 +160,10 @@
       "pos": 16,
       "team": "Richards Bay",
       "club": "Richards_Bay",
-      "p": 8,
+      "p": 9,
       "w": 0,
       "d": 3,
-      "l": 5,
+      "l": 6,
       "pts": 3
     }
   ],
@@ -905,7 +905,7 @@
     {
       "home": "Orlando Pirates",
       "away": "Kaizer Chiefs",
-      "date": "2026-10-31T15:30:00+02:00",
+      "date": "2026-10-31",
       "venue": "FNB Stadium, Johannesburg",
       "match_id": "2674044",
       "url": "https://www.psl.co.za/matchcentre/detail/2674044-orlando-pirates-vs-kaizer-chiefs",
@@ -918,10 +918,10 @@
     {
       "home": "Milford FC",
       "away": "Sekhukhune United",
-      "date": "2026-10-31T15:30:00+02:00",
+      "date": "2026-10-31",
       "venue": "Sugar Ray Xulu Stadium, Clermont",
       "match_id": "2674045",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674045",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674045-milford-fc-vs-sekhukhune-united",
       "latest": "90+6' Full time",
       "home_score": 1,
       "away_score": 0,
@@ -931,7 +931,7 @@
     {
       "home": "AmaZulu FC",
       "away": "Golden Arrows",
-      "date": "2026-10-31T18:00:00+02:00",
+      "date": "2026-10-31",
       "venue": "Princess Magogo Stadium, Durban",
       "match_id": "2674048",
       "url": "https://www.psl.co.za/matchcentre/detail/2674048-amazulu-fc-vs-golden-arrows",
@@ -944,7 +944,7 @@
     {
       "home": "Stellenbosch FC",
       "away": "Chippa United",
-      "date": "2026-10-31T18:00:00+02:00",
+      "date": "2026-10-31",
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2674043",
       "url": "https://www.psl.co.za/matchcentre/detail/2674043-stellenbosch-fc-vs-chippa-united",
@@ -957,7 +957,7 @@
     {
       "home": "Polokwane City",
       "away": "TS Galaxy",
-      "date": "2026-10-31T18:00:00+02:00",
+      "date": "2026-10-31",
       "venue": "Old Peter Mokaba Stadium, Polokwane",
       "match_id": "2674046",
       "url": "https://www.psl.co.za/matchcentre/detail/2674046-polokwane-city-vs-ts-galaxy",
@@ -970,10 +970,10 @@
     {
       "home": "Kruger United",
       "away": "Richards Bay",
-      "date": "2026-10-31T20:15:00+02:00",
+      "date": "2026-10-31",
       "venue": "Mbombela Stadium, Nelspruit",
       "match_id": "2674047",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674047",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674047-kruger-united-vs-richards-bay",
       "home_score": 3,
       "away_score": 1,
       "status": "FT",
@@ -983,10 +983,10 @@
     {
       "home": "Mamelodi Sundowns",
       "away": "Durban City",
-      "date": "2026-10-31T20:15:00+02:00",
+      "date": "2026-10-31",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "match_id": "2674049",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674049",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674049-mamelodi-sundowns-vs-durban-city",
       "latest": "90+6' Full time",
       "home_score": 4,
       "away_score": 1,
