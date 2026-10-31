@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T16:10:22+02:00",
+  "updated": "2026-10-31T16:12:49+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "37'",
+  "minute": "40'",
   "events": [
+    {
+      "minute": "38'",
+      "type": "yellow",
+      "player": "Simphiwe Selepe",
+      "team": "Orlando Pirates"
+    },
     {
       "minute": "30'",
       "type": "goal",
@@ -63,12 +69,12 @@
     },
     {
       "label": "Fouls",
-      "home": "5",
+      "home": "7",
       "away": "2"
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
+      "home": "1",
       "away": "1"
     },
     {
