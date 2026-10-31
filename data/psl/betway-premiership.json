@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T17:28:36+02:00",
+  "updated": "2026-10-31T18:01:40+02:00",
   "log": [
     {
       "pos": 1,
@@ -927,29 +927,43 @@
       "away_score": 0,
       "status": "FT",
       "minute": "90+5'"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "AmaZulu FC",
       "away": "Golden Arrows",
       "date": "2026-10-31T18:00:00+02:00",
       "venue": "Princess Magogo Stadium, Durban",
-      "status": "NS"
-    },
-    {
-      "home": "Polokwane City",
-      "away": "TS Galaxy",
-      "date": "2026-10-31T18:00:00+02:00",
-      "venue": "Old Peter Mokaba Stadium, Polokwane",
-      "status": "NS"
+      "match_id": "2674048",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674048",
+      "latest": "0' Kick-off",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "0'"
     },
     {
       "home": "Stellenbosch FC",
       "away": "Chippa United",
       "date": "2026-10-31T18:00:00+02:00",
       "venue": "Danie Craven Stadium, Stellenbosch",
-      "status": "NS"
+      "match_id": "2674043",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674043-stellenbosch-fc-vs-chippa-united",
+      "latest": "0' Kick-off",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "3'"
+    }
+  ],
+  "fixtures": [
+    {
+      "home": "Polokwane City",
+      "away": "TS Galaxy",
+      "date": "2026-10-31T18:00:00+02:00",
+      "venue": "Old Peter Mokaba Stadium, Polokwane",
+      "status": "NS",
+      "match_id": "2674046",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674046"
     },
     {
       "home": "Kruger United",

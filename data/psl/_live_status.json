@@ -1,27 +1,25 @@
 {
-  "time": "2026-10-31T17:55:58+02:00",
-  "links_found": 12,
+  "time": "2026-10-31T18:01:29+02:00",
+  "links_found": 7,
   "games": [
     {
-      "game": "Orlando Pirates v Kaizer Chiefs",
-      "kickoff": "2026-10-31T15:30:00+02:00"
+      "game": "AmaZulu FC v Golden Arrows",
+      "kickoff": "2026-10-31T18:00:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674048",
+      "page": "LIVE 0-0, line-ups 2"
     },
     {
-      "game": "Milford FC v Sekhukhune United",
-      "kickoff": "2026-10-31T15:30:00+02:00"
+      "game": "Polokwane City v TS Galaxy",
+      "kickoff": "2026-10-31T18:00:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674046",
+      "page": "NS None-None, line-ups 2",
+      "365scores": "NS None-None "
     },
     {
-      "game": "The Bees v Midlands Wanderers",
-      "kickoff": "2026-10-31T15:30:00+02:00"
-    },
-    {
-      "game": "Lerumo Lions v Pretoria University FC",
-      "kickoff": "2026-10-31T15:30:00+02:00",
-      "match_page": null
-    },
-    {
-      "game": "Hungry Lions FC v Upington City",
-      "kickoff": "2026-10-31T15:30:00+02:00"
+      "game": "Stellenbosch FC v Chippa United",
+      "kickoff": "2026-10-31T18:00:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674043-stellenbosch-fc-vs-chippa-united",
+      "page": "LIVE 0-0, line-ups 2"
     }
   ]
 }

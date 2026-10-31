@@ -3,12 +3,263 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "Chippa United",
-  "updated": "2026-10-30T21:55:46+02:00",
-  "home_score": null,
-  "away_score": null,
-  "status": "NS",
-  "minute": null,
-  "events": [],
-  "stats": [],
-  "lineups": []
+  "updated": "2026-10-31T18:01:40+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "3'",
+  "events": [
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Shots on target",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Corners",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Stellenbosch FC",
+      "starting": [
+        {
+          "no": "17",
+          "name": "Sage Stephens",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "27",
+          "name": "Terrence Mashego",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "Spiwe Msimango",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "S Nkwali",
+          "pos": "Defender"
+        },
+        {
+          "no": "14",
+          "name": "S Kwayiba",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "Q Sibande",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "4",
+          "name": "L Vena",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "C Butsaka",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "28",
+          "name": "Lehlogonolo Matlou",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "37",
+          "name": "Thabiso Lebitso",
+          "pos": "Striker"
+        },
+        {
+          "no": "32",
+          "name": "R Daniels",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "31",
+          "name": "D Matsheke",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "T Mthethwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "Ashley Du Preez",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "N Garrow",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "Q Plaatjies",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "K Ramushu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "G Taunyana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "K Johannessen",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Chippa United",
+      "starting": [
+        {
+          "no": "23",
+          "name": "Stanley Nwabali",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "25",
+          "name": "Sirgio Kammies",
+          "pos": "Defender"
+        },
+        {
+          "no": "31",
+          "name": "I Jones",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "B Madingwane",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "Abbubaker Mobara",
+          "pos": "Defender"
+        },
+        {
+          "no": "15",
+          "name": "A Tshobeni",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "A Matrose",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "K Majadibodu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "Goodman Mosele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "Justice Figuareido",
+          "pos": "Striker"
+        },
+        {
+          "no": "37",
+          "name": "M Tshepang",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "44",
+          "name": "I Bancé",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "Muzomuhle Khanyi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Seun Ndlovu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "E Sithole",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "Bongani Sam",
+          "pos": "Substitute"
+        },
+        {
+          "no": "47",
+          "name": "D Diakité",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "A Bonani",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "N Mlotshwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "34",
+          "name": "L Tshabalala",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
 }
