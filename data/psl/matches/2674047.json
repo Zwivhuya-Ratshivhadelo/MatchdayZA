@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Richards Bay",
-  "updated": "2026-10-31T21:37:40+02:00",
+  "updated": "2026-10-31T21:39:50+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
   "minute": "62'",
   "events": [
+    {
+      "minute": "62'",
+      "type": "yellow",
+      "player": "Wandile Ngema",
+      "team": "Richards Bay"
+    },
     {
       "minute": "55'",
       "type": "sub",
@@ -109,13 +115,13 @@
     },
     {
       "label": "Fouls",
-      "home": "14",
+      "home": "15",
       "away": "5"
     },
     {
       "label": "Yellow Cards",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",
