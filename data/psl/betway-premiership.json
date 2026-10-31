@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T17:17:25+02:00",
+  "updated": "2026-10-31T17:19:54+02:00",
   "log": [
     {
       "pos": 1,
@@ -912,7 +912,7 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "84'",
+      "minute": "86'",
       "latest": "82' Sub, Kaizer Chiefs: Ethan Chislett on for Lebohang Maboe"
     },
     {
@@ -926,7 +926,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "82'"
+      "minute": "88'"
     }
   ],
   "fixtures": [
