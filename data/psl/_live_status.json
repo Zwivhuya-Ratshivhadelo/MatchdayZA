@@ -1,11 +1,11 @@
 {
-  "time": "2026-10-31T18:01:29+02:00",
-  "links_found": 7,
+  "time": "2026-10-31T18:03:48+02:00",
+  "links_found": 8,
   "games": [
     {
       "game": "AmaZulu FC v Golden Arrows",
       "kickoff": "2026-10-31T18:00:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674048",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674048-amazulu-fc-vs-golden-arrows",
       "page": "LIVE 0-0, line-ups 2"
     },
     {
@@ -13,7 +13,7 @@
       "kickoff": "2026-10-31T18:00:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674046",
       "page": "NS None-None, line-ups 2",
-      "365scores": "NS None-None "
+      "365scores": "LIVE 0-0 1'"
     },
     {
       "game": "Stellenbosch FC v Chippa United",
