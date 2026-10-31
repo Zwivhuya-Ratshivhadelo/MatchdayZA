@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Golden Arrows",
-  "updated": "2026-10-31T19:29:38+02:00",
+  "updated": "2026-10-31T19:31:50+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "65'",
+  "minute": "70'",
   "events": [
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Hendrick Ekstein",
+      "player_out": "Mondli Mbanjwa"
+    },
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Sphamandla Zikhali",
+      "player_out": "Siyanda Hlangabeza"
+    },
     {
       "minute": "65'",
       "type": "goal",
@@ -30,7 +44,7 @@
       "minute": "59'",
       "type": "sub",
       "team": "Golden Arrows",
-      "player_in": "Lungelo Nguse",
+      "player_in": "Nhlanhla Gasa",
       "player_out": "Nhlanhla Zwane"
     },
     {
@@ -96,12 +110,12 @@
     },
     {
       "label": "Offsides",
-      "home": "1",
+      "home": "2",
       "away": "0"
     },
     {
       "label": "Fouls",
-      "home": "10",
+      "home": "11",
       "away": "7"
     },
     {
