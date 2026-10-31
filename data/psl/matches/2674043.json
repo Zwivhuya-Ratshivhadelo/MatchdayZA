@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "Chippa United",
-  "updated": "2026-10-31T19:20:51+02:00",
+  "updated": "2026-10-31T19:23:03+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "62'",
+  "minute": "65'",
   "events": [
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Chippa United",
+      "player_in": "Muzomuhle Khanyi",
+      "player_out": "Azola Matrose"
+    },
     {
       "minute": "58'",
       "type": "sub",
@@ -55,7 +62,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "8",
+      "home": "10",
       "away": "5"
     },
     {
@@ -65,7 +72,7 @@
     },
     {
       "label": "Corners",
-      "home": "3",
+      "home": "5",
       "away": "2"
     },
     {

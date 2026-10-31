@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T19:20:51+02:00",
+  "updated": "2026-10-31T19:23:03+02:00",
   "log": [
     {
       "pos": 1,
@@ -935,11 +935,11 @@
       "venue": "Princess Magogo Stadium, Durban",
       "match_id": "2674048",
       "url": "https://www.psl.co.za/matchcentre/detail/2674048-amazulu-fc-vs-golden-arrows",
-      "latest": "59' Sub, Golden Arrows: Jerome Karlese on for Sabelo Sithole",
+      "latest": "60' Sub, Golden Arrows: Lungelo Nguse on for Nhlanhla Zwane",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "59'"
+      "minute": "60'"
     },
     {
       "home": "Stellenbosch FC",
@@ -948,11 +948,11 @@
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2674043",
       "url": "https://www.psl.co.za/matchcentre/detail/2674043-stellenbosch-fc-vs-chippa-united",
-      "latest": "58' Sub, Stellenbosch: Darrel Matsheke on for Siviwe Nkwali",
+      "latest": "65' Sub, Chippa United: Muzomuhle Khanyi on for Azola Matrose",
       "home_score": 0,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "62'"
+      "minute": "65'"
     },
     {
       "home": "Polokwane City",
@@ -964,8 +964,8 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "58'",
-      "latest": "45' Second half under way"
+      "minute": "60'",
+      "latest": "60' Sub, TS Galaxy: Siyanda Xulu on for MacBeth Mahlangu"
     }
   ],
   "fixtures": [

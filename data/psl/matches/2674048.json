@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Golden Arrows",
-  "updated": "2026-10-31T19:20:48+02:00",
+  "updated": "2026-10-31T19:22:59+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "59'",
+  "minute": "60'",
   "events": [
+    {
+      "minute": "60'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Lungelo Nguse",
+      "player_out": "Nhlanhla Zwane"
+    },
+    {
+      "minute": "59'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Ronaldo Van Neel",
+      "player_out": "Philani Kumalo"
+    },
     {
       "minute": "59'",
       "type": "sub",

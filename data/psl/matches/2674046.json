@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Polokwane City",
   "away": "TS Galaxy",
-  "updated": "2026-10-31T19:20:49+02:00",
+  "updated": "2026-10-31T19:23:01+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "58'",
+  "minute": "60'",
   "events": [
+    {
+      "minute": "60'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Siyanda Xulu",
+      "player_out": "MacBeth Mahlangu"
+    },
     {
       "minute": "45'",
       "type": "second_half"
@@ -59,7 +66,7 @@
     },
     {
       "label": "Fouls",
-      "home": "5",
+      "home": "6",
       "away": "13"
     },
     {
