@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T15:22:19+02:00",
+  "updated": "2026-10-31T15:32:51+02:00",
   "log": [
     {
       "pos": 1,
@@ -901,27 +901,34 @@
       "away_score": 2,
       "status": "FT",
       "minute": "90+3'"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Orlando Pirates",
       "away": "Kaizer Chiefs",
       "date": "2026-10-31T15:30:00+02:00",
       "venue": "FNB Stadium, Johannesburg",
-      "status": "NS",
       "match_id": "2674044",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674044"
+      "url": "https://www.psl.co.za/matchcentre/detail/2674044",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "1'"
     },
     {
       "home": "Milford FC",
       "away": "Sekhukhune United",
       "date": "2026-10-31T15:30:00+02:00",
       "venue": "Sugar Ray Xulu Stadium, Clermont",
-      "status": "NS",
       "match_id": "2674045",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674045"
-    },
+      "url": "https://www.psl.co.za/matchcentre/detail/2674045-milford-fc-vs-sekhukhune-united",
+      "latest": "0' Kick-off",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "0'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "AmaZulu FC",
       "away": "Golden Arrows",
