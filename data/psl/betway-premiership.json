@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T20:16:05+02:00",
+  "updated": "2026-10-31T20:18:14+02:00",
   "log": [
     {
       "pos": 1,
@@ -973,23 +973,28 @@
       "date": "2026-10-31T20:15:00+02:00",
       "venue": "Mbombela Stadium, Nelspruit",
       "match_id": "2674047",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674047",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674047-kruger-united-vs-richards-bay",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "1'"
-    }
-  ],
-  "fixtures": [
+      "minute": "0'",
+      "latest": "0' Kick-off"
+    },
     {
       "home": "Mamelodi Sundowns",
       "away": "Durban City",
       "date": "2026-10-31T20:15:00+02:00",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
-      "status": "NS",
       "match_id": "2674049",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674049"
-    },
+      "url": "https://www.psl.co.za/matchcentre/detail/2674049-mamelodi-sundowns-vs-durban-city",
+      "latest": "0' Kick-off",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "0'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Mamelodi Sundowns",
       "away": "Durban City",
