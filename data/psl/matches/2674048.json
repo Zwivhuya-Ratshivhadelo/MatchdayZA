@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Golden Arrows",
-  "updated": "2026-10-31T18:45:38+02:00",
+  "updated": "2026-10-31T18:47:50+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "43'",
+  "minute": "45+2'",
   "events": [
+    {
+      "minute": "45+2'",
+      "type": "yellow",
+      "player": "Taariq Fielies",
+      "team": "AmaZulu"
+    },
     {
       "minute": "39'",
       "type": "yellow",
@@ -49,12 +55,12 @@
     },
     {
       "label": "Fouls",
-      "home": "7",
+      "home": "8",
       "away": "6"
     },
     {
       "label": "Yellow Cards",
-      "home": "1",
+      "home": "2",
       "away": "1"
     },
     {
