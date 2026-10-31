@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T17:19:52+02:00",
+  "updated": "2026-10-31T17:22:35+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "86'",
+  "minute": "87'",
   "events": [
     {
       "minute": "82'",
@@ -142,8 +142,8 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "10",
-      "away": "11"
+      "home": "11",
+      "away": "13"
     },
     {
       "label": "Shots on target",
