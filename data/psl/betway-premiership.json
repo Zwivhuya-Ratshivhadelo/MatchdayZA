@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T21:42:00+02:00",
+  "updated": "2026-10-31T21:44:09+02:00",
   "log": [
     {
       "pos": 1,
@@ -977,7 +977,7 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "62'",
+      "minute": "66'",
       "latest": "62' Yellow card, Wandile Ngema (Richards Bay)"
     },
     {
@@ -991,7 +991,7 @@
       "home_score": 2,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "66'"
+      "minute": "68'"
     }
   ],
   "fixtures": [
