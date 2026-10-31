@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Sekhukhune United",
-  "updated": "2026-10-31T16:54:52+02:00",
+  "updated": "2026-10-31T16:57:18+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "63'",
+  "minute": "65'",
   "events": [
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Mokibelo Ramabu",
+      "player_out": "Mcedi Vandala"
+    },
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Thabang Makubo",
+      "player_out": "Ellis Rammala"
+    },
     {
       "minute": "62'",
       "type": "sub",
@@ -69,12 +83,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "3",
+      "home": "4",
       "away": "8"
     },
     {
       "label": "Shots on target",
-      "home": "1",
+      "home": "2",
       "away": "4"
     },
     {
