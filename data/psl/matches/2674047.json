@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Richards Bay",
-  "updated": "2026-10-31T21:57:13+02:00",
+  "updated": "2026-10-31T21:59:22+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "81'",
+  "minute": "83'",
   "events": [
     {
       "minute": "75'",
@@ -137,7 +137,7 @@
     {
       "label": "Fouls",
       "home": "19",
-      "away": "7"
+      "away": "9"
     },
     {
       "label": "Yellow Cards",

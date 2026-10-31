@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T21:57:15+02:00",
+  "updated": "2026-10-31T21:59:24+02:00",
   "log": [
     {
       "pos": 1,
@@ -977,7 +977,7 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "81'",
+      "minute": "83'",
       "latest": "75' Sub, Richards Bay: Lindokuhle Zikhali on for Moses Mthembu"
     },
     {
@@ -987,11 +987,11 @@
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "match_id": "2674049",
       "url": "https://www.psl.co.za/matchcentre/detail/2674049-mamelodi-sundowns-vs-durban-city",
-      "latest": "79' Goal, Iqraam Rayners (Mamelodi Sundowns)",
+      "latest": "82' Sub, Mamelodi Sundowns: Arthur Sales on for Nuno Santos",
       "home_score": 3,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "79'"
+      "minute": "82'"
     }
   ],
   "fixtures": [
