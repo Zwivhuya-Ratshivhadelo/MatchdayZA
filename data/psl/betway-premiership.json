@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T22:03:42+02:00",
+  "updated": "2026-10-31T22:05:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -977,8 +977,8 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "87'",
-      "latest": "83' Sub, Kruger United: Tatenda Tavengwa on for Ntsako Makhubela"
+      "minute": "89'",
+      "latest": "89' Sub, Kruger United: Mancoba Zwane on for Celimpilo Ngema"
     },
     {
       "home": "Mamelodi Sundowns",
@@ -991,7 +991,7 @@
       "home_score": 3,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "87'"
+      "minute": "89'"
     }
   ],
   "fixtures": [

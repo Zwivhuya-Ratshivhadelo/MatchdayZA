@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Richards Bay",
-  "updated": "2026-10-31T22:03:40+02:00",
+  "updated": "2026-10-31T22:05:49+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "87'",
+  "minute": "89'",
   "events": [
+    {
+      "minute": "89'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Mancoba Zwane",
+      "player_out": "Celimpilo Ngema"
+    },
+    {
+      "minute": "89'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Tumelo Mmakgolane",
+      "player_out": "Wonderboy Makhubu"
+    },
     {
       "minute": "83'",
       "type": "sub",
@@ -123,12 +137,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "6",
+      "home": "7",
       "away": "14"
     },
     {
       "label": "Shots on target",
-      "home": "2",
+      "home": "3",
       "away": "3"
     },
     {
@@ -143,7 +157,7 @@
     },
     {
       "label": "Fouls",
-      "home": "21",
+      "home": "22",
       "away": "9"
     },
     {
