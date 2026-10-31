@@ -3,12 +3,30 @@
   "comp": "betway-premiership",
   "home": "Mamelodi Sundowns",
   "away": "Durban City",
-  "updated": "2026-10-31T21:20:28+02:00",
+  "updated": "2026-10-31T21:22:36+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
   "minute": "45'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Tylo Sanger",
+      "player_out": "Kyle Jurgens"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Samkelo Maseko",
+      "player_out": "Luphumlo Sifumba"
+    },
     {
       "minute": "45'",
       "type": "sub",

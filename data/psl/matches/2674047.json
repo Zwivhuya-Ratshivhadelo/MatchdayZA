@@ -3,12 +3,30 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Richards Bay",
-  "updated": "2026-10-31T21:20:26+02:00",
+  "updated": "2026-10-31T21:22:35+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "45+3'",
+  "minute": "47'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Khetukuthula Ndlovu",
+      "player_out": "Ebrahim Seedat"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Mlungisi Zwane",
+      "player_out": "Nkosinathi Thwala"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
     {
       "minute": "45+3'",
       "type": "half_time"
@@ -77,8 +95,8 @@
     },
     {
       "label": "Fouls",
-      "home": "9",
-      "away": "3"
+      "home": "10",
+      "away": "5"
     },
     {
       "label": "Yellow Cards",
