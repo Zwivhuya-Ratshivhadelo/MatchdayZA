@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-31T17:22:44+02:00",
+  "updated": "2026-10-31T17:25:11+02:00",
   "log": [
     {
       "pos": 1,
@@ -784,7 +784,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019769",
       "home_score": 2,
       "away_score": 0,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+4'",
       "latest": "77' Goal, The Bees"
     },
