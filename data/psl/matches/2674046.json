@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Polokwane City",
   "away": "TS Galaxy",
-  "updated": "2026-10-31T19:23:01+02:00",
+  "updated": "2026-10-31T19:25:15+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "60'",
+  "minute": "62'",
   "events": [
+    {
+      "minute": "61'",
+      "type": "sub",
+      "team": "Polokwane City",
+      "player_in": "Tidimalo Molokwane",
+      "player_out": "Lucky Malatsi"
+    },
+    {
+      "minute": "61'",
+      "type": "sub",
+      "team": "Polokwane City",
+      "player_in": "Malebogo Modise",
+      "player_out": "Giovanni Philander"
+    },
     {
       "minute": "60'",
       "type": "sub",
