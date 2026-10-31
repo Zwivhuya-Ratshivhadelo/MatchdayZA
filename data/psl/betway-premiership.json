@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T20:13:44+02:00",
+  "updated": "2026-10-31T20:16:05+02:00",
   "log": [
     {
       "pos": 1,
@@ -966,18 +966,21 @@
       "status": "FT",
       "minute": "90+2'",
       "latest": "90+6' Full time"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Kruger United",
       "away": "Richards Bay",
       "date": "2026-10-31T20:15:00+02:00",
       "venue": "Mbombela Stadium, Nelspruit",
-      "status": "NS",
       "match_id": "2674047",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674047"
-    },
+      "url": "https://www.psl.co.za/matchcentre/detail/2674047",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "1'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Mamelodi Sundowns",
       "away": "Durban City",
