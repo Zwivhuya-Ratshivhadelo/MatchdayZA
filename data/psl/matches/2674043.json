@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "Chippa United",
-  "updated": "2026-10-31T18:32:30+02:00",
+  "updated": "2026-10-31T18:34:42+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "33'",
+  "minute": "34'",
   "events": [
     {
       "minute": "32'",
@@ -49,7 +49,7 @@
     {
       "label": "Offsides",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Fouls",

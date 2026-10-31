@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Golden Arrows",
-  "updated": "2026-10-31T18:32:26+02:00",
+  "updated": "2026-10-31T18:34:38+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "31'",
+  "minute": "33'",
   "events": [
     {
       "minute": "0'",
@@ -32,7 +32,7 @@
     },
     {
       "label": "Offsides",
-      "home": "0",
+      "home": "1",
       "away": "0"
     },
     {
