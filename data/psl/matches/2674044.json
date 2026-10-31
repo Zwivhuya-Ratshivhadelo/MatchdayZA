@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T16:12:49+02:00",
+  "updated": "2026-10-31T16:15:22+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "40'",
+  "minute": "43'",
   "events": [
     {
       "minute": "38'",
@@ -60,7 +60,7 @@
     {
       "label": "Corners",
       "home": "1",
-      "away": "0"
+      "away": "2"
     },
     {
       "label": "Offsides",
@@ -69,7 +69,7 @@
     },
     {
       "label": "Fouls",
-      "home": "7",
+      "home": "8",
       "away": "2"
     },
     {

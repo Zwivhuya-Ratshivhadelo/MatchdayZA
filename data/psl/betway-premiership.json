@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T16:12:51+02:00",
+  "updated": "2026-10-31T16:15:23+02:00",
   "log": [
     {
       "pos": 1,
@@ -912,7 +912,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "40'",
+      "minute": "43'",
       "latest": "38' Yellow card, Simphiwe Selepe (Orlando Pirates)"
     },
     {
@@ -926,7 +926,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "40'"
+      "minute": "43'"
     }
   ],
   "fixtures": [
