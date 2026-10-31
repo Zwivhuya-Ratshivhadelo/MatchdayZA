@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Golden Arrows",
-  "updated": "2026-10-31T18:41:12+02:00",
+  "updated": "2026-10-31T18:43:27+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "39'",
+  "minute": "42'",
   "events": [
+    {
+      "minute": "39'",
+      "type": "yellow",
+      "player": "Siyanda Hlangabeza",
+      "team": "AmaZulu"
+    },
     {
       "minute": "34'",
       "type": "yellow",
@@ -23,12 +29,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "5",
+      "home": "6",
       "away": "4"
     },
     {
       "label": "Shots on target",
-      "home": "1",
+      "home": "2",
       "away": "1"
     },
     {
@@ -43,12 +49,12 @@
     },
     {
       "label": "Fouls",
-      "home": "5",
-      "away": "4"
+      "home": "6",
+      "away": "5"
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
+      "home": "1",
       "away": "1"
     },
     {

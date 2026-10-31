@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Polokwane City",
   "away": "TS Galaxy",
-  "updated": "2026-10-31T18:41:16+02:00",
+  "updated": "2026-10-31T18:43:29+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "33'",
+  "minute": "39'",
   "events": [
     {
       "minute": "31'",
@@ -44,7 +44,7 @@
     },
     {
       "label": "Fouls",
-      "home": "1",
+      "home": "2",
       "away": "7"
     },
     {
@@ -180,6 +180,11 @@
           "pos": "Defender"
         },
         {
+          "no": "4",
+          "name": "MacBeth Mahlangu",
+          "pos": "Defender"
+        },
+        {
           "no": "24",
           "name": "L Mathebula",
           "pos": "Defender"
@@ -197,11 +202,6 @@
         {
           "no": "21",
           "name": "Junior Zindoga",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "4",
-          "name": "MacBeth Mahlangu",
           "pos": "Midfielder"
         },
         {

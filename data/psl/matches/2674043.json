@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "Chippa United",
-  "updated": "2026-10-31T18:41:18+02:00",
+  "updated": "2026-10-31T18:43:30+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "42'",
+  "minute": "44'",
   "events": [
     {
       "minute": "32'",
@@ -49,7 +49,7 @@
     {
       "label": "Offsides",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Fouls",
@@ -87,23 +87,28 @@
           "pos": "Defender"
         },
         {
-          "no": "26",
-          "name": "S Nkwali",
+          "no": "4",
+          "name": "L Vena",
           "pos": "Defender"
         },
         {
-          "no": "14",
-          "name": "S Kwayiba",
+          "no": "37",
+          "name": "Thabiso Lebitso",
           "pos": "Defender"
+        },
+        {
+          "no": "32",
+          "name": "R Daniels",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "26",
+          "name": "S Nkwali",
+          "pos": "Midfielder"
         },
         {
           "no": "22",
           "name": "Q Sibande",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "4",
-          "name": "L Vena",
           "pos": "Midfielder"
         },
         {
@@ -117,13 +122,8 @@
           "pos": "Midfielder"
         },
         {
-          "no": "37",
-          "name": "Thabiso Lebitso",
-          "pos": "Striker"
-        },
-        {
-          "no": "32",
-          "name": "R Daniels",
+          "no": "14",
+          "name": "S Kwayiba",
           "pos": "Striker"
         }
       ],
@@ -136,11 +136,6 @@
         {
           "no": "6",
           "name": "T Mthethwa",
-          "pos": "Substitute"
-        },
-        {
-          "no": "10",
-          "name": "Ashley Du Preez",
           "pos": "Substitute"
         },
         {
@@ -167,6 +162,11 @@
           "no": "20",
           "name": "K Johannessen",
           "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "Ashley Du Preez",
+          "pos": "Substitute"
         }
       ]
     },
@@ -179,11 +179,6 @@
           "pos": "Goalkeeper"
         },
         {
-          "no": "25",
-          "name": "Sirgio Kammies",
-          "pos": "Defender"
-        },
-        {
           "no": "31",
           "name": "I Jones",
           "pos": "Defender"
@@ -194,13 +189,18 @@
           "pos": "Defender"
         },
         {
-          "no": "22",
-          "name": "Abbubaker Mobara",
+          "no": "35",
+          "name": "K Majadibodu",
           "pos": "Defender"
         },
         {
-          "no": "15",
-          "name": "A Tshobeni",
+          "no": "37",
+          "name": "M Tshepang",
+          "pos": "Defender"
+        },
+        {
+          "no": "25",
+          "name": "Sirgio Kammies",
           "pos": "Midfielder"
         },
         {
@@ -209,8 +209,8 @@
           "pos": "Midfielder"
         },
         {
-          "no": "35",
-          "name": "K Majadibodu",
+          "no": "15",
+          "name": "A Tshobeni",
           "pos": "Midfielder"
         },
         {
@@ -219,25 +219,25 @@
           "pos": "Midfielder"
         },
         {
-          "no": "7",
-          "name": "Justice Figuareido",
-          "pos": "Striker"
+          "no": "22",
+          "name": "Abbubaker Mobara",
+          "pos": "Midfielder"
         },
         {
-          "no": "37",
-          "name": "M Tshepang",
+          "no": "7",
+          "name": "Justice Figuareido",
           "pos": "Striker"
         }
       ],
       "subs": [
         {
-          "no": "44",
-          "name": "I Bancé",
+          "no": "40",
+          "name": "Muzomuhle Khanyi",
           "pos": "Substitute"
         },
         {
-          "no": "40",
-          "name": "Muzomuhle Khanyi",
+          "no": "44",
+          "name": "I Bancé",
           "pos": "Substitute"
         },
         {
@@ -251,13 +251,13 @@
           "pos": "Substitute"
         },
         {
-          "no": "50",
-          "name": "Bongani Sam",
+          "no": "27",
+          "name": "D Diakité",
           "pos": "Substitute"
         },
         {
-          "no": "47",
-          "name": "D Diakité",
+          "no": "50",
+          "name": "Bongani Sam",
           "pos": "Substitute"
         },
         {
