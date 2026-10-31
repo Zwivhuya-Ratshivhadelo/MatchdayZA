@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T22:07:58+02:00",
+  "updated": "2026-10-31T22:10:07+02:00",
   "log": [
     {
       "pos": 1,
@@ -974,11 +974,11 @@
       "venue": "Mbombela Stadium, Nelspruit",
       "match_id": "2674047",
       "url": "https://www.psl.co.za/matchcentre/detail/2674047-kruger-united-vs-richards-bay",
-      "home_score": 2,
+      "home_score": 3,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "90+1'",
-      "latest": "89' Sub, Kruger United: Mancoba Zwane on for Celimpilo Ngema"
+      "minute": "90+3'",
+      "latest": "90+3' Goal, Mancoba Zwane (Kruger United)"
     },
     {
       "home": "Mamelodi Sundowns",
@@ -991,7 +991,7 @@
       "home_score": 3,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "90'"
+      "minute": "90+3'"
     }
   ],
   "fixtures": [
