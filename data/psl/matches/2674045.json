@@ -3,12 +3,30 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Sekhukhune United",
-  "updated": "2026-10-31T16:35:04+02:00",
+  "updated": "2026-10-31T16:37:33+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "45+4'",
+  "minute": "47'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Bethuel Muzeu",
+      "player_out": "Chibuike Ohizu"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "D'Angelo Kazeem",
+      "player_out": "Athenkosi Mcaba"
+    },
     {
       "minute": "45+4'",
       "type": "half_time"
@@ -57,7 +75,7 @@
     },
     {
       "label": "Fouls",
-      "home": "4",
+      "home": "5",
       "away": "8"
     },
     {

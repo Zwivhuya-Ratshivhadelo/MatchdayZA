@@ -3,11 +3,11 @@
   "comp": "national-first-division",
   "home": "The Bees",
   "away": "Midlands Wanderers",
-  "updated": "2026-10-31T16:35:09+02:00",
-  "home_score": 0,
+  "updated": "2026-10-31T16:37:39+02:00",
+  "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "46'",
+  "minute": "49'",
   "stats": [
     {
       "label": "Possession",
@@ -16,15 +16,26 @@
     },
     {
       "label": "Attacks",
-      "home": "51",
-      "away": "52"
+      "home": "53",
+      "away": "54"
     },
     {
       "label": "Corners",
-      "home": "4",
+      "home": "5",
       "away": "0"
     }
   ],
   "lineups": [],
-  "events": []
+  "events": [
+    {
+      "minute": "46'",
+      "type": "goal",
+      "team": "The Bees",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ]
 }
