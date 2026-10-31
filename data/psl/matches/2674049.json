@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Mamelodi Sundowns",
   "away": "Durban City",
-  "updated": "2026-10-31T21:46:27+02:00",
+  "updated": "2026-10-31T21:48:36+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "70'",
+  "minute": "72'",
   "events": [
     {
       "minute": "70'",
@@ -94,17 +94,17 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "14",
+      "home": "15",
       "away": "4"
     },
     {
       "label": "Shots on target",
-      "home": "4",
+      "home": "5",
       "away": "0"
     },
     {
       "label": "Corners",
-      "home": "6",
+      "home": "7",
       "away": "1"
     },
     {
@@ -163,6 +163,11 @@
           "pos": "Midfielder"
         },
         {
+          "no": "33",
+          "name": "C Mailula",
+          "pos": "Midfielder"
+        },
+        {
           "no": "15",
           "name": "Bathusi Aubaas",
           "pos": "Midfielder"
@@ -181,22 +186,12 @@
           "no": "12",
           "name": "B Léon",
           "pos": "Striker"
-        },
-        {
-          "no": "33",
-          "name": "C Mailula",
-          "pos": "Striker"
         }
       ],
       "subs": [
         {
           "no": "13",
           "name": "Iqraam Rayners",
-          "pos": "Substitute"
-        },
-        {
-          "no": "40",
-          "name": "Mothobi Mvala",
           "pos": "Substitute"
         },
         {
@@ -222,6 +217,11 @@
         {
           "no": "34",
           "name": "T Ntsabeleng",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "Mothobi Mvala",
           "pos": "Substitute"
         },
         {
