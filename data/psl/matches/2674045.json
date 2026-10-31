@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Milford FC",
   "away": "Sekhukhune United",
-  "updated": "2026-10-31T16:15:23+02:00",
+  "updated": "2026-10-31T16:17:46+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "43'",
+  "minute": "44'",
   "events": [
+    {
+      "minute": "44'",
+      "type": "yellow",
+      "player": "Tshepo Mokoane",
+      "team": "Sekhukhune United"
+    },
     {
       "minute": "24'",
       "type": "goal",
@@ -53,7 +59,7 @@
     {
       "label": "Yellow Cards",
       "home": "0",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",

@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T16:15:23+02:00",
+  "updated": "2026-10-31T16:17:46+02:00",
   "log": [
     {
       "pos": 1,
@@ -913,7 +913,7 @@
       "away_score": 1,
       "status": "LIVE",
       "minute": "43'",
-      "latest": "38' Yellow card, Simphiwe Selepe (Orlando Pirates)"
+      "latest": "43' Yellow card, Lebone Seema (Orlando Pirates)"
     },
     {
       "home": "Milford FC",
@@ -922,11 +922,11 @@
       "venue": "Sugar Ray Xulu Stadium, Clermont",
       "match_id": "2674045",
       "url": "https://www.psl.co.za/matchcentre/detail/2674045-milford-fc-vs-sekhukhune-united",
-      "latest": "24' Goal, Mvelo Zikakayo (Milford)",
+      "latest": "44' Yellow card, Tshepo Mokoane (Sekhukhune United)",
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "43'"
+      "minute": "44'"
     }
   ],
   "fixtures": [
