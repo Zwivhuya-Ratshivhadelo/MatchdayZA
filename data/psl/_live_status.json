@@ -1,6 +1,6 @@
 {
-  "time": "2026-10-31T18:03:48+02:00",
-  "links_found": 8,
+  "time": "2026-10-31T18:06:07+02:00",
+  "links_found": 9,
   "games": [
     {
       "game": "AmaZulu FC v Golden Arrows",
@@ -11,9 +11,8 @@
     {
       "game": "Polokwane City v TS Galaxy",
       "kickoff": "2026-10-31T18:00:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674046",
-      "page": "NS None-None, line-ups 2",
-      "365scores": "LIVE 0-0 1'"
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674046-polokwane-city-vs-ts-galaxy",
+      "page": "LIVE 0-0, line-ups 2"
     },
     {
       "game": "Stellenbosch FC v Chippa United",
