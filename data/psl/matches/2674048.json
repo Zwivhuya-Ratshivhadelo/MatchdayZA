@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Golden Arrows",
-  "updated": "2026-10-31T18:43:27+02:00",
+  "updated": "2026-10-31T18:45:38+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "42'",
+  "minute": "43'",
   "events": [
     {
       "minute": "39'",
@@ -35,7 +35,7 @@
     {
       "label": "Shots on target",
       "home": "2",
-      "away": "1"
+      "away": "0"
     },
     {
       "label": "Corners",
@@ -49,8 +49,8 @@
     },
     {
       "label": "Fouls",
-      "home": "6",
-      "away": "5"
+      "home": "7",
+      "away": "6"
     },
     {
       "label": "Yellow Cards",
