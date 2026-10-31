@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Richards Bay",
-  "updated": "2026-10-31T21:29:01+02:00",
+  "updated": "2026-10-31T21:31:14+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "54'",
+  "minute": "55'",
   "events": [
+    {
+      "minute": "55'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Wandile Ngema",
+      "player_out": "Sbani Mntungwa"
+    },
     {
       "minute": "45'",
       "type": "sub",
@@ -76,12 +83,12 @@
     {
       "label": "Shots",
       "home": "5",
-      "away": "8"
+      "away": "9"
     },
     {
       "label": "Shots on target",
       "home": "2",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Corners",
