@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T20:54:43+02:00",
+  "updated": "2026-10-31T20:56:51+02:00",
   "log": [
     {
       "pos": 1,
@@ -975,10 +975,10 @@
       "match_id": "2674047",
       "url": "https://www.psl.co.za/matchcentre/detail/2674047-kruger-united-vs-richards-bay",
       "home_score": 2,
-      "away_score": 0,
+      "away_score": 1,
       "status": "LIVE",
-      "minute": "37'",
-      "latest": "22' Penalty scored, Ebrahim Seedat (Kruger United)"
+      "minute": "39'",
+      "latest": "39' Goal, Luyanda Khumalo (Richards Bay)"
     },
     {
       "home": "Mamelodi Sundowns",
@@ -991,7 +991,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "38'"
+      "minute": "40'"
     }
   ],
   "fixtures": [
