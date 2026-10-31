@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T20:28:55+02:00",
+  "updated": "2026-10-31T20:31:04+02:00",
   "log": [
     {
       "pos": 1,
@@ -977,7 +977,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "11'",
+      "minute": "13'",
       "latest": "3' Goal, Wonderboy Makhubu (Kruger United)"
     },
     {
@@ -991,7 +991,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "10'"
+      "minute": "14'"
     }
   ],
   "fixtures": [
