@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-10-31T16:03:10+02:00",
+  "updated": "2026-10-31T16:05:37+02:00",
   "log": [
     {
       "pos": 1,
@@ -785,7 +785,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "31'"
+      "minute": "34'"
     },
     {
       "home": "Hungry Lions FC",
@@ -796,7 +796,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "28'"
+      "minute": "31'"
     }
   ],
   "fixtures": [

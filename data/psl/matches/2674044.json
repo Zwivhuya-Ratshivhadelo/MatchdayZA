@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Kaizer Chiefs",
-  "updated": "2026-10-31T16:03:02+02:00",
+  "updated": "2026-10-31T16:05:26+02:00",
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 1,
   "status": "LIVE",
-  "minute": "24'",
+  "minute": "33'",
   "events": [
+    {
+      "minute": "30'",
+      "type": "goal",
+      "player": "Pule Mmodi",
+      "team": "Kaizer Chiefs",
+      "score": [
+        1,
+        1
+      ]
+    },
     {
       "minute": "24'",
       "type": "goal",
@@ -34,12 +44,12 @@
     {
       "label": "Shots",
       "home": "4",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Shots on target",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Corners",
@@ -53,7 +63,7 @@
     },
     {
       "label": "Fouls",
-      "home": "2",
+      "home": "4",
       "away": "2"
     },
     {
