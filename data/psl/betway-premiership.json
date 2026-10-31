@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T21:50:45+02:00",
+  "updated": "2026-10-31T21:52:53+02:00",
   "log": [
     {
       "pos": 1,
@@ -977,8 +977,8 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "75'",
-      "latest": "75' Sub, Richards Bay: Philani Sithebe on for Luyanda Khumalo"
+      "minute": "76'",
+      "latest": "75' Sub, Richards Bay: Lindokuhle Zikhali on for Moses Mthembu"
     },
     {
       "home": "Mamelodi Sundowns",
@@ -991,7 +991,7 @@
       "home_score": 2,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "74'"
+      "minute": "76'"
     }
   ],
   "fixtures": [

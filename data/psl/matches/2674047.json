@@ -3,14 +3,28 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Richards Bay",
-  "updated": "2026-10-31T21:50:44+02:00",
+  "updated": "2026-10-31T21:52:52+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "75'",
+  "minute": "76'",
   "events": [
     {
       "minute": "75'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Lindokuhle Zikhali",
+      "player_out": "Moses Mthembu"
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Richards Bay",
+      "player_in": "Lundi Mahala",
+      "player_out": "Nqaba Xulu"
+    },
+    {
+      "minute": "74'",
       "type": "sub",
       "team": "Richards Bay",
       "player_in": "Philani Sithebe",
@@ -122,7 +136,7 @@
     },
     {
       "label": "Fouls",
-      "home": "17",
+      "home": "18",
       "away": "7"
     },
     {
