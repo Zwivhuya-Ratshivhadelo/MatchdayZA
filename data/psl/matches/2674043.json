@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "Chippa United",
-  "updated": "2026-10-31T18:30:18+02:00",
+  "updated": "2026-10-31T18:32:30+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "30'",
+  "minute": "33'",
   "events": [
+    {
+      "minute": "32'",
+      "type": "yellow",
+      "player": "Lehlogonolo Matlou",
+      "team": "Stellenbosch"
+    },
     {
       "minute": "27'",
       "type": "goal",
@@ -27,7 +33,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "2",
+      "home": "3",
       "away": "2"
     },
     {
@@ -47,12 +53,12 @@
     },
     {
       "label": "Fouls",
-      "home": "5",
+      "home": "6",
       "away": "0"
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
+      "home": "1",
       "away": "0"
     },
     {
