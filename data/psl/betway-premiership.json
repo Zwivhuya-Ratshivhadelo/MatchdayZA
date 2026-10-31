@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T19:31:53+02:00",
+  "updated": "2026-10-31T19:34:05+02:00",
   "log": [
     {
       "pos": 1,
@@ -935,7 +935,7 @@
       "venue": "Princess Magogo Stadium, Durban",
       "match_id": "2674048",
       "url": "https://www.psl.co.za/matchcentre/detail/2674048-amazulu-fc-vs-golden-arrows",
-      "latest": "68' Sub, AmaZulu: Hendrick Ekstein on for Mondli Mbanjwa",
+      "latest": "70' Yellow card, Athini Maqokola (AmaZulu)",
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
@@ -948,11 +948,11 @@
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2674043",
       "url": "https://www.psl.co.za/matchcentre/detail/2674043-stellenbosch-fc-vs-chippa-united",
-      "latest": "71' Sub, Stellenbosch: Tlakusani Mthethwa on for Thabiso Lebitso",
+      "latest": "76' Sub, Chippa United: Ntuthuko Mlotshwa on for Sirgio Kammies",
       "home_score": 0,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "75'"
+      "minute": "76'"
     },
     {
       "home": "Polokwane City",
@@ -964,7 +964,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "69'",
+      "minute": "70'",
       "latest": "62' Yellow card, Monty Batlhabane (Polokwane City)"
     }
   ],

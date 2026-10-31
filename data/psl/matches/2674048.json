@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Golden Arrows",
-  "updated": "2026-10-31T19:31:50+02:00",
+  "updated": "2026-10-31T19:34:02+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
   "minute": "70'",
   "events": [
+    {
+      "minute": "70'",
+      "type": "yellow",
+      "player": "Athini Maqokola",
+      "team": "AmaZulu"
+    },
     {
       "minute": "68'",
       "type": "sub",
@@ -115,12 +121,12 @@
     },
     {
       "label": "Fouls",
-      "home": "11",
+      "home": "13",
       "away": "7"
     },
     {
       "label": "Yellow Cards",
-      "home": "2",
+      "home": "3",
       "away": "1"
     },
     {

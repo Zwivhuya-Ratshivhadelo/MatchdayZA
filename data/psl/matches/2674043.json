@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "Chippa United",
-  "updated": "2026-10-31T19:31:53+02:00",
+  "updated": "2026-10-31T19:34:05+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "75'",
+  "minute": "76'",
   "events": [
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "Chippa United",
+      "player_in": "Ntuthuko Mlotshwa",
+      "player_out": "Sirgio Kammies"
+    },
     {
       "minute": "71'",
       "type": "sub",
