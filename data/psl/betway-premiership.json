@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T21:03:17+02:00",
+  "updated": "2026-10-31T21:05:26+02:00",
   "log": [
     {
       "pos": 1,
@@ -977,8 +977,8 @@
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "45+2'",
-      "latest": "45+1' Yellow card, Ayabulela Konqobe (Kruger United)"
+      "minute": "45+3'",
+      "latest": "45+3' Half-time"
     },
     {
       "home": "Mamelodi Sundowns",
@@ -987,11 +987,11 @@
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "match_id": "2674049",
       "url": "https://www.psl.co.za/matchcentre/detail/2674049-mamelodi-sundowns-vs-durban-city",
-      "latest": "34' Goal, Thabang Matuludi (Mamelodi Sundowns)",
+      "latest": "45+2' Half-time",
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "45+1'"
+      "minute": "45+2'"
     }
   ],
   "fixtures": [
