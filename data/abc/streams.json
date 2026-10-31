@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:01:45+02:00",
+  "updated": "2026-10-31T06:01:58+02:00",
   "streams": [
     {
       "season_id": "17741",
@@ -98,6 +98,20 @@
       "province": "North West",
       "name": "NW Stream B",
       "slug": "nw-stream-b"
+    },
+    {
+      "season_id": "17734",
+      "stream_id": "28884",
+      "province": "Northern Cape",
+      "name": "NC Stream A",
+      "slug": "nc-stream-a"
+    },
+    {
+      "season_id": "17734",
+      "stream_id": "28885",
+      "province": "Northern Cape",
+      "name": "NC Stream B",
+      "slug": "nc-stream-b"
     },
     {
       "season_id": "17738",

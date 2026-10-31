@@ -5,7 +5,7 @@
   "name": "WC Stream A",
   "slug": "wc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28002",
-  "updated": "2026-10-30T18:01:40+02:00",
+  "updated": "2026-10-31T06:01:53+02:00",
   "log": [
     {
       "pos": 1,
@@ -575,38 +575,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Santos FC",
-      "away": "Inter City FFC",
-      "match_no": 52,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=52&s=l",
-      "date": "2026-10-30T19:30:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Seaside Spurs FC",
-      "away": "Ubuntu Football Club",
-      "match_no": 53,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=53&s=l",
-      "date": "2026-10-30T19:30:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ikapa Sporting FC",
-      "away": "Young Bafana",
-      "match_no": 54,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=54&s=l",
-      "date": "2026-10-30T19:30:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Hanover Park",
-      "away": "Saxon Rovers FC",
-      "match_no": 117,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=117&s=l",
-      "date": "2026-10-30T19:30:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Harambee FC",
       "away": "HBU FC",
