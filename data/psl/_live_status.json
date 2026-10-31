@@ -1,18 +1,20 @@
 {
-  "time": "2026-10-31T20:03:20+02:00",
+  "time": "2026-10-31T20:13:31+02:00",
   "links_found": 6,
   "games": [
     {
       "game": "Kruger United v Richards Bay",
       "kickoff": "2026-10-31T20:15:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674047",
-      "page": "NS None-None, line-ups 2"
+      "page": "NS None-None, line-ups 2",
+      "365scores": "NS None-None "
     },
     {
       "game": "Mamelodi Sundowns v Durban City",
       "kickoff": "2026-10-31T20:15:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674049",
-      "page": "NS None-None, line-ups 2"
+      "page": "NS None-None, line-ups 2",
+      "365scores": "NS None-None "
     }
   ]
 }
