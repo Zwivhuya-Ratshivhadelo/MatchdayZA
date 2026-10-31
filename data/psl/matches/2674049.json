@@ -1,0 +1,229 @@
+{
+  "match_id": "2674049",
+  "comp": "betway-premiership",
+  "home": "Mamelodi Sundowns",
+  "away": "Durban City",
+  "updated": "2026-10-31T20:03:24+02:00",
+  "home_score": null,
+  "away_score": null,
+  "status": "NS",
+  "minute": null,
+  "events": [],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Mamelodi Sundowns",
+      "starting": [
+        {
+          "no": "31",
+          "name": "Ricardo Goss",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "42",
+          "name": "M Khoza",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "K Ndamane",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "T Matuludi",
+          "pos": "Defender"
+        },
+        {
+          "no": "10",
+          "name": "Nuno Santos Valente Santos",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "M Allende",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "6",
+          "name": "Aubrey Modiba",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "Bathusi Aubaas",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "T Matthews",
+          "pos": "Striker"
+        },
+        {
+          "no": "33",
+          "name": "C Mailula",
+          "pos": "Striker"
+        },
+        {
+          "no": "12",
+          "name": "B Léon",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "1",
+          "name": "Denis Onyango",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "A De Oliveira Sales",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "A Van Wyk",
+          "pos": "Substitute"
+        },
+        {
+          "no": "34",
+          "name": "T Ntsabeleng",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "Fawaaz Basadien",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "Iqraam Rayners",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "S Mthanti",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "Mothobi Mvala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "Themba Zwane",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Durban City",
+      "starting": [
+        {
+          "no": "33",
+          "name": "F Asare",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "2",
+          "name": "Bandile Shandu",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "Mfanafuthi Mkhize",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "S Ncanana",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "J Mokone",
+          "pos": "Defender"
+        },
+        {
+          "no": "14",
+          "name": "Letsie Koapeng",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "Brooklyn Poggenpoel",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "28",
+          "name": "E Brooks",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "L Sifumba",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "K Jurgens",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "J Lwamba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "27",
+          "name": "S Msomi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "Salim Magoola",
+          "pos": "Substitute"
+        },
+        {
+          "no": "16",
+          "name": "L Makua",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "S Maseko",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "T Sanger",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "A Doumbia",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "S Green",
+          "pos": "Substitute"
+        },
+        {
+          "no": "15",
+          "name": "B Mokwena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "Thabo Nodada",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

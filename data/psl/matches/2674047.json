@@ -1,0 +1,229 @@
+{
+  "match_id": "2674047",
+  "comp": "betway-premiership",
+  "home": "Kruger United",
+  "away": "Richards Bay",
+  "updated": "2026-10-31T20:03:23+02:00",
+  "home_score": null,
+  "away_score": null,
+  "status": "NS",
+  "minute": null,
+  "events": [],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Kruger United",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Marcel Dandjinou",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "13",
+          "name": "Ebrahim Seedat",
+          "pos": "Defender"
+        },
+        {
+          "no": "55",
+          "name": "Ayabulela Konqobe",
+          "pos": "Defender"
+        },
+        {
+          "no": "12",
+          "name": "B Malatjie",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "S Sibiya",
+          "pos": "Defender"
+        },
+        {
+          "no": "27",
+          "name": "A Tiwani",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "N Thwala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "Motsie Mervyn Matima",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "Celimpilo Ngema",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "Ntsako Makhubela",
+          "pos": "Striker"
+        },
+        {
+          "no": "9",
+          "name": "Wonderboy Makhubu",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "30",
+          "name": "M Zwane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "98",
+          "name": "T Mmakgolane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "M Zwane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "99",
+          "name": "P Manqele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "T Tavengwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "K Ndlovu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "Sphiwe Mahlangu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "45",
+          "name": "Kwandakwensizwa Mngonyama",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "Katlego Mohamme",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Richards Bay",
+      "starting": [
+        {
+          "no": "16",
+          "name": "N Ngcobo",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "5",
+          "name": "Thembela Sikhakhane",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "S Khumalo",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "L Mabuya",
+          "pos": "Defender"
+        },
+        {
+          "no": "37",
+          "name": "S Gwele",
+          "pos": "Defender"
+        },
+        {
+          "no": "77",
+          "name": "L Khumalo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "12",
+          "name": "S Gumbi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "24",
+          "name": "S Gumede",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "M Mthembu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "30",
+          "name": "Sanele Barns",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "27",
+          "name": "N Xulu",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "19",
+          "name": "S Nzama",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "T Ndelu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "P Sithebe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "L Zikhali",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "W Ngema",
+          "pos": "Substitute"
+        },
+        {
+          "no": "49",
+          "name": "N Mkhabela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "L Mahala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "15",
+          "name": "N Nzama",
+          "pos": "Substitute"
+        },
+        {
+          "no": "1",
+          "name": "I Otieno",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

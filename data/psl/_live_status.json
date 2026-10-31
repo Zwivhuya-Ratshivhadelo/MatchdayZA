@@ -1,20 +1,18 @@
 {
-  "time": "2026-10-31T19:58:00+02:00",
-  "links_found": 7,
+  "time": "2026-10-31T20:03:20+02:00",
+  "links_found": 6,
   "games": [
     {
-      "game": "AmaZulu FC v Golden Arrows",
-      "kickoff": "2026-10-31T18:00:00+02:00"
+      "game": "Kruger United v Richards Bay",
+      "kickoff": "2026-10-31T20:15:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674047",
+      "page": "NS None-None, line-ups 2"
     },
     {
-      "game": "Polokwane City v TS Galaxy",
-      "kickoff": "2026-10-31T18:00:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674046-polokwane-city-vs-ts-galaxy",
-      "page": "FT 0-0, line-ups 2"
-    },
-    {
-      "game": "Stellenbosch FC v Chippa United",
-      "kickoff": "2026-10-31T18:00:00+02:00"
+      "game": "Mamelodi Sundowns v Durban City",
+      "kickoff": "2026-10-31T20:15:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674049",
+      "page": "NS None-None, line-ups 2"
     }
   ]
 }

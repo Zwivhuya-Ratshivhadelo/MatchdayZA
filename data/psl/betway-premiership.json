@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-10-31T19:58:01+02:00",
+  "updated": "2026-10-31T20:03:24+02:00",
   "log": [
     {
       "pos": 1,
@@ -974,14 +974,18 @@
       "away": "Richards Bay",
       "date": "2026-10-31T20:15:00+02:00",
       "venue": "Mbombela Stadium, Nelspruit",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674047",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674047"
     },
     {
       "home": "Mamelodi Sundowns",
       "away": "Durban City",
       "date": "2026-10-31T20:15:00+02:00",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674049",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674049"
     },
     {
       "home": "Mamelodi Sundowns",
