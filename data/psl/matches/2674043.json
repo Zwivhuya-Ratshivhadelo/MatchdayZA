@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "Chippa United",
-  "updated": "2026-10-31T19:14:15+02:00",
+  "updated": "2026-10-31T19:16:27+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "54'",
+  "minute": "59'",
   "events": [
+    {
+      "minute": "58'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Darrel Matsheke",
+      "player_out": "Siviwe Nkwali"
+    },
+    {
+      "minute": "58'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Quwan Plaatjies",
+      "player_out": "Raoul Daniels"
+    },
     {
       "minute": "45'",
       "type": "second_half"
@@ -41,8 +55,8 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "7",
-      "away": "4"
+      "home": "8",
+      "away": "5"
     },
     {
       "label": "Shots on target",
