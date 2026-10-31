@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "Chippa United",
-  "updated": "2026-10-31T19:36:20+02:00",
+  "updated": "2026-10-31T19:38:31+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "79'",
+  "minute": "81'",
   "events": [
+    {
+      "minute": "81'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Kgaogelo Ramushu",
+      "player_out": "Lehlogonolo Matlou"
+    },
     {
       "minute": "76'",
       "type": "sub",

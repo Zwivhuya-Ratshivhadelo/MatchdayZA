@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Polokwane City",
   "away": "TS Galaxy",
-  "updated": "2026-10-31T19:36:18+02:00",
+  "updated": "2026-10-31T19:38:29+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "73'",
+  "minute": "77'",
   "events": [
+    {
+      "minute": "77'",
+      "type": "sub",
+      "team": "Polokwane City",
+      "player_in": "Ndamulelo Maphangule",
+      "player_out": "Monty Batlhabane"
+    },
     {
       "minute": "73'",
       "type": "yellow",
@@ -73,12 +80,12 @@
     {
       "label": "Shots",
       "home": "12",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Shots on target",
       "home": "0",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Corners",
