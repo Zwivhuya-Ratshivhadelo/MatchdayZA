@@ -5,7 +5,7 @@
   "name": "NW Stream A",
   "slug": "nw-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28492",
-  "updated": "2026-10-31T22:21:35+02:00",
+  "updated": "2026-11-01T06:21:30+02:00",
   "log": [
     {
       "pos": 1,
@@ -455,54 +455,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Stilfontein Real Hearts FC",
-      "away": "Mphehli United",
-      "match_no": 31,
-      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=31&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Golden Palace FC",
-      "away": "FC Milan",
-      "match_no": 32,
-      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=32&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Gm5 United",
-      "away": "Montshioa Swallows FC",
-      "match_no": 33,
-      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=33&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "The B Boys Academy",
-      "away": "Indomitable Lions FC",
-      "match_no": 34,
-      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=34&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Orkney Young Zebras Academy",
-      "away": "Nkamodira",
-      "match_no": 35,
-      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=35&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Mafikeng Rocks",
-      "away": "Mogopela Wonderous",
-      "match_no": 36,
-      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=36&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Mphehli United",
       "away": "Golden Palace FC",

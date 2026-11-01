@@ -5,7 +5,7 @@
   "name": "FS Group 1B",
   "slug": "fs-group-1b",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28595",
-  "updated": "2026-10-31T22:20:54+02:00",
+  "updated": "2026-11-01T06:20:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -189,30 +189,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Mangaung City FC",
-      "away": "Welkom Real Stars FC",
-      "match_no": 16,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=16&s=l",
-      "date": "2026-10-31T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Super Eagles",
-      "away": "Sibanye Stillwater FC",
-      "match_no": 13,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=13&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Kovsies FC",
-      "away": "Free State United FC",
-      "match_no": 14,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=14&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Sibanye Stillwater FC",
       "away": "Kovsies FC",

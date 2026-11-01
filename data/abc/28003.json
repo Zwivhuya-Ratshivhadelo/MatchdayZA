@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-10-31T22:21:57+02:00",
+  "updated": "2026-11-01T06:21:53+02:00",
   "log": [
     {
       "pos": 1,
@@ -475,46 +475,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Royal Blues FC",
-      "away": "Grassy Park United",
-      "match_no": 50,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=50&s=l",
-      "date": "2026-10-31T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Barcelona FC",
-      "away": "Ammar Soccer Academy",
-      "match_no": 51,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=51&s=l",
-      "date": "2026-10-31T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "One Football Club",
-      "away": "Mbekweni Cosmos FC",
-      "match_no": 54,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=54&s=l",
-      "date": "2026-10-31T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Batalions FC",
-      "away": "Relentless Football",
-      "match_no": 53,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=53&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ubuntu Spartans FC",
-      "away": "FC Kayamandi",
-      "match_no": 52,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=52&s=l",
-      "date": "2026-10-31T16:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Grassy Park United",
       "away": "Diadora FC",

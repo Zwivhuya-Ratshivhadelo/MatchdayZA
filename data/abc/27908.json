@@ -5,7 +5,7 @@
   "name": "MP Stream A",
   "slug": "mp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27908",
-  "updated": "2026-10-31T22:21:26+02:00",
+  "updated": "2026-11-01T06:21:21+02:00",
   "log": [
     {
       "pos": 1,
@@ -587,54 +587,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Kwandebele United FC",
-      "away": "Phezulu FC",
-      "match_no": 45,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=45&s=l",
-      "date": "2026-10-31T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Middelburg United",
-      "away": "Amsterdam United FC",
-      "match_no": 43,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=43&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Armory Football Club",
-      "away": "Phaphama Football Club",
-      "match_no": 44,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=44&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Home Defenders",
-      "away": "Secunda M Stars FC",
-      "match_no": 46,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=46&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Home Culture Express FC",
-      "away": "Shimadel Football Club",
-      "match_no": 47,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=47&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Carolina Young Boys FC",
-      "away": "Mjali All Stars",
-      "match_no": 48,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=48&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Home Defenders",
       "away": "Secunda M Stars FC",

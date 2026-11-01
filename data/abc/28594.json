@@ -5,7 +5,7 @@
   "name": "FS Group 1A",
   "slug": "fs-group-1a",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28594",
-  "updated": "2026-10-31T22:20:50+02:00",
+  "updated": "2026-11-01T06:20:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -199,30 +199,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Elite Athletics FC",
-      "away": "African Warriors FC",
-      "match_no": 13,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=13&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Mkabadeli Heroes FC",
-      "away": "Tower United",
-      "match_no": 14,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=14&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Harmony FC",
-      "away": "Remember Elite Soccer Academy",
-      "match_no": 15,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=15&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Harmony FC",
       "away": "Remember Elite Soccer Academy",

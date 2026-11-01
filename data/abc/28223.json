@@ -5,7 +5,7 @@
   "name": "EC Coastal Stream",
   "slug": "ec-coastal-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28223",
-  "updated": "2026-10-31T22:20:41+02:00",
+  "updated": "2026-11-01T06:20:36+02:00",
   "log": [
     {
       "pos": 1,
@@ -321,14 +321,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Old Grey",
-      "away": "Gqeberha United FC",
-      "match_no": 19,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=19&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Makana Rhini United FC",
       "away": "FC Buffalo City Relatives",

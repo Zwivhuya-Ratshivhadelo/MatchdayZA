@@ -5,7 +5,7 @@
   "name": "WC Stream A",
   "slug": "wc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28002",
-  "updated": "2026-10-31T22:21:53+02:00",
+  "updated": "2026-11-01T06:21:48+02:00",
   "log": [
     {
       "pos": 1,
@@ -575,22 +575,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Harambee FC",
-      "away": "HBU FC",
-      "match_no": 49,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=49&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "FN Rangers",
-      "away": "Cape Town Spurs",
-      "match_no": 50,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=50&s=l",
-      "date": "2026-10-31T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Hanover Park",
       "away": "HBU FC",
