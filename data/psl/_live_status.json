@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-01T15:21:18+02:00",
+  "time": "2026-11-01T15:31:44+02:00",
   "links_found": 12,
   "games": [
     {
@@ -10,7 +10,8 @@
       "game": "Highbury v Leicesterford City FC",
       "kickoff": "2026-11-01T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019629",
-      "page": "NS None-None, line-ups 0"
+      "page": "NS None-None, line-ups 0",
+      "365scores": "NS None-None "
     }
   ]
 }
