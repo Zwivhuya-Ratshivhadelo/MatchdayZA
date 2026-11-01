@@ -5,18 +5,18 @@
   "name": "MP Stream B",
   "slug": "mp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27909",
-  "updated": "2026-11-01T18:31:28+02:00",
+  "updated": "2026-11-01T22:31:27+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Fernie Battalion FC",
-      "p": 7,
+      "p": 8,
       "w": 6,
       "d": 0,
-      "l": 1,
+      "l": 2,
       "gf": 14,
-      "ga": 8,
-      "gd": 6,
+      "ga": 9,
+      "gd": 5,
       "pts": 18
     },
     {
@@ -34,26 +34,26 @@
     {
       "pos": 3,
       "team": "Luthuli Brigades FC",
-      "p": 6,
-      "w": 3,
+      "p": 7,
+      "w": 4,
       "d": 2,
       "l": 1,
-      "gf": 8,
+      "gf": 9,
       "ga": 3,
-      "gd": 5,
-      "pts": 11
+      "gd": 6,
+      "pts": 14
     },
     {
       "pos": 4,
       "team": "KaMhlushwa Real Madrid",
-      "p": 6,
-      "w": 3,
+      "p": 7,
+      "w": 4,
       "d": 1,
       "l": 2,
-      "gf": 9,
+      "gf": 11,
       "ga": 6,
-      "gd": 3,
-      "pts": 10
+      "gd": 5,
+      "pts": 13
     },
     {
       "pos": 5,
@@ -82,17 +82,29 @@
     {
       "pos": 7,
       "team": "Acornhoek United FC",
-      "p": 6,
+      "p": 7,
       "w": 2,
       "d": 2,
-      "l": 2,
+      "l": 3,
       "gf": 9,
-      "ga": 11,
-      "gd": -2,
+      "ga": 13,
+      "gd": -4,
       "pts": 8
     },
     {
       "pos": 8,
+      "team": "Zebras FC",
+      "p": 7,
+      "w": 2,
+      "d": 0,
+      "l": 5,
+      "gf": 12,
+      "ga": 18,
+      "gd": -6,
+      "pts": 6
+    },
+    {
+      "pos": 9,
       "team": "Junior Callies FC",
       "p": 6,
       "w": 0,
@@ -104,31 +116,7 @@
       "pts": 3
     },
     {
-      "pos": 9,
-      "team": "Zebras FC",
-      "p": 6,
-      "w": 1,
-      "d": 0,
-      "l": 5,
-      "gf": 8,
-      "ga": 17,
-      "gd": -9,
-      "pts": 3
-    },
-    {
       "pos": 10,
-      "team": "Sibange Young Bucks FC",
-      "p": 6,
-      "w": 0,
-      "d": 2,
-      "l": 4,
-      "gf": 6,
-      "ga": 10,
-      "gd": -4,
-      "pts": 2
-    },
-    {
-      "pos": 11,
       "team": "Dankie Son FC",
       "p": 5,
       "w": 0,
@@ -137,6 +125,18 @@
       "gf": 5,
       "ga": 11,
       "gd": -6,
+      "pts": 2
+    },
+    {
+      "pos": 11,
+      "team": "Sibange Young Bucks FC",
+      "p": 7,
+      "w": 0,
+      "d": 2,
+      "l": 5,
+      "gf": 7,
+      "ga": 14,
+      "gd": -7,
       "pts": 2
     }
   ],
@@ -469,6 +469,36 @@
       "date": "2026-10-24",
       "home_score": 2,
       "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Zebras FC",
+      "away": "Sibange Young Bucks FC",
+      "match_no": 40,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=40&s=l",
+      "date": "2026-10-31",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Fernie Battalion FC",
+      "away": "Luthuli Brigades FC",
+      "match_no": 38,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=38&s=l",
+      "date": "2026-10-31",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "KaMhlushwa Real Madrid",
+      "away": "Acornhoek United FC",
+      "match_no": 36,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=36&s=l",
+      "date": "2026-10-31",
+      "home_score": 2,
+      "away_score": 0,
       "status": "FT"
     }
   ],

@@ -5,7 +5,7 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-01T18:31:46+02:00",
+  "updated": "2026-11-01T22:31:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -57,7 +57,7 @@
     },
     {
       "pos": 5,
-      "team": "Jacksa Spears FC",
+      "team": "Psd FC",
       "p": 1,
       "w": 1,
       "d": 0,
@@ -69,30 +69,18 @@
     },
     {
       "pos": 6,
-      "team": "G Stasie FC",
-      "p": 0,
-      "w": 0,
+      "team": "Jacksa Spears FC",
+      "p": 1,
+      "w": 1,
       "d": 0,
       "l": 0,
-      "gf": 0,
+      "gf": 1,
       "ga": 0,
-      "gd": 0,
-      "pts": 0
+      "gd": 1,
+      "pts": 3
     },
     {
       "pos": 7,
-      "team": "Psd FC",
-      "p": 0,
-      "w": 0,
-      "d": 0,
-      "l": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "pts": 0
-    },
-    {
-      "pos": 8,
       "team": "SPU FC",
       "p": 1,
       "w": 0,
@@ -104,7 +92,7 @@
       "pts": 0
     },
     {
-      "pos": 9,
+      "pos": 8,
       "team": "Saints FC",
       "p": 1,
       "w": 0,
@@ -116,7 +104,7 @@
       "pts": 0
     },
     {
-      "pos": 10,
+      "pos": 9,
       "team": "Ocean Swallows",
       "p": 1,
       "w": 0,
@@ -128,8 +116,20 @@
       "pts": 0
     },
     {
-      "pos": 11,
+      "pos": 10,
       "team": "Gaza United FC",
+      "p": 1,
+      "w": 0,
+      "d": 0,
+      "l": 1,
+      "gf": 0,
+      "ga": 1,
+      "gd": -1,
+      "pts": 0
+    },
+    {
+      "pos": 11,
+      "team": "G Stasie FC",
       "p": 1,
       "w": 0,
       "d": 0,
@@ -201,6 +201,16 @@
       "date": "2026-10-31",
       "home_score": 4,
       "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "G Stasie FC",
+      "away": "Psd FC",
+      "match_no": 5,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=5&s=l",
+      "date": "2026-10-31",
+      "home_score": 0,
+      "away_score": 1,
       "status": "FT"
     }
   ],
