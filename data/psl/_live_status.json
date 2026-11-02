@@ -1,17 +1,12 @@
 {
-  "time": "2026-11-01T17:29:37+02:00",
-  "links_found": 12,
+  "time": "2026-11-02T18:20:02+02:00",
+  "links_found": 6,
   "games": [
     {
-      "game": "Mamelodi Sundowns v Durban City",
-      "kickoff": "2026-11-01T15:30:00+02:00"
-    },
-    {
-      "game": "Highbury v Leicesterford City FC",
-      "kickoff": "2026-11-01T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019629",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "FT 2-1 "
+      "game": "Cape Town City FC v Magesi FC",
+      "kickoff": "2026-11-02T19:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019696",
+      "page": "NS None-None, line-ups 0"
     }
   ]
 }
