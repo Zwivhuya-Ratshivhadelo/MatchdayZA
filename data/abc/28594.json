@@ -5,7 +5,7 @@
   "name": "FS Group 1A",
   "slug": "fs-group-1a",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28594",
-  "updated": "2026-11-01T22:30:46+02:00",
+  "updated": "2026-11-02T06:30:46+02:00",
   "log": [
     {
       "pos": 1,
@@ -199,14 +199,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Harmony FC",
-      "away": "Remember Elite Soccer Academy",
-      "match_no": 15,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=15&s=l",
-      "date": "2026-11-01T16:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Remember Elite Soccer Academy",
       "away": "Motsomotle FC",

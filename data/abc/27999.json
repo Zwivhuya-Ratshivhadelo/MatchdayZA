@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-11-01T22:30:55+02:00",
+  "updated": "2026-11-02T06:30:55+02:00",
   "log": [
     {
       "pos": 1,
@@ -415,22 +415,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Ben 10 FC",
-      "away": "University of Johannesburg FC",
-      "match_no": 28,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=28&s=l",
-      "date": "2026-11-01T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Boipatong Football Club",
-      "away": "La Masia FC",
-      "match_no": 29,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=29&s=l",
-      "date": "2026-11-01T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Ssu M-17 FC",
       "away": "Boipatong Football Club",
