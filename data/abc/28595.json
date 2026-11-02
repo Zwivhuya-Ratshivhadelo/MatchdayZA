@@ -5,23 +5,47 @@
   "name": "FS Group 1B",
   "slug": "fs-group-1b",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28595",
-  "updated": "2026-11-02T12:30:57+02:00",
+  "updated": "2026-11-02T22:30:55+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Sasolburg United FC",
-      "p": 2,
+      "p": 3,
       "w": 2,
       "d": 0,
-      "l": 0,
-      "gf": 3,
-      "ga": 1,
-      "gd": 2,
+      "l": 1,
+      "gf": 4,
+      "ga": 3,
+      "gd": 1,
       "pts": 6
     },
     {
       "pos": 2,
-      "team": "Welkom Real Stars FC",
+      "team": "Free State United FC",
+      "p": 2,
+      "w": 1,
+      "d": 1,
+      "l": 0,
+      "gf": 3,
+      "ga": 1,
+      "gd": 2,
+      "pts": 4
+    },
+    {
+      "pos": 3,
+      "team": "Mangaung Unite",
+      "p": 2,
+      "w": 1,
+      "d": 1,
+      "l": 0,
+      "gf": 2,
+      "ga": 1,
+      "gd": 1,
+      "pts": 4
+    },
+    {
+      "pos": 4,
+      "team": "Kovsies FC",
       "p": 2,
       "w": 1,
       "d": 1,
@@ -32,31 +56,43 @@
       "pts": 4
     },
     {
-      "pos": 3,
-      "team": "Free State United FC",
-      "p": 1,
+      "pos": 5,
+      "team": "Mangaung City FC",
+      "p": 3,
       "w": 1,
-      "d": 0,
-      "l": 0,
+      "d": 1,
+      "l": 1,
       "gf": 3,
-      "ga": 1,
-      "gd": 2,
-      "pts": 3
+      "ga": 3,
+      "gd": 0,
+      "pts": 4
     },
     {
-      "pos": 4,
-      "team": "Kovsies FC",
-      "p": 1,
+      "pos": 6,
+      "team": "Welkom Real Stars FC",
+      "p": 3,
+      "w": 1,
+      "d": 1,
+      "l": 1,
+      "gf": 2,
+      "ga": 2,
+      "gd": 0,
+      "pts": 4
+    },
+    {
+      "pos": 7,
+      "team": "Super Eagles",
+      "p": 3,
       "w": 1,
       "d": 0,
-      "l": 0,
-      "gf": 1,
-      "ga": 0,
+      "l": 2,
+      "gf": 3,
+      "ga": 2,
       "gd": 1,
       "pts": 3
     },
     {
-      "pos": 5,
+      "pos": 8,
       "team": "FC Spartans Cfx pty Ltd",
       "p": 1,
       "w": 0,
@@ -68,51 +104,15 @@
       "pts": 1
     },
     {
-      "pos": 6,
-      "team": "Mangaung Unite",
-      "p": 1,
-      "w": 0,
-      "d": 1,
-      "l": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "pts": 1
-    },
-    {
-      "pos": 7,
-      "team": "Mangaung City FC",
-      "p": 2,
-      "w": 0,
-      "d": 1,
-      "l": 1,
-      "gf": 1,
-      "ga": 2,
-      "gd": -1,
-      "pts": 1
-    },
-    {
-      "pos": 8,
-      "team": "Super Eagles",
-      "p": 2,
-      "w": 0,
-      "d": 0,
-      "l": 2,
-      "gf": 0,
-      "ga": 2,
-      "gd": -2,
-      "pts": 0
-    },
-    {
       "pos": 9,
       "team": "Sibanye Stillwater FC",
-      "p": 2,
+      "p": 3,
       "w": 0,
       "d": 0,
-      "l": 2,
+      "l": 3,
       "gf": 2,
-      "ga": 5,
-      "gd": -3,
+      "ga": 8,
+      "gd": -6,
       "pts": 0
     }
   ],
@@ -186,9 +186,57 @@
       "home_score": 1,
       "away_score": 1,
       "status": "FT"
+    },
+    {
+      "home": "Mangaung City FC",
+      "away": "Welkom Real Stars FC",
+      "match_no": 16,
+      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=16&s=l",
+      "date": "2026-10-30",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Mangaung Unite",
+      "away": "Sasolburg United FC",
+      "match_no": 15,
+      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=15&s=l",
+      "date": "2026-10-30",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Super Eagles",
+      "away": "Sibanye Stillwater FC",
+      "match_no": 13,
+      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=13&s=l",
+      "date": "2026-10-30",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Kovsies FC",
+      "away": "Free State United FC",
+      "match_no": 14,
+      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=14&s=l",
+      "date": "2026-10-31",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT"
     }
   ],
   "fixtures": [
+    {
+      "home": "Sibanye Stillwater FC",
+      "away": "Kovsies FC",
+      "match_no": 17,
+      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=17&s=l",
+      "date": "2026-11-05T16:00:00+02:00",
+      "status": "NS"
+    },
     {
       "home": "Sibanye Stillwater FC",
       "away": "Kovsies FC",

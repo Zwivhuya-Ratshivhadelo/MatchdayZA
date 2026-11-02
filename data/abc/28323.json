@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream B",
   "slug": "lp-limpopo-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28323",
-  "updated": "2026-11-02T12:31:24+02:00",
+  "updated": "2026-11-02T22:31:22+02:00",
   "log": [
     {
       "pos": 1,
@@ -466,6 +466,14 @@
       "away": "The Dolphins FC",
       "match_no": 36,
       "url": "https://inqaku.com/match/view?stream_id=28323&match_no=36&s=l",
+      "date": "2026-11-06T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Eleven Fast Tigers",
+      "away": "Royal Pirates",
+      "match_no": 35,
+      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=35&s=l",
       "date": "2026-11-06T15:00:00+02:00",
       "status": "NS"
     },
