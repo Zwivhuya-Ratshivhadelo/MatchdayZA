@@ -1,12 +1,13 @@
 {
-  "time": "2026-11-02T19:20:58+02:00",
+  "time": "2026-11-02T19:32:07+02:00",
   "links_found": 6,
   "games": [
     {
       "game": "Cape Town City FC v Magesi FC",
       "kickoff": "2026-11-02T19:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019696",
-      "page": "NS None-None, line-ups 0"
+      "page": "NS None-None, line-ups 0",
+      "365scores": "LIVE 0-0 4'"
     }
   ]
 }
