@@ -3,11 +3,11 @@
   "comp": "national-first-division",
   "home": "Cape Town City FC",
   "away": "Magesi FC",
-  "updated": "2026-11-02T20:48:07+02:00",
+  "updated": "2026-11-02T20:54:22+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "56'",
+  "minute": "63'",
   "stats": [
     {
       "label": "Possession",
@@ -22,7 +22,7 @@
     {
       "label": "Corners",
       "home": "1",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Free Kicks",
