@@ -3,7 +3,7 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Golden Arrows",
-  "updated": "2026-11-03T20:15:37+02:00",
+  "updated": "2026-11-03T20:17:55+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
@@ -208,6 +208,11 @@
           "pos": "Defender"
         },
         {
+          "no": "46",
+          "name": "Siphesihle Msomi",
+          "pos": "Midfielder"
+        },
+        {
           "no": "49",
           "name": "N Gasa",
           "pos": "Midfielder"
@@ -223,18 +228,13 @@
           "pos": "Midfielder"
         },
         {
-          "no": "46",
-          "name": "Siphesihle Msomi",
-          "pos": "Striker"
+          "no": "29",
+          "name": "S Sithole",
+          "pos": "Midfielder"
         },
         {
           "no": "18",
           "name": "S Dion",
-          "pos": "Striker"
-        },
-        {
-          "no": "29",
-          "name": "S Sithole",
           "pos": "Striker"
         }
       ],
