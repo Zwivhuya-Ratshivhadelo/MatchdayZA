@@ -1,11 +1,12 @@
 {
-  "time": "2026-11-03T19:00:45+02:00",
-  "links_found": 6,
+  "time": "2026-11-03T19:02:51+02:00",
+  "links_found": 7,
   "games": [
     {
       "game": "Mamelodi Sundowns v Golden Arrows",
       "kickoff": "2026-11-03T19:00:00+02:00",
-      "match_page": null
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2699418-mamelodi-sundowns-vs-golden-arrows",
+      "page": "LIVE 0-0, line-ups 2"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-03T17:30:20+02:00",
+  "updated": "2026-11-03T19:02:53+02:00",
   "log": [],
   "results": [
     {
@@ -146,16 +146,22 @@
       "away_score": 2,
       "status": "FT",
       "minute": "90+4'"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Mamelodi Sundowns",
       "away": "Golden Arrows",
       "date": "2026-11-03T19:00:00+02:00",
       "venue": "Loftus Versfeld Stadium, Pretoria",
-      "status": "NS"
-    },
+      "match_id": "2699418",
+      "url": "https://www.psl.co.za/matchcentre/detail/2699418-mamelodi-sundowns-vs-golden-arrows",
+      "latest": "0' Kick-off",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "1'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Kaizer Chiefs",
       "away": "Siwelele",
