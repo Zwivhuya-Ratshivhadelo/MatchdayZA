@@ -3,12 +3,43 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Golden Arrows",
-  "updated": "2026-11-03T20:27:27+02:00",
-  "home_score": 0,
+  "updated": "2026-11-03T20:29:53+02:00",
+  "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "67'",
+  "minute": "71'",
   "events": [
+    {
+      "minute": "69'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Ntandoyenkosi Mabaso",
+      "player_out": "Siphesihle Msomi"
+    },
+    {
+      "minute": "69'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Sbonelo Cele",
+      "player_out": "Osborn Maluleke"
+    },
+    {
+      "minute": "69'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Philani Kumalo",
+      "player_out": "Sabelo Sithole"
+    },
+    {
+      "minute": "68'",
+      "type": "goal",
+      "player": "Iqraam Rayners",
+      "team": "Mamelodi Sundowns",
+      "score": [
+        1,
+        0
+      ]
+    },
     {
       "minute": "67'",
       "type": "sub",
@@ -65,12 +96,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "16",
+      "home": "18",
       "away": "7"
     },
     {
       "label": "Shots on target",
-      "home": "4",
+      "home": "5",
       "away": "2"
     },
     {
@@ -85,7 +116,7 @@
     },
     {
       "label": "Fouls",
-      "home": "9",
+      "home": "10",
       "away": "6"
     },
     {
