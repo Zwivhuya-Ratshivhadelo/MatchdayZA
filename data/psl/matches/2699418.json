@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Golden Arrows",
-  "updated": "2026-11-03T20:48:43+02:00",
+  "updated": "2026-11-03T20:51:09+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "90'",
+  "minute": "90+2'",
   "events": [
     {
       "minute": "83'",
@@ -123,8 +123,8 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "21",
-      "away": "9"
+      "home": "23",
+      "away": "10"
     },
     {
       "label": "Shots on target",
