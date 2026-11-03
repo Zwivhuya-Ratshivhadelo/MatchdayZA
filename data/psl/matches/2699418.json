@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Golden Arrows",
-  "updated": "2026-11-03T20:36:58+02:00",
+  "updated": "2026-11-03T20:39:25+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "77'",
+  "minute": "81'",
   "events": [
     {
       "minute": "77'",
@@ -15,6 +15,13 @@
       "team": "Golden Arrows",
       "player_in": "Nduduzo Sibiya",
       "player_out": "Nhlanhla Zwane"
+    },
+    {
+      "minute": "77'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Aubrey Modiba",
+      "player_out": "Fawaaz Basadien"
     },
     {
       "minute": "77'",
@@ -109,8 +116,8 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "20",
-      "away": "8"
+      "home": "21",
+      "away": "9"
     },
     {
       "label": "Shots on target",
@@ -129,7 +136,7 @@
     },
     {
       "label": "Fouls",
-      "home": "10",
+      "home": "11",
       "away": "7"
     },
     {
