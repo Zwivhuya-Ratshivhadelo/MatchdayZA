@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Golden Arrows",
-  "updated": "2026-11-03T20:22:33+02:00",
+  "updated": "2026-11-03T20:25:00+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "63'",
+  "minute": "66'",
   "events": [
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Marcelo Allende",
+      "player_out": "Sphelele Mkhulise"
+    },
     {
       "minute": "61'",
       "type": "sub",
@@ -44,8 +51,8 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "15",
-      "away": "6"
+      "home": "16",
+      "away": "7"
     },
     {
       "label": "Shots on target",
