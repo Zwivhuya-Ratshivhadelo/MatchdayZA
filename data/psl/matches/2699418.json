@@ -3,12 +3,25 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Golden Arrows",
-  "updated": "2026-11-03T20:34:50+02:00",
+  "updated": "2026-11-03T20:36:58+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
   "minute": "77'",
   "events": [
+    {
+      "minute": "77'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Nduduzo Sibiya",
+      "player_out": "Nhlanhla Zwane"
+    },
+    {
+      "minute": "77'",
+      "type": "yellow",
+      "player": "Khulekani Shezi",
+      "team": "Golden Arrows"
+    },
     {
       "minute": "69'",
       "type": "sub",
@@ -117,12 +130,12 @@
     {
       "label": "Fouls",
       "home": "10",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Yellow Cards",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Red Cards",
