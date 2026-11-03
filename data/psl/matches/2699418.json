@@ -3,12 +3,26 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Golden Arrows",
-  "updated": "2026-11-03T20:25:00+02:00",
+  "updated": "2026-11-03T20:27:27+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "66'",
+  "minute": "67'",
   "events": [
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Thabang Matuludi",
+      "player_out": "Thapelo Morena"
+    },
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Cassius Mailula",
+      "player_out": "Arthur Sales"
+    },
     {
       "minute": "66'",
       "type": "sub",
@@ -61,7 +75,7 @@
     },
     {
       "label": "Corners",
-      "home": "8",
+      "home": "9",
       "away": "1"
     },
     {
