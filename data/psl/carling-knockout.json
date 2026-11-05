@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-06T00:00:22+02:00",
+  "updated": "2026-11-06T00:45:03+02:00",
   "log": [],
   "results": [
     {
@@ -159,19 +159,24 @@
       "away_score": 0,
       "status": "FT",
       "minute": "90'"
+    },
+    {
+      "home": "Mamelodi Sundowns",
+      "away": "Golden Arrows",
+      "date": "2026-11-06T02:00:00+02:00",
+      "venue": "TBC, TBC",
+      "match_id": "2699418",
+      "url": "https://www.psl.co.za/matchcentre/detail/2699418-mamelodi-sundowns-vs-golden-arrows",
+      "latest": "90+3' Full time",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
     }
   ],
   "fixtures": [
     {
       "home": "Kaizer Chiefs",
       "away": "Siwelele",
-      "date": "2026-11-06T02:00:00+02:00",
-      "venue": "TBC, TBC",
-      "status": "NS"
-    },
-    {
-      "home": "Mamelodi Sundowns",
-      "away": "Golden Arrows",
       "date": "2026-11-06T02:00:00+02:00",
       "venue": "TBC, TBC",
       "status": "NS"

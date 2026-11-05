@@ -1,12 +1,25 @@
 {
-  "time": "2026-11-03T20:54:27+02:00",
+  "time": "2026-11-06T00:50:03+02:00",
   "links_found": 6,
   "games": [
     {
+      "game": "Kaizer Chiefs v Siwelele",
+      "kickoff": "2026-11-06T02:00:00+02:00",
+      "match_page": null
+    },
+    {
       "game": "Mamelodi Sundowns v Golden Arrows",
-      "kickoff": "2026-11-03T19:00:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2699418-mamelodi-sundowns-vs-golden-arrows",
-      "page": "FT 1-0, line-ups 2"
+      "kickoff": "2026-11-06T02:00:00+02:00"
+    },
+    {
+      "game": "Orlando Pirates v Sekhukhune United",
+      "kickoff": "2026-11-06T02:00:00+02:00",
+      "match_page": null
+    },
+    {
+      "game": "Stellenbosch FC v AmaZulu FC",
+      "kickoff": "2026-11-06T02:00:00+02:00",
+      "match_page": null
     }
   ]
 }
