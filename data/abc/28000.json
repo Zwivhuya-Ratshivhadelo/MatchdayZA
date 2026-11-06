@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-11-06T12:30:59+02:00",
+  "updated": "2026-11-06T18:31:02+02:00",
   "log": [
     {
       "pos": 1,
@@ -34,13 +34,13 @@
     {
       "pos": 3,
       "team": "Tembisa Destroyers FC",
-      "p": 5,
+      "p": 6,
       "w": 3,
       "d": 1,
-      "l": 1,
-      "gf": 8,
-      "ga": 5,
-      "gd": 3,
+      "l": 2,
+      "gf": 9,
+      "ga": 7,
+      "gd": 2,
       "pts": 10
     },
     {
@@ -93,6 +93,18 @@
     },
     {
       "pos": 8,
+      "team": "Dube Continental FC",
+      "p": 6,
+      "w": 1,
+      "d": 2,
+      "l": 3,
+      "gf": 5,
+      "ga": 8,
+      "gd": -3,
+      "pts": 5
+    },
+    {
+      "pos": 9,
       "team": "Mike-1-Stars FC",
       "p": 4,
       "w": 1,
@@ -104,7 +116,7 @@
       "pts": 4
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "TUT FC",
       "p": 4,
       "w": 1,
@@ -116,7 +128,7 @@
       "pts": 4
     },
     {
-      "pos": 10,
+      "pos": 11,
       "team": "Spartans FC",
       "p": 4,
       "w": 1,
@@ -126,18 +138,6 @@
       "ga": 6,
       "gd": -2,
       "pts": 3
-    },
-    {
-      "pos": 11,
-      "team": "Dube Continental FC",
-      "p": 5,
-      "w": 0,
-      "d": 2,
-      "l": 3,
-      "gf": 3,
-      "ga": 7,
-      "gd": -4,
-      "pts": 2
     },
     {
       "pos": 12,
@@ -422,6 +422,16 @@
       "home_score": 1,
       "away_score": 0,
       "status": "FT"
+    },
+    {
+      "home": "Dube Continental FC",
+      "away": "Tembisa Destroyers FC",
+      "match_no": 36,
+      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=36&s=l",
+      "date": "2026-11-06",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
     }
   ],
   "fixtures": [
@@ -431,14 +441,6 @@
       "match_no": 31,
       "url": "https://inqaku.com/match/view?stream_id=28000&match_no=31&s=l",
       "date": "2026-11-06T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Dube Continental FC",
-      "away": "Tembisa Destroyers FC",
-      "match_no": 36,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=36&s=l",
-      "date": "2026-11-06T14:00:00+02:00",
       "status": "NS"
     },
     {
