@@ -5,7 +5,7 @@
   "name": "FS Group 1B",
   "slug": "fs-group-1b",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28595",
-  "updated": "2026-11-05T22:00:50+02:00",
+  "updated": "2026-11-06T06:30:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -229,14 +229,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Sibanye Stillwater FC",
-      "away": "Kovsies FC",
-      "match_no": 17,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=17&s=l",
-      "date": "2026-11-05T16:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Sibanye Stillwater FC",
       "away": "Kovsies FC",
