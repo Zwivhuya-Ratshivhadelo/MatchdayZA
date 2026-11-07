@@ -3,12 +3,33 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Sekhukhune United",
-  "updated": "2026-11-07T16:23:36+02:00",
+  "updated": "2026-11-07T16:25:43+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "63'",
+  "minute": "67'",
   "events": [
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Daniel Cardoso",
+      "player_out": "Bright Ndlovu"
+    },
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Sifiso Luthuli",
+      "player_out": "Yamela Mbuthuma"
+    },
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Oswin Appollis",
+      "player_out": "Mpho Padime"
+    },
     {
       "minute": "45'",
       "type": "second_half"
@@ -75,7 +96,7 @@
     },
     {
       "label": "Fouls",
-      "home": "8",
+      "home": "10",
       "away": "10"
     },
     {
