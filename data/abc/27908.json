@@ -5,90 +5,90 @@
   "name": "MP Stream A",
   "slug": "mp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27908",
-  "updated": "2026-11-07T12:31:20+02:00",
+  "updated": "2026-11-07T22:01:29+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Phezulu FC",
-      "p": 8,
-      "w": 7,
+      "p": 9,
+      "w": 8,
       "d": 1,
       "l": 0,
-      "gf": 17,
-      "ga": 4,
-      "gd": 13,
-      "pts": 22
+      "gf": 23,
+      "ga": 7,
+      "gd": 16,
+      "pts": 25
     },
     {
       "pos": 2,
       "team": "Secunda M Stars FC",
-      "p": 7,
-      "w": 7,
+      "p": 8,
+      "w": 8,
       "d": 0,
       "l": 0,
-      "gf": 18,
+      "gf": 22,
       "ga": 2,
-      "gd": 16,
-      "pts": 21
+      "gd": 20,
+      "pts": 24
     },
     {
       "pos": 3,
       "team": "Middelburg United",
+      "p": 9,
+      "w": 6,
+      "d": 1,
+      "l": 2,
+      "gf": 16,
+      "ga": 3,
+      "gd": 13,
+      "pts": 19
+    },
+    {
+      "pos": 4,
+      "team": "Witbank City Lads FC",
+      "p": 8,
+      "w": 5,
+      "d": 1,
+      "l": 2,
+      "gf": 13,
+      "ga": 8,
+      "gd": 5,
+      "pts": 16
+    },
+    {
+      "pos": 5,
+      "team": "Phaphama Football Club",
       "p": 8,
       "w": 5,
       "d": 1,
       "l": 2,
       "gf": 14,
-      "ga": 3,
-      "gd": 11,
+      "ga": 10,
+      "gd": 4,
       "pts": 16
     },
     {
-      "pos": 4,
-      "team": "Mjali All Stars",
-      "p": 6,
-      "w": 4,
-      "d": 1,
-      "l": 1,
-      "gf": 10,
-      "ga": 3,
-      "gd": 7,
-      "pts": 13
-    },
-    {
-      "pos": 5,
-      "team": "Witbank City Lads FC",
-      "p": 7,
-      "w": 4,
-      "d": 1,
-      "l": 2,
-      "gf": 12,
-      "ga": 8,
-      "gd": 4,
-      "pts": 13
-    },
-    {
       "pos": 6,
-      "team": "Phaphama Football Club",
+      "team": "Mjali All Stars",
       "p": 7,
       "w": 4,
       "d": 1,
       "l": 2,
       "gf": 10,
-      "ga": 10,
-      "gd": 0,
+      "ga": 4,
+      "gd": 6,
       "pts": 13
     },
     {
       "pos": 7,
       "team": "Kwandebele United FC",
-      "p": 8,
+      "p": 9,
       "w": 3,
       "d": 2,
-      "l": 3,
+      "l": 4,
       "gf": 12,
-      "ga": 13,
-      "gd": -1,
+      "ga": 15,
+      "gd": -3,
       "pts": 11
     },
     {
@@ -106,61 +106,61 @@
     {
       "pos": 9,
       "team": "Home Culture Express FC",
-      "p": 8,
+      "p": 9,
       "w": 2,
       "d": 2,
-      "l": 4,
-      "gf": 10,
-      "ga": 17,
-      "gd": -7,
+      "l": 5,
+      "gf": 13,
+      "ga": 23,
+      "gd": -10,
       "pts": 8
     },
     {
       "pos": 10,
       "team": "Armory Football Club",
-      "p": 7,
+      "p": 8,
       "w": 2,
       "d": 1,
-      "l": 4,
-      "gf": 7,
-      "ga": 12,
-      "gd": -5,
+      "l": 5,
+      "gf": 8,
+      "ga": 14,
+      "gd": -6,
       "pts": 7
     },
     {
       "pos": 11,
       "team": "Amsterdam United FC",
-      "p": 7,
-      "w": 1,
+      "p": 8,
+      "w": 2,
       "d": 0,
       "l": 6,
-      "gf": 3,
-      "ga": 15,
-      "gd": -12,
-      "pts": 3
+      "gf": 5,
+      "ga": 16,
+      "gd": -11,
+      "pts": 6
     },
     {
       "pos": 12,
       "team": "Carolina Young Boys FC",
-      "p": 6,
-      "w": 0,
-      "d": 0,
-      "l": 6,
-      "gf": 3,
-      "ga": 13,
-      "gd": -10,
-      "pts": 0
-    },
-    {
-      "pos": 13,
-      "team": "Home Defenders",
       "p": 7,
       "w": 0,
       "d": 0,
       "l": 7,
       "gf": 3,
-      "ga": 19,
-      "gd": -16,
+      "ga": 17,
+      "gd": -14,
+      "pts": 0
+    },
+    {
+      "pos": 13,
+      "team": "Home Defenders",
+      "p": 8,
+      "w": 0,
+      "d": 0,
+      "l": 8,
+      "gf": 3,
+      "ga": 23,
+      "gd": -20,
       "pts": 0
     }
   ],
@@ -634,57 +634,69 @@
       "home_score": 0,
       "away_score": 3,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
-    {
-      "home": "Amsterdam United FC",
-      "away": "Armory Football Club",
-      "match_no": 49,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=49&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Middelburg United",
-      "away": "Kwandebele United FC",
-      "match_no": 50,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=50&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Phaphama Football Club",
-      "away": "Home Defenders",
-      "match_no": 51,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=51&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Phezulu FC",
-      "away": "Home Culture Express FC",
-      "match_no": 52,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=52&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Secunda M Stars FC",
-      "away": "Carolina Young Boys FC",
-      "match_no": 53,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=53&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
     },
     {
       "home": "Mjali All Stars",
       "away": "Witbank City Lads FC",
       "match_no": 54,
       "url": "https://inqaku.com/match/view?stream_id=27908&match_no=54&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
+      "date": "2026-11-07",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
     },
+    {
+      "home": "Secunda M Stars FC",
+      "away": "Carolina Young Boys FC",
+      "match_no": 53,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=53&s=l",
+      "date": "2026-11-07",
+      "home_score": 4,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Phezulu FC",
+      "away": "Home Culture Express FC",
+      "match_no": 52,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=52&s=l",
+      "date": "2026-11-07",
+      "home_score": 6,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Phaphama Football Club",
+      "away": "Home Defenders",
+      "match_no": 51,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=51&s=l",
+      "date": "2026-11-07",
+      "home_score": 4,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Middelburg United",
+      "away": "Kwandebele United FC",
+      "match_no": 50,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=50&s=l",
+      "date": "2026-11-07",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Amsterdam United FC",
+      "away": "Armory Football Club",
+      "match_no": 49,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=49&s=l",
+      "date": "2026-11-07",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Carolina Young Boys FC",
       "away": "Mjali All Stars",
