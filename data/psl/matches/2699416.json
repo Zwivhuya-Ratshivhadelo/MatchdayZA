@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Sekhukhune United",
-  "updated": "2026-11-07T16:21:31+02:00",
+  "updated": "2026-11-07T16:23:36+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "62'",
+  "minute": "63'",
   "events": [
     {
       "minute": "45'",
@@ -55,18 +55,18 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "4",
-      "away": "4"
+      "home": "5",
+      "away": "5"
     },
     {
       "label": "Shots on target",
-      "home": "2",
+      "home": "3",
       "away": "0"
     },
     {
       "label": "Corners",
       "home": "0",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Offsides",
