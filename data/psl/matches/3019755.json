@@ -3,12 +3,13 @@
   "comp": "national-first-division",
   "home": "Upington City",
   "away": "Cape Town City FC",
-  "updated": "2026-11-07T17:55:27+02:00",
-  "home_score": null,
-  "away_score": null,
-  "status": "NS",
+  "updated": "2026-11-07T20:00:28+02:00",
+  "home_score": 1,
+  "away_score": 1,
+  "status": "FT",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [],
+  "tried365": true
 }
