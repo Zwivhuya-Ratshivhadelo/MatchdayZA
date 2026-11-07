@@ -3,12 +3,26 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Sekhukhune United",
-  "updated": "2026-11-07T16:31:59+02:00",
+  "updated": "2026-11-07T16:34:05+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "72'",
+  "minute": "75'",
   "events": [
+    {
+      "minute": "74'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Nyiko Mobbie",
+      "player_out": "Tsepo Matsimbi"
+    },
+    {
+      "minute": "74'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Thabang Makubo",
+      "player_out": "Bethuel Muzeu"
+    },
     {
       "minute": "65'",
       "type": "sub",
@@ -76,7 +90,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "8",
+      "home": "9",
       "away": "5"
     },
     {
