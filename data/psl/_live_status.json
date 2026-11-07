@@ -1,12 +1,39 @@
 {
-  "time": "2026-11-07T17:03:23+02:00",
+  "time": "2026-11-07T17:04:57+02:00",
   "links_found": 6,
   "games": [
     {
-      "game": "Orlando Pirates v Sekhukhune United",
-      "kickoff": "2026-11-07T15:00:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2699416-orlando-pirates-vs-sekhukhune-united",
-      "page": "FT 1-0, line-ups 2"
+      "game": "Upington City v Cape Town City FC",
+      "kickoff": "2026-11-07T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019755",
+      "page": "NS None-None, line-ups 0",
+      "365scores": "NS None-None "
+    },
+    {
+      "game": "Pretoria University FC v Gomora United",
+      "kickoff": "2026-11-07T15:30:00+02:00",
+      "match_page": null
+    },
+    {
+      "game": "Midlands Wanderers v Lerumo Lions",
+      "kickoff": "2026-11-07T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019788",
+      "page": "NS None-None, line-ups 0",
+      "365scores": "LIVE 1-2 55'"
+    },
+    {
+      "game": "Magesi FC v Orbit College FC",
+      "kickoff": "2026-11-07T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019706",
+      "page": "NS None-None, line-ups 0",
+      "365scores": "LIVE 1-1 77'"
+    },
+    {
+      "game": "Venda FC v The Bees",
+      "kickoff": "2026-11-07T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019594",
+      "page": "NS None-None, line-ups 0",
+      "365scores": "LIVE 0-0 70'"
     }
   ]
 }

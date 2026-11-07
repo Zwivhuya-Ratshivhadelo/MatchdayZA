@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-07T13:30:14+02:00",
+  "updated": "2026-11-07T17:05:20+02:00",
   "log": [
     {
       "pos": 1,
@@ -827,32 +827,53 @@
       "status": "FT",
       "minute": "89'",
       "latest": "2' Goal, Cape Town City FC"
+    },
+    {
+      "home": "Midlands Wanderers",
+      "away": "Lerumo Lions",
+      "date": "2026-11-07T15:30:00+02:00",
+      "match_id": "3019788",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019788",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "LIVE",
+      "minute": "55'"
+    },
+    {
+      "home": "Magesi FC",
+      "away": "Orbit College FC",
+      "date": "2026-11-07T15:30:00+02:00",
+      "match_id": "3019706",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019706",
+      "latest": "57' Goal, Magesi FC",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "LIVE",
+      "minute": "77'"
+    },
+    {
+      "home": "Venda FC",
+      "away": "The Bees",
+      "date": "2026-11-07T15:30:00+02:00",
+      "match_id": "3019594",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019594",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "70'"
     }
   ],
   "fixtures": [
     {
       "home": "Upington City",
       "away": "Cape Town City FC",
-      "date": "2026-11-07T15:30:00+02:00"
+      "date": "2026-11-07T15:30:00+02:00",
+      "match_id": "3019755",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019755"
     },
     {
       "home": "Pretoria University FC",
       "away": "Gomora United",
-      "date": "2026-11-07T15:30:00+02:00"
-    },
-    {
-      "home": "Midlands Wanderers",
-      "away": "Lerumo Lions",
-      "date": "2026-11-07T15:30:00+02:00"
-    },
-    {
-      "home": "Magesi FC",
-      "away": "Orbit College FC",
-      "date": "2026-11-07T15:30:00+02:00"
-    },
-    {
-      "home": "Venda FC",
-      "away": "The Bees",
       "date": "2026-11-07T15:30:00+02:00"
     }
   ],
