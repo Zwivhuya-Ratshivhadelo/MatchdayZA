@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-11-06T22:32:04+02:00",
+  "updated": "2026-11-07T06:32:03+02:00",
   "log": [
     {
       "pos": 1,
@@ -525,22 +525,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Grassy Park United",
-      "away": "Diadora FC",
-      "match_no": 55,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=55&s=l",
-      "date": "2026-11-06T19:30:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "One Football Club",
-      "away": "Batalions FC",
-      "match_no": 60,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=60&s=l",
-      "date": "2026-11-06T19:30:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Mbekweni Cosmos FC",
       "away": "Ubuntu Spartans FC",

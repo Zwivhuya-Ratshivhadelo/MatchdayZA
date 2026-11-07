@@ -5,7 +5,7 @@
   "name": "NW Stream B",
   "slug": "nw-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28493",
-  "updated": "2026-11-06T22:31:46+02:00",
+  "updated": "2026-11-07T06:31:39+02:00",
   "log": [
     {
       "pos": 1,
@@ -505,14 +505,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "NWU Tawana FC",
-      "away": "NW Signal FC",
-      "match_no": 37,
-      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=37&s=l",
-      "date": "2026-11-06T18:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Mavabaza United Football Club",
       "away": "Bokone NW FC",
