@@ -3,12 +3,26 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Sekhukhune United",
-  "updated": "2026-11-07T16:01:39+02:00",
+  "updated": "2026-11-07T16:04:46+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "45+3'",
+  "minute": "45'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Oageng Phiri",
+      "player_out": "Tshepo Mokoane"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Sekhukhune United",
+      "player_in": "Thabo Nkwana",
+      "player_out": "Chibuike Ohizu"
+    },
     {
       "minute": "45+3'",
       "type": "half_time"
