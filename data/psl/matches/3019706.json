@@ -3,11 +3,11 @@
   "comp": "national-first-division",
   "home": "Magesi FC",
   "away": "Orbit College FC",
-  "updated": "2026-11-07T17:20:46+02:00",
+  "updated": "2026-11-07T17:23:13+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "90+3'",
+  "minute": "90+5'",
   "stats": [
     {
       "label": "Possession",
@@ -16,8 +16,8 @@
     },
     {
       "label": "Attacks",
-      "home": "88",
-      "away": "78"
+      "home": "89",
+      "away": "84"
     },
     {
       "label": "Corners",
@@ -27,7 +27,7 @@
     {
       "label": "Yellow Cards",
       "home": "3",
-      "away": "3"
+      "away": "4"
     }
   ],
   "lineups": [],
