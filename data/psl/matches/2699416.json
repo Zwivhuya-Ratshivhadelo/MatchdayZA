@@ -3,12 +3,16 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Sekhukhune United",
-  "updated": "2026-11-07T16:53:12+02:00",
+  "updated": "2026-11-07T17:03:24+02:00",
   "home_score": 1,
   "away_score": 0,
-  "status": "LIVE",
-  "minute": "90+2'",
+  "status": "FT",
+  "minute": null,
   "events": [
+    {
+      "minute": "90+5'",
+      "type": "full_time"
+    },
     {
       "minute": "90'",
       "type": "yellow",
@@ -16,11 +20,11 @@
       "team": "Orlando Pirates"
     },
     {
-      "minute": "83'",
+      "minute": "86'",
       "type": "sub",
       "team": "Orlando Pirates",
       "player_in": "Matome Mmolai",
-      "player_out": "Simphiwe Selepe"
+      "player_out": "Simphiwe Masilela"
     },
     {
       "minute": "83'",
@@ -111,7 +115,7 @@
     {
       "label": "Shots",
       "home": "10",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Shots on target",
@@ -130,7 +134,7 @@
     },
     {
       "label": "Fouls",
-      "home": "16",
+      "home": "18",
       "away": "13"
     },
     {
