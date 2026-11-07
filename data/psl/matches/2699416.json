@@ -3,18 +3,18 @@
   "comp": "carling-knockout",
   "home": "Orlando Pirates",
   "away": "Sekhukhune United",
-  "updated": "2026-11-07T16:25:43+02:00",
+  "updated": "2026-11-07T16:27:48+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "67'",
+  "minute": "66'",
   "events": [
     {
-      "minute": "67'",
+      "minute": "65'",
       "type": "sub",
       "team": "Sekhukhune United",
       "player_in": "Daniel Cardoso",
-      "player_out": "Bright Ndlovu"
+      "player_out": "Ellis Rammala"
     },
     {
       "minute": "65'",
