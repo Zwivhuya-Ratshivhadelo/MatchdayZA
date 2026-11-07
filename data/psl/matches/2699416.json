@@ -1,0 +1,188 @@
+{
+  "match_id": "2699416",
+  "comp": "carling-knockout",
+  "home": "Orlando Pirates",
+  "away": "Sekhukhune United",
+  "updated": "2026-11-07T15:02:42+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "1'",
+  "events": [
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Orlando Pirates",
+      "starting": [
+        {
+          "no": "24",
+          "name": "Sipho Chaine",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "23",
+          "name": "Gamphani Lungu",
+          "pos": "Defender"
+        },
+        {
+          "no": "7",
+          "name": "Deon Hotto",
+          "pos": "Defender"
+        },
+        {
+          "no": "37",
+          "name": "S Zulu",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "L Seema",
+          "pos": "Defender"
+        },
+        {
+          "no": "38",
+          "name": "M Padime",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "48",
+          "name": "S Masilela",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "S Selepe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "T Mokobodi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "T Moremi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "9",
+          "name": "Y Mbuthuma",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "39",
+          "name": "S Luthuli",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "B Sigomoshe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "M Mthiyane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "S Dladla",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "N Rapoo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "49",
+          "name": "K Kgositlile Kgosietsile",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "M Mmolai",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "C Derbyshire",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Oswin Appollis",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Sekhukhune United",
+      "starting": [
+        {
+          "no": "23",
+          "name": "M Sapunga Mbara",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "28",
+          "name": "T Matsimbi",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "B Ndlovu",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "A Mcaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "14",
+          "name": "S O’Neil",
+          "pos": "Defender"
+        },
+        {
+          "no": "33",
+          "name": "Givemore Khupe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "Siphesihle Mkhize",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "N Rammala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "41",
+          "name": "B Muzeu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "31",
+          "name": "T Mokoane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "34",
+          "name": "Chibuike Ohizu",
+          "pos": "Striker"
+        }
+      ],
+      "subs": []
+    }
+  ]
+}
