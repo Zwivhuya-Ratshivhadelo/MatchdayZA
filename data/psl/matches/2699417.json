@@ -1,0 +1,234 @@
+{
+  "match_id": "2699417",
+  "comp": "carling-knockout",
+  "home": "Kaizer Chiefs",
+  "away": "Siwelele",
+  "updated": "2026-11-08T18:02:35+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "0'",
+  "events": [
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Kaizer Chiefs",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Brandon Petersen",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "29",
+          "name": "Paseka Mako",
+          "pos": "Defender"
+        },
+        {
+          "no": "18",
+          "name": "Dillan Solomons",
+          "pos": "Defender"
+        },
+        {
+          "no": "42",
+          "name": "Thabo Moloisane",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "R Dortley",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "Lebohang Maboe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "28",
+          "name": "M Vilakazi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "13",
+          "name": "Pule Mmodi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "5",
+          "name": "S Mthethwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "M Shabalala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "47",
+          "name": "W Duba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "38",
+          "name": "K Nkgwesa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "77",
+          "name": "F Silva",
+          "pos": "Substitute"
+        },
+        {
+          "no": "34",
+          "name": "T Mabaso",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "F Abrahams",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "E Ighodaro",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "Asenele Velebayi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "12",
+          "name": "Nkosingiphile Ngcobo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "Zitha Kwinika",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "Bruce Bvuma",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Siwelele",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Jody February",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "4",
+          "name": "T Sesane",
+          "pos": "Defender"
+        },
+        {
+          "no": "2",
+          "name": "Y Mfolozi",
+          "pos": "Defender"
+        },
+        {
+          "no": "33",
+          "name": "S Ndebele",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "K Khonyane",
+          "pos": "Defender"
+        },
+        {
+          "no": "10",
+          "name": "Vincent Pule",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "Relebogile Mokhuoane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "S Jeza",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "36",
+          "name": "T Letshedi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "47",
+          "name": "M Marou",
+          "pos": "Striker"
+        },
+        {
+          "no": "12",
+          "name": "M Mazibuko",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "35",
+          "name": "R Makhuvele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "K Lupalulele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "B Thulo",
+          "pos": "Substitute"
+        },
+        {
+          "no": "21",
+          "name": "S Benjamin",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "T Mthombeni",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "C Basomboli",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "Shadrack Kobedi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Zakhele Lepasa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "80",
+          "name": "Njabulo Ngcobo",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

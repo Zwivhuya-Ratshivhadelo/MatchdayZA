@@ -1,16 +1,18 @@
 {
-  "time": "2026-11-08T18:00:28+02:00",
-  "links_found": 6,
+  "time": "2026-11-08T18:02:33+02:00",
+  "links_found": 8,
   "games": [
     {
       "game": "Kaizer Chiefs v Siwelele",
       "kickoff": "2026-11-08T18:00:00+02:00",
-      "match_page": null
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2699417-kaizer-chiefs-vs-siwelele",
+      "page": "LIVE 0-0, line-ups 2"
     },
     {
       "game": "Stellenbosch FC v AmaZulu FC",
       "kickoff": "2026-11-08T18:00:00+02:00",
-      "match_page": null
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2699415-stellenbosch-fc-vs-amazulu-fc",
+      "page": "LIVE 0-0, line-ups 2"
     }
   ]
 }
