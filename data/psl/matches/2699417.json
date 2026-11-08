@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T19:19:59+02:00",
+  "updated": "2026-11-08T19:22:09+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "60'",
+  "minute": "62'",
   "events": [
+    {
+      "minute": "61'",
+      "type": "yellow",
+      "player": "Thabiso Sesane",
+      "team": "Siwelele"
+    },
     {
       "minute": "57'",
       "type": "sub",
@@ -96,7 +102,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "10",
+      "home": "11",
       "away": "4"
     },
     {
@@ -117,12 +123,12 @@
     {
       "label": "Fouls",
       "home": "3",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Yellow Cards",
       "home": "0",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Red Cards",
@@ -282,6 +288,11 @@
           "pos": "Midfielder"
         },
         {
+          "no": "12",
+          "name": "M Mazibuko",
+          "pos": "Midfielder"
+        },
+        {
           "no": "36",
           "name": "T Letshedi",
           "pos": "Midfielder"
@@ -289,11 +300,6 @@
         {
           "no": "47",
           "name": "M Marou",
-          "pos": "Striker"
-        },
-        {
-          "no": "12",
-          "name": "M Mazibuko",
           "pos": "Striker"
         }
       ],
