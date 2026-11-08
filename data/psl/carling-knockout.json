@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-08T19:22:11+02:00",
+  "updated": "2026-11-08T19:24:19+02:00",
   "log": [],
   "results": [
     {
@@ -192,11 +192,11 @@
       "venue": "Peter Mokaba Stadium, Polokwane",
       "match_id": "2699417",
       "url": "https://www.psl.co.za/matchcentre/detail/2699417-kaizer-chiefs-vs-siwelele",
-      "latest": "61' Yellow card, Thabiso Sesane (Siwelele)",
+      "latest": "64' Yellow card, Wandile Duba (Kaizer Chiefs)",
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "62'"
+      "minute": "66'"
     },
     {
       "home": "Stellenbosch FC",
@@ -205,11 +205,11 @@
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2699415",
       "url": "https://www.psl.co.za/matchcentre/detail/2699415-stellenbosch-fc-vs-amazulu-fc",
-      "latest": "57' Sub, Stellenbosch: Siviwe Nkwali on for Gopolang Taunyana",
+      "latest": "64' Yellow card, Quwan Plaatjies (Stellenbosch)",
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "64'"
+      "minute": "65'"
     }
   ],
   "fixtures": [],

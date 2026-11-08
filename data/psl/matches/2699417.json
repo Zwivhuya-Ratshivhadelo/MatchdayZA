@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T19:22:09+02:00",
+  "updated": "2026-11-08T19:24:18+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "62'",
+  "minute": "66'",
   "events": [
+    {
+      "minute": "64'",
+      "type": "yellow",
+      "player": "Wandile Duba",
+      "team": "Kaizer Chiefs"
+    },
     {
       "minute": "61'",
       "type": "yellow",
@@ -112,7 +118,7 @@
     },
     {
       "label": "Corners",
-      "home": "4",
+      "home": "5",
       "away": "3"
     },
     {
@@ -122,12 +128,12 @@
     },
     {
       "label": "Fouls",
-      "home": "3",
-      "away": "12"
+      "home": "4",
+      "away": "13"
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
+      "home": "1",
       "away": "3"
     },
     {
