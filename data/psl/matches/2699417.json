@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T18:39:19+02:00",
+  "updated": "2026-11-08T18:41:26+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "38'",
+  "minute": "40'",
   "events": [
     {
       "minute": "37'",
@@ -72,7 +72,7 @@
     {
       "label": "Fouls",
       "home": "2",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Yellow Cards",
