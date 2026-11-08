@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-08T20:06:33+02:00",
+  "updated": "2026-11-08T20:06:52+02:00",
   "log": [],
   "results": [
     {
@@ -188,7 +188,7 @@
     {
       "home": "Kaizer Chiefs",
       "away": "Siwelele",
-      "date": "2026-11-08T18:00:00+02:00",
+      "date": "2026-11-08",
       "venue": "Peter Mokaba Stadium, Polokwane",
       "match_id": "2699417",
       "url": "https://www.psl.co.za/matchcentre/detail/2699417-kaizer-chiefs-vs-siwelele",
@@ -201,7 +201,7 @@
     {
       "home": "Stellenbosch FC",
       "away": "AmaZulu FC",
-      "date": "2026-11-08T18:00:00+02:00",
+      "date": "2026-11-08",
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2699415",
       "url": "https://www.psl.co.za/matchcentre/detail/2699415-stellenbosch-fc-vs-amazulu-fc",
