@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T19:07:10+02:00",
+  "updated": "2026-11-08T19:09:19+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "48'",
+  "minute": "50'",
   "events": [
+    {
+      "minute": "49'",
+      "type": "yellow",
+      "player": "Gopolang Taunyana",
+      "team": "Stellenbosch"
+    },
     {
       "minute": "45'",
       "type": "sub",
@@ -79,11 +85,11 @@
     {
       "label": "Fouls",
       "home": "9",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Yellow Cards",
-      "home": "1",
+      "home": "2",
       "away": "0"
     },
     {
