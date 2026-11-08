@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T19:05:01+02:00",
+  "updated": "2026-11-08T19:07:10+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "47'",
+  "minute": "48'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Keegan Allan",
+      "player_out": "Sandile Mthethwa"
+    },
     {
       "minute": "45'",
       "type": "second_half"
@@ -52,7 +59,7 @@
     {
       "label": "Shots",
       "home": "7",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Shots on target",
@@ -62,7 +69,7 @@
     {
       "label": "Corners",
       "home": "3",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Offsides",
@@ -71,7 +78,7 @@
     },
     {
       "label": "Fouls",
-      "home": "8",
+      "home": "9",
       "away": "7"
     },
     {
