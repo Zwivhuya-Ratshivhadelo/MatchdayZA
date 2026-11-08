@@ -3,12 +3,33 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T19:32:53+02:00",
+  "updated": "2026-11-08T19:35:01+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "72'",
+  "minute": "76'",
   "events": [
+    {
+      "minute": "76'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Zakhele Lepasa",
+      "player_out": "Sphesihle Jeza"
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Flávio Silva",
+      "player_out": "Wandile Duba"
+    },
+    {
+      "minute": "75'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Asanele Velebayi",
+      "player_out": "Mduduzi Shabalala"
+    },
     {
       "minute": "64'",
       "type": "yellow",
