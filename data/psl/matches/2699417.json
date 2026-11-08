@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T19:49:58+02:00",
+  "updated": "2026-11-08T19:52:06+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "90'",
+  "minute": "90+2'",
   "events": [
+    {
+      "minute": "90+2'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Zitha Kwinika",
+      "player_out": "Mfundo Vilakazi"
+    },
     {
       "minute": "84'",
       "type": "goal",
@@ -154,7 +161,7 @@
     {
       "label": "Shots",
       "home": "14",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Shots on target",
@@ -164,7 +171,7 @@
     {
       "label": "Corners",
       "home": "5",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Offsides",

@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-08T19:49:59+02:00",
+  "updated": "2026-11-08T19:52:08+02:00",
   "log": [],
   "results": [
     {
@@ -192,11 +192,11 @@
       "venue": "Peter Mokaba Stadium, Polokwane",
       "match_id": "2699417",
       "url": "https://www.psl.co.za/matchcentre/detail/2699417-kaizer-chiefs-vs-siwelele",
-      "latest": "84' Goal, Asanele Velebayi (Kaizer Chiefs)",
+      "latest": "90+2' Sub, Kaizer Chiefs: Zitha Kwinika on for Mfundo Vilakazi",
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "90'"
+      "minute": "90+2'"
     },
     {
       "home": "Stellenbosch FC",
@@ -209,7 +209,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "90+1'"
+      "minute": "90+4'"
     }
   ],
   "fixtures": [],
