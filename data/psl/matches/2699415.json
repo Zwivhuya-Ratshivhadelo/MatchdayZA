@@ -3,12 +3,26 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T19:43:35+02:00",
+  "updated": "2026-11-08T19:45:43+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "83'",
+  "minute": "88'",
   "events": [
+    {
+      "minute": "87'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Sphamandla Zikhali",
+      "player_out": "Sphesihle Maduna"
+    },
+    {
+      "minute": "87'",
+      "type": "sub",
+      "team": "AmaZulu",
+      "player_in": "Thapelo Matlhoko",
+      "player_out": "Thando Ngwenya"
+    },
     {
       "minute": "83'",
       "type": "sub",
@@ -104,8 +118,8 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "9",
-      "away": "9"
+      "home": "10",
+      "away": "10"
     },
     {
       "label": "Shots on target",
@@ -124,7 +138,7 @@
     },
     {
       "label": "Fouls",
-      "home": "13",
+      "home": "15",
       "away": "12"
     },
     {

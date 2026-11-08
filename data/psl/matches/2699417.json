@@ -3,12 +3,29 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T19:43:34+02:00",
-  "home_score": 1,
+  "updated": "2026-11-08T19:45:42+02:00",
+  "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "83'",
+  "minute": "85'",
   "events": [
+    {
+      "minute": "84'",
+      "type": "goal",
+      "player": "Asanele Velebayi",
+      "team": "Kaizer Chiefs",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "84'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Sabre Benjamin",
+      "player_out": "Keabetswe Khonyane"
+    },
     {
       "minute": "81'",
       "type": "sub",
@@ -136,12 +153,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "12",
+      "home": "14",
       "away": "4"
     },
     {
       "label": "Shots on target",
-      "home": "4",
+      "home": "5",
       "away": "3"
     },
     {
