@@ -3,12 +3,22 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T18:28:38+02:00",
-  "home_score": 0,
+  "updated": "2026-11-08T18:30:46+02:00",
+  "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "26'",
+  "minute": "28'",
   "events": [
+    {
+      "minute": "28'",
+      "type": "goal",
+      "player": "Chumani Butsaka",
+      "team": "Stellenbosch",
+      "score": [
+        1,
+        0
+      ]
+    },
     {
       "minute": "3'",
       "type": "yellow",
@@ -23,12 +33,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "2",
+      "home": "4",
       "away": "1"
     },
     {
       "label": "Shots on target",
-      "home": "1",
+      "home": "2",
       "away": "0"
     },
     {

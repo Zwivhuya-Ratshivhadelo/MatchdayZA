@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-08T18:28:38+02:00",
+  "updated": "2026-11-08T18:30:46+02:00",
   "log": [],
   "results": [
     {
@@ -196,7 +196,7 @@
       "home_score": 0,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "26'"
+      "minute": "30'"
     },
     {
       "home": "Stellenbosch FC",
@@ -205,11 +205,11 @@
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2699415",
       "url": "https://www.psl.co.za/matchcentre/detail/2699415-stellenbosch-fc-vs-amazulu-fc",
-      "latest": "3' Yellow card, Lehlogonolo Matlou (Stellenbosch)",
-      "home_score": 0,
+      "latest": "28' Goal, Chumani Butsaka (Stellenbosch)",
+      "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "26'"
+      "minute": "28'"
     }
   ],
   "fixtures": [],
