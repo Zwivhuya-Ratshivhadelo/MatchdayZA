@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T18:20:00+02:00",
+  "updated": "2026-11-08T18:22:10+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "18'",
+  "minute": "21'",
   "events": [
     {
       "minute": "11'",
@@ -33,7 +33,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "3",
+      "home": "4",
       "away": "3"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "label": "Corners",
-      "home": "2",
+      "home": "3",
       "away": "3"
     },
     {
