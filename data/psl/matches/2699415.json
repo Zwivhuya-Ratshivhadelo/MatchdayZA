@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T19:13:36+02:00",
+  "updated": "2026-11-08T19:15:45+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "55'",
+  "minute": "56'",
   "events": [
     {
       "minute": "49'",
@@ -75,12 +75,12 @@
     {
       "label": "Corners",
       "home": "3",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Offsides",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Fouls",
@@ -148,13 +148,13 @@
           "pos": "Midfielder"
         },
         {
-          "no": "11",
-          "name": "Q Plaatjies",
-          "pos": "Midfielder"
-        },
-        {
           "no": "14",
           "name": "S Kwayiba",
+          "pos": "Striker"
+        },
+        {
+          "no": "11",
+          "name": "Q Plaatjies",
           "pos": "Striker"
         }
       ],
