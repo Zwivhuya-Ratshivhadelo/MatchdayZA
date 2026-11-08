@@ -3,12 +3,32 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T18:47:51+02:00",
-  "home_score": 0,
+  "updated": "2026-11-08T18:49:59+02:00",
+  "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "45+1'",
+  "minute": "45+4'",
   "events": [
+    {
+      "minute": "45+4'",
+      "type": "half_time"
+    },
+    {
+      "minute": "45+2'",
+      "type": "penalty_goal",
+      "player": "Wandile Duba",
+      "team": "Kaizer Chiefs",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "45+2'",
+      "type": "penalty_won",
+      "team": "Kaizer Chiefs",
+      "player": "Mduduzi Shabalala"
+    },
     {
       "minute": "37'",
       "type": "penalty_missed",
@@ -51,12 +71,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "7",
+      "home": "8",
       "away": "4"
     },
     {
       "label": "Shots on target",
-      "home": "2",
+      "home": "3",
       "away": "3"
     },
     {
@@ -72,7 +92,7 @@
     {
       "label": "Fouls",
       "home": "2",
-      "away": "8"
+      "away": "9"
     },
     {
       "label": "Yellow Cards",

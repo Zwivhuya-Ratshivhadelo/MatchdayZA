@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-08T18:47:53+02:00",
+  "updated": "2026-11-08T18:50:01+02:00",
   "log": [],
   "results": [
     {
@@ -192,11 +192,11 @@
       "venue": "Peter Mokaba Stadium, Polokwane",
       "match_id": "2699417",
       "url": "https://www.psl.co.za/matchcentre/detail/2699417-kaizer-chiefs-vs-siwelele",
-      "latest": "37' Penalty missed, Mduduzi Shabalala (Kaizer Chiefs)",
-      "home_score": 0,
+      "latest": "45+4' Half-time",
+      "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "45+1'"
+      "minute": "45+4'"
     },
     {
       "home": "Stellenbosch FC",
@@ -205,11 +205,11 @@
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2699415",
       "url": "https://www.psl.co.za/matchcentre/detail/2699415-stellenbosch-fc-vs-amazulu-fc",
-      "latest": "33' Own goal, Gopolang Taunyana (Stellenbosch)",
+      "latest": "45+3' Half-time",
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "45+2'"
+      "minute": "45+3'"
     }
   ],
   "fixtures": [],
