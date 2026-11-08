@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T19:15:45+02:00",
+  "updated": "2026-11-08T19:17:53+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "56'",
+  "minute": "57'",
   "events": [
+    {
+      "minute": "57'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Siviwe Nkwali",
+      "player_out": "Gopolang Taunyana"
+    },
     {
       "minute": "49'",
       "type": "yellow",
@@ -80,7 +87,7 @@
     {
       "label": "Offsides",
       "home": "0",
-      "away": "2"
+      "away": "1"
     },
     {
       "label": "Fouls",

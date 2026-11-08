@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T19:15:43+02:00",
+  "updated": "2026-11-08T19:17:51+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "56'",
+  "minute": "58'",
   "events": [
+    {
+      "minute": "57'",
+      "type": "sub",
+      "team": "Siwelele",
+      "player_in": "Shadrack Kobedi",
+      "player_out": "Relebogile Mokhuoane"
+    },
     {
       "minute": "45'",
       "type": "second_half"
@@ -110,7 +117,7 @@
     {
       "label": "Fouls",
       "home": "3",
-      "away": "10"
+      "away": "11"
     },
     {
       "label": "Yellow Cards",
