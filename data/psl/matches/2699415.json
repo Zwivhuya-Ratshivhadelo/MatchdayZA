@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T19:45:43+02:00",
+  "updated": "2026-11-08T19:47:51+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "88'",
+  "minute": "89'",
   "events": [
+    {
+      "minute": "88'",
+      "type": "yellow",
+      "player": "Njabulo Blom",
+      "team": "Stellenbosch"
+    },
     {
       "minute": "87'",
       "type": "sub",
@@ -143,7 +149,7 @@
     },
     {
       "label": "Yellow Cards",
-      "home": "3",
+      "home": "4",
       "away": "1"
     },
     {

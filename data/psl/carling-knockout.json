@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-08T19:45:43+02:00",
+  "updated": "2026-11-08T19:47:51+02:00",
   "log": [],
   "results": [
     {
@@ -205,11 +205,11 @@
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2699415",
       "url": "https://www.psl.co.za/matchcentre/detail/2699415-stellenbosch-fc-vs-amazulu-fc",
-      "latest": "87' Sub, AmaZulu: Sphamandla Zikhali on for Sphesihle Maduna",
+      "latest": "88' Yellow card, Njabulo Blom (Stellenbosch)",
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "88'"
+      "minute": "89'"
     }
   ],
   "fixtures": [],
