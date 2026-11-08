@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-08T19:17:53+02:00",
+  "updated": "2026-11-08T19:20:02+02:00",
   "log": [],
   "results": [
     {
@@ -196,7 +196,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "58'"
+      "minute": "60'"
     },
     {
       "home": "Stellenbosch FC",
@@ -209,7 +209,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "57'"
+      "minute": "61'"
     }
   ],
   "fixtures": [],
