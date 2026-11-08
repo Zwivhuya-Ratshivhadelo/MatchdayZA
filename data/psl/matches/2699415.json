@@ -3,16 +3,16 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T19:09:19+02:00",
+  "updated": "2026-11-08T19:11:27+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "50'",
+  "minute": "53'",
   "events": [
     {
       "minute": "49'",
       "type": "yellow",
-      "player": "Gopolang Taunyana",
+      "player": "Terrence Mashego",
       "team": "Stellenbosch"
     },
     {
@@ -64,8 +64,8 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "7",
-      "away": "6"
+      "home": "8",
+      "away": "7"
     },
     {
       "label": "Shots on target",
@@ -84,7 +84,7 @@
     },
     {
       "label": "Fouls",
-      "home": "9",
+      "home": "11",
       "away": "8"
     },
     {
