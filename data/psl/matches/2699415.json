@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T19:24:19+02:00",
+  "updated": "2026-11-08T19:26:27+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "65'",
+  "minute": "66'",
   "events": [
+    {
+      "minute": "66'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Darrel Matsheke",
+      "player_out": "Raoul Daniels"
+    },
     {
       "minute": "64'",
       "type": "yellow",
@@ -93,7 +100,7 @@
     {
       "label": "Offsides",
       "home": "0",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Fouls",
