@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T19:37:09+02:00",
+  "updated": "2026-11-08T19:39:18+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "76'",
+  "minute": "81'",
   "events": [
+    {
+      "minute": "81'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Thulani Mabaso",
+      "player_out": "Lebohang Maboe"
+    },
     {
       "minute": "76'",
       "type": "sub",
@@ -149,8 +156,8 @@
     },
     {
       "label": "Fouls",
-      "home": "6",
-      "away": "15"
+      "home": "7",
+      "away": "16"
     },
     {
       "label": "Yellow Cards",

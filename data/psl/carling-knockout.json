@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-08T19:37:11+02:00",
+  "updated": "2026-11-08T19:39:19+02:00",
   "log": [],
   "results": [
     {
@@ -192,11 +192,11 @@
       "venue": "Peter Mokaba Stadium, Polokwane",
       "match_id": "2699417",
       "url": "https://www.psl.co.za/matchcentre/detail/2699417-kaizer-chiefs-vs-siwelele",
-      "latest": "76' Sub, Siwelele: Zakhele Lepasa on for Sphesihle Jeza",
+      "latest": "81' Sub, Kaizer Chiefs: Thulani Mabaso on for Lebohang Maboe",
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "76'"
+      "minute": "81'"
     },
     {
       "home": "Stellenbosch FC",
@@ -209,7 +209,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "78'"
+      "minute": "81'"
     }
   ],
   "fixtures": [],
