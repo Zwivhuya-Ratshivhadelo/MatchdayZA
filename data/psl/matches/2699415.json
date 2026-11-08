@@ -3,7 +3,7 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T18:13:37+02:00",
+  "updated": "2026-11-08T18:15:45+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
@@ -44,7 +44,7 @@
     {
       "label": "Fouls",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Yellow Cards",
