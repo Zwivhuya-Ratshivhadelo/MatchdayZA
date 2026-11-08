@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-08T20:04:28+02:00",
+  "time": "2026-11-08T20:06:30+02:00",
   "links_found": 6,
   "games": [
     {
@@ -9,7 +9,8 @@
     {
       "game": "Stellenbosch FC v AmaZulu FC",
       "kickoff": "2026-11-08T18:00:00+02:00",
-      "match_page": null
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2699415-stellenbosch-fc-vs-amazulu-fc",
+      "page": "FT 2-1, line-ups 2"
     }
   ]
 }

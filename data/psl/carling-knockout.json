@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-08T19:56:21+02:00",
+  "updated": "2026-11-08T20:06:33+02:00",
   "log": [],
   "results": [
     {
@@ -205,10 +205,10 @@
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2699415",
       "url": "https://www.psl.co.za/matchcentre/detail/2699415-stellenbosch-fc-vs-amazulu-fc",
-      "latest": "90+7' Penalty scored, Sinoxolo Kwayiba (Stellenbosch)",
+      "latest": "90+9' Full time",
       "home_score": 2,
       "away_score": 1,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+7'"
     }
   ],
