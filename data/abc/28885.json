@@ -5,22 +5,10 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-08T12:01:49+02:00",
+  "updated": "2026-11-08T22:11:42+02:00",
   "log": [
     {
       "pos": 1,
-      "team": "Jacksa Spears FC",
-      "p": 2,
-      "w": 2,
-      "d": 0,
-      "l": 0,
-      "gf": 7,
-      "ga": 1,
-      "gd": 6,
-      "pts": 6
-    },
-    {
-      "pos": 2,
       "team": "Bovua FC",
       "p": 2,
       "w": 2,
@@ -32,7 +20,7 @@
       "pts": 6
     },
     {
-      "pos": 3,
+      "pos": 2,
       "team": "Skema Unite FC",
       "p": 2,
       "w": 2,
@@ -44,7 +32,7 @@
       "pts": 6
     },
     {
-      "pos": 4,
+      "pos": 3,
       "team": "United Rovers",
       "p": 2,
       "w": 1,
@@ -54,6 +42,18 @@
       "ga": 3,
       "gd": 1,
       "pts": 4
+    },
+    {
+      "pos": 4,
+      "team": "Destiny United FC",
+      "p": 1,
+      "w": 1,
+      "d": 0,
+      "l": 0,
+      "gf": 3,
+      "ga": 2,
+      "gd": 1,
+      "pts": 3
     },
     {
       "pos": 5,
@@ -69,14 +69,14 @@
     },
     {
       "pos": 6,
-      "team": "Destiny United FC",
-      "p": 2,
+      "team": "Jacksa Spears FC",
+      "p": 1,
       "w": 1,
       "d": 0,
-      "l": 1,
-      "gf": 4,
-      "ga": 8,
-      "gd": -4,
+      "l": 0,
+      "gf": 1,
+      "ga": 0,
+      "gd": 1,
       "pts": 3
     },
     {
