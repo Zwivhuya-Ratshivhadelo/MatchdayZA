@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-11-07T22:01:06+02:00",
+  "updated": "2026-11-08T06:01:00+02:00",
   "log": [
     {
       "pos": 1,
@@ -475,14 +475,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Leruma United",
-      "away": "Young Pirates FC",
-      "match_no": 34,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=34&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Orlando Pirates FC",
       "away": "Mabopane Jm",

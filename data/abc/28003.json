@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-11-07T22:02:00+02:00",
+  "updated": "2026-11-08T06:01:54+02:00",
   "log": [
     {
       "pos": 1,
@@ -525,46 +525,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Mbekweni Cosmos FC",
-      "away": "Ubuntu Spartans FC",
-      "match_no": 59,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=59&s=l",
-      "date": "2026-11-07T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "One Football Club",
-      "away": "Batalions FC",
-      "match_no": 60,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=60&s=l",
-      "date": "2026-11-07T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "FC Kayamandi",
-      "away": "Royal Blues FC",
-      "match_no": 57,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=57&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Relentless Football",
-      "away": "Barcelona FC",
-      "match_no": 58,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=58&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ammar Soccer Academy",
-      "away": "Maties FC",
-      "match_no": 56,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=56&s=l",
-      "date": "2026-11-07T17:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Ubuntu Spartans FC",
       "away": "Maties FC",

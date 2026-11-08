@@ -5,7 +5,7 @@
   "name": "FS Group 1A",
   "slug": "fs-group-1a",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28594",
-  "updated": "2026-11-07T22:00:53+02:00",
+  "updated": "2026-11-08T06:00:46+02:00",
   "log": [
     {
       "pos": 1,
@@ -239,38 +239,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "African Warriors FC",
-      "away": "Mkabadeli Heroes FC",
-      "match_no": 17,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=17&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Elite Athletics FC",
-      "away": "Harmony FC",
-      "match_no": 18,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=18&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Tower United",
-      "away": "Central University of FS",
-      "match_no": 19,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=19&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Remember Elite Soccer Academy",
-      "away": "Motsomotle FC",
-      "match_no": 20,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=20&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Motsomotle FC",
       "away": "Elite Athletics FC",

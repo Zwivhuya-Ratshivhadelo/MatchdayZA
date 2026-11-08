@@ -5,7 +5,7 @@
   "name": "WC Stream A",
   "slug": "wc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28002",
-  "updated": "2026-11-07T22:01:56+02:00",
+  "updated": "2026-11-08T06:01:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -635,30 +635,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Cape Town Spurs",
-      "away": "Harambee FC",
-      "match_no": 55,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=55&s=l",
-      "date": "2026-11-07T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ubuntu Football Club",
-      "away": "Saxon Rovers FC",
-      "match_no": 58,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=58&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Young Bafana",
-      "away": "Santos FC",
-      "match_no": 59,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=59&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Santos FC",
       "away": "Seaside Spurs FC",

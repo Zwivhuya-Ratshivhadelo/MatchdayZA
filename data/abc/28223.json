@@ -5,7 +5,7 @@
   "name": "EC Coastal Stream",
   "slug": "ec-coastal-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28223",
-  "updated": "2026-11-07T22:00:44+02:00",
+  "updated": "2026-11-08T06:00:37+02:00",
   "log": [
     {
       "pos": 1,
@@ -321,46 +321,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Amavarara",
-      "away": "Old Grey",
-      "match_no": 23,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=23&s=l",
-      "date": "2026-11-07T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Makana Rhini United FC",
-      "away": "FC Buffalo City Relatives",
-      "match_no": 21,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=21&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Sundays River Valley Academy",
-      "away": "Gq Cavaliers FC",
-      "match_no": 22,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=22&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Camdeboo Football Academy Development",
-      "away": "Seven Stars FC",
-      "match_no": 24,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=24&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Gqeberha United FC",
-      "away": "Prides AFC",
-      "match_no": 25,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=25&s=l",
-      "date": "2026-11-07T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Camdeboo Football Academy Development",
       "away": "Seven Stars FC",
