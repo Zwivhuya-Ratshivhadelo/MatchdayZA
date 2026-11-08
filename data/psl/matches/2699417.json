@@ -3,12 +3,24 @@
   "comp": "carling-knockout",
   "home": "Kaizer Chiefs",
   "away": "Siwelele",
-  "updated": "2026-11-08T18:37:11+02:00",
+  "updated": "2026-11-08T18:39:19+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "36'",
+  "minute": "38'",
   "events": [
+    {
+      "minute": "37'",
+      "type": "penalty_missed",
+      "player": "Mduduzi Shabalala",
+      "team": "Kaizer Chiefs"
+    },
+    {
+      "minute": "36'",
+      "type": "penalty_won",
+      "team": "Kaizer Chiefs",
+      "player": "Mfundo Vilakazi"
+    },
     {
       "minute": "31'",
       "type": "yellow",
@@ -39,7 +51,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "5",
+      "home": "7",
       "away": "3"
     },
     {
@@ -60,7 +72,7 @@
     {
       "label": "Fouls",
       "home": "2",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Yellow Cards",
