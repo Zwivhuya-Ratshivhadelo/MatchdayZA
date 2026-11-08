@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T18:04:46+02:00",
+  "updated": "2026-11-08T18:06:55+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
   "minute": "3'",
   "events": [
+    {
+      "minute": "3'",
+      "type": "yellow",
+      "player": "Lehlogonolo Matlou",
+      "team": "Stellenbosch"
+    },
     {
       "minute": "0'",
       "type": "kickoff"
