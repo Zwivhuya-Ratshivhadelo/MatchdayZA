@@ -3,12 +3,25 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "AmaZulu FC",
-  "updated": "2026-11-08T19:39:19+02:00",
+  "updated": "2026-11-08T19:41:27+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "81'",
+  "minute": "83'",
   "events": [
+    {
+      "minute": "83'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Ashley Du Preez",
+      "player_out": "Quwan Plaatjies"
+    },
+    {
+      "minute": "81'",
+      "type": "yellow",
+      "player": "Sphesihle Maduna",
+      "team": "AmaZulu"
+    },
     {
       "minute": "75'",
       "type": "sub",
@@ -112,12 +125,12 @@
     {
       "label": "Fouls",
       "home": "12",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Yellow Cards",
       "home": "3",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",
