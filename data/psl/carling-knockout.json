@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-08T18:09:03+02:00",
+  "updated": "2026-11-08T18:11:29+02:00",
   "log": [],
   "results": [
     {
@@ -192,7 +192,7 @@
       "venue": "Peter Mokaba Stadium, Polokwane",
       "match_id": "2699417",
       "url": "https://www.psl.co.za/matchcentre/detail/2699417-kaizer-chiefs-vs-siwelele",
-      "latest": "0' Kick-off",
+      "latest": "8' Yellow card, Relebogile Mokhuoane (Siwelele)",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
@@ -209,7 +209,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "8'"
+      "minute": "10'"
     }
   ],
   "fixtures": [],
