@@ -5,7 +5,7 @@
   "name": "EC Coastal Stream",
   "slug": "ec-coastal-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28223",
-  "updated": "2026-11-09T06:10:36+02:00",
+  "updated": "2026-11-09T12:10:49+02:00",
   "log": [
     {
       "pos": 1,
@@ -57,6 +57,18 @@
     },
     {
       "pos": 5,
+      "team": "Camdeboo Football Academy Development",
+      "p": 5,
+      "w": 2,
+      "d": 1,
+      "l": 2,
+      "gf": 5,
+      "ga": 6,
+      "gd": -1,
+      "pts": 7
+    },
+    {
+      "pos": 6,
       "team": "Gqeberha United FC",
       "p": 5,
       "w": 1,
@@ -68,7 +80,7 @@
       "pts": 5
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Prides AFC",
       "p": 4,
       "w": 1,
@@ -80,7 +92,7 @@
       "pts": 4
     },
     {
-      "pos": 7,
+      "pos": 8,
       "team": "Sundays River Valley Academy",
       "p": 4,
       "w": 1,
@@ -92,27 +104,15 @@
       "pts": 4
     },
     {
-      "pos": 8,
-      "team": "Camdeboo Football Academy Development",
-      "p": 4,
-      "w": 1,
-      "d": 1,
-      "l": 2,
-      "gf": 3,
-      "ga": 6,
-      "gd": -3,
-      "pts": 4
-    },
-    {
       "pos": 9,
       "team": "Seven Stars FC",
-      "p": 4,
+      "p": 5,
       "w": 1,
       "d": 0,
-      "l": 3,
+      "l": 4,
       "gf": 4,
-      "ga": 11,
-      "gd": -7,
+      "ga": 13,
+      "gd": -9,
       "pts": 3
     },
     {
@@ -357,6 +357,16 @@
       "date": "2026-11-07",
       "home_score": 0,
       "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Camdeboo Football Academy Development",
+      "away": "Seven Stars FC",
+      "match_no": 24,
+      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=24&s=l",
+      "date": "2026-11-08",
+      "home_score": 2,
+      "away_score": 0,
       "status": "FT"
     }
   ],
