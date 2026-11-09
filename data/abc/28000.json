@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-11-09T12:11:19+02:00",
+  "updated": "2026-11-09T18:10:59+02:00",
   "log": [
     {
       "pos": 1,
@@ -94,13 +94,13 @@
     {
       "pos": 8,
       "team": "Young Pirates FC",
-      "p": 5,
+      "p": 6,
       "w": 2,
       "d": 1,
-      "l": 2,
+      "l": 3,
       "gf": 4,
-      "ga": 5,
-      "gd": -1,
+      "ga": 10,
+      "gd": -6,
       "pts": 7
     },
     {
@@ -142,14 +142,14 @@
     {
       "pos": 12,
       "team": "Leruma United",
-      "p": 5,
-      "w": 0,
+      "p": 6,
+      "w": 1,
       "d": 0,
       "l": 5,
-      "gf": 1,
+      "gf": 6,
       "ga": 18,
-      "gd": -17,
-      "pts": 0
+      "gd": -12,
+      "pts": 3
     }
   ],
   "results": [
@@ -470,6 +470,16 @@
       "url": "https://inqaku.com/match/view?stream_id=28000&match_no=33&s=l",
       "date": "2026-11-07",
       "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Leruma United",
+      "away": "Young Pirates FC",
+      "match_no": 34,
+      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=34&s=l",
+      "date": "2026-11-07",
+      "home_score": 5,
       "away_score": 0,
       "status": "FT"
     }
