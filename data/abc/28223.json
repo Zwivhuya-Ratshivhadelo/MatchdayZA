@@ -5,7 +5,7 @@
   "name": "EC Coastal Stream",
   "slug": "ec-coastal-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28223",
-  "updated": "2026-11-08T22:10:35+02:00",
+  "updated": "2026-11-09T06:10:36+02:00",
   "log": [
     {
       "pos": 1,
@@ -361,14 +361,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Camdeboo Football Academy Development",
-      "away": "Seven Stars FC",
-      "match_no": 24,
-      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=24&s=l",
-      "date": "2026-11-08T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Gq Cavaliers FC",
       "away": "Makana Rhini United FC",

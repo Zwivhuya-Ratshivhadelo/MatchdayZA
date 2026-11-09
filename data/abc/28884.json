@@ -5,7 +5,7 @@
   "name": "NC Stream A",
   "slug": "nc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28884",
-  "updated": "2026-11-08T22:11:38+02:00",
+  "updated": "2026-11-09T06:11:39+02:00",
   "log": [
     {
       "pos": 1,
@@ -324,6 +324,14 @@
       "status": "NS"
     },
     {
+      "home": "Kakamas Sundowns",
+      "away": "Olympics",
+      "match_no": 23,
+      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=23&s=l",
+      "date": "2026-11-21T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "NC Professionals FC",
       "away": "Matjieskloof City FC",
       "match_no": 19,
@@ -352,14 +360,6 @@
       "away": "Tsantsabane Stars",
       "match_no": 22,
       "url": "https://inqaku.com/match/view?stream_id=28884&match_no=22&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Kakamas Sundowns",
-      "away": "Olympics",
-      "match_no": 23,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=23&s=l",
       "date": "2026-11-21T15:00:00+02:00",
       "status": "NS"
     },
@@ -420,18 +420,18 @@
       "status": "NS"
     },
     {
-      "home": "Osk Eagles FC",
-      "away": "Matjieskloof City FC",
-      "match_no": 31,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=31&s=l",
-      "date": "2026-12-05T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "Kakamas United FC",
       "away": "Postmasburg FC",
       "match_no": 32,
       "url": "https://inqaku.com/match/view?stream_id=28884&match_no=32&s=l",
+      "date": "2026-12-05T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Osk Eagles FC",
+      "away": "Matjieskloof City FC",
+      "match_no": 31,
+      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=31&s=l",
       "date": "2026-12-05T15:00:00+02:00",
       "status": "NS"
     },
@@ -564,6 +564,14 @@
       "status": "NS"
     },
     {
+      "home": "Kakamas United FC",
+      "away": "Olympics",
+      "match_no": 51,
+      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=51&s=l",
+      "date": "2027-01-30T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Matjieskloof City FC",
       "away": "Kakamas Juventus",
       "match_no": 49,
@@ -576,14 +584,6 @@
       "away": "Rasta Far Eagles FC",
       "match_no": 50,
       "url": "https://inqaku.com/match/view?stream_id=28884&match_no=50&s=l",
-      "date": "2027-01-30T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Kakamas United FC",
-      "away": "Olympics",
-      "match_no": 51,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=51&s=l",
       "date": "2027-01-30T15:00:00+02:00",
       "status": "NS"
     },
@@ -660,6 +660,14 @@
       "status": "NS"
     },
     {
+      "home": "Kakamas Sundowns",
+      "away": "Upington Tornado",
+      "match_no": 64,
+      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=64&s=l",
+      "date": "2027-02-13T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Matjieskloof City FC",
       "away": "Olympics",
       "match_no": 61,
@@ -680,14 +688,6 @@
       "away": "Amalawus FC",
       "match_no": 63,
       "url": "https://inqaku.com/match/view?stream_id=28884&match_no=63&s=l",
-      "date": "2027-02-13T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Kakamas Sundowns",
-      "away": "Upington Tornado",
-      "match_no": 64,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=64&s=l",
       "date": "2027-02-13T15:00:00+02:00",
       "status": "NS"
     },
@@ -804,6 +804,14 @@
       "status": "NS"
     },
     {
+      "home": "Kakamas Sundowns",
+      "away": "Kakamas Juventus",
+      "match_no": 84,
+      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=84&s=l",
+      "date": "2027-03-06T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Upington Tornado",
       "away": "Matjieskloof City FC",
       "match_no": 79,
@@ -840,14 +848,6 @@
       "away": "Rasta Far Eagles FC",
       "match_no": 83,
       "url": "https://inqaku.com/match/view?stream_id=28884&match_no=83&s=l",
-      "date": "2027-03-06T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Kakamas Sundowns",
-      "away": "Kakamas Juventus",
-      "match_no": 84,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=84&s=l",
       "date": "2027-03-06T15:00:00+02:00",
       "status": "NS"
     },
@@ -900,6 +900,14 @@
       "status": "NS"
     },
     {
+      "home": "Kakamas United FC",
+      "away": "Upington Tornado",
+      "match_no": 93,
+      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=93&s=l",
+      "date": "2027-03-20T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Postmasburg FC",
       "away": "Matjieskloof City FC",
       "match_no": 91,
@@ -912,14 +920,6 @@
       "away": "NC Professionals FC",
       "match_no": 92,
       "url": "https://inqaku.com/match/view?stream_id=28884&match_no=92&s=l",
-      "date": "2027-03-20T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Kakamas United FC",
-      "away": "Upington Tornado",
-      "match_no": 93,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=93&s=l",
       "date": "2027-03-20T15:00:00+02:00",
       "status": "NS"
     },
@@ -996,18 +996,18 @@
       "status": "NS"
     },
     {
-      "home": "Kakamas United FC",
-      "away": "Matjieskloof City FC",
-      "match_no": 103,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=103&s=l",
-      "date": "2027-04-03T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "Kakamas Sundowns",
       "away": "Osk Eagles FC",
       "match_no": 104,
       "url": "https://inqaku.com/match/view?stream_id=28884&match_no=104&s=l",
+      "date": "2027-04-03T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Kakamas United FC",
+      "away": "Matjieskloof City FC",
+      "match_no": 103,
+      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=103&s=l",
       "date": "2027-04-03T15:00:00+02:00",
       "status": "NS"
     },
@@ -1140,6 +1140,14 @@
       "status": "NS"
     },
     {
+      "home": "Kakamas United FC",
+      "away": "Amalawus FC",
+      "match_no": 124,
+      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=124&s=l",
+      "date": "2027-04-24T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Matjieskloof City FC",
       "away": "Rasta Far Eagles FC",
       "match_no": 121,
@@ -1160,14 +1168,6 @@
       "away": "Tsantsabane Stars",
       "match_no": 123,
       "url": "https://inqaku.com/match/view?stream_id=28884&match_no=123&s=l",
-      "date": "2027-04-24T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Kakamas United FC",
-      "away": "Amalawus FC",
-      "match_no": 124,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=124&s=l",
       "date": "2027-04-24T15:00:00+02:00",
       "status": "NS"
     },
