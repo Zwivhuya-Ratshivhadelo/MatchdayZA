@@ -5,7 +5,7 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-09T22:21:50+02:00",
+  "updated": "2026-11-10T06:21:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -300,14 +300,6 @@
       "status": "NS"
     },
     {
-      "home": "Gaza United FC",
-      "away": "United Rovers",
-      "match_no": 17,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=17&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "Bovua FC",
       "away": "G Stasie FC",
       "match_no": 18,
@@ -320,6 +312,14 @@
       "away": "Jacksa Spears FC",
       "match_no": 13,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=13&s=l",
+      "date": "2026-11-14T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Gaza United FC",
+      "away": "United Rovers",
+      "match_no": 17,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=17&s=l",
       "date": "2026-11-14T16:00:00+02:00",
       "status": "NS"
     },
