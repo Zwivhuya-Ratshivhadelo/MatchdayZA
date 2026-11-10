@@ -5,7 +5,7 @@
   "name": "EC Inland Stream",
   "slug": "ec-inland-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28224",
-  "updated": "2026-11-10T12:20:38+02:00",
+  "updated": "2026-11-10T18:20:37+02:00",
   "log": [
     {
       "pos": 1,
@@ -371,6 +371,14 @@
     }
   ],
   "fixtures": [
+    {
+      "home": "University of Fort Hare FC",
+      "away": "Matta Milan",
+      "match_no": 29,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=29&s=l",
+      "date": "2026-11-13T18:00:00+02:00",
+      "status": "NS"
+    },
     {
       "home": "Sinenkani FC",
       "away": "Komani United FC",
