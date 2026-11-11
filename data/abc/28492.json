@@ -5,7 +5,7 @@
   "name": "NW Stream A",
   "slug": "nw-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28492",
-  "updated": "2026-11-11T18:21:59+02:00",
+  "updated": "2026-11-11T22:58:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -94,14 +94,14 @@
     {
       "pos": 8,
       "team": "Orkney Young Zebras Academy",
-      "p": 6,
+      "p": 7,
       "w": 2,
-      "d": 0,
+      "d": 1,
       "l": 4,
       "gf": 8,
       "ga": 12,
       "gd": -4,
-      "pts": 6
+      "pts": 7
     },
     {
       "pos": 9,
@@ -129,6 +129,18 @@
     },
     {
       "pos": 11,
+      "team": "Nkamodira",
+      "p": 7,
+      "w": 1,
+      "d": 2,
+      "l": 4,
+      "gf": 4,
+      "ga": 14,
+      "gd": -10,
+      "pts": 5
+    },
+    {
+      "pos": 12,
       "team": "Montshioa Swallows FC",
       "p": 7,
       "w": 1,
@@ -137,18 +149,6 @@
       "gf": 7,
       "ga": 13,
       "gd": -6,
-      "pts": 4
-    },
-    {
-      "pos": 12,
-      "team": "Nkamodira",
-      "p": 6,
-      "w": 1,
-      "d": 1,
-      "l": 4,
-      "gf": 4,
-      "ga": 14,
-      "gd": -10,
       "pts": 4
     }
   ],
@@ -500,6 +500,16 @@
       "url": "https://inqaku.com/match/view?stream_id=28492&match_no=31&s=l",
       "date": "2026-10-31",
       "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Orkney Young Zebras Academy",
+      "away": "Nkamodira",
+      "match_no": 35,
+      "url": "https://inqaku.com/match/view?stream_id=28492&match_no=35&s=l",
+      "date": "2026-10-31",
+      "home_score": 0,
       "away_score": 0,
       "status": "FT"
     },

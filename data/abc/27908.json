@@ -5,7 +5,7 @@
   "name": "MP Stream A",
   "slug": "mp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27908",
-  "updated": "2026-11-11T18:21:50+02:00",
+  "updated": "2026-11-11T22:58:41+02:00",
   "log": [
     {
       "pos": 1,
@@ -45,6 +45,18 @@
     },
     {
       "pos": 4,
+      "team": "Mjali All Stars",
+      "p": 8,
+      "w": 5,
+      "d": 1,
+      "l": 2,
+      "gf": 13,
+      "ga": 4,
+      "gd": 9,
+      "pts": 16
+    },
+    {
+      "pos": 5,
       "team": "Witbank City Lads FC",
       "p": 8,
       "w": 5,
@@ -56,7 +68,7 @@
       "pts": 16
     },
     {
-      "pos": 5,
+      "pos": 6,
       "team": "Phaphama Football Club",
       "p": 8,
       "w": 5,
@@ -66,18 +78,6 @@
       "ga": 10,
       "gd": 4,
       "pts": 16
-    },
-    {
-      "pos": 6,
-      "team": "Mjali All Stars",
-      "p": 7,
-      "w": 4,
-      "d": 1,
-      "l": 2,
-      "gf": 10,
-      "ga": 4,
-      "gd": 6,
-      "pts": 13
     },
     {
       "pos": 7,
@@ -142,13 +142,13 @@
     {
       "pos": 12,
       "team": "Carolina Young Boys FC",
-      "p": 7,
+      "p": 8,
       "w": 0,
       "d": 0,
-      "l": 7,
+      "l": 8,
       "gf": 3,
-      "ga": 17,
-      "gd": -14,
+      "ga": 20,
+      "gd": -17,
       "pts": 0
     },
     {
@@ -694,17 +694,19 @@
       "home_score": 2,
       "away_score": 1,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Carolina Young Boys FC",
       "away": "Mjali All Stars",
       "match_no": 48,
       "url": "https://inqaku.com/match/view?stream_id=27908&match_no=48&s=l",
-      "date": "2026-11-11T15:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-11-11",
+      "home_score": 0,
+      "away_score": 3,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Home Culture Express FC",
       "away": "Middelburg United",
