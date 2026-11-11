@@ -5,7 +5,7 @@
   "name": "EC Inland Stream",
   "slug": "ec-inland-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28224",
-  "updated": "2026-11-11T06:20:42+02:00",
+  "updated": "2026-11-11T12:20:46+02:00",
   "log": [
     {
       "pos": 1,
@@ -388,6 +388,14 @@
       "status": "NS"
     },
     {
+      "home": "Bush Bucks FC",
+      "away": "Bizana Pondo City FC",
+      "match_no": 30,
+      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=30&s=l",
+      "date": "2026-11-14T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "FC Ravens",
       "away": "SA Spear of the Nation FC",
       "match_no": 26,
@@ -408,14 +416,6 @@
       "away": "Matta Milan",
       "match_no": 29,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=29&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Bush Bucks FC",
-      "away": "Bizana Pondo City FC",
-      "match_no": 30,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=30&s=l",
       "date": "2026-11-14T15:00:00+02:00",
       "status": "NS"
     },
