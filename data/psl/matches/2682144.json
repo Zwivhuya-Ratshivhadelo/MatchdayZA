@@ -1,0 +1,31 @@
+{
+  "match_id": "2682144",
+  "comp": "national-first-division",
+  "home": "Leicesterford City FC",
+  "away": "Real Native FC",
+  "updated": "2026-11-11T13:20:35+02:00",
+  "home_score": 0,
+  "away_score": 2,
+  "status": "FT",
+  "minute": null,
+  "events": [],
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "129",
+      "away": "133"
+    },
+    {
+      "label": "Corners",
+      "home": "5",
+      "away": "1"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "1",
+      "away": "3"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}

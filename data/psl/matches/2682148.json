@@ -1,0 +1,36 @@
+{
+  "match_id": "2682148",
+  "comp": "national-first-division",
+  "home": "University of Pretoria",
+  "away": "Gomora United",
+  "updated": "2026-11-11T13:20:36+02:00",
+  "home_score": 2,
+  "away_score": 2,
+  "status": "FT",
+  "minute": null,
+  "events": [],
+  "stats": [
+    {
+      "label": "Attacks",
+      "home": "66",
+      "away": "123"
+    },
+    {
+      "label": "Corners",
+      "home": "2",
+      "away": "7"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "1",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}

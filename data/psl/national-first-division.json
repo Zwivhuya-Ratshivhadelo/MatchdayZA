@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-11T12:20:20+02:00",
+  "updated": "2026-11-11T13:20:36+02:00",
   "log": [
     {
       "pos": 1,
@@ -829,32 +829,76 @@
       "latest": "2' Goal, Cape Town City FC"
     },
     {
-      "home": "Magesi FC",
-      "away": "Orbit College FC",
-      "date": "2026-11-07T15:30:00+02:00",
-      "match_id": "3019706",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019706",
-      "latest": "57' Goal, Magesi FC",
+      "home": "Hope",
+      "away": "Hungry Lions",
+      "date": "2026-11-07",
+      "venue": "Athlone Stadium, Cape Town",
       "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "2682143",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682143-hope-vs-hungry-lions"
+    },
+    {
+      "home": "NWU Soccer Institute",
+      "away": "Highbury",
+      "date": "2026-11-07",
+      "venue": "NWU Fanie Du Toit Sports Ground, Potchefstroom",
+      "home_score": 3,
       "away_score": 1,
       "status": "FT",
-      "minute": "90+5'"
+      "match_id": "2682147",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682147-nwu-soccer-institute-vs-highbury"
+    },
+    {
+      "home": "Magesi FC",
+      "away": "Orbit College FC",
+      "date": "2026-11-07",
+      "match_id": "2682145",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682145-magesi-fc-vs-orbit-college-fc",
+      "venue": "Seshego Stadium, Polokwane",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Midlands Wanderers",
+      "away": "Lerumo Lions",
+      "date": "2026-11-07",
+      "match_id": "2682146",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682146-midlands-wanderers-vs-lerumo-lions",
+      "venue": "Harry Gwala Stadium, Pietermaritzburg",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "Leicesterford City FC",
+      "away": "Real Native FC",
+      "date": "2026-11-07",
+      "venue": "Lucas Masterpieces Moripe Stadium, Pretoria, GT",
+      "match_id": "2682144",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682144-leicesterford-city-fc-vs-real-native",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "FT"
+    },
+    {
+      "home": "University of Pretoria",
+      "away": "Gomora United",
+      "date": "2026-11-07",
+      "venue": "Tuks Stadium, Pretoria",
+      "match_id": "2682148",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682148-university-of-pretoria-vs-gomora-unit",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "FT"
     },
     {
       "home": "Pretoria University FC",
       "away": "Gomora United",
       "date": "2026-11-07T15:30:00+02:00",
       "home_score": 2,
-      "away_score": 2,
-      "status": "FT"
-    },
-    {
-      "home": "Midlands Wanderers",
-      "away": "Lerumo Lions",
-      "date": "2026-11-07T15:30:00+02:00",
-      "match_id": "3019788",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019788",
-      "home_score": 1,
       "away_score": 2,
       "status": "FT"
     },
@@ -879,7 +923,50 @@
       "status": "FT"
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "Highbury",
+      "away": "University of Pretoria",
+      "date": "2026-11-20T15:30:00+02:00",
+      "venue": "Nelson Mandela University Stadium, Port Elizabeth",
+      "status": "NS"
+    },
+    {
+      "home": "Hope",
+      "away": "Real Native FC",
+      "date": "2026-11-21T15:30:00+02:00",
+      "venue": "TBC, TBC",
+      "status": "NS"
+    },
+    {
+      "home": "Lerumo Lions",
+      "away": "Cape Town City FC",
+      "date": "2026-11-21T15:30:00+02:00",
+      "venue": "Dobsonville Stadium, Soweto, Johannesburg",
+      "status": "NS"
+    },
+    {
+      "home": "Midlands Wanderers",
+      "away": "Hungry Lions",
+      "date": "2026-11-21T15:30:00+02:00",
+      "venue": "Mpumalanga Stadium, Hammarsdale",
+      "status": "NS"
+    },
+    {
+      "home": "NWU Soccer Institute",
+      "away": "The Bees",
+      "date": "2026-11-21T15:30:00+02:00",
+      "venue": "NWU Fanie Du Toit Sports Ground, Potchefstroom",
+      "status": "NS"
+    },
+    {
+      "home": "Orbit College FC",
+      "away": "Gomora United",
+      "date": "2026-11-21T15:30:00+02:00",
+      "venue": "Olympia Park, Rustenburg",
+      "status": "NS"
+    }
+  ],
   "extra": [],
   "not_ours": [],
   "checked": {}

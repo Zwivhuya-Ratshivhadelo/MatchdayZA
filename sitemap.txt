@@ -193,10 +193,13 @@ https://www.matchdayza.co.za/match/highbury-vs-hope-2026-08-28/
 https://www.matchdayza.co.za/match/highbury-vs-leicesterford-city-fc-2026-11-01/
 https://www.matchdayza.co.za/match/highbury-vs-lerumo-lions-2026-10-16/
 https://www.matchdayza.co.za/match/highbury-vs-magesi-fc-2026-09-13/
+https://www.matchdayza.co.za/match/highbury-vs-university-of-pretoria-2026-11-20/
 https://www.matchdayza.co.za/match/hilal-alsahil-sc-port-sudan-vs-welwalo-adigrat-uni-2026-09-04/
 https://www.matchdayza.co.za/match/hope-vs-cape-town-city-fc-2026-09-13/
+https://www.matchdayza.co.za/match/hope-vs-hungry-lions-2026-11-07/
 https://www.matchdayza.co.za/match/hope-vs-orbit-college-fc-2026-09-19/
 https://www.matchdayza.co.za/match/hope-vs-pretoria-university-fc-2026-08-22/
+https://www.matchdayza.co.za/match/hope-vs-real-native-fc-2026-11-21/
 https://www.matchdayza.co.za/match/horoya-ac-vs-js-saoura-2026-09-13/
 https://www.matchdayza.co.za/match/horoya-ac-vs-merreikh-al-sudan-2026-10-18/
 https://www.matchdayza.co.za/match/horoya-ac-vs-pyramids-2026-12-04/
@@ -249,6 +252,8 @@ https://www.matchdayza.co.za/match/leicesterford-city-fc-vs-lerumo-lions-2026-10
 https://www.matchdayza.co.za/match/leicesterford-city-fc-vs-magesi-fc-2026-09-05/
 https://www.matchdayza.co.za/match/leicesterford-city-fc-vs-midlands-wanderers-2026-09-19/
 https://www.matchdayza.co.za/match/leicesterford-city-fc-vs-orbit-college-fc-2026-08-22/
+https://www.matchdayza.co.za/match/leicesterford-city-fc-vs-real-native-fc-2026-11-07/
+https://www.matchdayza.co.za/match/lerumo-lions-vs-cape-town-city-fc-2026-11-21/
 https://www.matchdayza.co.za/match/lerumo-lions-vs-north-west-university-2026-08-29/
 https://www.matchdayza.co.za/match/lerumo-lions-vs-pretoria-university-fc-2026-10-31/
 https://www.matchdayza.co.za/match/lerumo-lions-vs-real-native-fc-2026-09-12/
@@ -305,6 +310,7 @@ https://www.matchdayza.co.za/match/merreikh-al-sudan-vs-horoya-ac-2026-10-24/
 https://www.matchdayza.co.za/match/merreikh-al-sudan-vs-power-dynamos-2026-09-05/
 https://www.matchdayza.co.za/match/merriekh-bentiu-vs-heegan-2026-09-05/
 https://www.matchdayza.co.za/match/merriekh-bentiu-vs-pyramids-2026-10-16/
+https://www.matchdayza.co.za/match/midlands-wanderers-vs-hungry-lions-2026-11-21/
 https://www.matchdayza.co.za/match/midlands-wanderers-vs-lerumo-lions-2026-11-07/
 https://www.matchdayza.co.za/match/midlands-wanderers-vs-magesi-fc-2026-08-22/
 https://www.matchdayza.co.za/match/midlands-wanderers-vs-north-west-university-2026-09-12/
@@ -330,7 +336,10 @@ https://www.matchdayza.co.za/match/north-west-university-vs-cape-town-city-fc-20
 https://www.matchdayza.co.za/match/north-west-university-vs-hope-2026-09-05/
 https://www.matchdayza.co.za/match/north-west-university-vs-upington-city-2026-08-22/
 https://www.matchdayza.co.za/match/nsingizini-hotspurs-vs-scottland-fc-2026-09-12/
+https://www.matchdayza.co.za/match/nwu-soccer-institute-vs-highbury-2026-11-07/
+https://www.matchdayza.co.za/match/nwu-soccer-institute-vs-the-bees-2026-11-21/
 https://www.matchdayza.co.za/match/orbit-college-fc-vs-cape-town-city-fc-2026-10-23/
+https://www.matchdayza.co.za/match/orbit-college-fc-vs-gomora-united-2026-11-21/
 https://www.matchdayza.co.za/match/orbit-college-fc-vs-hungry-lions-fc-2026-08-28/
 https://www.matchdayza.co.za/match/orbit-college-fc-vs-lerumo-lions-2026-09-08/
 https://www.matchdayza.co.za/match/orbit-college-fc-vs-venda-fc-2026-10-30/
@@ -506,6 +515,7 @@ https://www.matchdayza.co.za/match/tusker-fc-vs-ahli-wad-madani-2026-09-12/
 https://www.matchdayza.co.za/match/tusker-fc-vs-singida-black-stars-sc-2026-10-18/
 https://www.matchdayza.co.za/match/udib-vs-el-kanemi-warriors-2026-09-13/
 https://www.matchdayza.co.za/match/unam-vs-kabuscorp-sc-2026-09-05/
+https://www.matchdayza.co.za/match/university-of-pretoria-vs-gomora-united-2026-11-07/
 https://www.matchdayza.co.za/match/upington-city-vs-cape-town-city-fc-2026-11-07/
 https://www.matchdayza.co.za/match/upington-city-vs-highbury-2026-09-05/
 https://www.matchdayza.co.za/match/upington-city-vs-orbit-college-fc-2026-10-17/
