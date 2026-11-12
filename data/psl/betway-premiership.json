@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-12T23:10:21+02:00",
+  "updated": "2026-11-13T00:10:21+02:00",
   "log": [
     {
       "pos": 1,
@@ -2041,6 +2041,62 @@
       "away": "AmaZulu FC",
       "date": "2027-05-09T17:30:00+02:00",
       "venue": "Mbombela Stadium, Nelspruit",
+      "status": "NS"
+    },
+    {
+      "home": "Golden Arrows",
+      "away": "Polokwane City",
+      "date": "2027-05-15T15:00:00+02:00",
+      "venue": "King Goodwill Zwelithini Stadium, Durban",
+      "status": "NS"
+    },
+    {
+      "home": "Kruger United",
+      "away": "AmaZulu FC",
+      "date": "2027-05-15T15:00:00+02:00",
+      "venue": "Mbombela Stadium, Nelspruit",
+      "status": "NS"
+    },
+    {
+      "home": "Mamelodi Sundowns",
+      "away": "Chippa United",
+      "date": "2027-05-15T15:00:00+02:00",
+      "venue": "Loftus Versfeld Stadium, Pretoria",
+      "status": "NS"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Marumo Gallants",
+      "date": "2027-05-15T15:00:00+02:00",
+      "venue": "Orlando Amstel Arena, Soweto",
+      "status": "NS"
+    },
+    {
+      "home": "Richards Bay",
+      "away": "TS Galaxy",
+      "date": "2027-05-15T15:00:00+02:00",
+      "venue": "Richards Bay Stadium, Richards Bay",
+      "status": "NS"
+    },
+    {
+      "home": "Sekhukhune United",
+      "away": "Milford FC",
+      "date": "2027-05-15T15:00:00+02:00",
+      "venue": "Peter Mokaba Stadium, Polokwane",
+      "status": "NS"
+    },
+    {
+      "home": "Siwelele",
+      "away": "Kaizer Chiefs",
+      "date": "2027-05-15T15:00:00+02:00",
+      "venue": "Free State Stadium, Bloemfontein",
+      "status": "NS"
+    },
+    {
+      "home": "Stellenbosch FC",
+      "away": "Durban City",
+      "date": "2027-05-15T15:00:00+02:00",
+      "venue": "Danie Craven Stadium, Stellenbosch",
       "status": "NS"
     }
   ],

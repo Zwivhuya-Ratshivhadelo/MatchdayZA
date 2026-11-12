@@ -173,6 +173,7 @@ https://www.matchdayza.co.za/match/golden-arrows-vs-mamelodi-sundowns-2026-08-30
 https://www.matchdayza.co.za/match/golden-arrows-vs-mamelodi-sundowns-2026-09-06/
 https://www.matchdayza.co.za/match/golden-arrows-vs-milford-fc-2026-10-17/
 https://www.matchdayza.co.za/match/golden-arrows-vs-orlando-pirates-2027-02-07/
+https://www.matchdayza.co.za/match/golden-arrows-vs-polokwane-city-2027-05-15/
 https://www.matchdayza.co.za/match/golden-arrows-vs-richards-bay-2027-01-09/
 https://www.matchdayza.co.za/match/golden-arrows-vs-sekhukhune-united-2027-04-24/
 https://www.matchdayza.co.za/match/golden-arrows-vs-siwelele-2027-01-23/
@@ -232,6 +233,7 @@ https://www.matchdayza.co.za/match/kitara-fc-vs-al-ahly-sc-2026-10-17/
 https://www.matchdayza.co.za/match/kitara-fc-vs-mogadishu-city-2026-09-12/
 https://www.matchdayza.co.za/match/kmkm-vs-al-ahli-tripoli-2026-09-05/
 https://www.matchdayza.co.za/match/kruger-united-vs-amazulu-fc-2026-10-25/
+https://www.matchdayza.co.za/match/kruger-united-vs-amazulu-fc-2027-05-15/
 https://www.matchdayza.co.za/match/kruger-united-vs-chippa-united-2027-04-28/
 https://www.matchdayza.co.za/match/kruger-united-vs-durban-city-2026-08-25/
 https://www.matchdayza.co.za/match/kruger-united-vs-golden-arrows-2027-03-13/
@@ -266,6 +268,7 @@ https://www.matchdayza.co.za/match/maghreb-fes-vs-al-hilal-omdurman-2026-12-04/
 https://www.matchdayza.co.za/match/maghreb-fes-vs-asec-mimosas-2026-10-18/
 https://www.matchdayza.co.za/match/maghreb-fes-vs-rahimo-2026-09-06/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-amazulu-fc-2026-08-26/
+https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-chippa-united-2027-05-15/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-durban-city-2026-10-31/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-durban-city-2026-11-01/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-golden-arrows-2026-08-23/
@@ -357,6 +360,7 @@ https://www.matchdayza.co.za/match/orlando-pirates-vs-magesi-fc-2025-10-28/
 https://www.matchdayza.co.za/match/orlando-pirates-vs-mamelodi-sundowns-2026-10-10/
 https://www.matchdayza.co.za/match/orlando-pirates-vs-mamelodi-sundowns-2027-04-24/
 https://www.matchdayza.co.za/match/orlando-pirates-vs-marumo-gallants-2025-12-06/
+https://www.matchdayza.co.za/match/orlando-pirates-vs-marumo-gallants-2027-05-15/
 https://www.matchdayza.co.za/match/orlando-pirates-vs-milford-fc-2026-08-01/
 https://www.matchdayza.co.za/match/orlando-pirates-vs-milford-fc-2026-10-27/
 https://www.matchdayza.co.za/match/orlando-pirates-vs-polokwane-city-2026-12-19/
@@ -421,6 +425,7 @@ https://www.matchdayza.co.za/match/richards-bay-vs-orlando-pirates-2026-12-16/
 https://www.matchdayza.co.za/match/richards-bay-vs-polokwane-city-2026-08-02/
 https://www.matchdayza.co.za/match/richards-bay-vs-sekhukhune-united-2026-09-19/
 https://www.matchdayza.co.za/match/richards-bay-vs-siwelele-2026-12-20/
+https://www.matchdayza.co.za/match/richards-bay-vs-ts-galaxy-2027-05-15/
 https://www.matchdayza.co.za/match/rivers-united-vs-san-pedro-2026-09-13/
 https://www.matchdayza.co.za/match/rsb-berkane-vs-colombe-2026-11-27/
 https://www.matchdayza.co.za/match/rsb-berkane-vs-star-sport-academy-2026-10-24/
@@ -437,6 +442,7 @@ https://www.matchdayza.co.za/match/sekhukhune-united-vs-kaizer-chiefs-2027-01-17
 https://www.matchdayza.co.za/match/sekhukhune-united-vs-kruger-united-2027-03-16/
 https://www.matchdayza.co.za/match/sekhukhune-united-vs-mamelodi-sundowns-2027-02-13/
 https://www.matchdayza.co.za/match/sekhukhune-united-vs-marumo-gallants-2026-10-17/
+https://www.matchdayza.co.za/match/sekhukhune-united-vs-milford-fc-2027-05-15/
 https://www.matchdayza.co.za/match/sekhukhune-united-vs-orlando-pirates-2026-08-22/
 https://www.matchdayza.co.za/match/sekhukhune-united-vs-orlando-pirates-2027-04-17/
 https://www.matchdayza.co.za/match/sekhukhune-united-vs-polokwane-city-2026-08-15/
@@ -457,6 +463,7 @@ https://www.matchdayza.co.za/match/siwelele-vs-amazulu-fc-2027-03-17/
 https://www.matchdayza.co.za/match/siwelele-vs-chippa-united-2026-08-25/
 https://www.matchdayza.co.za/match/siwelele-vs-durban-city-2026-12-06/
 https://www.matchdayza.co.za/match/siwelele-vs-golden-arrows-2026-09-13/
+https://www.matchdayza.co.za/match/siwelele-vs-kaizer-chiefs-2027-05-15/
 https://www.matchdayza.co.za/match/siwelele-vs-kruger-united-2027-04-25/
 https://www.matchdayza.co.za/match/siwelele-vs-mamelodi-sundowns-2027-04-18/
 https://www.matchdayza.co.za/match/siwelele-vs-marumo-gallants-2027-05-09/
@@ -472,6 +479,7 @@ https://www.matchdayza.co.za/match/star-sport-academy-vs-rsb-berkane-2026-10-17/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-amazulu-fc-2026-08-01/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-amazulu-fc-2026-11-08/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-chippa-united-2026-10-31/
+https://www.matchdayza.co.za/match/stellenbosch-fc-vs-durban-city-2027-05-15/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-golden-arrows-2027-04-16/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-kaizer-chiefs-2027-03-16/
 https://www.matchdayza.co.za/match/stellenbosch-fc-vs-kruger-united-2027-02-06/
