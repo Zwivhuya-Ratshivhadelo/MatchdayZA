@@ -5,7 +5,7 @@
   "name": "KZN Stream B",
   "slug": "kzn-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17736&stream_id=28490",
-  "updated": "2026-11-12T12:11:25+02:00",
+  "updated": "2026-11-12T18:11:07+02:00",
   "log": [
     {
       "pos": 1,
@@ -45,6 +45,18 @@
     },
     {
       "pos": 4,
+      "team": "Umshwathi United FC",
+      "p": 7,
+      "w": 4,
+      "d": 2,
+      "l": 1,
+      "gf": 9,
+      "ga": 4,
+      "gd": 5,
+      "pts": 14
+    },
+    {
+      "pos": 5,
       "team": "Newcastle Warriors FC",
       "p": 7,
       "w": 4,
@@ -56,7 +68,7 @@
       "pts": 13
     },
     {
-      "pos": 5,
+      "pos": 6,
       "team": "Chess FC",
       "p": 7,
       "w": 4,
@@ -66,18 +78,6 @@
       "ga": 11,
       "gd": -2,
       "pts": 13
-    },
-    {
-      "pos": 6,
-      "team": "Umshwathi United FC",
-      "p": 6,
-      "w": 3,
-      "d": 2,
-      "l": 1,
-      "gf": 6,
-      "ga": 4,
-      "gd": 2,
-      "pts": 11
     },
     {
       "pos": 7,
@@ -142,13 +142,13 @@
     {
       "pos": 12,
       "team": "Newcastle All Stars FC",
-      "p": 6,
+      "p": 7,
       "w": 0,
       "d": 1,
-      "l": 5,
+      "l": 6,
       "gf": 2,
-      "ga": 11,
-      "gd": -9,
+      "ga": 14,
+      "gd": -12,
       "pts": 1
     }
   ],
@@ -498,6 +498,16 @@
       "away": "Durban Knights FC",
       "match_no": 31,
       "url": "https://inqaku.com/match/view?stream_id=28490&match_no=31&s=l",
+      "date": "2026-10-31",
+      "home_score": 0,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "Newcastle All Stars FC",
+      "away": "Umshwathi United FC",
+      "match_no": 33,
+      "url": "https://inqaku.com/match/view?stream_id=28490&match_no=33&s=l",
       "date": "2026-10-31",
       "home_score": 0,
       "away_score": 3,
