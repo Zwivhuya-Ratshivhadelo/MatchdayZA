@@ -5,7 +5,7 @@
   "name": "EC Inland Stream",
   "slug": "ec-inland-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28224",
-  "updated": "2026-11-13T18:20:39+02:00",
+  "updated": "2026-11-13T22:20:41+02:00",
   "log": [
     {
       "pos": 1,
@@ -70,14 +70,14 @@
     {
       "pos": 6,
       "team": "Matta Milan",
-      "p": 5,
+      "p": 6,
       "w": 1,
-      "d": 3,
+      "d": 4,
       "l": 1,
-      "gf": 2,
-      "ga": 4,
+      "gf": 4,
+      "ga": 6,
       "gd": -2,
-      "pts": 6
+      "pts": 7
     },
     {
       "pos": 7,
@@ -94,14 +94,14 @@
     {
       "pos": 8,
       "team": "University of Fort Hare FC",
-      "p": 5,
+      "p": 6,
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 4,
-      "gf": 4,
-      "ga": 9,
+      "gf": 6,
+      "ga": 11,
       "gd": -5,
-      "pts": 1
+      "pts": 2
     },
     {
       "pos": 9,
@@ -368,17 +368,19 @@
       "home_score": 2,
       "away_score": 1,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "University of Fort Hare FC",
       "away": "Matta Milan",
       "match_no": 29,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=29&s=l",
-      "date": "2026-11-13T18:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-11-13",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Sinenkani FC",
       "away": "Komani United FC",
