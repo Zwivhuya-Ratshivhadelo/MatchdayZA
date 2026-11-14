@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-11-13T22:20:55+02:00",
+  "updated": "2026-11-14T06:20:55+02:00",
   "log": [
     {
       "pos": 1,
@@ -515,38 +515,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Dinoko City FC",
-      "away": "Ssu M-17 FC",
-      "match_no": 41,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=41&s=l",
-      "date": "2026-11-13T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Rrr Rams Football Club",
-      "away": "University of Johannesburg FC",
-      "match_no": 38,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=38&s=l",
-      "date": "2026-11-13T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "JBM FC",
-      "away": "Free Agents Football Club",
-      "match_no": 37,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=37&s=l",
-      "date": "2026-11-13T16:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Tshwane South College FC",
-      "away": "La Masia FC",
-      "match_no": 39,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=39&s=l",
-      "date": "2026-11-13T18:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Tshwane South College FC",
       "away": "La Masia FC",
