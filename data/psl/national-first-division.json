@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-14T15:20:17+02:00",
+  "updated": "2026-11-14T16:20:14+02:00",
   "log": [
     {
       "pos": 1,
@@ -972,6 +972,16 @@
       "date": "2026-11-21T15:30:00+02:00",
       "venue": "Olympia Park, Rustenburg",
       "status": "NS"
+    },
+    {
+      "home": "Venda Football Club",
+      "away": "Leicesterford City FC",
+      "date": "2026-11-21T15:30:00+02:00"
+    },
+    {
+      "home": "Upington City",
+      "away": "Magesi FC",
+      "date": "2026-11-21T15:30:00+02:00"
     }
   ],
   "extra": [
