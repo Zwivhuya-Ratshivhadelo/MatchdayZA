@@ -5,10 +5,22 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-15T18:21:48+02:00",
+  "updated": "2026-11-15T22:21:45+02:00",
   "log": [
     {
       "pos": 1,
+      "team": "Bovua FC",
+      "p": 3,
+      "w": 3,
+      "d": 0,
+      "l": 0,
+      "gf": 10,
+      "ga": 4,
+      "gd": 6,
+      "pts": 9
+    },
+    {
+      "pos": 2,
       "team": "Gaza United FC",
       "p": 3,
       "w": 2,
@@ -17,18 +29,6 @@
       "gf": 7,
       "ga": 2,
       "gd": 5,
-      "pts": 6
-    },
-    {
-      "pos": 2,
-      "team": "Bovua FC",
-      "p": 2,
-      "w": 2,
-      "d": 0,
-      "l": 0,
-      "gf": 8,
-      "ga": 4,
-      "gd": 4,
       "pts": 6
     },
     {
@@ -117,18 +117,6 @@
     },
     {
       "pos": 10,
-      "team": "G Stasie FC",
-      "p": 2,
-      "w": 0,
-      "d": 1,
-      "l": 1,
-      "gf": 2,
-      "ga": 3,
-      "gd": -1,
-      "pts": 1
-    },
-    {
-      "pos": 11,
       "team": "SPU FC",
       "p": 3,
       "w": 0,
@@ -137,6 +125,18 @@
       "gf": 5,
       "ga": 7,
       "gd": -2,
+      "pts": 1
+    },
+    {
+      "pos": 11,
+      "team": "G Stasie FC",
+      "p": 3,
+      "w": 0,
+      "d": 1,
+      "l": 2,
+      "gf": 2,
+      "ga": 5,
+      "gd": -3,
       "pts": 1
     },
     {
@@ -312,6 +312,16 @@
       "home_score": 0,
       "away_score": 1,
       "status": "FT"
+    },
+    {
+      "home": "Bovua FC",
+      "away": "G Stasie FC",
+      "match_no": 18,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=18&s=l",
+      "date": "2026-11-15",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
     }
   ],
   "fixtures": [
@@ -320,14 +330,6 @@
       "away": "Destiny United FC",
       "match_no": 8,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=8&s=l",
-      "date": "2026-11-15T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Bovua FC",
-      "away": "G Stasie FC",
-      "match_no": 18,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=18&s=l",
       "date": "2026-11-15T15:00:00+02:00",
       "status": "NS"
     },
