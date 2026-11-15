@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-11-15T09:20:28+02:00",
+  "updated": "2026-11-15T10:20:28+02:00",
   "log": [],
   "groups": [
     {
@@ -1406,75 +1406,85 @@
   ],
   "fixtures": [
     {
-      "home": "CS Sfaxien",
-      "away": "Black Bulls Maputo",
-      "date": "2026-11-27T19:00:00+02:00",
-      "match_id": "c4886729",
-      "status": "NS"
-    },
-    {
-      "home": "USM Alger",
-      "away": "AS Real Bamako",
-      "date": "2026-11-27T19:00:00+02:00",
-      "match_id": "c4886730",
-      "status": "NS"
-    },
-    {
-      "home": "AS Maniema Union",
-      "away": "Singida Black Stars SC",
-      "date": "2026-11-27T19:00:00+02:00",
-      "match_id": "c4886731",
-      "status": "NS"
-    },
-    {
       "home": "Azam FC",
       "away": "Al Ahli Tripoli",
-      "date": "2026-11-27T19:00:00+02:00",
+      "date": "2026-11-27T15:00:00+02:00",
       "match_id": "c4886732",
-      "status": "NS"
+      "status": "NS",
+      "venue": "Amaan Stadium"
     },
     {
       "home": "AS FAR Rabat",
       "away": "Durban City",
-      "date": "2026-11-27T19:00:00+02:00",
+      "date": "2026-11-28T21:00:00+02:00",
       "match_id": "c4886733",
       "status": "NS",
-      "sa": true
+      "sa": true,
+      "venue": "Stade Prince Moulay Abdallah"
     },
     {
       "home": "Raja Casablanca",
       "away": "ASKO Kara",
-      "date": "2026-11-27T19:00:00+02:00",
+      "date": "2026-11-28T21:00:00+02:00",
       "match_id": "c4886734",
-      "status": "NS"
+      "status": "NS",
+      "venue": "Stade Mohammed V"
+    },
+    {
+      "home": "AS Maniema Union",
+      "away": "Singida Black Stars SC",
+      "date": "2026-11-29T15:00:00+02:00",
+      "match_id": "c4886731",
+      "status": "NS",
+      "venue": "Stade des Martyrs de la Pentecôte"
+    },
+    {
+      "home": "CS Sfaxien",
+      "away": "Black Bulls Maputo",
+      "date": "2026-11-29T18:00:00+02:00",
+      "match_id": "c4886729",
+      "status": "NS",
+      "venue": "Stade Taïeb Mhiri (Sfax)"
     },
     {
       "home": "Al Ahly SC",
       "away": "Primeiro de Agosto",
-      "date": "2026-11-27T19:00:00+02:00",
+      "date": "2026-11-29T18:00:00+02:00",
       "match_id": "c4886735",
-      "status": "NS"
+      "status": "NS",
+      "venue": "Cairo International Stadium"
     },
     {
-      "home": "AS Real Bamako",
-      "away": "CS Sfaxien",
-      "date": "2026-12-04T19:00:00+02:00",
-      "match_id": "c4886722",
-      "status": "NS"
+      "home": "USM Alger",
+      "away": "AS Real Bamako",
+      "date": "2026-11-29T21:00:00+02:00",
+      "match_id": "c4886730",
+      "status": "NS",
+      "venue": "Stade du 5 Juillet 1962"
     },
     {
-      "home": "Black Bulls Maputo",
-      "away": "USM Alger",
+      "home": "Durban City",
+      "away": "Azam FC",
       "date": "2026-12-04T19:00:00+02:00",
-      "match_id": "c4886723",
-      "status": "NS"
+      "match_id": "c4886725",
+      "status": "NS",
+      "sa": true
     },
     {
       "home": "Red Arrows",
       "away": "AS Maniema Union",
-      "date": "2026-12-04T19:00:00+02:00",
+      "date": "2026-12-05T15:00:00+02:00",
       "match_id": "c4886724",
-      "status": "NS"
+      "status": "NS",
+      "venue": "National Heroes Stadium"
+    },
+    {
+      "home": "Primeiro de Agosto",
+      "away": "Raja Casablanca",
+      "date": "2026-12-05T18:00:00+02:00",
+      "match_id": "c4886727",
+      "status": "NS",
+      "venue": "Estádio 11 de Novembro"
     }
   ]
 }
