@@ -5,7 +5,7 @@
   "name": "NW Stream B",
   "slug": "nw-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28493",
-  "updated": "2026-11-14T22:21:35+02:00",
+  "updated": "2026-11-15T06:21:35+02:00",
   "log": [
     {
       "pos": 1,
@@ -565,54 +565,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Bokone NW FC",
-      "away": "NWU Tawana FC",
-      "match_no": 43,
-      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=43&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Real Movers FC",
-      "away": "NW Signal FC",
-      "match_no": 44,
-      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=44&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Debunkers FC",
-      "away": "Mavabaza United Football Club",
-      "match_no": 45,
-      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=45&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Spain FC",
-      "away": "Thames FC",
-      "match_no": 46,
-      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=46&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Army Rockets FC",
-      "away": "Queenkay Stars FC",
-      "match_no": 47,
-      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=47&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Kgositlile FC",
-      "away": "Cheeky Boys FC",
-      "match_no": 48,
-      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=48&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "NWU Tawana FC",
       "away": "Real Movers FC",

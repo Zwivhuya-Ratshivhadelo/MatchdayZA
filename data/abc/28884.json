@@ -5,7 +5,7 @@
   "name": "NC Stream A",
   "slug": "nc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28884",
-  "updated": "2026-11-14T22:21:40+02:00",
+  "updated": "2026-11-15T06:21:39+02:00",
   "log": [
     {
       "pos": 1,
@@ -275,54 +275,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Amalawus FC",
-      "away": "NC Professionals FC",
-      "match_no": 14,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=14&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Tsantsabane Stars",
-      "away": "Postmasburg FC",
-      "match_no": 15,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=15&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Olympics",
-      "away": "Osk Eagles FC",
-      "match_no": 16,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=16&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Rasta Far Eagles FC",
-      "away": "Kakamas United FC",
-      "match_no": 17,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=17&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Kakamas Juventus",
-      "away": "Kakamas Sundowns",
-      "match_no": 18,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=18&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Matjieskloof City FC",
-      "away": "Upington Tornado",
-      "match_no": 13,
-      "url": "https://inqaku.com/match/view?stream_id=28884&match_no=13&s=l",
-      "date": "2026-11-14T17:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Kakamas Sundowns",
       "away": "Olympics",

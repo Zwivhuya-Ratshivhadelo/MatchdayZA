@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-11-14T22:20:57+02:00",
+  "updated": "2026-11-15T06:20:59+02:00",
   "log": [
     {
       "pos": 1,
@@ -485,22 +485,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Doornkop Students",
-      "away": "Mike-1-Stars FC",
-      "match_no": 37,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=37&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Spartans FC",
-      "away": "Tembisa Destroyers FC",
-      "match_no": 42,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=42&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Dube Continental FC",
       "away": "TUT FC",

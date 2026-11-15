@@ -5,7 +5,7 @@
   "name": "MP Stream B",
   "slug": "mp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27909",
-  "updated": "2026-11-14T22:21:26+02:00",
+  "updated": "2026-11-15T06:21:26+02:00",
   "log": [
     {
       "pos": 1,
@@ -553,46 +553,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Dankie Son FC",
-      "away": "Junior Callies FC",
-      "match_no": 47,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=47&s=l",
-      "date": "2026-11-14T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Fernie Battalion FC",
-      "away": "Acornhoek United FC",
-      "match_no": 46,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=46&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Zebras FC",
-      "away": "Liver Brothers FC",
-      "match_no": 48,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=48&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Sibange Young Bucks FC",
-      "away": "Luthuli Brigades FC",
-      "match_no": 49,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=49&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Oriental Spurs FC",
-      "away": "Matsulu Chelsea FC",
-      "match_no": 50,
-      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=50&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Acornhoek United FC",
       "away": "Dankie Son FC",

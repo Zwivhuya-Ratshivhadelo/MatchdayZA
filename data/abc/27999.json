@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-11-14T22:20:53+02:00",
+  "updated": "2026-11-15T06:20:54+02:00",
   "log": [
     {
       "pos": 1,
@@ -515,38 +515,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Tshwane South College FC",
-      "away": "La Masia FC",
-      "match_no": 39,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=39&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Tembisa Hollywood Thunder",
-      "away": "Lesco FC",
-      "match_no": 40,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=40&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ben 10 FC",
-      "away": "Boipatong Football Club",
-      "match_no": 42,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=42&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Rrr Rams Football Club",
-      "away": "University of Johannesburg FC",
-      "match_no": 38,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=38&s=l",
-      "date": "2026-11-14T15:30:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Ben 10 FC",
       "away": "Boipatong Football Club",

@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream B",
   "slug": "lp-limpopo-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28323",
-  "updated": "2026-11-14T22:21:15+02:00",
+  "updated": "2026-11-15T06:21:17+02:00",
   "log": [
     {
       "pos": 1,
@@ -445,30 +445,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Mohlabile United FC",
-      "away": "Makotopong Bahumi FC",
-      "match_no": 38,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=38&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Royal Pirates",
-      "away": "The Dolphins FC",
-      "match_no": 42,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=42&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Baroka FC",
-      "away": "Mighty",
-      "match_no": 37,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=37&s=l",
-      "date": "2026-11-14T17:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Ditlou FC",
       "away": "Mokopane Pj Stars FC",

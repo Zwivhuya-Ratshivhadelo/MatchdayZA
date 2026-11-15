@@ -5,7 +5,7 @@
   "name": "FS Group 1A",
   "slug": "fs-group-1a",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28594",
-  "updated": "2026-11-14T22:20:44+02:00",
+  "updated": "2026-11-15T06:20:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -279,22 +279,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Harmony FC",
-      "away": "African Warriors FC",
-      "match_no": 21,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=21&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Central University of FS",
-      "away": "Mkabadeli Heroes FC",
-      "match_no": 22,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=22&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "African Warriors FC",
       "away": "Central University of FS",

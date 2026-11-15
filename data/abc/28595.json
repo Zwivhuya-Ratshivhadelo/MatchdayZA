@@ -5,7 +5,7 @@
   "name": "FS Group 1B",
   "slug": "fs-group-1b",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28595",
-  "updated": "2026-11-14T22:20:49+02:00",
+  "updated": "2026-11-15T06:20:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -259,30 +259,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Mangaung City FC",
-      "away": "Super Eagles",
-      "match_no": 23,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=23&s=l",
-      "date": "2026-11-14T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "FC Spartans Cfx pty Ltd",
-      "away": "Kovsies FC",
-      "match_no": 22,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=22&s=l",
-      "date": "2026-11-14T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Welkom Real Stars FC",
-      "away": "Free State United FC",
-      "match_no": 24,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=24&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Sibanye Stillwater FC",
       "away": "FC Spartans Cfx pty Ltd",

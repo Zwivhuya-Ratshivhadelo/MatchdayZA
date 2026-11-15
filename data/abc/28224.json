@@ -5,7 +5,7 @@
   "name": "EC Inland Stream",
   "slug": "ec-inland-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28224",
-  "updated": "2026-11-14T22:20:39+02:00",
+  "updated": "2026-11-15T06:20:40+02:00",
   "log": [
     {
       "pos": 1,
@@ -381,46 +381,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Sinenkani FC",
-      "away": "Komani United FC",
-      "match_no": 28,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=28&s=l",
-      "date": "2026-11-14T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Bush Bucks FC",
-      "away": "Bizana Pondo City FC",
-      "match_no": 30,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=30&s=l",
-      "date": "2026-11-14T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "FC Ravens",
-      "away": "SA Spear of the Nation FC",
-      "match_no": 26,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=26&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Amaxesibe FC",
-      "away": "United FC",
-      "match_no": 27,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=27&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "University of Fort Hare FC",
-      "away": "Matta Milan",
-      "match_no": 29,
-      "url": "https://inqaku.com/match/view?stream_id=28224&match_no=29&s=l",
-      "date": "2026-11-14T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "SA Spear of the Nation FC",
       "away": "Amaxesibe FC",
