@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-16T17:50:18+02:00",
+  "updated": "2026-11-16T18:50:16+02:00",
   "log": [],
   "results": [
     {
@@ -223,8 +223,15 @@
     {
       "home": "Stellenbosch FC",
       "away": "Orlando Pirates",
-      "date": "2026-11-21T02:00:00+02:00",
-      "venue": "TBC, TBC",
+      "date": "2026-11-21T15:30:00+02:00",
+      "venue": "Moses Mabhida Stadium, Durban",
+      "status": "NS"
+    },
+    {
+      "home": "Mamelodi Sundowns",
+      "away": "Kaizer Chiefs",
+      "date": "2026-11-22T15:30:00+02:00",
+      "venue": "Loftus Versfeld Stadium, Pretoria",
       "status": "NS"
     },
     {
