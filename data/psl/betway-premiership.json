@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-16T10:30:22+02:00",
+  "updated": "2026-11-16T11:40:30+02:00",
   "log": [
     {
       "pos": 1,
@@ -1022,6 +1022,13 @@
       "status": "NS"
     },
     {
+      "home": "Orlando Pirates",
+      "away": "Golden Arrows",
+      "date": "2026-11-24T19:30:00+02:00",
+      "venue": "Orlando Amstel Arena, Soweto",
+      "status": "NS"
+    },
+    {
       "home": "TS Galaxy",
       "away": "Durban City",
       "date": "2026-11-27",
@@ -1141,6 +1148,13 @@
       "status": "NS"
     },
     {
+      "home": "Orlando Pirates",
+      "away": "Stellenbosch FC",
+      "date": "2026-12-08T19:30:00+02:00",
+      "venue": "Orlando Amstel Arena, Soweto",
+      "status": "NS"
+    },
+    {
       "home": "Chippa United",
       "away": "AmaZulu FC",
       "date": "2026-12-15T19:30:00+02:00",
@@ -1250,6 +1264,20 @@
       "away": "Chippa United",
       "date": "2026-12-20T18:00:00+02:00",
       "venue": "Chatsworth Stadium, Chatsworth",
+      "status": "NS"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Polokwane City",
+      "date": "2026-12-22T19:30:00+02:00",
+      "venue": "Orlando Amstel Arena, Soweto",
+      "status": "NS"
+    },
+    {
+      "home": "Mamelodi Sundowns",
+      "away": "Orlando Pirates",
+      "date": "2027-01-05T19:30:00+02:00",
+      "venue": "Loftus Versfeld Stadium, Pretoria",
       "status": "NS"
     },
     {
@@ -1418,6 +1446,13 @@
       "away": "Polokwane City",
       "date": "2027-01-24T15:30:00+02:00",
       "venue": "Mbombela Stadium, Nelspruit",
+      "status": "NS"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "AmaZulu FC",
+      "date": "2027-01-26T19:30:00+02:00",
+      "venue": "Orlando Amstel Arena, Soweto",
       "status": "NS"
     },
     {
