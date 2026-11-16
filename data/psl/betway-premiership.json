@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-16T13:46:12+02:00",
+  "updated": "2026-11-16T14:50:24+02:00",
   "log": [
     {
       "pos": 1,
@@ -1453,6 +1453,13 @@
       "away": "AmaZulu FC",
       "date": "2027-01-26T19:30:00+02:00",
       "venue": "Orlando Amstel Arena, Soweto",
+      "status": "NS"
+    },
+    {
+      "home": "Richards Bay",
+      "away": "Durban City",
+      "date": "2027-01-27T19:30:00+02:00",
+      "venue": "Richards Bay Stadium, Richards Bay",
       "status": "NS"
     },
     {
