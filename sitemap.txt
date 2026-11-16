@@ -26,11 +26,11 @@ https://www.matchdayza.co.za/cape-town-city-fc/
 https://www.matchdayza.co.za/magesi-fc/
 https://www.matchdayza.co.za/lerumo-lions/
 https://www.matchdayza.co.za/real-native-fc/
-https://www.matchdayza.co.za/hope/
+https://www.matchdayza.co.za/hope-fc/
 https://www.matchdayza.co.za/hungry-lions/
 https://www.matchdayza.co.za/upington-city/
 https://www.matchdayza.co.za/highbury/
-https://www.matchdayza.co.za/nwu-soccer-institute/
+https://www.matchdayza.co.za/nwu-fc/
 https://www.matchdayza.co.za/leicesterford-city-fc/
 https://www.matchdayza.co.za/university-of-pretoria/
 https://www.matchdayza.co.za/gomora-united/
@@ -202,6 +202,8 @@ https://www.matchdayza.co.za/match/highbury-vs-lerumo-lions-2026-10-16/
 https://www.matchdayza.co.za/match/highbury-vs-magesi-fc-2026-09-13/
 https://www.matchdayza.co.za/match/highbury-vs-university-of-pretoria-2026-11-20/
 https://www.matchdayza.co.za/match/hilal-alsahil-sc-port-sudan-vs-welwalo-adigrat-uni-2026-09-04/
+https://www.matchdayza.co.za/match/hope-fc-vs-hungry-lions-2026-11-07/
+https://www.matchdayza.co.za/match/hope-fc-vs-real-native-fc-2026-11-21/
 https://www.matchdayza.co.za/match/hope-vs-cape-town-city-fc-2026-09-13/
 https://www.matchdayza.co.za/match/hope-vs-hungry-lions-2026-11-07/
 https://www.matchdayza.co.za/match/hope-vs-orbit-college-fc-2026-09-19/
@@ -344,6 +346,8 @@ https://www.matchdayza.co.za/match/north-west-university-vs-cape-town-city-fc-20
 https://www.matchdayza.co.za/match/north-west-university-vs-hope-2026-09-05/
 https://www.matchdayza.co.za/match/north-west-university-vs-upington-city-2026-08-22/
 https://www.matchdayza.co.za/match/nsingizini-hotspurs-vs-scottland-fc-2026-09-12/
+https://www.matchdayza.co.za/match/nwu-fc-vs-highbury-2026-11-07/
+https://www.matchdayza.co.za/match/nwu-fc-vs-the-bees-2026-11-21/
 https://www.matchdayza.co.za/match/nwu-soccer-institute-vs-highbury-2026-11-07/
 https://www.matchdayza.co.za/match/nwu-soccer-institute-vs-the-bees-2026-11-21/
 https://www.matchdayza.co.za/match/orbit-college-fc-vs-cape-town-city-fc-2026-10-23/

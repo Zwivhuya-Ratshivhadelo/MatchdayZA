@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-16T08:30:18+02:00",
+  "updated": "2026-11-16T09:30:27+02:00",
   "log": [
     {
       "pos": 1,
@@ -48,8 +48,8 @@
     },
     {
       "pos": 5,
-      "team": "Hope",
-      "club": "Hope",
+      "team": "Hope FC",
+      "club": "Hope_FC",
       "p": 10,
       "w": 6,
       "d": 2,
@@ -88,8 +88,8 @@
     },
     {
       "pos": 9,
-      "team": "NWU Soccer Institute",
-      "club": "NWU_Soccer_Institute",
+      "team": "NWU FC",
+      "club": "NWU_FC",
       "p": 10,
       "w": 3,
       "d": 5,
@@ -895,6 +895,28 @@
       "status": "FT"
     },
     {
+      "home": "Hope FC",
+      "away": "Hungry Lions",
+      "date": "2026-11-07",
+      "venue": "Athlone Stadium, Cape Town",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "2682143",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682143-hope-fc-vs-hungry-lions"
+    },
+    {
+      "home": "NWU FC",
+      "away": "Highbury",
+      "date": "2026-11-07",
+      "venue": "NWU Fanie Du Toit Sports Ground, Potchefstroom",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2682147",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682147-nwu-fc-vs-highbury"
+    },
+    {
       "home": "Pretoria University FC",
       "away": "Gomora United",
       "date": "2026-11-07T15:30:00+02:00",
@@ -982,6 +1004,20 @@
       "home": "Upington City",
       "away": "Magesi FC",
       "date": "2026-11-21T15:30:00+02:00"
+    },
+    {
+      "home": "Hope FC",
+      "away": "Real Native FC",
+      "date": "2026-11-21T15:30:00+02:00",
+      "venue": "TBC, TBC",
+      "status": "NS"
+    },
+    {
+      "home": "NWU FC",
+      "away": "The Bees",
+      "date": "2026-11-21T15:30:00+02:00",
+      "venue": "NWU Fanie Du Toit Sports Ground, Potchefstroom",
+      "status": "NS"
     }
   ],
   "extra": [
