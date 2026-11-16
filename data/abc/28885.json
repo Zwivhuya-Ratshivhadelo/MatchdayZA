@@ -5,7 +5,7 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-16T06:31:46+02:00",
+  "updated": "2026-11-16T12:41:56+02:00",
   "log": [
     {
       "pos": 1,
@@ -326,6 +326,14 @@
   ],
   "fixtures": [
     {
+      "home": "G Stasie FC",
+      "away": "SPU FC",
+      "match_no": 23,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=23&s=l",
+      "date": "2026-11-21T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Pampierstad Express FC",
       "away": "Saints FC",
       "match_no": 19,
@@ -354,14 +362,6 @@
       "away": "Destiny United FC",
       "match_no": 22,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=22&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "G Stasie FC",
-      "away": "SPU FC",
-      "match_no": 23,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=23&s=l",
       "date": "2026-11-21T15:00:00+02:00",
       "status": "NS"
     },
