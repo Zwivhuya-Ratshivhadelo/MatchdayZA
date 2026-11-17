@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-11-17T09:00:30+02:00",
+  "updated": "2026-11-17T10:00:48+02:00",
   "log": [],
   "groups": [
     {
@@ -1473,7 +1473,7 @@
     {
       "home": "Durban City",
       "away": "Azam FC",
-      "date": "2026-12-04T19:00:00+02:00",
+      "date": "2026-12-04T18:00:00+02:00",
       "match_id": "c4886725",
       "status": "NS",
       "sa": true,
