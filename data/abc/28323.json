@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream B",
   "slug": "lp-limpopo-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28323",
-  "updated": "2026-11-17T06:01:25+02:00",
+  "updated": "2026-11-17T12:01:25+02:00",
   "log": [
     {
       "pos": 1,
@@ -693,6 +693,14 @@
       "match_no": 49,
       "url": "https://inqaku.com/match/view?stream_id=28323&match_no=49&s=l",
       "date": "2026-11-29T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Gosebo United FC",
+      "away": "Mighty",
+      "match_no": 44,
+      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=44&s=l",
+      "date": "2026-12-01T15:00:00+02:00",
       "status": "NS"
     },
     {

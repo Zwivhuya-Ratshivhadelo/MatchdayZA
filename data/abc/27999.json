@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-11-17T06:01:02+02:00",
+  "updated": "2026-11-17T12:00:59+02:00",
   "log": [
     {
       "pos": 1,
@@ -94,14 +94,14 @@
     {
       "pos": 8,
       "team": "Ben 10 FC",
-      "p": 6,
-      "w": 2,
+      "p": 7,
+      "w": 3,
       "d": 1,
       "l": 3,
-      "gf": 6,
+      "gf": 8,
       "ga": 8,
-      "gd": -2,
-      "pts": 7
+      "gd": 0,
+      "pts": 10
     },
     {
       "pos": 9,
@@ -130,13 +130,13 @@
     {
       "pos": 11,
       "team": "Boipatong Football Club",
-      "p": 6,
+      "p": 7,
       "w": 0,
       "d": 2,
-      "l": 4,
+      "l": 5,
       "gf": 9,
-      "ga": 16,
-      "gd": -7,
+      "ga": 18,
+      "gd": -9,
       "pts": 2
     },
     {
@@ -552,6 +552,16 @@
       "home_score": 2,
       "away_score": 1,
       "status": "FT"
+    },
+    {
+      "home": "Ben 10 FC",
+      "away": "Boipatong Football Club",
+      "match_no": 42,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=42&s=l",
+      "date": "2026-11-15",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
     }
   ],
   "fixtures": [
@@ -697,6 +707,14 @@
       "match_no": 56,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=56&s=l",
       "date": "2026-12-02T12:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "JBM FC",
+      "away": "Free Agents Football Club",
+      "match_no": 37,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=37&s=l",
+      "date": "2026-12-02T16:00:00+02:00",
       "status": "NS"
     },
     {
