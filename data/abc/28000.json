@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-11-18T06:40:54+02:00",
+  "updated": "2026-11-18T12:40:58+02:00",
   "log": [
     {
       "pos": 1,
@@ -570,6 +570,14 @@
       "status": "NS"
     },
     {
+      "home": "Spartans FC",
+      "away": "Young Pirates FC",
+      "match_no": 48,
+      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=48&s=l",
+      "date": "2026-11-21T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Leruma United",
       "away": "Mike-1-Stars FC",
       "match_no": 44,
@@ -582,14 +590,6 @@
       "away": "Orlando Pirates FC",
       "match_no": 45,
       "url": "https://inqaku.com/match/view?stream_id=28000&match_no=45&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Spartans FC",
-      "away": "Young Pirates FC",
-      "match_no": 48,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=48&s=l",
       "date": "2026-11-21T15:00:00+02:00",
       "status": "NS"
     },

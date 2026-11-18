@@ -5,7 +5,7 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-18T06:41:39+02:00",
+  "updated": "2026-11-18T12:41:43+02:00",
   "log": [
     {
       "pos": 1,
@@ -342,14 +342,6 @@
       "status": "NS"
     },
     {
-      "home": "Psd FC",
-      "away": "Jacksa Spears FC",
-      "match_no": 20,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=20&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "United Rovers",
       "away": "Destiny United FC",
       "match_no": 22,
@@ -363,6 +355,14 @@
       "match_no": 24,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=24&s=l",
       "date": "2026-11-21T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Psd FC",
+      "away": "Jacksa Spears FC",
+      "match_no": 20,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=20&s=l",
+      "date": "2026-11-21T16:00:00+02:00",
       "status": "NS"
     },
     {
