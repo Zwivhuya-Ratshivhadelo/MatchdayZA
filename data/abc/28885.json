@@ -5,7 +5,7 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-18T22:51:47+02:00",
+  "updated": "2026-11-19T06:52:04+02:00",
   "log": [
     {
       "pos": 1,
@@ -371,6 +371,14 @@
       "match_no": 21,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=21&s=l",
       "date": "2026-11-21T17:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "SPU FC",
+      "away": "Gaza United FC",
+      "match_no": 30,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=30&s=l",
+      "date": "2026-11-24T17:00:00+02:00",
       "status": "NS"
     },
     {

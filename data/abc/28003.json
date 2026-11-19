@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-11-18T22:51:56+02:00",
+  "updated": "2026-11-19T06:52:13+02:00",
   "log": [
     {
       "pos": 1,
@@ -585,14 +585,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Maties FC",
-      "away": "Relentless Football",
-      "match_no": 63,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=63&s=l",
-      "date": "2026-11-18T20:30:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Grassy Park United",
       "away": "FC Kayamandi",
