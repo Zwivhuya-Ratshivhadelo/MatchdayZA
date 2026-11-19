@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-11-19T06:51:08+02:00",
+  "updated": "2026-11-19T18:50:56+02:00",
   "log": [
     {
       "pos": 1,
@@ -45,6 +45,18 @@
     },
     {
       "pos": 4,
+      "team": "University of Johannesburg FC",
+      "p": 8,
+      "w": 4,
+      "d": 1,
+      "l": 3,
+      "gf": 9,
+      "ga": 6,
+      "gd": 3,
+      "pts": 13
+    },
+    {
+      "pos": 5,
       "team": "Ssu M-17 FC",
       "p": 7,
       "w": 3,
@@ -56,7 +68,7 @@
       "pts": 12
     },
     {
-      "pos": 5,
+      "pos": 6,
       "team": "La Masia FC",
       "p": 7,
       "w": 3,
@@ -68,7 +80,7 @@
       "pts": 11
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Free Agents Football Club",
       "p": 6,
       "w": 2,
@@ -77,18 +89,6 @@
       "gf": 6,
       "ga": 4,
       "gd": 2,
-      "pts": 10
-    },
-    {
-      "pos": 7,
-      "team": "University of Johannesburg FC",
-      "p": 7,
-      "w": 3,
-      "d": 1,
-      "l": 3,
-      "gf": 7,
-      "ga": 6,
-      "gd": 1,
       "pts": 10
     },
     {
@@ -142,13 +142,13 @@
     {
       "pos": 12,
       "team": "Lesco FC",
-      "p": 7,
+      "p": 8,
       "w": 0,
       "d": 2,
-      "l": 5,
+      "l": 6,
       "gf": 3,
-      "ga": 14,
-      "gd": -11,
+      "ga": 16,
+      "gd": -13,
       "pts": 2
     }
   ],
@@ -559,6 +559,16 @@
       "match_no": 42,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=42&s=l",
       "date": "2026-11-15",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "University of Johannesburg FC",
+      "away": "Lesco FC",
+      "match_no": 50,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=50&s=l",
+      "date": "2026-11-18",
       "home_score": 2,
       "away_score": 0,
       "status": "FT"
