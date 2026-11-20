@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-20T17:55:13+02:00",
+  "updated": "2026-11-20T17:55:42+02:00",
   "log": [
     {
       "pos": 1,
@@ -80,11 +80,11 @@
       "pos": 8,
       "team": "Highbury",
       "club": "Highbury",
-      "p": 10,
+      "p": 11,
       "w": 4,
-      "d": 3,
+      "d": 4,
       "l": 3,
-      "pts": 15
+      "pts": 16
     },
     {
       "pos": 9,
@@ -98,6 +98,16 @@
     },
     {
       "pos": 10,
+      "team": "University of Pretoria",
+      "club": "University_of_Pretoria",
+      "p": 11,
+      "w": 2,
+      "d": 4,
+      "l": 5,
+      "pts": 10
+    },
+    {
+      "pos": 11,
       "team": "Leicesterford City FC",
       "club": "Leicesterford_City_FC",
       "p": 10,
@@ -105,16 +115,6 @@
       "d": 1,
       "l": 6,
       "pts": 10
-    },
-    {
-      "pos": 11,
-      "team": "University of Pretoria",
-      "club": "University_of_Pretoria",
-      "p": 10,
-      "w": 2,
-      "d": 3,
-      "l": 5,
-      "pts": 9
     },
     {
       "pos": 12,
@@ -947,14 +947,13 @@
     {
       "home": "Highbury",
       "away": "University of Pretoria",
-      "date": "2026-11-20T15:30:00+02:00",
+      "date": "2026-11-20",
       "venue": "Nelson Mandela University Stadium, Port Elizabeth",
-      "match_id": "3019716",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019716",
+      "match_id": "2682157",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682157-highbury-vs-university-of-pretoria",
       "home_score": 2,
       "away_score": 1,
-      "status": "FT",
-      "minute": "90'"
+      "status": "FT"
     }
   ],
   "fixtures": [
@@ -1010,7 +1009,9 @@
     {
       "home": "Upington City",
       "away": "Magesi FC",
-      "date": "2026-11-21T15:30:00+02:00"
+      "date": "2026-11-21T15:30:00+02:00",
+      "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
+      "status": "NS"
     },
     {
       "home": "Hope FC",
