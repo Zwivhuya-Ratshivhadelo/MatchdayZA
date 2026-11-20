@@ -1,17 +1,11 @@
 {
-  "time": "2026-11-20T17:55:06+02:00",
+  "time": "2026-11-21T00:50:01+02:00",
   "links_found": 6,
   "games": [
     {
-      "game": "Highbury v University of Pretoria",
-      "kickoff": "2026-11-20T15:30:00+02:00"
-    },
-    {
-      "game": "Orbit College FC v Gomora United",
-      "kickoff": "2026-11-20T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019747",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "not found"
+      "game": "Mamelodi Sundowns v Kaizer Chiefs",
+      "kickoff": "2026-11-21T02:00:00+02:00",
+      "match_page": null
     }
   ]
 }
