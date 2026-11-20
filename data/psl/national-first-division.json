@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-20T13:50:14+02:00",
+  "updated": "2026-11-20T14:20:08+02:00",
   "log": [
     {
       "pos": 1,
@@ -951,14 +951,18 @@
       "away": "University of Pretoria",
       "date": "2026-11-20T15:30:00+02:00",
       "venue": "Nelson Mandela University Stadium, Port Elizabeth",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019716",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019716"
     },
     {
       "home": "Orbit College FC",
       "away": "Gomora United",
       "date": "2026-11-20T15:30:00+02:00",
       "venue": "Olympia Park, Rustenburg",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019747",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019747"
     },
     {
       "home": "Hope",
