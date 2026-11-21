@@ -3,12 +3,12 @@
   "comp": "national-first-division",
   "home": "Orbit College FC",
   "away": "Gomora United",
-  "updated": "2026-11-21T15:34:15+02:00",
-  "home_score": null,
-  "away_score": null,
-  "status": "NS",
-  "minute": null,
-  "events": [],
+  "updated": "2026-11-21T15:37:02+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "1'",
   "stats": [],
-  "lineups": []
+  "lineups": [],
+  "events": []
 }
