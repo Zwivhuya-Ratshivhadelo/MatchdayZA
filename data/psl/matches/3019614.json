@@ -3,7 +3,7 @@
   "comp": "national-first-division",
   "home": "Lerumo Lions",
   "away": "Cape Town City FC",
-  "updated": "2026-11-21T17:19:57+02:00",
+  "updated": "2026-11-21T17:22:50+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "LIVE",
@@ -16,13 +16,13 @@
     },
     {
       "label": "Attacks",
-      "home": "139",
-      "away": "127"
+      "home": "144",
+      "away": "135"
     },
     {
       "label": "Corners",
-      "home": "5",
-      "away": "5"
+      "home": "6",
+      "away": "6"
     },
     {
       "label": "Yellow Cards",
