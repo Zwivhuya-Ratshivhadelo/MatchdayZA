@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-21T17:23:02+02:00",
+  "updated": "2026-11-21T17:24:28+02:00",
   "log": [],
   "results": [
     {
@@ -222,7 +222,7 @@
       "home_score": 0,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "90+1'"
+      "minute": "90+3'"
     }
   ],
   "fixtures": [

@@ -1,6 +1,6 @@
 {
-  "time": "2026-11-21T17:22:41+02:00",
-  "links_found": 13,
+  "time": "2026-11-21T17:25:28+02:00",
+  "links_found": 12,
   "games": [
     {
       "game": "Hope v Real Native FC",
@@ -11,10 +11,7 @@
     },
     {
       "game": "Lerumo Lions v Cape Town City FC",
-      "kickoff": "2026-11-21T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019614",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 2-0 90'"
+      "kickoff": "2026-11-21T15:30:00+02:00"
     },
     {
       "game": "Midlands Wanderers v Hungry Lions",
@@ -35,7 +32,7 @@
       "kickoff": "2026-11-21T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019747",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-1 89'"
+      "365scores": "LIVE 0-1 90'"
     },
     {
       "game": "Venda Football Club v Leicesterford City FC",
@@ -49,7 +46,7 @@
       "kickoff": "2026-11-21T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019610",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 1-1 87'"
+      "365scores": "LIVE 1-1 89'"
     },
     {
       "game": "Hope FC v Real Native FC",
@@ -68,8 +65,7 @@
     {
       "game": "Stellenbosch FC v Orlando Pirates",
       "kickoff": "2026-11-21T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2700392-stellenbosch-fc-vs-orlando-pirates",
-      "page": "LIVE 0-2, line-ups 2"
+      "match_page": null
     }
   ]
 }
