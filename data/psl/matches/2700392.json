@@ -3,12 +3,16 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T16:17:18+02:00",
+  "updated": "2026-11-21T16:20:32+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "43'",
+  "minute": "45+1'",
   "events": [
+    {
+      "minute": "45+1'",
+      "type": "half_time"
+    },
     {
       "minute": "34'",
       "type": "yellow",
