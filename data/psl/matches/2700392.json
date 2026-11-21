@@ -3,12 +3,36 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T17:05:56+02:00",
+  "updated": "2026-11-21T17:08:41+02:00",
   "home_score": 0,
-  "away_score": 1,
+  "away_score": 2,
   "status": "LIVE",
-  "minute": "73'",
+  "minute": "78'",
   "events": [
+    {
+      "minute": "78'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Quwan Plaatjies",
+      "player_out": "Chumani Butsaka"
+    },
+    {
+      "minute": "78'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Ashley Du Preez",
+      "player_out": "Sinoxolo Kwayiba"
+    },
+    {
+      "minute": "75'",
+      "type": "goal",
+      "player": "Evidence Makgopa",
+      "team": "Orlando Pirates",
+      "score": [
+        0,
+        2
+      ]
+    },
     {
       "minute": "73'",
       "type": "yellow",
@@ -109,12 +133,12 @@
     {
       "label": "Shots",
       "home": "2",
-      "away": "11"
+      "away": "12"
     },
     {
       "label": "Shots on target",
       "home": "1",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Corners",
