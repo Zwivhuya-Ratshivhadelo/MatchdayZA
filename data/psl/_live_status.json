@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-21T17:30:52+02:00",
+  "time": "2026-11-21T17:33:36+02:00",
   "links_found": 12,
   "games": [
     {
@@ -15,10 +15,7 @@
     },
     {
       "game": "Midlands Wanderers v Hungry Lions",
-      "kickoff": "2026-11-21T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019605",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 1-0 90'"
+      "kickoff": "2026-11-21T15:30:00+02:00"
     },
     {
       "game": "NWU Soccer Institute v The Bees",
@@ -62,7 +59,8 @@
     {
       "game": "Stellenbosch FC v Orlando Pirates",
       "kickoff": "2026-11-21T15:30:00+02:00",
-      "match_page": null
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2700392-stellenbosch-fc-vs-orlando-pirates",
+      "page": "FT 0-2, line-ups 2"
     }
   ]
 }

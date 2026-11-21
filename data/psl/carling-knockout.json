@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-21T17:24:28+02:00",
+  "updated": "2026-11-21T17:33:55+02:00",
   "log": [],
   "results": [
     {
@@ -218,10 +218,10 @@
       "venue": "Moses Mabhida Stadium, Durban",
       "match_id": "2700392",
       "url": "https://www.psl.co.za/matchcentre/detail/2700392-stellenbosch-fc-vs-orlando-pirates",
-      "latest": "90+1' Yellow card, Darrel Matsheke (Stellenbosch)",
+      "latest": "90+5' Full time",
       "home_score": 0,
       "away_score": 2,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+3'"
     }
   ],
