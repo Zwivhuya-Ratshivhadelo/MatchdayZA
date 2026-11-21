@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T15:45:52+02:00",
+  "updated": "2026-11-21T15:48:36+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "12'",
+  "minute": "15'",
   "events": [
     {
       "minute": "0'",
@@ -38,7 +38,7 @@
     {
       "label": "Fouls",
       "home": "2",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Yellow Cards",
@@ -103,7 +103,7 @@
         {
           "no": "67",
           "name": "Bradley Grobler",
-          "pos": "Striker"
+          "pos": "Midfielder"
         },
         {
           "no": "14",
@@ -115,6 +115,11 @@
         {
           "no": "31",
           "name": "D Matsheke",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "A Godspower",
           "pos": "Substitute"
         },
         {
@@ -183,6 +188,11 @@
           "pos": "Defender"
         },
         {
+          "no": "38",
+          "name": "M Padime",
+          "pos": "Midfielder"
+        },
+        {
           "no": "48",
           "name": "S Masilela",
           "pos": "Midfielder"
@@ -198,18 +208,13 @@
           "pos": "Midfielder"
         },
         {
-          "no": "38",
-          "name": "M Padime",
-          "pos": "Striker"
+          "no": "11",
+          "name": "T Moremi",
+          "pos": "Midfielder"
         },
         {
           "no": "9",
           "name": "Y Mbuthuma",
-          "pos": "Striker"
-        },
-        {
-          "no": "11",
-          "name": "T Moremi",
           "pos": "Striker"
         }
       ],
