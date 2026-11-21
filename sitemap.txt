@@ -216,7 +216,6 @@ https://www.matchdayza.co.za/match/hope-vs-cape-town-city-fc-2026-09-13/
 https://www.matchdayza.co.za/match/hope-vs-hungry-lions-2026-11-07/
 https://www.matchdayza.co.za/match/hope-vs-orbit-college-fc-2026-09-19/
 https://www.matchdayza.co.za/match/hope-vs-pretoria-university-fc-2026-08-22/
-https://www.matchdayza.co.za/match/hope-vs-real-native-fc-2026-11-21/
 https://www.matchdayza.co.za/match/horoya-ac-vs-js-saoura-2026-09-13/
 https://www.matchdayza.co.za/match/horoya-ac-vs-merreikh-al-sudan-2026-10-18/
 https://www.matchdayza.co.za/match/hungry-lions-fc-vs-gomora-united-2026-08-22/
@@ -293,7 +292,6 @@ https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-golden-arrows-2026-08-23
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-golden-arrows-2026-11-03/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-golden-arrows-2026-11-06/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-golden-arrows-2027-03-06/
-https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-kaizer-chiefs-2026-11-21/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-kaizer-chiefs-2026-11-22/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-kaizer-chiefs-2027-02-06/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-kruger-united-2027-04-10/
@@ -365,7 +363,6 @@ https://www.matchdayza.co.za/match/nsingizini-hotspurs-vs-scottland-fc-2026-09-1
 https://www.matchdayza.co.za/match/nwu-fc-vs-highbury-2026-11-07/
 https://www.matchdayza.co.za/match/nwu-fc-vs-the-bees-2026-11-21/
 https://www.matchdayza.co.za/match/nwu-soccer-institute-vs-highbury-2026-11-07/
-https://www.matchdayza.co.za/match/nwu-soccer-institute-vs-the-bees-2026-11-21/
 https://www.matchdayza.co.za/match/orbit-college-fc-vs-cape-town-city-fc-2026-10-23/
 https://www.matchdayza.co.za/match/orbit-college-fc-vs-gomora-united-2026-11-21/
 https://www.matchdayza.co.za/match/orbit-college-fc-vs-hungry-lions-fc-2026-08-28/
