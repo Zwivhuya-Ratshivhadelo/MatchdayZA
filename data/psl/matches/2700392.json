@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T16:57:13+02:00",
+  "updated": "2026-11-21T16:59:56+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "66'",
+  "minute": "69'",
   "events": [
+    {
+      "minute": "68'",
+      "type": "yellow",
+      "player": "Deon Hotto",
+      "team": "Orlando Pirates"
+    },
     {
       "minute": "65'",
       "type": "sub",
@@ -86,18 +92,18 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "1",
+      "home": "2",
       "away": "10"
     },
     {
       "label": "Shots on target",
-      "home": "0",
+      "home": "1",
       "away": "4"
     },
     {
       "label": "Corners",
       "home": "1",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Offsides",
@@ -107,12 +113,12 @@
     {
       "label": "Fouls",
       "home": "13",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Yellow Cards",
       "home": "1",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Red Cards",

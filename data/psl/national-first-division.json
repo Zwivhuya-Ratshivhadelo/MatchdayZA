@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-21T16:57:12+02:00",
+  "updated": "2026-11-21T16:59:55+02:00",
   "log": [
     {
       "pos": 1,
@@ -965,7 +965,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "69'"
+      "minute": "71'"
     },
     {
       "home": "Midlands Wanderers",
@@ -977,7 +977,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "65'"
+      "minute": "67'"
     },
     {
       "home": "Orbit College FC",
@@ -989,7 +989,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "63'"
+      "minute": "66'"
     },
     {
       "home": "Upington City",
@@ -998,10 +998,10 @@
       "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
       "match_id": "3019610",
       "url": "https://www.psl.co.za/matchcentre/detail/3019610",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
       "status": "LIVE",
-      "minute": "45'"
+      "minute": "64'"
     },
     {
       "home": "Venda Football Club",
@@ -1012,7 +1012,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "45'"
+      "minute": "67'"
     }
   ],
   "fixtures": [
