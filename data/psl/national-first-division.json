@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-21T15:24:35+02:00",
+  "updated": "2026-11-21T15:31:35+02:00",
   "log": [
     {
       "pos": 1,
@@ -954,6 +954,18 @@
       "home_score": 2,
       "away_score": 1,
       "status": "FT"
+    },
+    {
+      "home": "Lerumo Lions",
+      "away": "Cape Town City FC",
+      "date": "2026-11-21T15:30:00+02:00",
+      "venue": "Lucas Masterpieces Moripe Stadium, Pretoria, GT",
+      "match_id": "3019614",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019614",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "1'"
     }
   ],
   "fixtures": [
@@ -965,15 +977,6 @@
       "status": "NS",
       "match_id": "3019726",
       "url": "https://www.psl.co.za/matchcentre/detail/3019726"
-    },
-    {
-      "home": "Lerumo Lions",
-      "away": "Cape Town City FC",
-      "date": "2026-11-21T15:30:00+02:00",
-      "venue": "Lucas Masterpieces Moripe Stadium, Pretoria, GT",
-      "status": "NS",
-      "match_id": "3019614",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019614"
     },
     {
       "home": "Midlands Wanderers",
