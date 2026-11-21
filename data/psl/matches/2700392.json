@@ -3,12 +3,22 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T16:59:56+02:00",
+  "updated": "2026-11-21T17:02:53+02:00",
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": "LIVE",
-  "minute": "69'",
+  "minute": "72'",
   "events": [
+    {
+      "minute": "69'",
+      "type": "goal",
+      "player": "Evidence Makgopa",
+      "team": "Orlando Pirates",
+      "score": [
+        0,
+        1
+      ]
+    },
     {
       "minute": "68'",
       "type": "yellow",
@@ -93,12 +103,12 @@
     {
       "label": "Shots",
       "home": "2",
-      "away": "10"
+      "away": "11"
     },
     {
       "label": "Shots on target",
       "home": "1",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Corners",
@@ -112,7 +122,7 @@
     },
     {
       "label": "Fouls",
-      "home": "13",
+      "home": "15",
       "away": "8"
     },
     {
