@@ -5,7 +5,7 @@
   "name": "NW Stream B",
   "slug": "nw-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28493",
-  "updated": "2026-11-20T22:01:53+02:00",
+  "updated": "2026-11-21T06:31:47+02:00",
   "log": [
     {
       "pos": 1,
@@ -130,26 +130,26 @@
     {
       "pos": 11,
       "team": "Real Movers FC",
-      "p": 8,
+      "p": 9,
       "w": 2,
       "d": 0,
-      "l": 6,
+      "l": 7,
       "gf": 9,
-      "ga": 19,
-      "gd": -10,
+      "ga": 20,
+      "gd": -11,
       "pts": 6
     },
     {
       "pos": 12,
       "team": "NWU Tawana FC",
-      "p": 8,
-      "w": 0,
+      "p": 9,
+      "w": 1,
       "d": 2,
       "l": 6,
-      "gf": 6,
+      "gf": 7,
       "ga": 16,
-      "gd": -10,
-      "pts": 2
+      "gd": -9,
+      "pts": 5
     }
   ],
   "results": [
@@ -592,17 +592,19 @@
       "home_score": 2,
       "away_score": 0,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "NWU Tawana FC",
       "away": "Real Movers FC",
       "match_no": 49,
       "url": "https://inqaku.com/match/view?stream_id=28493&match_no=49&s=l",
-      "date": "2026-11-20T18:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-11-20",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Bokone NW FC",
       "away": "Debunkers FC",

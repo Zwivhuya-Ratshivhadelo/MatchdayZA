@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-11-20T22:02:13+02:00",
+  "updated": "2026-11-21T06:32:07+02:00",
   "log": [
     {
       "pos": 1,
@@ -585,22 +585,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Grassy Park United",
-      "away": "FC Kayamandi",
-      "match_no": 62,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=62&s=l",
-      "date": "2026-11-20T19:30:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Diadora FC",
-      "away": "Ammar Soccer Academy",
-      "match_no": 61,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=61&s=l",
-      "date": "2026-11-20T20:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Royal Blues FC",
       "away": "Mbekweni Cosmos FC",

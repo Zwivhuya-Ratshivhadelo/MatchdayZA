@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-11-20T22:01:09+02:00",
+  "updated": "2026-11-21T06:31:03+02:00",
   "log": [
     {
       "pos": 1,
@@ -545,14 +545,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Dube Continental FC",
-      "away": "TUT FC",
-      "match_no": 46,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=46&s=l",
-      "date": "2026-11-20T14:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Tembisa Destroyers FC",
       "away": "Wits University FC",
