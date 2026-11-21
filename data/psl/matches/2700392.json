@@ -3,12 +3,26 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T16:54:22+02:00",
+  "updated": "2026-11-21T16:57:13+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "63'",
+  "minute": "66'",
   "events": [
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Evidence Makgopa",
+      "player_out": "Yamela Mbuthuma"
+    },
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Kabelo Kgositsile",
+      "player_out": "Tshepang Moremi"
+    },
     {
       "minute": "63'",
       "type": "sub",
