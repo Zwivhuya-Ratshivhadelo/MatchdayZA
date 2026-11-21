@@ -3,12 +3,37 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T16:34:53+02:00",
+  "updated": "2026-11-21T16:37:39+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "45+1'",
+  "minute": "47'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Bheki Mabuza",
+      "player_out": "Simphiwe Masilela"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Mthetheleli Mthiyane",
+      "player_out": "Christian Derbyshire"
+    },
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Njabulo Blom",
+      "player_out": "Tlakusani Mthethwa"
+    },
     {
       "minute": "45+1'",
       "type": "half_time"
@@ -34,12 +59,12 @@
     {
       "label": "Shots",
       "home": "0",
-      "away": "5"
+      "away": "6"
     },
     {
       "label": "Shots on target",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Corners",
