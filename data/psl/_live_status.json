@@ -1,6 +1,6 @@
 {
-  "time": "2026-11-21T15:30:59+02:00",
-  "links_found": 12,
+  "time": "2026-11-21T15:33:59+02:00",
+  "links_found": 13,
   "games": [
     {
       "game": "Hope v Real Native FC",
@@ -14,7 +14,7 @@
       "kickoff": "2026-11-21T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019614",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-0 1'"
+      "365scores": "LIVE 0-0 4'"
     },
     {
       "game": "Midlands Wanderers v Hungry Lions",
@@ -68,7 +68,8 @@
     {
       "game": "Stellenbosch FC v Orlando Pirates",
       "kickoff": "2026-11-21T15:30:00+02:00",
-      "match_page": null
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2700392-stellenbosch-fc-vs-orlando-pirates",
+      "page": "LIVE 0-0, line-ups 2"
     }
   ]
 }
