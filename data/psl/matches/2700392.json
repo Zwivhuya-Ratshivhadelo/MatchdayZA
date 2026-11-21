@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T16:06:02+02:00",
+  "updated": "2026-11-21T16:08:43+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "33'",
+  "minute": "34'",
   "events": [
+    {
+      "minute": "34'",
+      "type": "yellow",
+      "player": "Simphiwe Masilela",
+      "team": "Orlando Pirates"
+    },
     {
       "minute": "22'",
       "type": "yellow",
@@ -44,12 +50,12 @@
     {
       "label": "Fouls",
       "home": "7",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Yellow Cards",
       "home": "1",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",
