@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-21T17:28:09+02:00",
+  "time": "2026-11-21T17:30:52+02:00",
   "links_found": 12,
   "games": [
     {
@@ -36,10 +36,7 @@
     },
     {
       "game": "Venda Football Club v Leicesterford City FC",
-      "kickoff": "2026-11-21T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019661",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 2-0 90'"
+      "kickoff": "2026-11-21T15:30:00+02:00"
     },
     {
       "game": "Upington City v Magesi FC",
