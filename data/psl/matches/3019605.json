@@ -3,12 +3,13 @@
   "comp": "national-first-division",
   "home": "Midlands Wanderers",
   "away": "Hungry Lions",
-  "updated": "2026-11-21T17:32:29+02:00",
+  "updated": "2026-11-21T17:56:20+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "FT",
   "minute": null,
+  "events": [],
   "stats": [],
   "lineups": [],
-  "events": []
+  "tried365": true
 }

@@ -4,56 +4,56 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-21T17:55:50+02:00",
+  "updated": "2026-11-21T17:56:20+02:00",
   "log": [
     {
       "pos": 1,
-      "team": "Cape Town City FC",
-      "club": "Cape_Town_City_FC",
-      "p": 10,
-      "w": 6,
-      "d": 3,
-      "l": 1,
-      "pts": 21
+      "team": "Real Native FC",
+      "club": "Real_Native_FC",
+      "p": 11,
+      "w": 7,
+      "d": 2,
+      "l": 2,
+      "pts": 23
     },
     {
       "pos": 2,
-      "team": "Magesi FC",
-      "club": "Magesi_FC",
-      "p": 10,
+      "team": "Cape Town City FC",
+      "club": "Cape_Town_City_FC",
+      "p": 11,
       "w": 6,
-      "d": 3,
+      "d": 4,
       "l": 1,
-      "pts": 21
+      "pts": 22
     },
     {
       "pos": 3,
-      "team": "Lerumo Lions",
-      "club": "Lerumo_Lions",
-      "p": 10,
+      "team": "Magesi FC",
+      "club": "Magesi_FC",
+      "p": 11,
       "w": 6,
-      "d": 2,
-      "l": 2,
-      "pts": 20
+      "d": 4,
+      "l": 1,
+      "pts": 22
     },
     {
       "pos": 4,
-      "team": "Real Native FC",
-      "club": "Real_Native_FC",
-      "p": 10,
+      "team": "Lerumo Lions",
+      "club": "Lerumo_Lions",
+      "p": 11,
       "w": 6,
-      "d": 2,
+      "d": 3,
       "l": 2,
-      "pts": 20
+      "pts": 21
     },
     {
       "pos": 5,
       "team": "Hope FC",
       "club": "Hope_FC",
-      "p": 10,
+      "p": 11,
       "w": 6,
       "d": 2,
-      "l": 2,
+      "l": 3,
       "pts": 20
     },
     {
@@ -70,44 +70,64 @@
       "pos": 7,
       "team": "Hungry Lions",
       "club": "Hungry_Lions",
-      "p": 10,
+      "p": 11,
       "w": 4,
-      "d": 4,
+      "d": 5,
       "l": 2,
-      "pts": 16
+      "pts": 17
     },
     {
       "pos": 8,
       "team": "Upington City",
       "club": "Upington_City",
-      "p": 10,
+      "p": 11,
       "w": 4,
-      "d": 4,
+      "d": 5,
       "l": 2,
-      "pts": 16
+      "pts": 17
     },
     {
       "pos": 9,
       "team": "NWU FC",
       "club": "NWU_FC",
-      "p": 10,
+      "p": 11,
       "w": 3,
-      "d": 5,
+      "d": 6,
       "l": 2,
-      "pts": 14
+      "pts": 15
     },
     {
       "pos": 10,
       "team": "Leicesterford City FC",
       "club": "Leicesterford_City_FC",
-      "p": 10,
+      "p": 11,
       "w": 3,
-      "d": 1,
+      "d": 2,
       "l": 6,
-      "pts": 10
+      "pts": 11
     },
     {
       "pos": 11,
+      "team": "Gomora United",
+      "club": "Gomora_United",
+      "p": 11,
+      "w": 2,
+      "d": 4,
+      "l": 5,
+      "pts": 10
+    },
+    {
+      "pos": 12,
+      "team": "Midlands Wanderers",
+      "club": "Midlands_Wanderers",
+      "p": 11,
+      "w": 2,
+      "d": 3,
+      "l": 6,
+      "pts": 9
+    },
+    {
+      "pos": 13,
       "team": "University of Pretoria",
       "club": "University_of_Pretoria",
       "p": 11,
@@ -117,54 +137,34 @@
       "pts": 9
     },
     {
-      "pos": 12,
-      "team": "Gomora United",
-      "club": "Gomora_United",
-      "p": 10,
-      "w": 2,
-      "d": 3,
-      "l": 5,
-      "pts": 9
-    },
-    {
-      "pos": 13,
-      "team": "Midlands Wanderers",
-      "club": "Midlands_Wanderers",
-      "p": 10,
-      "w": 2,
-      "d": 2,
-      "l": 6,
-      "pts": 8
-    },
-    {
       "pos": 14,
       "team": "The Bees",
       "club": "The_Bees",
-      "p": 10,
+      "p": 11,
       "w": 2,
-      "d": 1,
+      "d": 2,
       "l": 7,
-      "pts": 7
+      "pts": 8
     },
     {
       "pos": 15,
       "team": "Venda Football Club",
       "club": "Venda_Football_Club",
-      "p": 10,
+      "p": 11,
       "w": 1,
-      "d": 3,
+      "d": 4,
       "l": 6,
-      "pts": 6
+      "pts": 7
     },
     {
       "pos": 16,
       "team": "Orbit College FC",
       "club": "Orbit_College_FC",
-      "p": 10,
+      "p": 11,
       "w": 0,
-      "d": 5,
+      "d": 6,
       "l": 5,
-      "pts": 5
+      "pts": 6
     }
   ],
   "results": [
@@ -976,8 +976,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019605",
       "home_score": 1,
       "away_score": 1,
-      "status": "FT",
-      "minute": "90'"
+      "status": "FT"
     },
     {
       "home": "Orbit College FC",
@@ -988,8 +987,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019747",
       "home_score": 0,
       "away_score": 1,
-      "status": "FT",
-      "minute": "90'"
+      "status": "FT"
     },
     {
       "home": "Upington City",
@@ -1000,8 +998,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019610",
       "home_score": 2,
       "away_score": 1,
-      "status": "FT",
-      "minute": "90'"
+      "status": "FT"
     },
     {
       "home": "Venda Football Club",
@@ -1011,8 +1008,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019661",
       "home_score": 2,
       "away_score": 0,
-      "status": "FT",
-      "minute": "90'"
+      "status": "FT"
     }
   ],
   "fixtures": [
@@ -1056,6 +1052,26 @@
       "home": "Gomora United",
       "away": "Midlands Wanderers",
       "date": "2026-11-27T15:30:00+02:00"
+    },
+    {
+      "home": "The Bees",
+      "away": "Upington City",
+      "date": "2026-11-28T15:30:00+02:00"
+    },
+    {
+      "home": "Magesi FC",
+      "away": "Lerumo Lions",
+      "date": "2026-11-28T15:30:00+02:00"
+    },
+    {
+      "home": "Hungry Lions",
+      "away": "Highbury",
+      "date": "2026-11-28T15:30:00+02:00"
+    },
+    {
+      "home": "Cape Town City FC",
+      "away": "Venda Football Club",
+      "date": "2026-11-28T15:30:00+02:00"
     }
   ],
   "extra": [
