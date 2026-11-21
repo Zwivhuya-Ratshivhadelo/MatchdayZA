@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-21T06:30:15+02:00",
+  "updated": "2026-11-21T07:30:18+02:00",
   "log": [
     {
       "pos": 1,
@@ -58,6 +58,16 @@
     },
     {
       "pos": 6,
+      "team": "Highbury",
+      "club": "Highbury",
+      "p": 11,
+      "w": 5,
+      "d": 3,
+      "l": 3,
+      "pts": 18
+    },
+    {
+      "pos": 7,
       "team": "Hungry Lions",
       "club": "Hungry_Lions",
       "p": 10,
@@ -67,23 +77,13 @@
       "pts": 16
     },
     {
-      "pos": 7,
+      "pos": 8,
       "team": "Upington City",
       "club": "Upington_City",
       "p": 10,
       "w": 4,
       "d": 4,
       "l": 2,
-      "pts": 16
-    },
-    {
-      "pos": 8,
-      "team": "Highbury",
-      "club": "Highbury",
-      "p": 11,
-      "w": 4,
-      "d": 4,
-      "l": 3,
       "pts": 16
     },
     {
@@ -98,16 +98,6 @@
     },
     {
       "pos": 10,
-      "team": "University of Pretoria",
-      "club": "University_of_Pretoria",
-      "p": 11,
-      "w": 2,
-      "d": 4,
-      "l": 5,
-      "pts": 10
-    },
-    {
-      "pos": 11,
       "team": "Leicesterford City FC",
       "club": "Leicesterford_City_FC",
       "p": 10,
@@ -115,6 +105,16 @@
       "d": 1,
       "l": 6,
       "pts": 10
+    },
+    {
+      "pos": 11,
+      "team": "University of Pretoria",
+      "club": "University_of_Pretoria",
+      "p": 11,
+      "w": 2,
+      "d": 3,
+      "l": 6,
+      "pts": 9
     },
     {
       "pos": 12,
@@ -952,7 +952,7 @@
       "match_id": "2682157",
       "url": "https://www.psl.co.za/matchcentre/detail/2682157-highbury-vs-university-of-pretoria",
       "home_score": 2,
-      "away_score": 2,
+      "away_score": 1,
       "status": "FT"
     }
   ],
