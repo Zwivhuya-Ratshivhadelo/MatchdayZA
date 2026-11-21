@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T17:11:39+02:00",
+  "updated": "2026-11-21T17:14:35+02:00",
   "home_score": 0,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "81'",
+  "minute": "83'",
   "events": [
+    {
+      "minute": "81'",
+      "type": "yellow",
+      "player": "Thapelo Mokobodi",
+      "team": "Orlando Pirates"
+    },
     {
       "minute": "79'",
       "type": "sub",
@@ -139,7 +145,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "2",
+      "home": "3",
       "away": "13"
     },
     {
@@ -160,12 +166,12 @@
     {
       "label": "Fouls",
       "home": "17",
-      "away": "9"
+      "away": "10"
     },
     {
       "label": "Yellow Cards",
       "home": "2",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Red Cards",
