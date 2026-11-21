@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T17:08:41+02:00",
+  "updated": "2026-11-21T17:11:39+02:00",
   "home_score": 0,
   "away_score": 2,
   "status": "LIVE",
-  "minute": "78'",
+  "minute": "81'",
   "events": [
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Mohau Nkota",
+      "player_out": "Mpho Padime"
+    },
     {
       "minute": "78'",
       "type": "sub",
@@ -133,12 +140,12 @@
     {
       "label": "Shots",
       "home": "2",
-      "away": "12"
+      "away": "13"
     },
     {
       "label": "Shots on target",
       "home": "1",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Corners",
@@ -148,7 +155,7 @@
     {
       "label": "Offsides",
       "home": "0",
-      "away": "3"
+      "away": "5"
     },
     {
       "label": "Fouls",
