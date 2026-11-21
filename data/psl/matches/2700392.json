@@ -3,12 +3,26 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T16:51:36+02:00",
+  "updated": "2026-11-21T16:54:22+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "60'",
+  "minute": "63'",
   "events": [
+    {
+      "minute": "63'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Arigo Godspower",
+      "player_out": "Bradley Grobler"
+    },
+    {
+      "minute": "63'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Darrel Matsheke",
+      "player_out": "Lehlogonolo Matlou"
+    },
     {
       "minute": "45'",
       "type": "second_half"
@@ -78,7 +92,7 @@
     },
     {
       "label": "Fouls",
-      "home": "11",
+      "home": "13",
       "away": "7"
     },
     {
