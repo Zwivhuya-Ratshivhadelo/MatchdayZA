@@ -3,12 +3,18 @@
   "comp": "carling-knockout",
   "home": "Stellenbosch FC",
   "away": "Orlando Pirates",
-  "updated": "2026-11-21T17:02:53+02:00",
+  "updated": "2026-11-21T17:05:56+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "72'",
+  "minute": "73'",
   "events": [
+    {
+      "minute": "73'",
+      "type": "yellow",
+      "player": "Siviwe Nkwali",
+      "team": "Stellenbosch"
+    },
     {
       "minute": "69'",
       "type": "goal",
@@ -122,12 +128,12 @@
     },
     {
       "label": "Fouls",
-      "home": "15",
-      "away": "8"
+      "home": "17",
+      "away": "9"
     },
     {
       "label": "Yellow Cards",
-      "home": "1",
+      "home": "2",
       "away": "2"
     },
     {

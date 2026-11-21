@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-21T17:02:53+02:00",
+  "updated": "2026-11-21T17:05:56+02:00",
   "log": [],
   "results": [
     {
@@ -218,11 +218,11 @@
       "venue": "Moses Mabhida Stadium, Durban",
       "match_id": "2700392",
       "url": "https://www.psl.co.za/matchcentre/detail/2700392-stellenbosch-fc-vs-orlando-pirates",
-      "latest": "69' Goal, Evidence Makgopa (Orlando Pirates)",
+      "latest": "73' Yellow card, Siviwe Nkwali (Stellenbosch)",
       "home_score": 0,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "72'"
+      "minute": "73'"
     }
   ],
   "fixtures": [
