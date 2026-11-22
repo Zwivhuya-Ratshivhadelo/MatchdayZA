@@ -1,0 +1,229 @@
+{
+  "match_id": "2700391",
+  "comp": "carling-knockout",
+  "home": "Mamelodi Sundowns",
+  "away": "Kaizer Chiefs",
+  "updated": "2026-11-22T15:34:49+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "2'",
+  "events": [
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Mamelodi Sundowns",
+      "starting": [
+        {
+          "no": "30",
+          "name": "Ronwen Williams",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "23",
+          "name": "Fawaaz Basadien",
+          "pos": "Defender"
+        },
+        {
+          "no": "42",
+          "name": "M Khoza",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "K Ndamane",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "T Matuludi",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "Teboho Mokoena",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "9",
+          "name": "A De Oliveira Sales",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "29",
+          "name": "A Van Wyk",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "C Mailula",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "11",
+          "name": "M Allende",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "Lebo Mothiba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "27",
+          "name": "Thapelo Morena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "13",
+          "name": "Iqraam Rayners",
+          "pos": "Substitute"
+        },
+        {
+          "no": "31",
+          "name": "Ricardo Goss",
+          "pos": "Substitute"
+        },
+        {
+          "no": "15",
+          "name": "Bathusi Aubaas",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "T Matthews",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "Aubrey Modiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "46",
+          "name": "B Mokoena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "38",
+          "name": "S Mthanti",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "Mothobi Mvala",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Kaizer Chiefs",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Brandon Petersen",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "24",
+          "name": "R Dortley",
+          "pos": "Defender"
+        },
+        {
+          "no": "29",
+          "name": "Paseka Mako",
+          "pos": "Defender"
+        },
+        {
+          "no": "18",
+          "name": "Dillan Solomons",
+          "pos": "Defender"
+        },
+        {
+          "no": "42",
+          "name": "Thabo Moloisane",
+          "pos": "Defender"
+        },
+        {
+          "no": "6",
+          "name": "Lebohang Maboe",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "28",
+          "name": "M Vilakazi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "7",
+          "name": "M Shabalala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "5",
+          "name": "S Mthethwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "13",
+          "name": "Pule Mmodi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "47",
+          "name": "W Duba",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "48",
+          "name": "B Cross",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "Asenele Velebayi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "4",
+          "name": "Zitha Kwinika",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "Bruce Bvuma",
+          "pos": "Substitute"
+        },
+        {
+          "no": "8",
+          "name": "Siphesihle Ndlovu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "L Baartman",
+          "pos": "Substitute"
+        },
+        {
+          "no": "39",
+          "name": "Reeve Frosler",
+          "pos": "Substitute"
+        },
+        {
+          "no": "70",
+          "name": "L Phili",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

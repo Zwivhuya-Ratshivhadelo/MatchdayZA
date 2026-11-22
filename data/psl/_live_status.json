@@ -1,11 +1,12 @@
 {
-  "time": "2026-11-22T15:32:43+02:00",
-  "links_found": 6,
+  "time": "2026-11-22T15:34:47+02:00",
+  "links_found": 7,
   "games": [
     {
       "game": "Mamelodi Sundowns v Kaizer Chiefs",
       "kickoff": "2026-11-22T15:30:00+02:00",
-      "match_page": null
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2700391-mamelodi-sundowns-vs-kaizer-chiefs",
+      "page": "LIVE 0-0, line-ups 2"
     }
   ]
 }
