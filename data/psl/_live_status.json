@@ -1,58 +1,11 @@
 {
-  "time": "2026-11-21T17:55:38+02:00",
-  "links_found": 12,
+  "time": "2026-11-22T14:20:01+02:00",
+  "links_found": 6,
   "games": [
     {
-      "game": "Hope v Real Native FC",
-      "kickoff": "2026-11-21T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019726",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "not found"
-    },
-    {
-      "game": "Lerumo Lions v Cape Town City FC",
-      "kickoff": "2026-11-21T15:30:00+02:00"
-    },
-    {
-      "game": "Midlands Wanderers v Hungry Lions",
-      "kickoff": "2026-11-21T15:30:00+02:00"
-    },
-    {
-      "game": "NWU Soccer Institute v The Bees",
-      "kickoff": "2026-11-21T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019642",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "not found"
-    },
-    {
-      "game": "Orbit College FC v Gomora United",
-      "kickoff": "2026-11-21T15:30:00+02:00"
-    },
-    {
-      "game": "Venda Football Club v Leicesterford City FC",
-      "kickoff": "2026-11-21T15:30:00+02:00"
-    },
-    {
-      "game": "Upington City v Magesi FC",
-      "kickoff": "2026-11-21T15:30:00+02:00"
-    },
-    {
-      "game": "Hope FC v Real Native FC",
-      "kickoff": "2026-11-21T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019726",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "not found"
-    },
-    {
-      "game": "NWU FC v The Bees",
-      "kickoff": "2026-11-21T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2682153",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "not found"
-    },
-    {
-      "game": "Stellenbosch FC v Orlando Pirates",
-      "kickoff": "2026-11-21T15:30:00+02:00"
+      "game": "Mamelodi Sundowns v Kaizer Chiefs",
+      "kickoff": "2026-11-22T15:30:00+02:00",
+      "match_page": null
     }
   ]
 }
