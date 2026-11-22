@@ -3,12 +3,26 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-22T17:02:53+02:00",
+  "updated": "2026-11-22T17:04:59+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "70'",
+  "minute": "71'",
   "events": [
+    {
+      "minute": "71'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Langelihle Phili",
+      "player_out": "Mduduzi Shabalala"
+    },
+    {
+      "minute": "70'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Siyanda Ndlovu",
+      "player_out": "Cassius Mailula"
+    },
     {
       "minute": "70'",
       "type": "sub",
