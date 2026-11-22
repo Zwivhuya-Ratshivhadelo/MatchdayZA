@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-22T17:00:48+02:00",
+  "updated": "2026-11-22T17:02:53+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "66'",
+  "minute": "70'",
   "events": [
+    {
+      "minute": "70'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Iqraam Rayners",
+      "player_out": "Lebo Mothiba"
+    },
     {
       "minute": "66'",
       "type": "yellow",
@@ -44,7 +51,7 @@
     {
       "label": "Shots",
       "home": "12",
-      "away": "9"
+      "away": "11"
     },
     {
       "label": "Shots on target",
