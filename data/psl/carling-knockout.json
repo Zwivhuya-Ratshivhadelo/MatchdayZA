@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-22T17:23:58+02:00",
+  "updated": "2026-11-22T17:26:04+02:00",
   "log": [],
   "results": [
     {
@@ -231,11 +231,11 @@
       "venue": "Loftus Versfeld Stadium, Pretoria",
       "match_id": "2700391",
       "url": "https://www.psl.co.za/matchcentre/detail/2700391-mamelodi-sundowns-vs-kaizer-chiefs",
-      "latest": "83' Sub, Kaizer Chiefs: Siphesihle Ndlovu on for Lebohang Maboe",
+      "latest": "90+1' Yellow card, Thabang Matuludi (Mamelodi Sundowns)",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "90'"
+      "minute": "90+2'"
     }
   ],
   "fixtures": [
