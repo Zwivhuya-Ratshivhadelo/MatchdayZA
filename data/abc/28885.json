@@ -5,7 +5,7 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-22T18:31:45+02:00",
+  "updated": "2026-11-22T22:32:03+02:00",
   "log": [
     {
       "pos": 1,
@@ -81,6 +81,18 @@
     },
     {
       "pos": 7,
+      "team": "SPU FC",
+      "p": 4,
+      "w": 1,
+      "d": 1,
+      "l": 2,
+      "gf": 7,
+      "ga": 7,
+      "gd": 0,
+      "pts": 4
+    },
+    {
+      "pos": 8,
       "team": "Destiny United FC",
       "p": 2,
       "w": 1,
@@ -92,7 +104,7 @@
       "pts": 3
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Ocean Swallows",
       "p": 4,
       "w": 1,
@@ -104,7 +116,7 @@
       "pts": 3
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Psd FC",
       "p": 3,
       "w": 1,
@@ -116,27 +128,15 @@
       "pts": 3
     },
     {
-      "pos": 10,
-      "team": "SPU FC",
-      "p": 3,
-      "w": 0,
-      "d": 1,
-      "l": 2,
-      "gf": 5,
-      "ga": 7,
-      "gd": -2,
-      "pts": 1
-    },
-    {
       "pos": 11,
       "team": "G Stasie FC",
-      "p": 3,
+      "p": 4,
       "w": 0,
       "d": 1,
-      "l": 2,
+      "l": 3,
       "gf": 2,
-      "ga": 5,
-      "gd": -3,
+      "ga": 7,
+      "gd": -5,
       "pts": 1
     },
     {
@@ -379,8 +379,8 @@
       "match_no": 23,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=23&s=l",
       "date": "2026-11-21",
-      "home_score": 2,
-      "away_score": 0,
+      "home_score": 0,
+      "away_score": 2,
       "status": "FT"
     }
   ],
@@ -394,11 +394,19 @@
       "status": "NS"
     },
     {
+      "home": "SPU FC",
+      "away": "Gaza United FC",
+      "match_no": 30,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=30&s=l",
+      "date": "2026-11-28T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Saints FC",
       "away": "Psd FC",
       "match_no": 25,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=25&s=l",
-      "date": "2026-11-28T15:00:00+02:00",
+      "date": "2026-11-28T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -406,7 +414,7 @@
       "away": "Ocean Swallows",
       "match_no": 26,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=26&s=l",
-      "date": "2026-11-28T15:00:00+02:00",
+      "date": "2026-11-28T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -414,7 +422,7 @@
       "away": "United Rovers",
       "match_no": 27,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=27&s=l",
-      "date": "2026-11-28T15:00:00+02:00",
+      "date": "2026-11-28T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -422,7 +430,7 @@
       "away": "G Stasie FC",
       "match_no": 28,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=28&s=l",
-      "date": "2026-11-28T15:00:00+02:00",
+      "date": "2026-11-28T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -430,15 +438,7 @@
       "away": "Bovua FC",
       "match_no": 29,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=29&s=l",
-      "date": "2026-11-28T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "SPU FC",
-      "away": "Gaza United FC",
-      "match_no": 30,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=30&s=l",
-      "date": "2026-11-28T15:00:00+02:00",
+      "date": "2026-11-28T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -454,7 +454,7 @@
       "away": "Saints FC",
       "match_no": 31,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=31&s=l",
-      "date": "2026-12-05T15:00:00+02:00",
+      "date": "2026-12-05T14:00:00+02:00",
       "status": "NS"
     },
     {
@@ -462,7 +462,7 @@
       "away": "Psd FC",
       "match_no": 32,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=32&s=l",
-      "date": "2026-12-05T15:00:00+02:00",
+      "date": "2026-12-05T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -470,7 +470,7 @@
       "away": "Pampierstad Express FC",
       "match_no": 33,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=33&s=l",
-      "date": "2026-12-05T15:00:00+02:00",
+      "date": "2026-12-05T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -478,7 +478,7 @@
       "away": "Jacksa Spears FC",
       "match_no": 34,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=34&s=l",
-      "date": "2026-12-05T15:00:00+02:00",
+      "date": "2026-12-05T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -486,7 +486,7 @@
       "away": "Skema Unite FC",
       "match_no": 35,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=35&s=l",
-      "date": "2026-12-05T15:00:00+02:00",
+      "date": "2026-12-05T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -494,7 +494,7 @@
       "away": "Destiny United FC",
       "match_no": 36,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=36&s=l",
-      "date": "2026-12-05T15:00:00+02:00",
+      "date": "2026-12-05T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -502,7 +502,7 @@
       "away": "United Rovers",
       "match_no": 37,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=37&s=l",
-      "date": "2026-12-12T15:00:00+02:00",
+      "date": "2026-12-12T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -510,7 +510,7 @@
       "away": "G Stasie FC",
       "match_no": 38,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=38&s=l",
-      "date": "2026-12-12T15:00:00+02:00",
+      "date": "2026-12-12T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -518,7 +518,7 @@
       "away": "Bovua FC",
       "match_no": 39,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=39&s=l",
-      "date": "2026-12-12T15:00:00+02:00",
+      "date": "2026-12-12T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -526,7 +526,7 @@
       "away": "Gaza United FC",
       "match_no": 40,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=40&s=l",
-      "date": "2026-12-12T15:00:00+02:00",
+      "date": "2026-12-12T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -534,7 +534,7 @@
       "away": "SPU FC",
       "match_no": 41,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=41&s=l",
-      "date": "2026-12-12T15:00:00+02:00",
+      "date": "2026-12-12T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -542,7 +542,7 @@
       "away": "Destiny United FC",
       "match_no": 42,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=42&s=l",
-      "date": "2026-12-12T15:00:00+02:00",
+      "date": "2026-12-12T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -550,7 +550,7 @@
       "away": "Saints FC",
       "match_no": 43,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=43&s=l",
-      "date": "2027-01-23T15:00:00+02:00",
+      "date": "2027-01-23T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -558,7 +558,7 @@
       "away": "United Rovers",
       "match_no": 44,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=44&s=l",
-      "date": "2027-01-23T15:00:00+02:00",
+      "date": "2027-01-23T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -566,7 +566,7 @@
       "away": "Ocean Swallows",
       "match_no": 45,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=45&s=l",
-      "date": "2027-01-23T15:00:00+02:00",
+      "date": "2027-01-23T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -574,7 +574,7 @@
       "away": "Psd FC",
       "match_no": 46,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=46&s=l",
-      "date": "2027-01-23T15:00:00+02:00",
+      "date": "2027-01-23T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -582,7 +582,7 @@
       "away": "Pampierstad Express FC",
       "match_no": 47,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=47&s=l",
-      "date": "2027-01-23T15:00:00+02:00",
+      "date": "2027-01-23T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -590,23 +590,7 @@
       "away": "Jacksa Spears FC",
       "match_no": 48,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=48&s=l",
-      "date": "2027-01-23T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Saints FC",
-      "away": "Bovua FC",
-      "match_no": 49,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=49&s=l",
-      "date": "2027-01-30T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "G Stasie FC",
-      "away": "Gaza United FC",
-      "match_no": 50,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=50&s=l",
-      "date": "2027-01-30T15:00:00+02:00",
+      "date": "2027-01-23T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -614,7 +598,23 @@
       "away": "SPU FC",
       "match_no": 51,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=51&s=l",
-      "date": "2027-01-30T15:00:00+02:00",
+      "date": "2027-01-30T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Saints FC",
+      "away": "Bovua FC",
+      "match_no": 49,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=49&s=l",
+      "date": "2027-01-30T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "G Stasie FC",
+      "away": "Gaza United FC",
+      "match_no": 50,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=50&s=l",
+      "date": "2027-01-30T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -622,7 +622,7 @@
       "away": "Destiny United FC",
       "match_no": 52,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=52&s=l",
-      "date": "2027-01-30T15:00:00+02:00",
+      "date": "2027-01-30T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -630,7 +630,7 @@
       "away": "Skema Unite FC",
       "match_no": 53,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=53&s=l",
-      "date": "2027-01-30T15:00:00+02:00",
+      "date": "2027-01-30T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -638,7 +638,7 @@
       "away": "Jacksa Spears FC",
       "match_no": 54,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=54&s=l",
-      "date": "2027-01-30T15:00:00+02:00",
+      "date": "2027-01-30T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -646,7 +646,7 @@
       "away": "Saints FC",
       "match_no": 55,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=55&s=l",
-      "date": "2027-02-06T15:00:00+02:00",
+      "date": "2027-02-06T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -654,7 +654,7 @@
       "away": "Bovua FC",
       "match_no": 56,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=56&s=l",
-      "date": "2027-02-06T15:00:00+02:00",
+      "date": "2027-02-06T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -662,7 +662,7 @@
       "away": "G Stasie FC",
       "match_no": 57,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=57&s=l",
-      "date": "2027-02-06T15:00:00+02:00",
+      "date": "2027-02-06T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -670,7 +670,7 @@
       "away": "United Rovers",
       "match_no": 58,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=58&s=l",
-      "date": "2027-02-06T15:00:00+02:00",
+      "date": "2027-02-06T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -678,7 +678,7 @@
       "away": "Ocean Swallows",
       "match_no": 59,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=59&s=l",
-      "date": "2027-02-06T15:00:00+02:00",
+      "date": "2027-02-06T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -686,47 +686,7 @@
       "away": "Psd FC",
       "match_no": 60,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=60&s=l",
-      "date": "2027-02-06T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Saints FC",
-      "away": "SPU FC",
-      "match_no": 61,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=61&s=l",
-      "date": "2027-02-13T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Gaza United FC",
-      "away": "Destiny United FC",
-      "match_no": 62,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=62&s=l",
-      "date": "2027-02-13T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Bovua FC",
-      "away": "Skema Unite FC",
-      "match_no": 63,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=63&s=l",
-      "date": "2027-02-13T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "G Stasie FC",
-      "away": "Jacksa Spears FC",
-      "match_no": 64,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=64&s=l",
-      "date": "2027-02-13T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "United Rovers",
-      "away": "Pampierstad Express FC",
-      "match_no": 65,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=65&s=l",
-      "date": "2027-02-13T15:00:00+02:00",
+      "date": "2027-02-06T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -734,7 +694,47 @@
       "away": "Psd FC",
       "match_no": 66,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=66&s=l",
-      "date": "2027-02-13T15:00:00+02:00",
+      "date": "2027-02-13T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Saints FC",
+      "away": "SPU FC",
+      "match_no": 61,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=61&s=l",
+      "date": "2027-02-13T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Gaza United FC",
+      "away": "Destiny United FC",
+      "match_no": 62,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=62&s=l",
+      "date": "2027-02-13T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Bovua FC",
+      "away": "Skema Unite FC",
+      "match_no": 63,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=63&s=l",
+      "date": "2027-02-13T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "G Stasie FC",
+      "away": "Jacksa Spears FC",
+      "match_no": 64,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=64&s=l",
+      "date": "2027-02-13T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "United Rovers",
+      "away": "Pampierstad Express FC",
+      "match_no": 65,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=65&s=l",
+      "date": "2027-02-13T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -790,7 +790,7 @@
       "away": "Skema Unite FC",
       "match_no": 73,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=73&s=l",
-      "date": "2027-02-27T15:00:00+02:00",
+      "date": "2027-02-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -798,7 +798,7 @@
       "away": "Jacksa Spears FC",
       "match_no": 74,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=74&s=l",
-      "date": "2027-02-27T15:00:00+02:00",
+      "date": "2027-02-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -806,7 +806,7 @@
       "away": "Pampierstad Express FC",
       "match_no": 75,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=75&s=l",
-      "date": "2027-02-27T15:00:00+02:00",
+      "date": "2027-02-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -814,7 +814,7 @@
       "away": "Psd FC",
       "match_no": 76,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=76&s=l",
-      "date": "2027-02-27T15:00:00+02:00",
+      "date": "2027-02-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -822,7 +822,7 @@
       "away": "Ocean Swallows",
       "match_no": 77,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=77&s=l",
-      "date": "2027-02-27T15:00:00+02:00",
+      "date": "2027-02-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -830,39 +830,7 @@
       "away": "United Rovers",
       "match_no": 78,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=78&s=l",
-      "date": "2027-02-27T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Jacksa Spears FC",
-      "away": "Saints FC",
-      "match_no": 79,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=79&s=l",
-      "date": "2027-03-06T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Pampierstad Express FC",
-      "away": "Skema Unite FC",
-      "match_no": 80,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=80&s=l",
-      "date": "2027-03-06T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Psd FC",
-      "away": "Destiny United FC",
-      "match_no": 81,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=81&s=l",
-      "date": "2027-03-06T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ocean Swallows",
-      "away": "SPU FC",
-      "match_no": 82,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=82&s=l",
-      "date": "2027-03-06T15:00:00+02:00",
+      "date": "2027-02-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -870,7 +838,39 @@
       "away": "Gaza United FC",
       "match_no": 83,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=83&s=l",
-      "date": "2027-03-06T15:00:00+02:00",
+      "date": "2027-03-06T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Jacksa Spears FC",
+      "away": "Saints FC",
+      "match_no": 79,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=79&s=l",
+      "date": "2027-03-06T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Pampierstad Express FC",
+      "away": "Skema Unite FC",
+      "match_no": 80,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=80&s=l",
+      "date": "2027-03-06T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Psd FC",
+      "away": "Destiny United FC",
+      "match_no": 81,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=81&s=l",
+      "date": "2027-03-06T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Ocean Swallows",
+      "away": "SPU FC",
+      "match_no": 82,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=82&s=l",
+      "date": "2027-03-06T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -878,7 +878,7 @@
       "away": "Bovua FC",
       "match_no": 84,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=84&s=l",
-      "date": "2027-03-06T15:00:00+02:00",
+      "date": "2027-03-06T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -886,7 +886,7 @@
       "away": "Pampierstad Express FC",
       "match_no": 85,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=85&s=l",
-      "date": "2027-03-13T15:00:00+02:00",
+      "date": "2027-03-13T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -894,7 +894,7 @@
       "away": "Psd FC",
       "match_no": 86,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=86&s=l",
-      "date": "2027-03-13T15:00:00+02:00",
+      "date": "2027-03-13T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -902,7 +902,7 @@
       "away": "Ocean Swallows",
       "match_no": 87,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=87&s=l",
-      "date": "2027-03-13T15:00:00+02:00",
+      "date": "2027-03-13T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -910,7 +910,7 @@
       "away": "United Rovers",
       "match_no": 88,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=88&s=l",
-      "date": "2027-03-13T15:00:00+02:00",
+      "date": "2027-03-13T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -918,7 +918,7 @@
       "away": "G Stasie FC",
       "match_no": 89,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=89&s=l",
-      "date": "2027-03-13T15:00:00+02:00",
+      "date": "2027-03-13T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -926,15 +926,7 @@
       "away": "Bovua FC",
       "match_no": 90,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=90&s=l",
-      "date": "2027-03-13T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Psd FC",
-      "away": "Saints FC",
-      "match_no": 91,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=91&s=l",
-      "date": "2027-03-20T15:00:00+02:00",
+      "date": "2027-03-13T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -942,7 +934,15 @@
       "away": "Pampierstad Express FC",
       "match_no": 92,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=92&s=l",
-      "date": "2027-03-20T15:00:00+02:00",
+      "date": "2027-03-20T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Psd FC",
+      "away": "Saints FC",
+      "match_no": 91,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=91&s=l",
+      "date": "2027-03-20T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -950,7 +950,7 @@
       "away": "Jacksa Spears FC",
       "match_no": 93,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=93&s=l",
-      "date": "2027-03-20T15:00:00+02:00",
+      "date": "2027-03-20T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -958,7 +958,7 @@
       "away": "Skema Unite FC",
       "match_no": 94,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=94&s=l",
-      "date": "2027-03-20T15:00:00+02:00",
+      "date": "2027-03-20T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -966,7 +966,7 @@
       "away": "Destiny United FC",
       "match_no": 95,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=95&s=l",
-      "date": "2027-03-20T15:00:00+02:00",
+      "date": "2027-03-20T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -974,7 +974,7 @@
       "away": "SPU FC",
       "match_no": 96,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=96&s=l",
-      "date": "2027-03-20T15:00:00+02:00",
+      "date": "2027-03-20T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -990,7 +990,7 @@
       "away": "United Rovers",
       "match_no": 98,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=98&s=l",
-      "date": "2027-03-27T15:00:00+02:00",
+      "date": "2027-03-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -998,7 +998,7 @@
       "away": "G Stasie FC",
       "match_no": 99,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=99&s=l",
-      "date": "2027-03-27T15:00:00+02:00",
+      "date": "2027-03-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -1006,7 +1006,7 @@
       "away": "Bovua FC",
       "match_no": 100,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=100&s=l",
-      "date": "2027-03-27T15:00:00+02:00",
+      "date": "2027-03-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -1014,7 +1014,7 @@
       "away": "Gaza United FC",
       "match_no": 101,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=101&s=l",
-      "date": "2027-03-27T15:00:00+02:00",
+      "date": "2027-03-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -1022,7 +1022,7 @@
       "away": "SPU FC",
       "match_no": 102,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=102&s=l",
-      "date": "2027-03-27T15:00:00+02:00",
+      "date": "2027-03-27T16:00:00+02:00",
       "status": "NS"
     },
     {
@@ -1074,18 +1074,18 @@
       "status": "NS"
     },
     {
-      "home": "Saints FC",
-      "away": "G Stasie FC",
-      "match_no": 109,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=109&s=l",
-      "date": "2027-04-10T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "United Rovers",
       "away": "Bovua FC",
       "match_no": 110,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=110&s=l",
+      "date": "2027-04-10T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Saints FC",
+      "away": "G Stasie FC",
+      "match_no": 109,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=109&s=l",
       "date": "2027-04-10T15:00:00+02:00",
       "status": "NS"
     },

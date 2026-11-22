@@ -5,7 +5,7 @@
   "name": "MP Stream A",
   "slug": "mp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27908",
-  "updated": "2026-11-22T18:31:22+02:00",
+  "updated": "2026-11-22T22:31:36+02:00",
   "log": [
     {
       "pos": 1,
@@ -22,14 +22,14 @@
     {
       "pos": 2,
       "team": "Phezulu FC",
-      "p": 9,
+      "p": 10,
       "w": 8,
-      "d": 1,
+      "d": 2,
       "l": 0,
-      "gf": 23,
-      "ga": 7,
+      "gf": 24,
+      "ga": 8,
       "gd": 16,
-      "pts": 25
+      "pts": 26
     },
     {
       "pos": 3,
@@ -46,14 +46,14 @@
     {
       "pos": 4,
       "team": "Mjali All Stars",
-      "p": 9,
+      "p": 10,
       "w": 6,
-      "d": 1,
+      "d": 2,
       "l": 2,
-      "gf": 16,
-      "ga": 5,
+      "gf": 17,
+      "ga": 6,
       "gd": 11,
-      "pts": 19
+      "pts": 20
     },
     {
       "pos": 5,
@@ -804,17 +804,19 @@
       "home_score": 1,
       "away_score": 3,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Phezulu FC",
       "away": "Mjali All Stars",
       "match_no": 65,
       "url": "https://inqaku.com/match/view?stream_id=27908&match_no=65&s=l",
-      "date": "2026-11-22T15:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-11-22",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Carolina Young Boys FC",
       "away": "Phaphama Football Club",
