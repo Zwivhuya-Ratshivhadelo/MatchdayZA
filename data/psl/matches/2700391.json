@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-22T17:13:21+02:00",
+  "updated": "2026-11-22T17:15:33+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "80'",
+  "minute": "82'",
   "events": [
+    {
+      "minute": "80'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Mothobi Mvala",
+      "player_out": "Khulumani Ndamane"
+    },
     {
       "minute": "80'",
       "type": "sub",
