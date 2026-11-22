@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-11-21T22:01:23+02:00",
+  "updated": "2026-11-22T06:00:56+02:00",
   "log": [
     {
       "pos": 1,
@@ -575,46 +575,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Ssu M-17 FC",
-      "away": "Tshwane South College FC",
-      "match_no": 46,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=46&s=l",
-      "date": "2026-11-21T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "University of Johannesburg FC",
-      "away": "JBM FC",
-      "match_no": 43,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=43&s=l",
-      "date": "2026-11-21T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Lesco FC",
-      "away": "Rrr Rams Football Club",
-      "match_no": 45,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=45&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Boipatong Football Club",
-      "away": "Tembisa Hollywood Thunder",
-      "match_no": 47,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=47&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ben 10 FC",
-      "away": "Dinoko City FC",
-      "match_no": 48,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=48&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Ben 10 FC",
       "away": "Dinoko City FC",

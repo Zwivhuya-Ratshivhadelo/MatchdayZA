@@ -5,7 +5,7 @@
   "name": "KZN Stream A",
   "slug": "kzn-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17736&stream_id=28489",
-  "updated": "2026-11-21T22:01:32+02:00",
+  "updated": "2026-11-22T06:01:06+02:00",
   "log": [
     {
       "pos": 1,
@@ -635,54 +635,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Hellenic FC",
-      "away": "Njampela FC",
-      "match_no": 49,
-      "url": "https://inqaku.com/match/view?stream_id=28489&match_no=49&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Tornado FC",
-      "away": "Ulundi United FC",
-      "match_no": 50,
-      "url": "https://inqaku.com/match/view?stream_id=28489&match_no=50&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Umvoti FC",
-      "away": "Good Fellas FC",
-      "match_no": 51,
-      "url": "https://inqaku.com/match/view?stream_id=28489&match_no=51&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Durban All Blacks",
-      "away": "Dumehlezi",
-      "match_no": 52,
-      "url": "https://inqaku.com/match/view?stream_id=28489&match_no=52&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Durban Pioneers FC",
-      "away": "Summerfield Dynamos FC",
-      "match_no": 53,
-      "url": "https://inqaku.com/match/view?stream_id=28489&match_no=53&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Asande FC",
-      "away": "Umlazi Young Lions FC",
-      "match_no": 54,
-      "url": "https://inqaku.com/match/view?stream_id=28489&match_no=54&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Ulundi United FC",
       "away": "Hellenic FC",

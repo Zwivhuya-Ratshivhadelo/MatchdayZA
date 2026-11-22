@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-11-21T22:01:28+02:00",
+  "updated": "2026-11-22T06:01:01+02:00",
   "log": [
     {
       "pos": 1,
@@ -545,46 +545,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Tembisa Destroyers FC",
-      "away": "Wits University FC",
-      "match_no": 47,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=47&s=l",
-      "date": "2026-11-21T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Mabopane Jm",
-      "away": "Doornkop Students",
-      "match_no": 43,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=43&s=l",
-      "date": "2026-11-21T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Spartans FC",
-      "away": "Young Pirates FC",
-      "match_no": 48,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=48&s=l",
-      "date": "2026-11-21T13:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Leruma United",
-      "away": "Mike-1-Stars FC",
-      "match_no": 44,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=44&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Jomo Cosmos FC",
-      "away": "Orlando Pirates FC",
-      "match_no": 45,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=45&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Mabopane Jm",
       "away": "Doornkop Students",

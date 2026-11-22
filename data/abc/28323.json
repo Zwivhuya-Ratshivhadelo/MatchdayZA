@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream B",
   "slug": "lp-limpopo-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28323",
-  "updated": "2026-11-21T22:01:46+02:00",
+  "updated": "2026-11-22T06:01:20+02:00",
   "log": [
     {
       "pos": 1,
@@ -575,38 +575,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Makotopong Bahumi FC",
-      "away": "Baroka FC",
-      "match_no": 43,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=43&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Gosebo United FC",
-      "away": "Mighty",
-      "match_no": 44,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=44&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Eleven Fast Tigers",
-      "away": "Mohlabile United FC",
-      "match_no": 45,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=45&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Royal Pirates",
-      "away": "Ramatlaohle Mogalakwena United FC",
-      "match_no": 48,
-      "url": "https://inqaku.com/match/view?stream_id=28323&match_no=48&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Gosebo United FC",
       "away": "Mighty",

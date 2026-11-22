@@ -5,7 +5,7 @@
   "name": "MP Stream A",
   "slug": "mp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27908",
-  "updated": "2026-11-21T22:01:50+02:00",
+  "updated": "2026-11-22T06:01:24+02:00",
   "log": [
     {
       "pos": 1,
@@ -807,14 +807,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Phezulu FC",
-      "away": "Mjali All Stars",
-      "match_no": 65,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=65&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Phezulu FC",
       "away": "Mjali All Stars",

@@ -5,7 +5,7 @@
   "name": "WC Stream A",
   "slug": "wc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28002",
-  "updated": "2026-11-21T22:02:18+02:00",
+  "updated": "2026-11-22T06:01:51+02:00",
   "log": [
     {
       "pos": 1,
@@ -695,38 +695,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Cape Town Spurs",
-      "away": "Inter City FFC",
-      "match_no": 62,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=62&s=l",
-      "date": "2026-11-21T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Harambee FC",
-      "away": "Hanover Park",
-      "match_no": 61,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=61&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "HBU FC",
-      "away": "Ubuntu Football Club",
-      "match_no": 63,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=63&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "FN Rangers",
-      "away": "Young Bafana",
-      "match_no": 64,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=64&s=l",
-      "date": "2026-11-21T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Inter City FFC",
       "away": "Harambee FC",

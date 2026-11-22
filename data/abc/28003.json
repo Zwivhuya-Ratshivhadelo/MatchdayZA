@@ -5,7 +5,7 @@
   "name": "WC Stream B",
   "slug": "wc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28003",
-  "updated": "2026-11-21T22:02:23+02:00",
+  "updated": "2026-11-22T06:01:56+02:00",
   "log": [
     {
       "pos": 1,
@@ -585,30 +585,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Royal Blues FC",
-      "away": "Mbekweni Cosmos FC",
-      "match_no": 64,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=64&s=l",
-      "date": "2026-11-21T12:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Barcelona FC",
-      "away": "One Football Club",
-      "match_no": 65,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=65&s=l",
-      "date": "2026-11-21T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ubuntu Spartans FC",
-      "away": "Batalions FC",
-      "match_no": 66,
-      "url": "https://inqaku.com/match/view?stream_id=28003&match_no=66&s=l",
-      "date": "2026-11-21T16:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Mbekweni Cosmos FC",
       "away": "Grassy Park United",
