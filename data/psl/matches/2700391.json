@@ -3,11 +3,11 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-22T15:57:52+02:00",
+  "updated": "2026-11-22T15:59:57+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "22'",
+  "minute": "26'",
   "events": [
     {
       "minute": "6'",
@@ -23,12 +23,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "4",
+      "home": "5",
       "away": "3"
     },
     {
       "label": "Shots on target",
-      "home": "0",
+      "home": "1",
       "away": "1"
     },
     {
