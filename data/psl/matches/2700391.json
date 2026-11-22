@@ -3,12 +3,32 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-22T17:11:16+02:00",
+  "updated": "2026-11-22T17:13:21+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "72'",
+  "minute": "80'",
   "events": [
+    {
+      "minute": "80'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Bennet Mokoena",
+      "player_out": "Antonio Van Wyk"
+    },
+    {
+      "minute": "80'",
+      "type": "sub",
+      "team": "Mamelodi Sundowns",
+      "player_in": "Tashreeq Matthews",
+      "player_out": "Arthur Sales"
+    },
+    {
+      "minute": "80'",
+      "type": "yellow",
+      "player": "Fawaaz Basadien",
+      "team": "Mamelodi Sundowns"
+    },
     {
       "minute": "71'",
       "type": "sub",
@@ -91,12 +111,12 @@
     },
     {
       "label": "Fouls",
-      "home": "9",
+      "home": "10",
       "away": "7"
     },
     {
       "label": "Yellow Cards",
-      "home": "1",
+      "home": "2",
       "away": "2"
     },
     {

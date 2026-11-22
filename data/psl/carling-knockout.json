@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-22T17:11:16+02:00",
+  "updated": "2026-11-22T17:13:21+02:00",
   "log": [],
   "results": [
     {
@@ -231,11 +231,11 @@
       "venue": "Loftus Versfeld Stadium, Pretoria",
       "match_id": "2700391",
       "url": "https://www.psl.co.za/matchcentre/detail/2700391-mamelodi-sundowns-vs-kaizer-chiefs",
-      "latest": "71' Sub, Kaizer Chiefs: Elias Mokwana on for Wandile Duba",
+      "latest": "80' Sub, Mamelodi Sundowns: Bennet Mokoena on for Antonio Van Wyk",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "72'"
+      "minute": "80'"
     }
   ],
   "fixtures": [
