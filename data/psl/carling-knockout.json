@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-22T17:31:24+02:00",
+  "updated": "2026-11-22T17:31:42+02:00",
   "log": [],
   "results": [
     {
@@ -61,6 +61,17 @@
       "status": "FT",
       "match_id": "2608773",
       "url": "https://www.psl.co.za/matchcentre/detail/2608773-orlando-pirates-vs-marumo-gallants"
+    },
+    {
+      "home": "Mamelodi Sundowns",
+      "away": "Kaizer Chiefs",
+      "date": "2026-10-10",
+      "venue": "Mameodi Sundowns coach Miguel Cardoso claimed his first domestic title with the Brazilians this weekend owing to an efficient 2-0 win over Orlando Pirates in the MTN8 final on Saturday.",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "FT",
+      "match_id": "2700391",
+      "url": "https://www.psl.co.za/matchcentre/detail/2700391-mamelodi-sundowns-vs-kaizer-chiefs"
     },
     {
       "home": "Golden Arrows",
