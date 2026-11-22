@@ -4,7 +4,7 @@
   "short": "Carling Knockout",
   "league": false,
   "source": "https://www.psl.co.za/tournament/carling-knockout",
-  "updated": "2026-11-22T16:18:53+02:00",
+  "updated": "2026-11-22T16:20:58+02:00",
   "log": [],
   "results": [
     {
@@ -231,11 +231,11 @@
       "venue": "Loftus Versfeld Stadium, Pretoria",
       "match_id": "2700391",
       "url": "https://www.psl.co.za/matchcentre/detail/2700391-mamelodi-sundowns-vs-kaizer-chiefs",
-      "latest": "6' Yellow card, Paseka Mako (Kaizer Chiefs)",
+      "latest": "45+4' Half-time",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "45+1'"
+      "minute": "45+4'"
     }
   ],
   "fixtures": [
