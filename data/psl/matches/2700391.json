@@ -3,12 +3,19 @@
   "comp": "carling-knockout",
   "home": "Mamelodi Sundowns",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-22T17:15:33+02:00",
+  "updated": "2026-11-22T17:17:39+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "82'",
+  "minute": "83'",
   "events": [
+    {
+      "minute": "83'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Siphesihle Ndlovu",
+      "player_out": "Lebohang Maboe"
+    },
     {
       "minute": "80'",
       "type": "sub",
@@ -108,7 +115,7 @@
     },
     {
       "label": "Corners",
-      "home": "4",
+      "home": "5",
       "away": "5"
     },
     {
@@ -118,7 +125,7 @@
     },
     {
       "label": "Fouls",
-      "home": "10",
+      "home": "11",
       "away": "7"
     },
     {
