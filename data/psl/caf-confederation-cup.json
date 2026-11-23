@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-11-23T01:30:34+02:00",
+  "updated": "2026-11-23T02:30:49+02:00",
   "log": [],
   "groups": [
     {
@@ -1476,6 +1476,14 @@
       "status": "NS",
       "sa": true,
       "venue": "Moses Mabhida Stadium (Durban)"
+    },
+    {
+      "home": "Red Arrows",
+      "away": "AS Maniema Union",
+      "date": "2026-12-05T15:00:00+02:00",
+      "match_id": "c4886724",
+      "status": "NS",
+      "venue": "National Heroes Stadium"
     }
   ]
 }
