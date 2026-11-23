@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-11-23T20:30:35+02:00",
+  "updated": "2026-11-23T21:30:31+02:00",
   "log": [],
   "groups": [
     {
@@ -1335,16 +1335,6 @@
       "away_score": 1
     },
     {
-      "home": "AS Maniema Union",
-      "away": "Kabuscorp SC",
-      "date": "2026-10-25T15:00:00+02:00",
-      "match_id": "c4855328",
-      "status": "FT",
-      "home_score": 4,
-      "away_score": 1,
-      "venue": "Stade des Martyrs de la Pentecôte"
-    },
-    {
       "home": "AS Port-Louis 2000",
       "away": "Durban City",
       "date": "2026-10-25T15:00:00+02:00",
@@ -1355,24 +1345,22 @@
       "sa": true
     },
     {
+      "home": "AS Maniema Union",
+      "away": "Kabuscorp SC",
+      "date": "2026-10-25T15:00:00+02:00",
+      "match_id": "c4855328",
+      "status": "FT",
+      "home_score": 4,
+      "away_score": 1
+    },
+    {
       "home": "ASKO Kara",
       "away": "Diarra",
       "date": "2026-10-25T17:30:00+02:00",
       "match_id": "c4855331",
       "status": "FT",
       "home_score": 1,
-      "away_score": 0,
-      "venue": "Stade de Kégué"
-    },
-    {
-      "home": "Singida Black Stars SC",
-      "away": "Tusker FC",
-      "date": "2026-10-25T18:00:00+02:00",
-      "match_id": "c4855302",
-      "status": "FT",
-      "home_score": 1,
-      "away_score": 1,
-      "venue": "Azam Complex Stadium"
+      "away_score": 0
     },
     {
       "home": "Al Ahly SC",
@@ -1381,8 +1369,16 @@
       "match_id": "c4854771",
       "status": "FT",
       "home_score": 4,
-      "away_score": 0,
-      "venue": "Cairo International Stadium"
+      "away_score": 0
+    },
+    {
+      "home": "Singida Black Stars SC",
+      "away": "Tusker FC",
+      "date": "2026-10-25T18:00:00+02:00",
+      "match_id": "c4855302",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1
     },
     {
       "home": "AS FAR Rabat",
@@ -1391,18 +1387,16 @@
       "match_id": "c4855330",
       "status": "FT",
       "home_score": 2,
-      "away_score": 1,
-      "venue": "Stade Prince Moulay Abdallah"
+      "away_score": 1
     },
     {
       "home": "AS Douanes",
       "away": "CR Belouizdad",
       "date": "2026-11-23T19:00:00+02:00",
       "match_id": "c4859966",
-      "status": "LIVE",
+      "status": "FT",
       "home_score": 0,
       "away_score": 0,
-      "minute": "66'",
       "venue": "Stade Cheikha Ould Boïdiya"
     }
   ],
@@ -1487,6 +1481,46 @@
       "match_id": "c4886724",
       "status": "NS",
       "venue": "National Heroes Stadium"
+    },
+    {
+      "home": "Primeiro de Agosto",
+      "away": "Raja Casablanca",
+      "date": "2026-12-05T18:00:00+02:00",
+      "match_id": "c4886727",
+      "status": "NS",
+      "venue": "Estádio 11 de Novembro"
+    },
+    {
+      "home": "Al Ahli Tripoli",
+      "away": "AS FAR Rabat",
+      "date": "2026-12-05T21:00:00+02:00",
+      "match_id": "c4886726",
+      "status": "NS",
+      "venue": "11 June Stadium"
+    },
+    {
+      "home": "Black Bulls Maputo",
+      "away": "USM Alger",
+      "date": "2026-12-06T15:00:00+02:00",
+      "match_id": "c4886723",
+      "status": "NS",
+      "venue": "Lalgy Arena 1"
+    },
+    {
+      "home": "AS Real Bamako",
+      "away": "CS Sfaxien",
+      "date": "2026-12-06T18:00:00+02:00",
+      "match_id": "c4886722",
+      "status": "NS",
+      "venue": "Stade 26 Mars"
+    },
+    {
+      "home": "ASKO Kara",
+      "away": "Al Ahly SC",
+      "date": "2026-12-06T18:00:00+02:00",
+      "match_id": "c4886728",
+      "status": "NS",
+      "venue": "Stade de Kégué"
     }
   ]
 }
