@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-11-22T22:30:59+02:00",
+  "updated": "2026-11-23T06:30:58+02:00",
   "log": [
     {
       "pos": 1,
@@ -575,22 +575,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Ben 10 FC",
-      "away": "Dinoko City FC",
-      "match_no": 48,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=48&s=l",
-      "date": "2026-11-22T14:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Boipatong Football Club",
-      "away": "Tembisa Hollywood Thunder",
-      "match_no": 47,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=47&s=l",
-      "date": "2026-11-22T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Free Agents Football Club",
       "away": "Ssu M-17 FC",
