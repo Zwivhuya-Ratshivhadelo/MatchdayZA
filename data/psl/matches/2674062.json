@@ -3,12 +3,17 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Golden Arrows",
-  "updated": "2026-11-24T19:21:48+02:00",
-  "home_score": null,
-  "away_score": null,
-  "status": "NS",
-  "minute": null,
-  "events": [],
+  "updated": "2026-11-24T19:32:02+02:00",
+  "home_score": 0,
+  "away_score": 0,
+  "status": "LIVE",
+  "minute": "0'",
+  "events": [
+    {
+      "minute": "0'",
+      "type": "kickoff"
+    }
+  ],
   "stats": [],
   "lineups": [
     {
