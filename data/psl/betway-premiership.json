@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T21:21:27+02:00",
+  "updated": "2026-11-24T21:23:35+02:00",
   "log": [
     {
       "pos": 1,
@@ -1011,7 +1011,7 @@
       "date": "2026-11-24T19:30:00+02:00",
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2674058",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674058-durban-city-vs-polokwane-city",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674058",
       "latest": "87' Goal, Trevor Mokwena (Durban City)",
       "home_score": 3,
       "away_score": 1,
