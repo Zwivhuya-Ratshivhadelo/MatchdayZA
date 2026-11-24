@@ -5,7 +5,7 @@
   "name": "EC Coastal Stream",
   "slug": "ec-coastal-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28223",
-  "updated": "2026-11-24T06:30:40+02:00",
+  "updated": "2026-11-24T22:30:49+02:00",
   "log": [
     {
       "pos": 1,
@@ -471,6 +471,14 @@
     }
   ],
   "fixtures": [
+    {
+      "home": "Gqeberha United FC",
+      "away": "Gq Cavaliers FC",
+      "match_no": 38,
+      "url": "https://inqaku.com/match/view?stream_id=28223&match_no=38&s=l",
+      "date": "2026-11-27T16:00:00+02:00",
+      "status": "NS"
+    },
     {
       "home": "Amavarara",
       "away": "Sundays River Valley Academy",

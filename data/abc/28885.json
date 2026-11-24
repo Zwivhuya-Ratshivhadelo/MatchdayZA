@@ -5,19 +5,19 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-24T06:31:55+02:00",
+  "updated": "2026-11-24T22:32:01+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Gaza United FC",
-      "p": 4,
-      "w": 3,
+      "p": 5,
+      "w": 4,
       "d": 0,
       "l": 1,
-      "gf": 9,
+      "gf": 10,
       "ga": 3,
-      "gd": 6,
-      "pts": 9
+      "gd": 7,
+      "pts": 12
     },
     {
       "pos": 2,
@@ -82,13 +82,13 @@
     {
       "pos": 7,
       "team": "SPU FC",
-      "p": 4,
+      "p": 5,
       "w": 1,
       "d": 1,
-      "l": 2,
+      "l": 3,
       "gf": 7,
-      "ga": 7,
-      "gd": 0,
+      "ga": 8,
+      "gd": -1,
       "pts": 4
     },
     {
@@ -382,17 +382,19 @@
       "home_score": 0,
       "away_score": 2,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "SPU FC",
       "away": "Gaza United FC",
       "match_no": 30,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=30&s=l",
-      "date": "2026-11-24T17:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-11-24",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "SPU FC",
       "away": "Gaza United FC",
@@ -594,6 +596,14 @@
       "status": "NS"
     },
     {
+      "home": "SPU FC",
+      "away": "Destiny United FC",
+      "match_no": 36,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=36&s=l",
+      "date": "2027-01-24T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "United Rovers",
       "away": "SPU FC",
       "match_no": 51,
@@ -639,6 +649,14 @@
       "match_no": 54,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=54&s=l",
       "date": "2027-01-30T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Jacksa Spears FC",
+      "away": "SPU FC",
+      "match_no": 41,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=41&s=l",
+      "date": "2027-01-31T16:00:00+02:00",
       "status": "NS"
     },
     {
