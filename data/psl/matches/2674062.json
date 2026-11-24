@@ -3,12 +3,33 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Golden Arrows",
-  "updated": "2026-11-24T20:55:44+02:00",
+  "updated": "2026-11-24T20:57:52+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "67'",
+  "minute": "68'",
   "events": [
+    {
+      "minute": "68'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Thokozani Khumalo",
+      "player_out": "Ronaldo Van Neel"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Jerome Karlese",
+      "player_out": "Sabelo Sithole"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Nhlanhla Gasa",
+      "player_out": "Sede Dion"
+    },
     {
       "minute": "65'",
       "type": "sub",
@@ -73,17 +94,17 @@
     {
       "label": "Shots",
       "home": "20",
-      "away": "8"
+      "away": "10"
     },
     {
       "label": "Shots on target",
       "home": "5",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Corners",
-      "home": "3",
-      "away": "4"
+      "home": "4",
+      "away": "5"
     },
     {
       "label": "Offsides",
