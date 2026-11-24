@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T19:36:21+02:00",
+  "updated": "2026-11-24T19:38:29+02:00",
   "log": [
     {
       "pos": 1,
@@ -1016,7 +1016,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "4'"
+      "minute": "6'"
     },
     {
       "home": "Orlando Pirates",
@@ -1029,7 +1029,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "4'"
+      "minute": "7'"
     }
   ],
   "fixtures": [
