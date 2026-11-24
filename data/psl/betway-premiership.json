@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T10:30:21+02:00",
+  "updated": "2026-11-24T11:30:22+02:00",
   "log": [
     {
       "pos": 1,
@@ -1152,6 +1152,13 @@
       "away": "Stellenbosch FC",
       "date": "2026-12-08T19:30:00+02:00",
       "venue": "Orlando Amstel Arena, Soweto",
+      "status": "NS"
+    },
+    {
+      "home": "Orlando Pirates",
+      "away": "Stellenbosch FC",
+      "date": "2026-12-15",
+      "venue": "Chippa United",
       "status": "NS"
     },
     {
