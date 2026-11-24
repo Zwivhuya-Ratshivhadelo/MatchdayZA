@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "Polokwane City",
-  "updated": "2026-11-24T21:17:07+02:00",
-  "home_score": 2,
+  "updated": "2026-11-24T21:19:15+02:00",
+  "home_score": 3,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "84'",
+  "minute": "88'",
   "events": [
+    {
+      "minute": "88'",
+      "type": "goal",
+      "player": "Trevor Mokwena",
+      "team": "Durban City",
+      "score": [
+        3,
+        1
+      ]
+    },
     {
       "minute": "82'",
       "type": "sub",
@@ -124,12 +134,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "6",
+      "home": "7",
       "away": "10"
     },
     {
       "label": "Shots on target",
-      "home": "2",
+      "home": "3",
       "away": "1"
     },
     {
