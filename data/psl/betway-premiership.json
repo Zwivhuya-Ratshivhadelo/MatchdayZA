@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T19:55:46+02:00",
+  "updated": "2026-11-24T19:57:54+02:00",
   "log": [
     {
       "pos": 1,
@@ -1012,11 +1012,11 @@
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2674058",
       "url": "https://www.psl.co.za/matchcentre/detail/2674058-durban-city-vs-polokwane-city",
-      "latest": "14' Yellow card, Edwin Ramaja (Polokwane City)",
+      "latest": "25' Sub, Polokwane City: Lindokuhle Mathebula on for Oscarine Masuluke",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "20'"
+      "minute": "26'"
     },
     {
       "home": "Orlando Pirates",
@@ -1029,7 +1029,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "24'"
+      "minute": "27'"
     }
   ],
   "fixtures": [
