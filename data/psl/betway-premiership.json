@@ -4,10 +4,20 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T21:25:08+02:00",
+  "updated": "2026-11-24T21:30:22+02:00",
   "log": [
     {
       "pos": 1,
+      "team": "Orlando Pirates",
+      "club": "Orlando_Pirates",
+      "p": 10,
+      "w": 9,
+      "d": 1,
+      "l": 0,
+      "pts": 28
+    },
+    {
+      "pos": 2,
       "team": "Mamelodi Sundowns",
       "club": "Mamelodi_Sundowns",
       "p": 10,
@@ -15,16 +25,6 @@
       "d": 2,
       "l": 0,
       "pts": 26
-    },
-    {
-      "pos": 2,
-      "team": "Orlando Pirates",
-      "club": "Orlando_Pirates",
-      "p": 9,
-      "w": 8,
-      "d": 1,
-      "l": 0,
-      "pts": 25
     },
     {
       "pos": 3,
@@ -88,6 +88,16 @@
     },
     {
       "pos": 9,
+      "team": "Durban City",
+      "club": "Durban_City",
+      "p": 10,
+      "w": 2,
+      "d": 4,
+      "l": 4,
+      "pts": 10
+    },
+    {
+      "pos": 10,
       "team": "Kruger United",
       "club": "Kruger_United",
       "p": 9,
@@ -97,39 +107,29 @@
       "pts": 10
     },
     {
-      "pos": 10,
+      "pos": 11,
       "team": "Golden Arrows",
       "club": "Golden_Arrows",
-      "p": 9,
+      "p": 10,
       "w": 1,
       "d": 5,
-      "l": 3,
-      "pts": 8
-    },
-    {
-      "pos": 11,
-      "team": "Polokwane City",
-      "club": "Polokwane_City",
-      "p": 9,
-      "w": 1,
-      "d": 5,
-      "l": 3,
+      "l": 4,
       "pts": 8
     },
     {
       "pos": 12,
-      "team": "TS Galaxy",
-      "club": "TS_Galaxy",
-      "p": 9,
+      "team": "Polokwane City",
+      "club": "Polokwane_City",
+      "p": 10,
       "w": 1,
-      "d": 4,
+      "d": 5,
       "l": 4,
-      "pts": 7
+      "pts": 8
     },
     {
       "pos": 13,
-      "team": "Durban City",
-      "club": "Durban_City",
+      "team": "TS Galaxy",
+      "club": "TS_Galaxy",
       "p": 9,
       "w": 1,
       "d": 4,
@@ -1008,10 +1008,10 @@
     {
       "home": "Durban City",
       "away": "Polokwane City",
-      "date": "2026-11-24T19:30:00+02:00",
+      "date": "2026-11-24",
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2674058",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674058",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674058-durban-city-vs-polokwane-city",
       "latest": "90+4' Full time",
       "home_score": 3,
       "away_score": 1,
