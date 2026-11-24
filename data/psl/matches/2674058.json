@@ -3,25 +3,25 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "Polokwane City",
-  "updated": "2026-11-24T21:12:50+02:00",
+  "updated": "2026-11-24T21:14:57+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "82'",
+  "minute": "84'",
   "events": [
     {
       "minute": "82'",
       "type": "sub",
       "team": "Durban City",
       "player_in": "Siyabonga Msomi",
-      "player_out": "Fezile Gcaba"
+      "player_out": "Gastón Sirino"
     },
     {
       "minute": "82'",
       "type": "sub",
       "team": "Durban City",
       "player_in": "Kyle Jurgens",
-      "player_out": "Gastón Sirino"
+      "player_out": "Fezile Gcaba"
     },
     {
       "minute": "81'",
