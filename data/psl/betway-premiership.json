@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T20:53:35+02:00",
+  "updated": "2026-11-24T20:55:44+02:00",
   "log": [
     {
       "pos": 1,
@@ -1012,11 +1012,11 @@
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2674058",
       "url": "https://www.psl.co.za/matchcentre/detail/2674058-durban-city-vs-polokwane-city",
-      "latest": "45' Sub, Durban City: Mxolisi Bhengu on for Tylo Sanger",
-      "home_score": 1,
+      "latest": "65' Sub, Durban City: Saziso Magawana on for Haashim Domingo",
+      "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "56'"
+      "minute": "65'"
     },
     {
       "home": "Orlando Pirates",
@@ -1025,11 +1025,11 @@
       "venue": "Orlando Amstel Arena, Soweto",
       "match_id": "2674062",
       "url": "https://www.psl.co.za/matchcentre/detail/2674062-orlando-pirates-vs-golden-arrows",
-      "latest": "65' Sub, Orlando Pirates: Simphiwe Selepe on for Bulelani Sigomoshe",
+      "latest": "65' Sub, Orlando Pirates: Bohlale Ngwato on for Tshepang Moremi",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "65'"
+      "minute": "67'"
     }
   ],
   "fixtures": [

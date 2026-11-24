@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Golden Arrows",
-  "updated": "2026-11-24T20:53:35+02:00",
+  "updated": "2026-11-24T20:55:44+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "65'",
+  "minute": "67'",
   "events": [
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Bohlale Ngwato",
+      "player_out": "Tshepang Moremi"
+    },
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Boitumelo Radiopane",
+      "player_out": "Evidence Makgopa"
+    },
     {
       "minute": "65'",
       "type": "sub",

@@ -3,12 +3,43 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "Polokwane City",
-  "updated": "2026-11-24T20:53:34+02:00",
-  "home_score": 1,
+  "updated": "2026-11-24T20:55:43+02:00",
+  "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "56'",
+  "minute": "65'",
   "events": [
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Saziso Magawana",
+      "player_out": "Haashim Domingo"
+    },
+    {
+      "minute": "65'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Samkelo Maseko",
+      "player_out": "Luphumlo Sifumba"
+    },
+    {
+      "minute": "63'",
+      "type": "goal",
+      "player": "Gastón Sirino",
+      "team": "Durban City",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "minute": "63'",
+      "type": "sub",
+      "team": "Polokwane City",
+      "player_in": "Banele Mnguni",
+      "player_out": "Lucky Malatsi"
+    },
     {
       "minute": "45'",
       "type": "sub",
@@ -65,13 +96,13 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "5",
-      "away": "6"
+      "home": "6",
+      "away": "7"
     },
     {
       "label": "Shots on target",
-      "home": "1",
-      "away": "0"
+      "home": "2",
+      "away": "1"
     },
     {
       "label": "Corners",
