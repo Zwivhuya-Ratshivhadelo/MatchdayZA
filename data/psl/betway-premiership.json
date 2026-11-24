@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T17:30:24+02:00",
+  "updated": "2026-11-24T18:20:44+02:00",
   "log": [
     {
       "pos": 1,
@@ -1019,14 +1019,18 @@
       "away": "Polokwane City",
       "date": "2026-11-24T19:30:00+02:00",
       "venue": "Chatsworth Stadium, Chatsworth",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674058",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674058"
     },
     {
       "home": "Orlando Pirates",
       "away": "Golden Arrows",
       "date": "2026-11-24T19:30:00+02:00",
       "venue": "Orlando Amstel Arena, Soweto",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674062",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674062"
     },
     {
       "home": "TS Galaxy",

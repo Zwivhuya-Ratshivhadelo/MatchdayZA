@@ -1282,5 +1282,53 @@
   "2682153": {
     "home": "nwu-fc",
     "away": "the-bees"
+  },
+  "2674050": {
+    "home": "polokwane-city",
+    "away": "kruger-united"
+  },
+  "2674051": {
+    "home": "richards-bay",
+    "away": "stellenbosch-fc"
+  },
+  "2674052": {
+    "home": "siwelele",
+    "away": "orlando-pirates"
+  },
+  "2674053": {
+    "home": "chippa-united",
+    "away": "sekhukhune-united"
+  },
+  "2674054": {
+    "home": "golden-arrows",
+    "away": "marumo-gallants"
+  },
+  "2674055": {
+    "home": "kaizer-chiefs",
+    "away": "amazulu-fc"
+  },
+  "2674057": {
+    "home": "ts-galaxy",
+    "away": "durban-city"
+  },
+  "2674058": {
+    "home": "durban-city",
+    "away": "polokwane-city"
+  },
+  "2674059": {
+    "home": "stellenbosch-fc",
+    "away": "ts-galaxy"
+  },
+  "2674060": {
+    "home": "amazulu-fc",
+    "away": "milford-fc"
+  },
+  "2674061": {
+    "home": "chippa-united",
+    "away": "kaizer-chiefs"
+  },
+  "2674062": {
+    "home": "orlando-pirates",
+    "away": "golden-arrows"
   }
 }
