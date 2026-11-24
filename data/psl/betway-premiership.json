@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T19:44:55+02:00",
+  "updated": "2026-11-24T19:47:03+02:00",
   "log": [
     {
       "pos": 1,
@@ -1012,11 +1012,11 @@
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2674058",
       "url": "https://www.psl.co.za/matchcentre/detail/2674058-durban-city-vs-polokwane-city",
-      "latest": "0' Kick-off",
+      "latest": "14' Yellow card, Edwin Ramaja (Polokwane City)",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "13'"
+      "minute": "16'"
     },
     {
       "home": "Orlando Pirates",
@@ -1025,11 +1025,11 @@
       "venue": "Orlando Amstel Arena, Soweto",
       "match_id": "2674062",
       "url": "https://www.psl.co.za/matchcentre/detail/2674062-orlando-pirates-vs-golden-arrows",
-      "latest": "0' Kick-off",
+      "latest": "16' Sub, Orlando Pirates: Thalente Mbatha on for Thapelo Mokobodi",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "13'"
+      "minute": "16'"
     }
   ],
   "fixtures": [

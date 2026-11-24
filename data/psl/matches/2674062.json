@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Golden Arrows",
-  "updated": "2026-11-24T19:44:55+02:00",
+  "updated": "2026-11-24T19:47:03+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "13'",
+  "minute": "16'",
   "events": [
+    {
+      "minute": "16'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Thalente Mbatha",
+      "player_out": "Thapelo Mokobodi"
+    },
     {
       "minute": "0'",
       "type": "kickoff"
@@ -18,7 +25,7 @@
     {
       "label": "Shots",
       "home": "7",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Shots on target",
@@ -198,8 +205,8 @@
           "pos": "Midfielder"
         },
         {
-          "no": "29",
-          "name": "S Sithole",
+          "no": "28",
+          "name": "R Van Neel",
           "pos": "Midfielder"
         },
         {
@@ -213,8 +220,8 @@
           "pos": "Striker"
         },
         {
-          "no": "28",
-          "name": "R Van Neel",
+          "no": "29",
+          "name": "S Sithole",
           "pos": "Striker"
         }
       ],
