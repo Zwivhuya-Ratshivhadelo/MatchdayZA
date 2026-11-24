@@ -3,12 +3,23 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "Polokwane City",
-  "updated": "2026-11-24T20:34:17+02:00",
+  "updated": "2026-11-24T20:36:25+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "45+4'",
+  "minute": "45'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "sub",
+      "team": "Durban City",
+      "player_in": "Mxolisi Bhengu",
+      "player_out": "Tylo Sanger"
+    },
+    {
+      "minute": "45'",
+      "type": "second_half"
+    },
     {
       "minute": "45+4'",
       "type": "half_time"
