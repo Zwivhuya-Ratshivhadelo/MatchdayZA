@@ -3,12 +3,24 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Golden Arrows",
-  "updated": "2026-11-24T20:15:01+02:00",
+  "updated": "2026-11-24T20:17:09+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "44'",
+  "minute": "45+1'",
   "events": [
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "player": "Philani Kumalo",
+      "team": "Golden Arrows"
+    },
+    {
+      "minute": "45'",
+      "type": "yellow",
+      "player": "Thalente Mbatha",
+      "team": "Orlando Pirates"
+    },
     {
       "minute": "16'",
       "type": "sub",
@@ -49,8 +61,8 @@
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
-      "away": "0"
+      "home": "1",
+      "away": "1"
     },
     {
       "label": "Red Cards",

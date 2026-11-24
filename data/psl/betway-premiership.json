@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T20:15:01+02:00",
+  "updated": "2026-11-24T20:17:09+02:00",
   "log": [
     {
       "pos": 1,
@@ -1016,7 +1016,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "41'"
+      "minute": "44'"
     },
     {
       "home": "Orlando Pirates",
@@ -1025,11 +1025,11 @@
       "venue": "Orlando Amstel Arena, Soweto",
       "match_id": "2674062",
       "url": "https://www.psl.co.za/matchcentre/detail/2674062-orlando-pirates-vs-golden-arrows",
-      "latest": "16' Sub, Orlando Pirates: Thalente Mbatha on for Thapelo Mokobodi",
+      "latest": "45' Yellow card, Philani Kumalo (Golden Arrows)",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "44'"
+      "minute": "45+1'"
     }
   ],
   "fixtures": [
