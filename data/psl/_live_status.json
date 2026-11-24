@@ -1,18 +1,18 @@
 {
-  "time": "2026-11-24T18:41:00+02:00",
+  "time": "2026-11-24T18:51:10+02:00",
   "links_found": 6,
   "games": [
     {
       "game": "Durban City v Polokwane City",
       "kickoff": "2026-11-24T19:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674058",
-      "page": "NS None-None, line-ups 0"
+      "page": "NS None-None, line-ups 2"
     },
     {
       "game": "Orlando Pirates v Golden Arrows",
       "kickoff": "2026-11-24T19:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674062",
-      "page": "NS None-None, line-ups 0"
+      "page": "NS None-None, line-ups 2"
     }
   ]
 }

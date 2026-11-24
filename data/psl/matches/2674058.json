@@ -3,12 +3,227 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "Polokwane City",
-  "updated": "2026-11-24T18:41:02+02:00",
+  "updated": "2026-11-24T18:51:12+02:00",
   "home_score": null,
   "away_score": null,
   "status": "NS",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [
+    {
+      "team": "Durban City",
+      "starting": [
+        {
+          "no": "33",
+          "name": "F Asare",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "4",
+          "name": "Fezile Gcaba",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "Mfanafuthi Mkhize",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "S Ncanana",
+          "pos": "Defender"
+        },
+        {
+          "no": "29",
+          "name": "A Doumbia",
+          "pos": "Defender"
+        },
+        {
+          "no": "7",
+          "name": "Haashim Domingo",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "18",
+          "name": "Brooklyn Poggenpoel",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "Gastón Sirino",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "L Sifumba",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "23",
+          "name": "T Sanger",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "B Mokwena",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "34",
+          "name": "A Dreyer",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "S Msomi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "25",
+          "name": "M Bhengu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "S Maseko",
+          "pos": "Substitute"
+        },
+        {
+          "no": "24",
+          "name": "J Mokone",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "K Jurgens",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "Saziso Magawana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "26",
+          "name": "Thabo Nodada",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Tashreeq Morris",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Polokwane City",
+      "starting": [
+        {
+          "no": "50",
+          "name": "Oscarine Masuluke",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "42",
+          "name": "S Manthosi",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "E Ramaja",
+          "pos": "Defender"
+        },
+        {
+          "no": "3",
+          "name": "T Nkwe",
+          "pos": "Defender"
+        },
+        {
+          "no": "34",
+          "name": "L Nkaki",
+          "pos": "Defender"
+        },
+        {
+          "no": "21",
+          "name": "Manuel Kambala Nhanga Kambala",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "16",
+          "name": "S Mashini",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "47",
+          "name": "M Batlhabane",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "B Dlamini",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "44",
+          "name": "T Molokwane",
+          "pos": "Striker"
+        },
+        {
+          "no": "28",
+          "name": "L Malatsi",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "4",
+          "name": "B Nikani",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "M Khosa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "48",
+          "name": "A Mashele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "18",
+          "name": "G Philander",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "Sapholwethu Kelepu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "14",
+          "name": "Ndamulelo Maphangule",
+          "pos": "Substitute"
+        },
+        {
+          "no": "40",
+          "name": "Lindokuhle Mathebula",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "B Mnguni",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "Malebogo Modise",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
 }
