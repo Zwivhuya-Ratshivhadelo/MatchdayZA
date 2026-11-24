@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Golden Arrows",
-  "updated": "2026-11-24T21:08:35+02:00",
+  "updated": "2026-11-24T21:10:43+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
@@ -15,6 +15,13 @@
       "team": "Golden Arrows",
       "player_in": "Nhlanhla Zwane",
       "player_out": "Siphesihle Msomi"
+    },
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Orlando Pirates",
+      "player_in": "Bheki Mabuza",
+      "player_out": "Mpho Padime"
     },
     {
       "minute": "77'",
