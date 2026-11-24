@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T21:10:43+02:00",
+  "updated": "2026-11-24T21:12:51+02:00",
   "log": [
     {
       "pos": 1,
@@ -1012,11 +1012,11 @@
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2674058",
       "url": "https://www.psl.co.za/matchcentre/detail/2674058-durban-city-vs-polokwane-city",
-      "latest": "65' Sub, Durban City: Saziso Magawana on for Haashim Domingo",
+      "latest": "82' Sub, Durban City: Siyabonga Msomi on for Fezile Gcaba",
       "home_score": 2,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "80'"
+      "minute": "82'"
     },
     {
       "home": "Orlando Pirates",
