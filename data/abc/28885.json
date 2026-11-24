@@ -5,7 +5,7 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-23T22:31:58+02:00",
+  "updated": "2026-11-24T06:31:55+02:00",
   "log": [
     {
       "pos": 1,
@@ -402,6 +402,14 @@
       "status": "NS"
     },
     {
+      "home": "Jacksa Spears FC",
+      "away": "United Rovers",
+      "match_no": 27,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=27&s=l",
+      "date": "2026-11-28T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Saints FC",
       "away": "Psd FC",
       "match_no": 25,
@@ -418,10 +426,10 @@
       "status": "NS"
     },
     {
-      "home": "Jacksa Spears FC",
-      "away": "United Rovers",
-      "match_no": 27,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=27&s=l",
+      "home": "Destiny United FC",
+      "away": "Bovua FC",
+      "match_no": 29,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=29&s=l",
       "date": "2026-11-28T16:00:00+02:00",
       "status": "NS"
     },
@@ -430,15 +438,7 @@
       "away": "G Stasie FC",
       "match_no": 28,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=28&s=l",
-      "date": "2026-11-28T16:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Destiny United FC",
-      "away": "Bovua FC",
-      "match_no": 29,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=29&s=l",
-      "date": "2026-11-28T16:00:00+02:00",
+      "date": "2026-11-28T17:00:00+02:00",
       "status": "NS"
     },
     {
