@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "Polokwane City",
-  "updated": "2026-11-24T21:02:08+02:00",
+  "updated": "2026-11-24T21:04:16+02:00",
   "home_score": 2,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "71'",
+  "minute": "73'",
   "events": [
     {
       "minute": "65'",
@@ -117,7 +117,7 @@
     {
       "label": "Fouls",
       "home": "7",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Yellow Cards",
