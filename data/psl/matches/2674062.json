@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Golden Arrows",
-  "updated": "2026-11-24T21:19:16+02:00",
-  "home_score": 0,
+  "updated": "2026-11-24T21:21:27+02:00",
+  "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "86'",
+  "minute": "90'",
   "events": [
+    {
+      "minute": "90'",
+      "type": "goal",
+      "player": "Boitumelo Radiopane",
+      "team": "Orlando Pirates",
+      "score": [
+        1,
+        0
+      ]
+    },
     {
       "minute": "79'",
       "type": "sub",
@@ -113,12 +123,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "21",
+      "home": "22",
       "away": "11"
     },
     {
       "label": "Shots on target",
-      "home": "5",
+      "home": "6",
       "away": "2"
     },
     {
