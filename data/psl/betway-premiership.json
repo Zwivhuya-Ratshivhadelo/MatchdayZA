@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-24T20:19:18+02:00",
+  "updated": "2026-11-24T20:21:29+02:00",
   "log": [
     {
       "pos": 1,
@@ -1012,11 +1012,11 @@
       "venue": "Chatsworth Stadium, Chatsworth",
       "match_id": "2674058",
       "url": "https://www.psl.co.za/matchcentre/detail/2674058-durban-city-vs-polokwane-city",
-      "latest": "41' Own goal, Brooklyn Poggenpoel (Durban City)",
+      "latest": "45+4' Half-time",
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "45+2'"
+      "minute": "45+4'"
     },
     {
       "home": "Orlando Pirates",
