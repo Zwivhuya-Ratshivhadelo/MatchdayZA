@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Golden Arrows",
-  "updated": "2026-11-24T21:23:35+02:00",
-  "home_score": 1,
+  "updated": "2026-11-24T21:24:40+02:00",
+  "home_score": 2,
   "away_score": 0,
-  "status": "LIVE",
-  "minute": "90'",
+  "status": "FT",
+  "minute": null,
   "events": [
+    {
+      "minute": "90+6'",
+      "type": "full_time"
+    },
+    {
+      "minute": "90+4'",
+      "type": "goal",
+      "player": "Bheki Mabuza",
+      "team": "Orlando Pirates",
+      "score": [
+        2,
+        0
+      ]
+    },
     {
       "minute": "90'",
       "type": "goal",
@@ -123,12 +137,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "22",
+      "home": "23",
       "away": "11"
     },
     {
       "label": "Shots on target",
-      "home": "6",
+      "home": "7",
       "away": "2"
     },
     {
