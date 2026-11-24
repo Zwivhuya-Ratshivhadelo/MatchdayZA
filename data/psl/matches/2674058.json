@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "Polokwane City",
-  "updated": "2026-11-24T20:17:08+02:00",
+  "updated": "2026-11-24T20:19:16+02:00",
   "home_score": 1,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "44'",
+  "minute": "45+2'",
   "events": [
     {
       "minute": "41'",
@@ -51,7 +51,7 @@
     {
       "label": "Shots",
       "home": "4",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Shots on target",
