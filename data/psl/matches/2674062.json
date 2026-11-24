@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Golden Arrows",
-  "updated": "2026-11-24T21:06:26+02:00",
+  "updated": "2026-11-24T21:08:35+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "77'",
+  "minute": "79'",
   "events": [
+    {
+      "minute": "79'",
+      "type": "sub",
+      "team": "Golden Arrows",
+      "player_in": "Nhlanhla Zwane",
+      "player_out": "Siphesihle Msomi"
+    },
     {
       "minute": "77'",
       "type": "yellow",
@@ -100,12 +107,12 @@
     {
       "label": "Shots",
       "home": "20",
-      "away": "10"
+      "away": "11"
     },
     {
       "label": "Shots on target",
       "home": "5",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Corners",
@@ -119,7 +126,7 @@
     },
     {
       "label": "Fouls",
-      "home": "10",
+      "home": "11",
       "away": "4"
     },
     {
