@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-11-25T04:30:30+02:00",
+  "updated": "2026-11-25T05:30:38+02:00",
   "log": [],
   "groups": [
     {
@@ -1462,7 +1462,7 @@
       "date": "2026-11-29T21:00:00+02:00",
       "match_id": "c4886730",
       "status": "NS",
-      "venue": "Stade 5 Juillet 1962"
+      "venue": "Stade du 5 Juillet 1962"
     },
     {
       "home": "Durban City",
