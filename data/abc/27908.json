@@ -5,7 +5,7 @@
   "name": "MP Stream A",
   "slug": "mp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27908",
-  "updated": "2026-11-25T18:35:52+02:00",
+  "updated": "2026-11-25T22:41:48+02:00",
   "log": [
     {
       "pos": 1,
@@ -874,6 +874,14 @@
       "status": "NS"
     },
     {
+      "home": "Mjali All Stars",
+      "away": "Middelburg United",
+      "match_no": 70,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=70&s=l",
+      "date": "2026-11-29T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Phaphama Football Club",
       "away": "Phezulu FC",
       "match_no": 78,
@@ -919,6 +927,14 @@
       "match_no": 77,
       "url": "https://inqaku.com/match/view?stream_id=27908&match_no=77&s=l",
       "date": "2026-12-05T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Carolina Young Boys FC",
+      "away": "Phaphama Football Club",
+      "match_no": 58,
+      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=58&s=l",
+      "date": "2026-12-09T15:00:00+02:00",
       "status": "NS"
     },
     {

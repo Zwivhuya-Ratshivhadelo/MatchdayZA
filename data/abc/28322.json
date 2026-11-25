@@ -5,7 +5,7 @@
   "name": "LP Limpopo Stream A",
   "slug": "lp-limpopo-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28322",
-  "updated": "2026-11-25T18:35:43+02:00",
+  "updated": "2026-11-25T22:41:39+02:00",
   "log": [
     {
       "pos": 1,
@@ -604,6 +604,14 @@
       "status": "NS"
     },
     {
+      "home": "Musina United",
+      "away": "Phalaborwa United FC",
+      "match_no": 6,
+      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=6&s=l",
+      "date": "2026-12-02T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Goue Seuns Cf",
       "away": "Abc FC",
       "match_no": 55,
@@ -652,6 +660,14 @@
       "status": "NS"
     },
     {
+      "home": "Phalaborwa United FC",
+      "away": "Mpheni Defenders",
+      "match_no": 11,
+      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=11&s=l",
+      "date": "2026-12-09T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
       "home": "Abc FC",
       "away": "Baduzah Celtics FC",
       "match_no": 61,
@@ -697,6 +713,14 @@
       "match_no": 66,
       "url": "https://inqaku.com/match/view?stream_id=28322&match_no=66&s=l",
       "date": "2026-12-12T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Baduzah Celtics FC",
+      "away": "Phalaborwa United FC",
+      "match_no": 16,
+      "url": "https://inqaku.com/match/view?stream_id=28322&match_no=16&s=l",
+      "date": "2027-01-13T15:00:00+02:00",
       "status": "NS"
     },
     {

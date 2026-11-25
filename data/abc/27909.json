@@ -5,7 +5,7 @@
   "name": "MP Stream B",
   "slug": "mp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27909",
-  "updated": "2026-11-25T18:35:56+02:00",
+  "updated": "2026-11-25T22:41:52+02:00",
   "log": [
     {
       "pos": 1,
@@ -688,6 +688,14 @@
       "away": "KaMhlushwa Real Madrid",
       "match_no": 59,
       "url": "https://inqaku.com/match/view?stream_id=27909&match_no=59&s=l",
+      "date": "2026-11-29T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Oriental Spurs FC",
+      "away": "Junior Callies FC",
+      "match_no": 58,
+      "url": "https://inqaku.com/match/view?stream_id=27909&match_no=58&s=l",
       "date": "2026-11-29T15:00:00+02:00",
       "status": "NS"
     },
