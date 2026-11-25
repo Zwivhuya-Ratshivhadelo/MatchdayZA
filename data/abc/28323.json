@@ -5,34 +5,10 @@
   "name": "LP Limpopo Stream B",
   "slug": "lp-limpopo-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17737&stream_id=28323",
-  "updated": "2026-11-25T12:31:17+02:00",
+  "updated": "2026-11-25T18:35:47+02:00",
   "log": [
     {
       "pos": 1,
-      "team": "Phinnet City FC",
-      "p": 7,
-      "w": 5,
-      "d": 2,
-      "l": 0,
-      "gf": 8,
-      "ga": 0,
-      "gd": 8,
-      "pts": 17
-    },
-    {
-      "pos": 2,
-      "team": "Baroka FC",
-      "p": 8,
-      "w": 4,
-      "d": 2,
-      "l": 2,
-      "gf": 9,
-      "ga": 5,
-      "gd": 4,
-      "pts": 14
-    },
-    {
-      "pos": 3,
       "team": "The Dolphins FC",
       "p": 7,
       "w": 4,
@@ -44,7 +20,7 @@
       "pts": 14
     },
     {
-      "pos": 4,
+      "pos": 2,
       "team": "Makotopong Bahumi FC",
       "p": 8,
       "w": 4,
@@ -56,7 +32,7 @@
       "pts": 14
     },
     {
-      "pos": 5,
+      "pos": 3,
       "team": "Mohlabile United FC",
       "p": 8,
       "w": 3,
@@ -68,7 +44,19 @@
       "pts": 12
     },
     {
-      "pos": 6,
+      "pos": 4,
+      "team": "Phinnet City FC",
+      "p": 0,
+      "w": 5,
+      "d": -5,
+      "l": 0,
+      "gf": 8,
+      "ga": 0,
+      "gd": 8,
+      "pts": 10
+    },
+    {
+      "pos": 5,
       "team": "Gosebo United FC",
       "p": 7,
       "w": 3,
@@ -80,7 +68,7 @@
       "pts": 10
     },
     {
-      "pos": 7,
+      "pos": 6,
       "team": "Ditlou FC",
       "p": 8,
       "w": 2,
@@ -92,7 +80,7 @@
       "pts": 9
     },
     {
-      "pos": 8,
+      "pos": 7,
       "team": "Ramatlaohle Mogalakwena United FC",
       "p": 8,
       "w": 2,
@@ -104,7 +92,7 @@
       "pts": 8
     },
     {
-      "pos": 9,
+      "pos": 8,
       "team": "Royal Pirates",
       "p": 8,
       "w": 2,
@@ -116,7 +104,7 @@
       "pts": 8
     },
     {
-      "pos": 10,
+      "pos": 9,
       "team": "Eleven Fast Tigers",
       "p": 8,
       "w": 2,
@@ -126,6 +114,18 @@
       "ga": 6,
       "gd": -2,
       "pts": 8
+    },
+    {
+      "pos": 10,
+      "team": "Baroka FC",
+      "p": 1,
+      "w": 4,
+      "d": -5,
+      "l": 2,
+      "gf": 9,
+      "ga": 5,
+      "gd": 4,
+      "pts": 7
     },
     {
       "pos": 11,
