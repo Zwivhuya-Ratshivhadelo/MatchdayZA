@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-11-26T06:41:01+02:00",
+  "updated": "2026-11-26T12:40:58+02:00",
   "log": [
     {
       "pos": 1,
@@ -57,6 +57,18 @@
     },
     {
       "pos": 5,
+      "team": "Mike-1-Stars FC",
+      "p": 8,
+      "w": 4,
+      "d": 1,
+      "l": 3,
+      "gf": 13,
+      "ga": 8,
+      "gd": 5,
+      "pts": 13
+    },
+    {
+      "pos": 6,
       "team": "Young Pirates FC",
       "p": 8,
       "w": 4,
@@ -68,7 +80,7 @@
       "pts": 13
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Tembisa Destroyers FC",
       "p": 8,
       "w": 3,
@@ -80,27 +92,15 @@
       "pts": 11
     },
     {
-      "pos": 7,
-      "team": "Mike-1-Stars FC",
-      "p": 7,
-      "w": 3,
-      "d": 1,
-      "l": 3,
-      "gf": 10,
-      "ga": 8,
-      "gd": 2,
-      "pts": 10
-    },
-    {
       "pos": 8,
       "team": "Jomo Cosmos FC",
-      "p": 7,
+      "p": 8,
       "w": 3,
       "d": 1,
-      "l": 3,
+      "l": 4,
       "gf": 7,
-      "ga": 6,
-      "gd": 1,
+      "ga": 9,
+      "gd": -2,
       "pts": 10
     },
     {
@@ -311,6 +311,16 @@
       "date": "2026-10-17",
       "home_score": 0,
       "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Jomo Cosmos FC",
+      "away": "Mike-1-Stars FC",
+      "match_no": 17,
+      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=17&s=l",
+      "date": "2026-10-17",
+      "home_score": 0,
+      "away_score": 3,
       "status": "FT"
     },
     {
@@ -699,6 +709,22 @@
       "match_no": 58,
       "url": "https://inqaku.com/match/view?stream_id=28000&match_no=58&s=l",
       "date": "2026-12-05T15:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Mabopane Jm",
+      "away": "TUT FC",
+      "match_no": 5,
+      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=5&s=l",
+      "date": "2026-12-09T13:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Orlando Pirates FC",
+      "away": "Spartans FC",
+      "match_no": 21,
+      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=21&s=l",
+      "date": "2026-12-09T14:00:00+02:00",
       "status": "NS"
     },
     {

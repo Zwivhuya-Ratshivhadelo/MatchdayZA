@@ -5,7 +5,7 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-11-26T06:40:57+02:00",
+  "updated": "2026-11-26T12:40:53+02:00",
   "log": [
     {
       "pos": 1,
@@ -769,6 +769,14 @@
       "match_no": 58,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=58&s=l",
       "date": "2026-12-06T14:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Free Agents Football Club",
+      "away": "Ssu M-17 FC",
+      "match_no": 51,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=51&s=l",
+      "date": "2026-12-11T15:00:00+02:00",
       "status": "NS"
     },
     {

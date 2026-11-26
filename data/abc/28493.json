@@ -5,22 +5,34 @@
   "name": "NW Stream B",
   "slug": "nw-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17733&stream_id=28493",
-  "updated": "2026-11-26T06:41:46+02:00",
+  "updated": "2026-11-26T12:41:34+02:00",
   "log": [
     {
       "pos": 1,
-      "team": "Queenkay Stars FC",
-      "p": 8,
-      "w": 6,
-      "d": 1,
-      "l": 1,
-      "gf": 11,
-      "ga": 1,
-      "gd": 10,
-      "pts": 19
+      "team": "Army Rockets FC",
+      "p": 9,
+      "w": 7,
+      "d": 0,
+      "l": 2,
+      "gf": 18,
+      "ga": 5,
+      "gd": 13,
+      "pts": 21
     },
     {
       "pos": 2,
+      "team": "Queenkay Stars FC",
+      "p": 9,
+      "w": 6,
+      "d": 1,
+      "l": 2,
+      "gf": 11,
+      "ga": 2,
+      "gd": 9,
+      "pts": 19
+    },
+    {
+      "pos": 3,
       "team": "Bokone NW FC",
       "p": 9,
       "w": 6,
@@ -32,19 +44,19 @@
       "pts": 19
     },
     {
-      "pos": 3,
-      "team": "Army Rockets FC",
-      "p": 8,
-      "w": 6,
-      "d": 0,
-      "l": 2,
-      "gf": 17,
-      "ga": 5,
-      "gd": 12,
+      "pos": 4,
+      "team": "Mavabaza United Football Club",
+      "p": 9,
+      "w": 5,
+      "d": 3,
+      "l": 1,
+      "gf": 11,
+      "ga": 4,
+      "gd": 7,
       "pts": 18
     },
     {
-      "pos": 4,
+      "pos": 5,
       "team": "NW Signal FC",
       "p": 9,
       "w": 6,
@@ -54,18 +66,6 @@
       "ga": 14,
       "gd": 2,
       "pts": 18
-    },
-    {
-      "pos": 5,
-      "team": "Mavabaza United Football Club",
-      "p": 8,
-      "w": 4,
-      "d": 3,
-      "l": 1,
-      "gf": 10,
-      "ga": 4,
-      "gd": 6,
-      "pts": 15
     },
     {
       "pos": 6,
@@ -118,13 +118,13 @@
     {
       "pos": 10,
       "team": "Debunkers FC",
-      "p": 8,
+      "p": 9,
       "w": 2,
       "d": 0,
-      "l": 6,
+      "l": 7,
       "gf": 4,
-      "ga": 13,
-      "gd": -9,
+      "ga": 14,
+      "gd": -10,
       "pts": 6
     },
     {
@@ -601,6 +601,26 @@
       "date": "2026-11-14",
       "home_score": 2,
       "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Army Rockets FC",
+      "away": "Queenkay Stars FC",
+      "match_no": 47,
+      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=47&s=l",
+      "date": "2026-11-14",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Debunkers FC",
+      "away": "Mavabaza United Football Club",
+      "match_no": 45,
+      "url": "https://inqaku.com/match/view?stream_id=28493&match_no=45&s=l",
+      "date": "2026-11-14",
+      "home_score": 0,
+      "away_score": 1,
       "status": "FT"
     },
     {
