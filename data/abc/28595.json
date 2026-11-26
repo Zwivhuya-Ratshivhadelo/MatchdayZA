@@ -5,7 +5,7 @@
   "name": "FS Group 1B",
   "slug": "fs-group-1b",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28595",
-  "updated": "2026-11-25T22:41:13+02:00",
+  "updated": "2026-11-26T06:40:51+02:00",
   "log": [
     {
       "pos": 1,
@@ -329,14 +329,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Welkom Real Stars FC",
-      "away": "Free State United FC",
-      "match_no": 24,
-      "url": "https://inqaku.com/match/view?stream_id=28595&match_no=24&s=l",
-      "date": "2026-11-25T16:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Free State United FC",
       "away": "Super Eagles",

@@ -5,7 +5,7 @@
   "name": "MP Stream A",
   "slug": "mp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17712&stream_id=27908",
-  "updated": "2026-11-25T22:41:48+02:00",
+  "updated": "2026-11-26T06:41:29+02:00",
   "log": [
     {
       "pos": 1,
@@ -817,14 +817,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Carolina Young Boys FC",
-      "away": "Phaphama Football Club",
-      "match_no": 58,
-      "url": "https://inqaku.com/match/view?stream_id=27908&match_no=58&s=l",
-      "date": "2026-11-25T15:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Shimadel Football Club",
       "away": "Phaphama Football Club",
