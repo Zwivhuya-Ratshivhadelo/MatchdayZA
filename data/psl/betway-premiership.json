@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-27T20:05:18+02:00",
+  "updated": "2026-11-27T20:07:23+02:00",
   "log": [
     {
       "pos": 1,
@@ -1050,11 +1050,11 @@
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2674059",
       "url": "https://www.psl.co.za/matchcentre/detail/2674059-stellenbosch-fc-vs-ts-galaxy",
-      "latest": "0' Kick-off",
+      "latest": "36' Yellow card, Ntandoyenkosi Nkosi (TS Galaxy)",
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "33'"
+      "minute": "36'"
     }
   ],
   "fixtures": [
