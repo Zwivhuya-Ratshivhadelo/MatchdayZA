@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "TS Galaxy",
-  "updated": "2026-11-27T20:03:07+02:00",
+  "updated": "2026-11-27T20:05:18+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "31'",
+  "minute": "33'",
   "events": [
     {
       "minute": "0'",
@@ -18,7 +18,7 @@
     {
       "label": "Shots",
       "home": "2",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Shots on target",
@@ -37,7 +37,7 @@
     },
     {
       "label": "Fouls",
-      "home": "6",
+      "home": "7",
       "away": "4"
     },
     {
@@ -133,6 +133,11 @@
           "pos": "Substitute"
         },
         {
+          "no": "21",
+          "name": "G Taunyana",
+          "pos": "Substitute"
+        },
+        {
           "no": "20",
           "name": "K Johannessen",
           "pos": "Substitute"
@@ -198,6 +203,11 @@
           "pos": "Midfielder"
         },
         {
+          "no": "11",
+          "name": "A Williams",
+          "pos": "Midfielder"
+        },
+        {
           "no": "14",
           "name": "T Kakora",
           "pos": "Midfielder"
@@ -210,11 +220,6 @@
         {
           "no": "17",
           "name": "Victor Letsoalo",
-          "pos": "Striker"
-        },
-        {
-          "no": "11",
-          "name": "A Williams",
           "pos": "Striker"
         }
       ],
@@ -252,6 +257,11 @@
         {
           "no": "23",
           "name": "P Fisher",
+          "pos": "Substitute"
+        },
+        {
+          "no": "45",
+          "name": "Veluyeke Zulu",
           "pos": "Substitute"
         },
         {
