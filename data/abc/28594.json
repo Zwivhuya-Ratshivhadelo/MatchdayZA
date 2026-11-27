@@ -5,7 +5,7 @@
   "name": "FS Group 1A",
   "slug": "fs-group-1a",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28594",
-  "updated": "2026-11-27T12:40:46+02:00",
+  "updated": "2026-11-27T22:30:59+02:00",
   "log": [
     {
       "pos": 1,
@@ -34,14 +34,14 @@
     {
       "pos": 3,
       "team": "African Warriors FC",
-      "p": 6,
+      "p": 7,
       "w": 2,
-      "d": 3,
+      "d": 4,
       "l": 1,
-      "gf": 8,
-      "ga": 7,
+      "gf": 9,
+      "ga": 8,
       "gd": 1,
-      "pts": 9
+      "pts": 10
     },
     {
       "pos": 4,
@@ -57,6 +57,18 @@
     },
     {
       "pos": 5,
+      "team": "Motsomotle FC",
+      "p": 7,
+      "w": 2,
+      "d": 3,
+      "l": 2,
+      "gf": 9,
+      "ga": 9,
+      "gd": 0,
+      "pts": 9
+    },
+    {
+      "pos": 6,
       "team": "Harmony FC",
       "p": 6,
       "w": 2,
@@ -68,31 +80,31 @@
       "pts": 9
     },
     {
-      "pos": 6,
-      "team": "Mkabadeli Heroes FC",
-      "p": 5,
-      "w": 2,
-      "d": 2,
-      "l": 1,
-      "gf": 12,
-      "ga": 7,
-      "gd": 5,
-      "pts": 8
-    },
-    {
       "pos": 7,
-      "team": "Motsomotle FC",
+      "team": "Mkabadeli Heroes FC",
       "p": 6,
       "w": 2,
       "d": 2,
       "l": 2,
-      "gf": 8,
-      "ga": 8,
-      "gd": 0,
+      "gf": 13,
+      "ga": 9,
+      "gd": 4,
       "pts": 8
     },
     {
       "pos": 8,
+      "team": "Remember Elite Soccer Academy",
+      "p": 6,
+      "w": 1,
+      "d": 0,
+      "l": 5,
+      "gf": 5,
+      "ga": 15,
+      "gd": -10,
+      "pts": 3
+    },
+    {
+      "pos": 9,
       "team": "Young Boys FC",
       "p": 5,
       "w": 0,
@@ -102,18 +114,6 @@
       "ga": 14,
       "gd": -11,
       "pts": 1
-    },
-    {
-      "pos": 9,
-      "team": "Remember Elite Soccer Academy",
-      "p": 5,
-      "w": 0,
-      "d": 0,
-      "l": 5,
-      "gf": 3,
-      "ga": 14,
-      "gd": -11,
-      "pts": 0
     }
   ],
   "results": [
@@ -366,30 +366,34 @@
       "home_score": 0,
       "away_score": 0,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
-    {
-      "home": "Motsomotle FC",
-      "away": "African Warriors FC",
-      "match_no": 29,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=29&s=l",
-      "date": "2026-11-27T16:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Young Boys FC",
-      "away": "Central University of FS",
-      "match_no": 30,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=30&s=l",
-      "date": "2026-11-27T16:00:00+02:00",
-      "status": "NS"
     },
     {
       "home": "Remember Elite Soccer Academy",
       "away": "Mkabadeli Heroes FC",
       "match_no": 31,
       "url": "https://inqaku.com/match/view?stream_id=28594&match_no=31&s=l",
+      "date": "2026-11-27",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
+    },
+    {
+      "home": "Motsomotle FC",
+      "away": "African Warriors FC",
+      "match_no": 29,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=29&s=l",
+      "date": "2026-11-27",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
+    {
+      "home": "Young Boys FC",
+      "away": "Central University of FS",
+      "match_no": 30,
+      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=30&s=l",
       "date": "2026-11-27T16:00:00+02:00",
       "status": "NS"
     },

@@ -5,10 +5,22 @@
   "name": "GP Stream A",
   "slug": "gp-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=27999",
-  "updated": "2026-11-27T12:40:55+02:00",
+  "updated": "2026-11-27T22:31:09+02:00",
   "log": [
     {
       "pos": 1,
+      "team": "Tembisa Hollywood Thunder",
+      "p": 8,
+      "w": 5,
+      "d": 3,
+      "l": 0,
+      "gf": 12,
+      "ga": 4,
+      "gd": 8,
+      "pts": 18
+    },
+    {
+      "pos": 2,
       "team": "Dinoko City FC",
       "p": 8,
       "w": 5,
@@ -16,18 +28,6 @@
       "l": 1,
       "gf": 12,
       "ga": 4,
-      "gd": 8,
-      "pts": 17
-    },
-    {
-      "pos": 2,
-      "team": "Tembisa Hollywood Thunder",
-      "p": 7,
-      "w": 5,
-      "d": 2,
-      "l": 0,
-      "gf": 10,
-      "ga": 2,
       "gd": 8,
       "pts": 17
     },
@@ -70,13 +70,13 @@
     {
       "pos": 6,
       "team": "La Masia FC",
-      "p": 8,
+      "p": 9,
       "w": 3,
       "d": 3,
-      "l": 2,
-      "gf": 8,
-      "ga": 8,
-      "gd": 0,
+      "l": 3,
+      "gf": 9,
+      "ga": 10,
+      "gd": -1,
       "pts": 12
     },
     {
@@ -94,29 +94,41 @@
     {
       "pos": 8,
       "team": "Ben 10 FC",
-      "p": 8,
+      "p": 9,
       "w": 3,
-      "d": 1,
+      "d": 2,
       "l": 4,
-      "gf": 8,
-      "ga": 10,
+      "gf": 11,
+      "ga": 13,
       "gd": -2,
-      "pts": 10
+      "pts": 11
     },
     {
       "pos": 9,
-      "team": "Tshwane South College FC",
+      "team": "JBM FC",
       "p": 8,
-      "w": 1,
+      "w": 2,
       "d": 2,
-      "l": 5,
-      "gf": 12,
+      "l": 4,
+      "gf": 13,
       "ga": 16,
-      "gd": -4,
-      "pts": 5
+      "gd": -3,
+      "pts": 8
     },
     {
       "pos": 10,
+      "team": "Tshwane South College FC",
+      "p": 9,
+      "w": 1,
+      "d": 3,
+      "l": 5,
+      "gf": 15,
+      "ga": 19,
+      "gd": -4,
+      "pts": 6
+    },
+    {
+      "pos": 11,
       "team": "Lesco FC",
       "p": 9,
       "w": 1,
@@ -126,18 +138,6 @@
       "ga": 16,
       "gd": -12,
       "pts": 5
-    },
-    {
-      "pos": 11,
-      "team": "JBM FC",
-      "p": 6,
-      "w": 1,
-      "d": 1,
-      "l": 4,
-      "gf": 9,
-      "ga": 13,
-      "gd": -4,
-      "pts": 4
     },
     {
       "pos": 12,
@@ -632,6 +632,26 @@
       "home_score": 0,
       "away_score": 2,
       "status": "FT"
+    },
+    {
+      "home": "Tshwane South College FC",
+      "away": "Ben 10 FC",
+      "match_no": 53,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=53&s=l",
+      "date": "2026-11-27",
+      "home_score": 3,
+      "away_score": 3,
+      "status": "FT"
+    },
+    {
+      "home": "JBM FC",
+      "away": "La Masia FC",
+      "match_no": 49,
+      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=49&s=l",
+      "date": "2026-11-27",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "FT"
     }
   ],
   "fixtures": [
@@ -641,22 +661,6 @@
       "match_no": 51,
       "url": "https://inqaku.com/match/view?stream_id=27999&match_no=51&s=l",
       "date": "2026-11-27T15:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "JBM FC",
-      "away": "La Masia FC",
-      "match_no": 49,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=49&s=l",
-      "date": "2026-11-27T16:00:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Tshwane South College FC",
-      "away": "Ben 10 FC",
-      "match_no": 53,
-      "url": "https://inqaku.com/match/view?stream_id=27999&match_no=53&s=l",
-      "date": "2026-11-27T18:00:00+02:00",
       "status": "NS"
     },
     {

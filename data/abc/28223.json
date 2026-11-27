@@ -5,19 +5,19 @@
   "name": "EC Coastal Stream",
   "slug": "ec-coastal-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28223",
-  "updated": "2026-11-27T12:40:37+02:00",
+  "updated": "2026-11-27T22:30:48+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Gq Cavaliers FC",
-      "p": 7,
+      "p": 8,
       "w": 6,
-      "d": 0,
+      "d": 1,
       "l": 1,
-      "gf": 30,
-      "ga": 8,
+      "gf": 33,
+      "ga": 11,
       "gd": 22,
-      "pts": 18
+      "pts": 19
     },
     {
       "pos": 2,
@@ -45,6 +45,18 @@
     },
     {
       "pos": 4,
+      "team": "Gqeberha United FC",
+      "p": 8,
+      "w": 3,
+      "d": 3,
+      "l": 2,
+      "gf": 15,
+      "ga": 10,
+      "gd": 5,
+      "pts": 12
+    },
+    {
+      "pos": 5,
       "team": "FC Buffalo City Relatives",
       "p": 7,
       "w": 4,
@@ -54,18 +66,6 @@
       "ga": 14,
       "gd": 3,
       "pts": 12
-    },
-    {
-      "pos": 5,
-      "team": "Gqeberha United FC",
-      "p": 7,
-      "w": 3,
-      "d": 2,
-      "l": 2,
-      "gf": 12,
-      "ga": 7,
-      "gd": 5,
-      "pts": 11
     },
     {
       "pos": 6,
@@ -468,17 +468,19 @@
       "home_score": 1,
       "away_score": 0,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Gqeberha United FC",
       "away": "Gq Cavaliers FC",
       "match_no": 38,
       "url": "https://inqaku.com/match/view?stream_id=28223&match_no=38&s=l",
-      "date": "2026-11-27T16:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-11-27",
+      "home_score": 3,
+      "away_score": 3,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Amavarara",
       "away": "Sundays River Valley Academy",

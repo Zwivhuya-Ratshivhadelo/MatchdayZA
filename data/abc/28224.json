@@ -5,7 +5,7 @@
   "name": "EC Inland Stream",
   "slug": "ec-inland-stream",
   "source": "https://inqaku.com/leagues/view/?season_id=17741&stream_id=28224",
-  "updated": "2026-11-27T12:40:42+02:00",
+  "updated": "2026-11-27T22:30:53+02:00",
   "log": [
     {
       "pos": 1,
@@ -22,14 +22,14 @@
     {
       "pos": 2,
       "team": "FC Ravens",
-      "p": 7,
+      "p": 8,
       "w": 5,
-      "d": 0,
+      "d": 1,
       "l": 2,
-      "gf": 15,
-      "ga": 4,
+      "gf": 16,
+      "ga": 5,
       "gd": 11,
-      "pts": 15
+      "pts": 16
     },
     {
       "pos": 3,
@@ -58,14 +58,14 @@
     {
       "pos": 5,
       "team": "Bush Bucks FC",
-      "p": 6,
+      "p": 7,
       "w": 3,
-      "d": 1,
+      "d": 2,
       "l": 2,
-      "gf": 7,
-      "ga": 8,
+      "gf": 8,
+      "ga": 9,
       "gd": -1,
-      "pts": 10
+      "pts": 11
     },
     {
       "pos": 6,
@@ -468,17 +468,19 @@
       "home_score": 2,
       "away_score": 2,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Bush Bucks FC",
       "away": "FC Ravens",
       "match_no": 38,
       "url": "https://inqaku.com/match/view?stream_id=28224&match_no=38&s=l",
-      "date": "2026-11-27T16:00:00+02:00",
-      "status": "NS"
-    },
+      "date": "2026-11-27",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Sinenkani FC",
       "away": "SA Spear of the Nation FC",

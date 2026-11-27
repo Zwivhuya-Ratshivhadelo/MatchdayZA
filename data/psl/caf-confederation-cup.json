@@ -3,7 +3,7 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-11-27T21:30:34+02:00",
+  "updated": "2026-11-27T22:30:43+02:00",
   "log": [],
   "groups": [
     {
@@ -745,6 +745,15 @@
       "away_score": 1
     },
     {
+      "home": "Panthere",
+      "away": "Rayon Sports",
+      "date": "2026-09-04T17:00:00+02:00",
+      "match_id": "c4805413",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
       "home": "Hilal Alsahil SC Port Sudan",
       "away": "Welwalo Adigrat Uni",
       "date": "2026-09-04T19:00:00+02:00",
@@ -1467,6 +1476,13 @@
       "match_id": "c4886730",
       "status": "NS",
       "venue": "Stade du 5 Juillet 1962"
+    },
+    {
+      "home": "CR Belouizdad",
+      "away": "AS Douanes",
+      "date": "2026-12-01T21:00:00+02:00",
+      "match_id": "c4902385",
+      "status": "NS"
     },
     {
       "home": "Durban City",
