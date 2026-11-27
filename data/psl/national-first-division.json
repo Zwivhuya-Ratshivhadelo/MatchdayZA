@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-27T15:21:58+02:00",
+  "updated": "2026-11-27T15:32:34+02:00",
   "log": [
     {
       "pos": 1,
@@ -1030,27 +1030,33 @@
       "home_score": 2,
       "away_score": 0,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Gomora United",
       "away": "Midlands Wanderers",
       "date": "2026-11-27T15:30:00+02:00",
       "venue": "Old Peter Mokaba Stadium, Polokwane",
-      "status": "NS",
       "match_id": "3019770",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019770"
+      "url": "https://www.psl.co.za/matchcentre/detail/3019770",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "4'"
     },
     {
       "home": "Orbit College FC",
       "away": "NWU FC",
       "date": "2026-11-27T15:30:00+02:00",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
-      "status": "NS",
       "match_id": "2682160",
-      "url": "https://www.psl.co.za/matchcentre/detail/2682160"
-    },
+      "url": "https://www.psl.co.za/matchcentre/detail/2682160",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "3'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Real Native FC",
       "away": "University of Pretoria",
