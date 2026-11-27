@@ -3,20 +3,20 @@
   "comp": "national-first-division",
   "home": "Gomora United",
   "away": "Midlands Wanderers",
-  "updated": "2026-11-27T17:04:54+02:00",
+  "updated": "2026-11-27T17:07:14+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "74'",
+  "minute": "76'",
   "stats": [
     {
       "label": "Possession",
-      "home": "48%",
-      "away": "52%"
+      "home": "49%",
+      "away": "51%"
     },
     {
       "label": "Attacks",
-      "home": "95",
+      "home": "103",
       "away": "77"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "label": "Throw-Ins",
-      "home": "23",
+      "home": "25",
       "away": "36"
     },
     {
