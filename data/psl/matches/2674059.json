@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "TS Galaxy",
-  "updated": "2026-11-27T20:59:53+02:00",
+  "updated": "2026-11-27T21:01:59+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "72'",
+  "minute": "75'",
   "events": [
+    {
+      "minute": "72'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Thulani Zandamela",
+      "player_out": "Ntandoyenkosi Nkosi"
+    },
+    {
+      "minute": "72'",
+      "type": "sub",
+      "team": "TS Galaxy",
+      "player_in": "Mpho Mvelase",
+      "player_out": "Tshepo Kakora"
+    },
     {
       "minute": "72'",
       "type": "sub",
@@ -95,8 +109,8 @@
     },
     {
       "label": "Fouls",
-      "home": "14",
-      "away": "9"
+      "home": "15",
+      "away": "10"
     },
     {
       "label": "Yellow Cards",
