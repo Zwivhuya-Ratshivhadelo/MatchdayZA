@@ -3,12 +3,33 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "TS Galaxy",
-  "updated": "2026-11-27T20:45:07+02:00",
+  "updated": "2026-11-27T20:47:12+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "54'",
+  "minute": "59'",
   "events": [
+    {
+      "minute": "59'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Bradley Grobler",
+      "player_out": "Arigo Godspower"
+    },
+    {
+      "minute": "59'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Quwan Plaatjies",
+      "player_out": "Raoul Daniels"
+    },
+    {
+      "minute": "59'",
+      "type": "sub",
+      "team": "Stellenbosch",
+      "player_in": "Adeyanju Lateef",
+      "player_out": "Chumani Butsaka"
+    },
     {
       "minute": "46'",
       "type": "yellow",
