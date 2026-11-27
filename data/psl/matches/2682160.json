@@ -3,12 +3,23 @@
   "comp": "national-first-division",
   "home": "Orbit College FC",
   "away": "NWU FC",
-  "updated": "2026-11-27T15:35:27+02:00",
-  "home_score": 0,
+  "updated": "2026-11-27T15:37:49+02:00",
+  "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "6'",
+  "minute": "9'",
   "stats": [],
   "lineups": [],
-  "events": []
+  "events": [
+    {
+      "minute": "8'",
+      "type": "goal",
+      "team": "Orbit College FC",
+      "player": "",
+      "score": [
+        1,
+        0
+      ]
+    }
+  ]
 }
