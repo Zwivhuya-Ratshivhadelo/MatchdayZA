@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-27T17:55:48+02:00",
+  "updated": "2026-11-27T18:20:07+02:00",
   "log": [
     {
       "pos": 1,
@@ -1030,6 +1030,18 @@
       "away_score": 0,
       "status": "FT",
       "minute": "86'"
+    },
+    {
+      "home": "Durban City",
+      "away": "Polokwane City",
+      "date": "2026-11-27T19:30:00+02:00",
+      "venue": "Chatsworth Stadium, Chatsworth",
+      "match_id": "2674058",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674058-durban-city-vs-polokwane-city",
+      "latest": "90+4' Full time",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "FT"
     }
   ],
   "fixtures": [
@@ -1041,18 +1053,13 @@
       "status": "NS"
     },
     {
-      "home": "Durban City",
-      "away": "Polokwane City",
-      "date": "2026-11-27T19:30:00+02:00",
-      "venue": "Chatsworth Stadium, Chatsworth",
-      "status": "NS"
-    },
-    {
       "home": "Stellenbosch FC",
       "away": "TS Galaxy",
       "date": "2026-11-27T19:30:00+02:00",
       "venue": "Danie Craven Stadium, Stellenbosch",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "2674059",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674059"
     },
     {
       "home": "AmaZulu FC",

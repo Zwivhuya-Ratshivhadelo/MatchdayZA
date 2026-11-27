@@ -1,21 +1,16 @@
 {
-  "time": "2026-11-27T17:55:16+02:00",
+  "time": "2026-11-27T18:20:04+02:00",
   "links_found": 6,
   "games": [
     {
-      "game": "Gomora United v Midlands Wanderers",
-      "kickoff": "2026-11-27T15:30:00+02:00"
+      "game": "Durban City v Polokwane City",
+      "kickoff": "2026-11-27T19:30:00+02:00"
     },
     {
-      "game": "Orbit College FC v NWU FC",
-      "kickoff": "2026-11-27T15:30:00+02:00"
-    },
-    {
-      "game": "Real Native FC v University of Pretoria",
-      "kickoff": "2026-11-27T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019678",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "NS None-None "
+      "game": "Stellenbosch FC v TS Galaxy",
+      "kickoff": "2026-11-27T19:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674059",
+      "page": "NS None-None, line-ups 0"
     }
   ]
 }

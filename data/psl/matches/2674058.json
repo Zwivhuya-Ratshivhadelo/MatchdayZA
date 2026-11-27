@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Durban City",
   "away": "Polokwane City",
-  "updated": "2026-11-24T21:25:07+02:00",
+  "updated": "2026-11-27T18:15:02+02:00",
   "home_score": 3,
   "away_score": 1,
   "status": "FT",
@@ -45,7 +45,7 @@
       "player_out": "Siyabonga Mashini"
     },
     {
-      "minute": "80'",
+      "minute": "81'",
       "type": "sub",
       "team": "Polokwane City",
       "player_in": "Ndamulelo Maphangule",
@@ -138,18 +138,18 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "7",
-      "away": "14"
+      "home": "9",
+      "away": "15"
     },
     {
       "label": "Shots on target",
-      "home": "3",
+      "home": "4",
       "away": "3"
     },
     {
       "label": "Corners",
       "home": "2",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Offsides",
