@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-27T21:01:59+02:00",
+  "updated": "2026-11-27T21:04:04+02:00",
   "log": [
     {
       "pos": 1,
@@ -1050,11 +1050,11 @@
       "venue": "Danie Craven Stadium, Stellenbosch",
       "match_id": "2674059",
       "url": "https://www.psl.co.za/matchcentre/detail/2674059-stellenbosch-fc-vs-ts-galaxy",
-      "latest": "72' Sub, TS Galaxy: Thulani Zandamela on for Ntandoyenkosi Nkosi",
+      "latest": "76' Sub, Stellenbosch: Tlakusani Mthethwa on for Njabulo Blom",
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "75'"
+      "minute": "77'"
     }
   ],
   "fixtures": [
