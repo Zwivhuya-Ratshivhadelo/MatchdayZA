@@ -3,12 +3,222 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "TS Galaxy",
-  "updated": "2026-11-27T19:00:59+02:00",
+  "updated": "2026-11-27T19:11:06+02:00",
   "home_score": null,
   "away_score": null,
   "status": "NS",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [
+    {
+      "team": "Stellenbosch FC",
+      "starting": [
+        {
+          "no": "1",
+          "name": "N Garrow",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "27",
+          "name": "Terrence Mashego",
+          "pos": "Defender"
+        },
+        {
+          "no": "30",
+          "name": "Spiwe Msimango",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "L Vena",
+          "pos": "Defender"
+        },
+        {
+          "no": "26",
+          "name": "S Nkwali",
+          "pos": "Defender"
+        },
+        {
+          "no": "32",
+          "name": "R Daniels",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "Njabulo Blom",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "33",
+          "name": "C Butsaka",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "19",
+          "name": "G Palace",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "14",
+          "name": "S Kwayiba",
+          "pos": "Striker"
+        },
+        {
+          "no": "18",
+          "name": "A Godspower",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "67",
+          "name": "Bradley Grobler",
+          "pos": "Substitute"
+        },
+        {
+          "no": "31",
+          "name": "D Matsheke",
+          "pos": "Substitute"
+        },
+        {
+          "no": "11",
+          "name": "Q Plaatjies",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "K Ramushu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "20",
+          "name": "K Johannessen",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "T Mthethwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "10",
+          "name": "Ashley Du Preez",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "A Lateef",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "Sage Stephens",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "TS Galaxy",
+      "starting": [
+        {
+          "no": "1",
+          "name": "S Maseti",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "33",
+          "name": "Sifiso Ngobeni",
+          "pos": "Defender"
+        },
+        {
+          "no": "4",
+          "name": "MacBeth Mahlangu",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "L Mathebula",
+          "pos": "Defender"
+        },
+        {
+          "no": "25",
+          "name": "K Mhlongo",
+          "pos": "Defender"
+        },
+        {
+          "no": "8",
+          "name": "Mlungisi Mbunjana",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "21",
+          "name": "Junior Zindoga",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "14",
+          "name": "T Kakora",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "6",
+          "name": "N Nkosi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "17",
+          "name": "Victor Letsoalo",
+          "pos": "Striker"
+        },
+        {
+          "no": "11",
+          "name": "A Williams",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "13",
+          "name": "S Xulu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "2",
+          "name": "Mpho Mvelase",
+          "pos": "Substitute"
+        },
+        {
+          "no": "32",
+          "name": "M Mathebula",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "S Mahlambi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "T Zandamela",
+          "pos": "Substitute"
+        },
+        {
+          "no": "36",
+          "name": "C Mdevulana",
+          "pos": "Substitute"
+        },
+        {
+          "no": "23",
+          "name": "P Fisher",
+          "pos": "Substitute"
+        },
+        {
+          "no": "19",
+          "name": "Sedwyn George",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
 }
