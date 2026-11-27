@@ -1,0 +1,390 @@
+{
+  "home": "Azam FC",
+  "away": "Al Ahli Tripoli",
+  "status": "FT",
+  "minute": null,
+  "home_score": 1,
+  "away_score": 2,
+  "events": [
+    {
+      "minute": "60'",
+      "type": "yellow",
+      "team": "Al Ahli Tripoli",
+      "player": "Maruwan Al-Hbeishi"
+    },
+    {
+      "minute": "43'",
+      "type": "goal",
+      "team": "Azam FC",
+      "player": "Zidane Ally Sereri",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "minute": "33'",
+      "type": "goal",
+      "team": "Al Ahli Tripoli",
+      "player": "Muaid Ellafi",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "minute": "9'",
+      "type": "goal",
+      "team": "Al Ahli Tripoli",
+      "player": "Hamdou Elhouni",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "67%",
+      "away": "33%"
+    },
+    {
+      "label": "Attacks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Corners",
+      "home": "6",
+      "away": "5"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "12",
+      "away": "7"
+    },
+    {
+      "label": "Offsides",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "21",
+      "away": "18"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "7",
+      "away": "17"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "17",
+      "away": "10"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "429",
+      "away": "170"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "8",
+      "away": "7"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "5",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Passes",
+      "home": "487",
+      "away": "243"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "1",
+      "away": "3"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "4/5 (80%)",
+      "away": "5/13 (38%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "10",
+      "away": "26"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "12",
+      "away": "7"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "7",
+      "away": "12"
+    }
+  ],
+  "lineups": [
+    {
+      "team": "Azam FC",
+      "starting": [
+        {
+          "no": 28,
+          "name": "Aishi Manula",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": 12,
+          "name": "Pascal Msindo",
+          "pos": "Defender"
+        },
+        {
+          "no": 24,
+          "name": "Yeison Fuentes",
+          "pos": "Defender"
+        },
+        {
+          "no": 2,
+          "name": "Idumba Fasika",
+          "pos": "Defender"
+        },
+        {
+          "no": 5,
+          "name": "Lusajo Mwaikenda",
+          "pos": "Defender"
+        },
+        {
+          "no": 23,
+          "name": "Himid Mao Mkami",
+          "pos": "Midfielder"
+        },
+        {
+          "no": 6,
+          "name": "Feisal Salum",
+          "pos": "Midfielder"
+        },
+        {
+          "no": 8,
+          "name": "Sadio Kanouté",
+          "pos": "Midfielder"
+        },
+        {
+          "no": 9,
+          "name": "Abdul Hamisi Suleiman",
+          "pos": "Attacker"
+        },
+        {
+          "no": 11,
+          "name": "Iddy Seleman Nado",
+          "pos": "Attacker"
+        },
+        {
+          "no": 7,
+          "name": "Zidane Ally Sereri",
+          "pos": "Attacker"
+        }
+      ],
+      "subs": [
+        {
+          "no": 13,
+          "name": "Taiwo Abdulrafiu",
+          "pos": "Defender"
+        },
+        {
+          "no": 10,
+          "name": "Kipré Zunon",
+          "pos": "Midfielder"
+        },
+        {
+          "no": 27,
+          "name": "Hassan Mubiru",
+          "pos": "Attacker"
+        },
+        {
+          "no": 29,
+          "name": "Nassor Saadun",
+          "pos": "Attacker"
+        },
+        {
+          "no": 32,
+          "name": "Zuberi Foba Masudi",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": 18,
+          "name": "Lupini Mawuku Dieumerci",
+          "pos": "Defender"
+        },
+        {
+          "no": 22,
+          "name": "Henri Stanic",
+          "pos": "Defender"
+        },
+        {
+          "no": 4,
+          "name": "Donovan Makoma",
+          "pos": "Midfielder"
+        },
+        {
+          "no": 3,
+          "name": "Abdulkarim Kassim Kiswanya",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "",
+          "name": "Florent Ibenge",
+          "pos": "Management"
+        }
+      ]
+    },
+    {
+      "team": "Al Ahli Tripoli",
+      "starting": [
+        {
+          "no": 19,
+          "name": "Mohamed El-Munir",
+          "pos": "Defender"
+        },
+        {
+          "no": 21,
+          "name": "Mohamed Tougai",
+          "pos": "Defender"
+        },
+        {
+          "no": 4,
+          "name": "Abdelaziz Ali",
+          "pos": "Defender"
+        },
+        {
+          "no": 8,
+          "name": "Mostafa Shakshak",
+          "pos": "Midfielder"
+        },
+        {
+          "no": 7,
+          "name": "Muaid Ellafi",
+          "pos": "Attacker"
+        },
+        {
+          "no": 6,
+          "name": "Mamadou Lamine Camara",
+          "pos": "Midfielder"
+        },
+        {
+          "no": 16,
+          "name": "Maruwan Al-Hbeishi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": 10,
+          "name": "Hamdou Elhouni",
+          "pos": "Attacker"
+        },
+        {
+          "no": 9,
+          "name": "Fiston Mayele",
+          "pos": "Attacker"
+        },
+        {
+          "no": 17,
+          "name": "Jean Claude Girumugisha",
+          "pos": "Attacker"
+        },
+        {
+          "no": 12,
+          "name": "Muad Allafi",
+          "pos": "Goalkeeper"
+        }
+      ],
+      "subs": [
+        {
+          "no": 25,
+          "name": "Ibrahim Blati Touré",
+          "pos": "Midfielder"
+        },
+        {
+          "no": 11,
+          "name": "Tareq Bshara",
+          "pos": "Attacker"
+        },
+        {
+          "no": 14,
+          "name": "Ezzeddin Amer Faraj El Maremi",
+          "pos": "Attacker"
+        },
+        {
+          "no": 29,
+          "name": "Fagrie Lakay",
+          "pos": "Attacker"
+        },
+        {
+          "no": 13,
+          "name": "Nader Algandoz",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": 3,
+          "name": "Hocine Dehiri",
+          "pos": "Defender"
+        },
+        {
+          "no": 15,
+          "name": "Mohammed Al-Ajnaf",
+          "pos": "Defender"
+        },
+        {
+          "no": 2,
+          "name": "Issahaku Yakubu",
+          "pos": "Defender"
+        },
+        {
+          "no": 20,
+          "name": "Omran Al-Tawerghi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "",
+          "name": "Hossam El Badry",
+          "pos": "Management"
+        }
+      ]
+    }
+  ],
+  "venue": "Amaan Stadium"
+}

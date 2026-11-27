@@ -3,14 +3,14 @@
   "name": "CAF Confederation Cup",
   "short": "CAF Confederation Cup",
   "league": false,
-  "updated": "2026-11-27T13:40:28+02:00",
+  "updated": "2026-11-27T17:55:52+02:00",
   "log": [],
   "groups": [
     {
       "name": "",
       "log": [
         {
-          "pos": 1,
+          "pos": 2,
           "team": "CR Belouizdad",
           "p": 0,
           "w": 0,
@@ -22,7 +22,7 @@
           "pts": 0
         },
         {
-          "pos": 2,
+          "pos": 3,
           "team": "Kaizer Chiefs",
           "p": 0,
           "w": 0,
@@ -34,7 +34,7 @@
           "pts": 0
         },
         {
-          "pos": 3,
+          "pos": 4,
           "team": "Hilal Alsahil SC Port Sudan",
           "p": 0,
           "w": 0,
@@ -46,7 +46,7 @@
           "pts": 0
         },
         {
-          "pos": 4,
+          "pos": 5,
           "team": "Ahli Wad Madani",
           "p": 0,
           "w": 0,
@@ -58,7 +58,7 @@
           "pts": 0
         },
         {
-          "pos": 5,
+          "pos": 6,
           "team": "Desportivo Huila",
           "p": 0,
           "w": 0,
@@ -70,7 +70,7 @@
           "pts": 0
         },
         {
-          "pos": 6,
+          "pos": 7,
           "team": "AFAD-Plateau",
           "p": 0,
           "w": 0,
@@ -82,7 +82,7 @@
           "pts": 0
         },
         {
-          "pos": 7,
+          "pos": 8,
           "team": "El Kanemi Warriors",
           "p": 0,
           "w": 0,
@@ -94,7 +94,7 @@
           "pts": 0
         },
         {
-          "pos": 8,
+          "pos": 9,
           "team": "ZED FC",
           "p": 0,
           "w": 0,
@@ -106,7 +106,7 @@
           "pts": 0
         },
         {
-          "pos": 9,
+          "pos": 10,
           "team": "Esperance Zarzis",
           "p": 0,
           "w": 0,
@@ -118,7 +118,7 @@
           "pts": 0
         },
         {
-          "pos": 10,
+          "pos": 11,
           "team": "CO Korhogo",
           "p": 0,
           "w": 0,
@@ -130,7 +130,7 @@
           "pts": 0
         },
         {
-          "pos": 11,
+          "pos": 12,
           "team": "Shooting Stars",
           "p": 0,
           "w": 0,
@@ -142,7 +142,7 @@
           "pts": 0
         },
         {
-          "pos": 12,
+          "pos": 13,
           "team": "Mogadishu City",
           "p": 0,
           "w": 0,
@@ -154,7 +154,7 @@
           "pts": 0
         },
         {
-          "pos": 13,
+          "pos": 14,
           "team": "Kitara FC",
           "p": 0,
           "w": 0,
@@ -166,7 +166,7 @@
           "pts": 0
         },
         {
-          "pos": 14,
+          "pos": 15,
           "team": "Asas Djibouti Télécom",
           "p": 0,
           "w": 0,
@@ -178,7 +178,7 @@
           "pts": 0
         },
         {
-          "pos": 15,
+          "pos": 16,
           "team": "KMKM",
           "p": 0,
           "w": 0,
@@ -190,7 +190,7 @@
           "pts": 0
         },
         {
-          "pos": 16,
+          "pos": 17,
           "team": "Tusker FC",
           "p": 0,
           "w": 0,
@@ -202,7 +202,7 @@
           "pts": 0
         },
         {
-          "pos": 17,
+          "pos": 18,
           "team": "Al-Ghazal",
           "p": 0,
           "w": 0,
@@ -214,7 +214,7 @@
           "pts": 0
         },
         {
-          "pos": 18,
+          "pos": 19,
           "team": "The Panthers",
           "p": 0,
           "w": 0,
@@ -226,7 +226,7 @@
           "pts": 0
         },
         {
-          "pos": 19,
+          "pos": 20,
           "team": "AS Psi",
           "p": 0,
           "w": 0,
@@ -238,7 +238,7 @@
           "pts": 0
         },
         {
-          "pos": 20,
+          "pos": 21,
           "team": "ASPAC FC",
           "p": 0,
           "w": 0,
@@ -250,7 +250,7 @@
           "pts": 0
         },
         {
-          "pos": 21,
+          "pos": 22,
           "team": "AS Douanes",
           "p": 0,
           "w": 0,
@@ -262,7 +262,7 @@
           "pts": 0
         },
         {
-          "pos": 22,
+          "pos": 23,
           "team": "Hafia FC",
           "p": 0,
           "w": 0,
@@ -274,7 +274,7 @@
           "pts": 0
         },
         {
-          "pos": 23,
+          "pos": 24,
           "team": "East End Lions",
           "p": 0,
           "w": 0,
@@ -286,7 +286,7 @@
           "pts": 0
         },
         {
-          "pos": 24,
+          "pos": 25,
           "team": "ASC Diambars",
           "p": 0,
           "w": 0,
@@ -298,7 +298,7 @@
           "pts": 0
         },
         {
-          "pos": 25,
+          "pos": 26,
           "team": "Kabuscorp SC",
           "p": 0,
           "w": 0,
@@ -310,7 +310,7 @@
           "pts": 0
         },
         {
-          "pos": 26,
+          "pos": 27,
           "team": "Rukinzo FC",
           "p": 0,
           "w": 0,
@@ -322,7 +322,7 @@
           "pts": 0
         },
         {
-          "pos": 27,
+          "pos": 28,
           "team": "Panthere",
           "p": 0,
           "w": 0,
@@ -334,7 +334,7 @@
           "pts": 0
         },
         {
-          "pos": 28,
+          "pos": 29,
           "team": "Rayon Sports",
           "p": 0,
           "w": 0,
@@ -346,7 +346,7 @@
           "pts": 0
         },
         {
-          "pos": 29,
+          "pos": 30,
           "team": "AS Port-Louis 2000",
           "p": 0,
           "w": 0,
@@ -358,7 +358,7 @@
           "pts": 0
         },
         {
-          "pos": 30,
+          "pos": 31,
           "team": "Jwaneng Galaxy FC",
           "p": 0,
           "w": 0,
@@ -370,7 +370,7 @@
           "pts": 0
         },
         {
-          "pos": 31,
+          "pos": 32,
           "team": "Green Mamba",
           "p": 0,
           "w": 0,
@@ -382,7 +382,7 @@
           "pts": 0
         },
         {
-          "pos": 32,
+          "pos": 33,
           "team": "Welwalo Adigrat Uni",
           "p": 0,
           "w": 0,
@@ -394,7 +394,7 @@
           "pts": 0
         },
         {
-          "pos": 33,
+          "pos": 34,
           "team": "Diarra",
           "p": 0,
           "w": 0,
@@ -406,7 +406,7 @@
           "pts": 0
         },
         {
-          "pos": 34,
+          "pos": 35,
           "team": "Nations FC",
           "p": 0,
           "w": 0,
@@ -418,7 +418,7 @@
           "pts": 0
         },
         {
-          "pos": 35,
+          "pos": 36,
           "team": "UDIB",
           "p": 0,
           "w": 0,
@@ -430,7 +430,7 @@
           "pts": 0
         },
         {
-          "pos": 36,
+          "pos": 37,
           "team": "AS Zam",
           "p": 0,
           "w": 0,
@@ -442,7 +442,7 @@
           "pts": 0
         },
         {
-          "pos": 37,
+          "pos": 38,
           "team": "UNAM",
           "p": 0,
           "w": 0,
@@ -454,7 +454,7 @@
           "pts": 0
         },
         {
-          "pos": 38,
+          "pos": 39,
           "team": "Vitesse FC",
           "p": 0,
           "w": 0,
@@ -466,7 +466,7 @@
           "pts": 0
         },
         {
-          "pos": 39,
+          "pos": 40,
           "team": "Atomic Ngome",
           "p": 0,
           "w": 0,
@@ -478,7 +478,7 @@
           "pts": 0
         },
         {
-          "pos": 40,
+          "pos": 41,
           "team": "DC Virunga",
           "p": 0,
           "w": 0,
@@ -490,7 +490,7 @@
           "pts": 0
         },
         {
-          "pos": 41,
+          "pos": 42,
           "team": "P. Bazar Brothers",
           "p": 0,
           "w": 0,
@@ -502,7 +502,7 @@
           "pts": 0
         },
         {
-          "pos": 42,
+          "pos": 43,
           "team": "FC Rouge",
           "p": 0,
           "w": 0,
@@ -574,29 +574,17 @@
         {
           "pos": 1,
           "team": "Al Ahli Tripoli",
-          "p": 0,
-          "w": 0,
+          "p": 1,
+          "w": 1,
           "d": 0,
           "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
+          "gf": 2,
+          "ga": 1,
+          "gd": 1,
+          "pts": 3
         },
         {
           "pos": 2,
-          "team": "Azam FC",
-          "p": 0,
-          "w": 0,
-          "d": 0,
-          "l": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "pts": 0
-        },
-        {
-          "pos": 3,
           "team": "Durban City",
           "p": 0,
           "w": 0,
@@ -608,7 +596,7 @@
           "pts": 0
         },
         {
-          "pos": 4,
+          "pos": 3,
           "team": "AS FAR Rabat",
           "p": 0,
           "w": 0,
@@ -617,6 +605,18 @@
           "gf": 0,
           "ga": 0,
           "gd": 0,
+          "pts": 0
+        },
+        {
+          "pos": 4,
+          "team": "Azam FC",
+          "p": 1,
+          "w": 0,
+          "d": 0,
+          "l": 1,
+          "gf": 1,
+          "ga": 2,
+          "gd": -1,
           "pts": 0
         }
       ]
@@ -1397,17 +1397,19 @@
       "status": "FT",
       "home_score": 0,
       "away_score": 0
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Azam FC",
       "away": "Al Ahli Tripoli",
       "date": "2026-11-27T15:00:00+02:00",
       "match_id": "c4886732",
-      "status": "NS",
+      "status": "FT",
+      "home_score": 1,
+      "away_score": 2,
       "venue": "Amaan Stadium"
-    },
+    }
+  ],
+  "fixtures": [
     {
       "home": "CR Belouizdad",
       "away": "AS Douanes",

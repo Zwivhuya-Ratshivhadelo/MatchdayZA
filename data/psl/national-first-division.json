@@ -4,22 +4,22 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-27T17:55:28+02:00",
+  "updated": "2026-11-27T17:55:50+02:00",
   "log": [
     {
       "pos": 1,
-      "team": "Lerumo Lions",
-      "club": "Lerumo_Lions",
-      "p": 11,
+      "team": "Real Native FC",
+      "club": "Real_Native_FC",
+      "p": 12,
       "w": 7,
-      "d": 2,
+      "d": 3,
       "l": 2,
-      "pts": 23
+      "pts": 24
     },
     {
       "pos": 2,
-      "team": "Real Native FC",
-      "club": "Real_Native_FC",
+      "team": "Lerumo Lions",
+      "club": "Lerumo_Lions",
       "p": 11,
       "w": 7,
       "d": 2,
@@ -68,6 +68,16 @@
     },
     {
       "pos": 7,
+      "team": "NWU FC",
+      "club": "NWU_FC",
+      "p": 12,
+      "w": 4,
+      "d": 6,
+      "l": 2,
+      "pts": 18
+    },
+    {
+      "pos": 8,
       "team": "Highbury",
       "club": "Highbury",
       "p": 11,
@@ -77,19 +87,9 @@
       "pts": 18
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Hungry Lions",
       "club": "Hungry_Lions",
-      "p": 11,
-      "w": 4,
-      "d": 5,
-      "l": 2,
-      "pts": 17
-    },
-    {
-      "pos": 9,
-      "team": "NWU FC",
-      "club": "NWU_FC",
       "p": 11,
       "w": 4,
       "d": 5,
@@ -100,14 +100,34 @@
       "pos": 10,
       "team": "Gomora United",
       "club": "Gomora_United",
-      "p": 11,
+      "p": 12,
       "w": 3,
-      "d": 3,
+      "d": 4,
       "l": 5,
-      "pts": 12
+      "pts": 13
     },
     {
       "pos": 11,
+      "team": "Midlands Wanderers",
+      "club": "Midlands_Wanderers",
+      "p": 12,
+      "w": 2,
+      "d": 4,
+      "l": 6,
+      "pts": 10
+    },
+    {
+      "pos": 12,
+      "team": "University of Pretoria",
+      "club": "University_of_Pretoria",
+      "p": 12,
+      "w": 2,
+      "d": 4,
+      "l": 6,
+      "pts": 10
+    },
+    {
+      "pos": 13,
       "team": "Leicesterford City FC",
       "club": "Leicesterford_City_FC",
       "p": 11,
@@ -117,29 +137,9 @@
       "pts": 10
     },
     {
-      "pos": 12,
+      "pos": 14,
       "team": "Venda Football Club",
       "club": "Venda_Football_Club",
-      "p": 11,
-      "w": 2,
-      "d": 3,
-      "l": 6,
-      "pts": 9
-    },
-    {
-      "pos": 13,
-      "team": "Midlands Wanderers",
-      "club": "Midlands_Wanderers",
-      "p": 11,
-      "w": 2,
-      "d": 3,
-      "l": 6,
-      "pts": 9
-    },
-    {
-      "pos": 14,
-      "team": "University of Pretoria",
-      "club": "University_of_Pretoria",
       "p": 11,
       "w": 2,
       "d": 3,
@@ -160,11 +160,11 @@
       "pos": 16,
       "team": "Orbit College FC",
       "club": "Orbit_College_FC",
-      "p": 11,
+      "p": 12,
       "w": 0,
-      "d": 5,
+      "d": 6,
       "l": 6,
-      "pts": 5
+      "pts": 6
     }
   ],
   "results": [
@@ -1053,9 +1053,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/2682160",
       "home_score": 2,
       "away_score": 0,
-      "status": "FT",
-      "minute": "90+5'",
-      "latest": "88' Goal, Orbit College FC"
+      "status": "FT"
     }
   ],
   "fixtures": [
@@ -1098,6 +1096,16 @@
       "date": "2026-11-28T15:30:00+02:00",
       "venue": "Global Stadium, Lebowakgomo",
       "status": "NS"
+    },
+    {
+      "home": "Lerumo Lions",
+      "away": "Gomora United",
+      "date": "2026-12-04T15:30:00+02:00"
+    },
+    {
+      "home": "Highbury",
+      "away": "Venda Football Club",
+      "date": "2026-12-04T15:30:00+02:00"
     }
   ],
   "extra": [
