@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-27T17:15:27+02:00",
+  "updated": "2026-11-27T17:17:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -1041,7 +1041,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "85'",
+      "minute": "87'",
       "latest": "78' Goal, Gomora United"
     },
     {
@@ -1051,11 +1051,11 @@
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "match_id": "2682160",
       "url": "https://www.psl.co.za/matchcentre/detail/2682160",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "87'",
-      "latest": "8' Goal, Orbit College FC"
+      "minute": "89'",
+      "latest": "88' Goal, Orbit College FC"
     }
   ],
   "fixtures": [
