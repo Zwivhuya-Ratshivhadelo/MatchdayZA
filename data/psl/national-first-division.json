@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-27T17:20:02+02:00",
+  "updated": "2026-11-27T17:22:36+02:00",
   "log": [
     {
       "pos": 1,
@@ -1041,7 +1041,7 @@
       "home_score": 1,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "89'",
+      "minute": "90+2'",
       "latest": "78' Goal, Gomora United"
     },
     {
@@ -1054,7 +1054,7 @@
       "home_score": 2,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "90+2'",
+      "minute": "90+4'",
       "latest": "88' Goal, Orbit College FC"
     }
   ],
