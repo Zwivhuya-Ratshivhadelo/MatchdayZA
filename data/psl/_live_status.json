@@ -1,6 +1,6 @@
 {
-  "time": "2026-11-27T21:20:48+02:00",
-  "links_found": 7,
+  "time": "2026-11-27T21:22:54+02:00",
+  "links_found": 6,
   "games": [
     {
       "game": "Durban City v Polokwane City",
@@ -9,8 +9,8 @@
     {
       "game": "Stellenbosch FC v TS Galaxy",
       "kickoff": "2026-11-27T19:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674059-stellenbosch-fc-vs-ts-galaxy",
-      "page": "LIVE 1-0, line-ups 2"
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674059",
+      "page": "FT 1-0, line-ups 2"
     }
   ]
 }
