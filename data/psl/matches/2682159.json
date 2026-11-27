@@ -1,0 +1,92 @@
+{
+  "match_id": "2682159",
+  "comp": "national-first-division",
+  "home": "Gomora United",
+  "away": "Midlands Wanderers",
+  "updated": "2026-11-27T21:30:30+02:00",
+  "home_score": 1,
+  "away_score": 1,
+  "status": "FT",
+  "minute": null,
+  "events": [
+    {
+      "minute": "78'",
+      "type": "goal",
+      "team": "Gomora United",
+      "player": "",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "minute": "67'",
+      "type": "penalty_goal",
+      "team": "Midlands Wanderers",
+      "player": "",
+      "score": [
+        0,
+        1
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Possession",
+      "home": "52%",
+      "away": "48%"
+    },
+    {
+      "label": "Attacks",
+      "home": "135",
+      "away": "97"
+    },
+    {
+      "label": "Corners",
+      "home": "4",
+      "away": "7"
+    },
+    {
+      "label": "Free Kicks",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Throw-Ins",
+      "home": "32",
+      "away": "37"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "10",
+      "away": "10"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "3",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "0"
+    }
+  ],
+  "lineups": [],
+  "tried365": true
+}

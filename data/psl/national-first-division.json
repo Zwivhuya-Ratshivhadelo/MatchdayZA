@@ -4,17 +4,17 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-27T17:55:50+02:00",
+  "updated": "2026-11-27T21:30:30+02:00",
   "log": [
     {
       "pos": 1,
       "team": "Real Native FC",
       "club": "Real_Native_FC",
       "p": 12,
-      "w": 7,
-      "d": 3,
+      "w": 8,
+      "d": 2,
       "l": 2,
-      "pts": 24
+      "pts": 26
     },
     {
       "pos": 2,
@@ -68,16 +68,6 @@
     },
     {
       "pos": 7,
-      "team": "NWU FC",
-      "club": "NWU_FC",
-      "p": 12,
-      "w": 4,
-      "d": 6,
-      "l": 2,
-      "pts": 18
-    },
-    {
-      "pos": 8,
       "team": "Highbury",
       "club": "Highbury",
       "p": 11,
@@ -87,13 +77,23 @@
       "pts": 18
     },
     {
-      "pos": 9,
+      "pos": 8,
       "team": "Hungry Lions",
       "club": "Hungry_Lions",
       "p": 11,
       "w": 4,
       "d": 5,
       "l": 2,
+      "pts": 17
+    },
+    {
+      "pos": 9,
+      "team": "NWU FC",
+      "club": "NWU_FC",
+      "p": 12,
+      "w": 4,
+      "d": 5,
+      "l": 3,
       "pts": 17
     },
     {
@@ -118,16 +118,6 @@
     },
     {
       "pos": 12,
-      "team": "University of Pretoria",
-      "club": "University_of_Pretoria",
-      "p": 12,
-      "w": 2,
-      "d": 4,
-      "l": 6,
-      "pts": 10
-    },
-    {
-      "pos": 13,
       "team": "Leicesterford City FC",
       "club": "Leicesterford_City_FC",
       "p": 11,
@@ -137,7 +127,7 @@
       "pts": 10
     },
     {
-      "pos": 14,
+      "pos": 13,
       "team": "Venda Football Club",
       "club": "Venda_Football_Club",
       "p": 11,
@@ -147,7 +137,27 @@
       "pts": 9
     },
     {
+      "pos": 14,
+      "team": "University of Pretoria",
+      "club": "University_of_Pretoria",
+      "p": 12,
+      "w": 2,
+      "d": 3,
+      "l": 7,
+      "pts": 9
+    },
+    {
       "pos": 15,
+      "team": "Orbit College FC",
+      "club": "Orbit_College_FC",
+      "p": 12,
+      "w": 1,
+      "d": 5,
+      "l": 6,
+      "pts": 8
+    },
+    {
+      "pos": 16,
       "team": "The Bees",
       "club": "The_Bees",
       "p": 11,
@@ -155,16 +165,6 @@
       "d": 1,
       "l": 8,
       "pts": 7
-    },
-    {
-      "pos": 16,
-      "team": "Orbit College FC",
-      "club": "Orbit_College_FC",
-      "p": 12,
-      "w": 0,
-      "d": 6,
-      "l": 6,
-      "pts": 6
     }
   ],
   "results": [
@@ -1032,49 +1032,53 @@
       "status": "FT"
     },
     {
-      "home": "Gomora United",
-      "away": "Midlands Wanderers",
-      "date": "2026-11-27T15:30:00+02:00",
-      "venue": "Old Peter Mokaba Stadium, Polokwane",
-      "match_id": "3019770",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019770",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "FT",
-      "minute": "90+3'",
-      "latest": "78' Goal, Gomora United"
-    },
-    {
       "home": "Orbit College FC",
       "away": "NWU FC",
-      "date": "2026-11-27T15:30:00+02:00",
+      "date": "2026-11-27",
       "venue": "Royal Bafokeng Stadium, Rustenburg",
       "match_id": "2682160",
-      "url": "https://www.psl.co.za/matchcentre/detail/2682160",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682160-orbit-college-fc-vs-nwu-fc",
       "home_score": 2,
       "away_score": 0,
+      "status": "FT"
+    },
+    {
+      "home": "Real Native FC",
+      "away": "University of Pretoria",
+      "date": "2026-11-27",
+      "venue": "Solomon Mahlangu Stadium, KwaMhlanga",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "FT",
+      "match_id": "2682158",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682158-real-native-fc-vs-university-of-preto"
+    },
+    {
+      "home": "Gomora United",
+      "away": "Midlands Wanderers",
+      "date": "2026-11-27",
+      "venue": "Old Peter Mokaba Stadium, Polokwane",
+      "match_id": "2682159",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682159-gomora-united-vs-midlands-wanderers",
+      "home_score": 1,
+      "away_score": 1,
       "status": "FT"
     }
   ],
   "fixtures": [
     {
-      "home": "Real Native FC",
-      "away": "University of Pretoria",
-      "date": "2026-11-27T15:30:00+02:00",
-      "venue": "Solomon Mahlangu Stadium, KwaMhlanga",
-      "status": "NS",
-      "match_id": "3019678",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019678"
-    },
-    {
       "home": "The Bees",
       "away": "Upington City",
-      "date": "2026-11-28T15:30:00+02:00"
+      "date": "2026-11-28T15:30:00+02:00",
+      "venue": "KaNyamazane Stadium, Nelspruit",
+      "status": "NS"
     },
     {
       "home": "Magesi FC",
       "away": "Lerumo Lions",
-      "date": "2026-11-28T15:30:00+02:00"
+      "date": "2026-11-28T15:30:00+02:00",
+      "venue": "Seshego Stadium, Polokwane",
+      "status": "NS"
     },
     {
       "home": "Hungry Lions",
@@ -1105,7 +1109,9 @@
     {
       "home": "Highbury",
       "away": "Venda Football Club",
-      "date": "2026-12-04T15:30:00+02:00"
+      "date": "2026-12-04T15:30:00+02:00",
+      "venue": "Nelson Mandela University Stadium, Port Elizabeth",
+      "status": "NS"
     }
   ],
   "extra": [
