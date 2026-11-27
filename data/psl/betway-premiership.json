@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-27T23:30:22+02:00",
+  "updated": "2026-11-28T00:30:20+02:00",
   "log": [
     {
       "pos": 1,
@@ -1058,13 +1058,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "TS Galaxy",
-      "away": "Durban City",
-      "date": "2026-11-27",
-      "venue": "Durban City",
-      "status": "NS"
-    },
     {
       "home": "AmaZulu FC",
       "away": "Milford FC",
