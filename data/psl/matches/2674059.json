@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Stellenbosch FC",
   "away": "TS Galaxy",
-  "updated": "2026-11-27T20:51:26+02:00",
+  "updated": "2026-11-27T20:53:32+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "61'",
+  "minute": "65'",
   "events": [
     {
       "minute": "61'",
@@ -79,7 +79,7 @@
     {
       "label": "Corners",
       "home": "5",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Offsides",
