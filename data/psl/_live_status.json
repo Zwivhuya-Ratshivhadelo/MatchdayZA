@@ -1,18 +1,24 @@
 {
-  "time": "2026-11-24T21:25:05+02:00",
+  "time": "2026-11-27T14:20:13+02:00",
   "links_found": 6,
   "games": [
     {
-      "game": "Durban City v Polokwane City",
-      "kickoff": "2026-11-24T19:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674058",
-      "page": "FT 3-1, line-ups 2"
+      "game": "Gomora United v Midlands Wanderers",
+      "kickoff": "2026-11-27T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019770",
+      "page": "NS None-None, line-ups 0"
     },
     {
-      "game": "Orlando Pirates v Golden Arrows",
-      "kickoff": "2026-11-24T19:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674062",
-      "page": "FT 2-0, line-ups 2"
+      "game": "Orbit College FC v NWU FC",
+      "kickoff": "2026-11-27T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2682160",
+      "page": "NS None-None, line-ups 0"
+    },
+    {
+      "game": "Real Native FC v University of Pretoria",
+      "kickoff": "2026-11-27T15:30:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/3019678",
+      "page": "NS None-None, line-ups 0"
     }
   ]
 }
