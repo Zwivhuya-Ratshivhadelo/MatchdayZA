@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-28T17:10:25+02:00",
+  "updated": "2026-11-28T17:13:02+02:00",
   "log": [
     {
       "pos": 1,
@@ -1066,7 +1066,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "79'",
+      "minute": "83'",
       "latest": "79' Yellow card, Ibrahim Bancé (Chippa United)"
     },
     {
