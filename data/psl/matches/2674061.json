@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T16:51:03+02:00",
+  "updated": "2026-11-28T16:53:52+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "61'",
+  "minute": "64'",
   "events": [
+    {
+      "minute": "61'",
+      "type": "yellow",
+      "player": "Paseka Mako",
+      "team": "Kaizer Chiefs"
+    },
     {
       "minute": "45'",
       "type": "second_half"
@@ -36,7 +42,7 @@
     {
       "label": "Shots",
       "home": "3",
-      "away": "6"
+      "away": "7"
     },
     {
       "label": "Shots on target",
@@ -55,13 +61,13 @@
     },
     {
       "label": "Fouls",
-      "home": "11",
+      "home": "12",
       "away": "8"
     },
     {
       "label": "Yellow Cards",
       "home": "0",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Red Cards",
