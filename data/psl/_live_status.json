@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-28T17:25:57+02:00",
+  "time": "2026-11-28T17:28:30+02:00",
   "links_found": 13,
   "games": [
     {
@@ -19,24 +19,21 @@
     },
     {
       "game": "Magesi FC v Lerumo Lions",
-      "kickoff": "2026-11-28T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019597",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 1-4 90+4'"
+      "kickoff": "2026-11-28T15:30:00+02:00"
     },
     {
       "game": "Hungry Lions v Highbury",
       "kickoff": "2026-11-28T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019739",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-3 87'"
+      "365scores": "LIVE 0-3 90'"
     },
     {
       "game": "Cape Town City FC v Venda Football Club",
       "kickoff": "2026-11-28T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019768",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-0 90+8'"
+      "365scores": "LIVE 0-0 90+11'"
     },
     {
       "game": "Leicesterford City FC v Hope FC",

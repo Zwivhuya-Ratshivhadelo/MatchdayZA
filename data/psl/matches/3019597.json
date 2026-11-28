@@ -3,21 +3,21 @@
   "comp": "national-first-division",
   "home": "Magesi FC",
   "away": "Lerumo Lions",
-  "updated": "2026-11-28T17:26:09+02:00",
+  "updated": "2026-11-28T17:27:25+02:00",
   "home_score": 1,
   "away_score": 4,
-  "status": "LIVE",
-  "minute": "90+4'",
+  "status": "FT",
+  "minute": null,
   "stats": [
     {
       "label": "Possession",
-      "home": "49%",
-      "away": "51%"
+      "home": "47%",
+      "away": "53%"
     },
     {
       "label": "Attacks",
       "home": "97",
-      "away": "105"
+      "away": "106"
     },
     {
       "label": "Corners",
@@ -31,8 +31,8 @@
     },
     {
       "label": "Offsides",
-      "home": "306",
-      "away": "612"
+      "home": "314",
+      "away": "628"
     },
     {
       "label": "Throw-Ins",

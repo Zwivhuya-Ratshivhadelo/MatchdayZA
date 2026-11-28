@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-28T17:26:13+02:00",
+  "updated": "2026-11-28T17:28:44+02:00",
   "log": [
     {
       "pos": 1,
@@ -1073,7 +1073,7 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019597",
       "home_score": 1,
       "away_score": 4,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "90+4'",
       "latest": "74' Goal, Lerumo Lions"
     },
@@ -1087,7 +1087,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "90+8'"
+      "minute": "90+11'"
     },
     {
       "home": "Hungry Lions",
@@ -1099,7 +1099,7 @@
       "home_score": 0,
       "away_score": 3,
       "status": "LIVE",
-      "minute": "87'"
+      "minute": "90'"
     }
   ],
   "fixtures": [
