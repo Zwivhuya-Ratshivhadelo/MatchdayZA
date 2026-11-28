@@ -3,18 +3,54 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-11-28T18:05:55+02:00",
+  "updated": "2026-11-28T18:08:00+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "3'",
+  "minute": "5'",
   "events": [
     {
       "minute": "0'",
       "type": "kickoff"
     }
   ],
-  "stats": [],
+  "stats": [
+    {
+      "label": "Shots",
+      "home": "0",
+      "away": "1"
+    },
+    {
+      "label": "Shots on target",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Corners",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Offsides",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Fouls",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Yellow Cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Red Cards",
+      "home": "0",
+      "away": "0"
+    }
+  ],
   "lineups": [
     {
       "team": "Kruger United",
