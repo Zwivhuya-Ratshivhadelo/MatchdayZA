@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-28T16:53:52+02:00",
+  "updated": "2026-11-28T16:56:33+02:00",
   "log": [
     {
       "pos": 1,
@@ -1066,8 +1066,8 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "64'",
-      "latest": "61' Yellow card, Paseka Mako (Kaizer Chiefs)"
+      "minute": "66'",
+      "latest": "63' Yellow card, Abbubaker Mobara (Chippa United)"
     },
     {
       "home": "AmaZulu FC",

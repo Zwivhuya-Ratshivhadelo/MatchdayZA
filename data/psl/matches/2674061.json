@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T16:53:52+02:00",
+  "updated": "2026-11-28T16:56:33+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "64'",
+  "minute": "66'",
   "events": [
+    {
+      "minute": "63'",
+      "type": "yellow",
+      "player": "Abbubaker Mobara",
+      "team": "Chippa United"
+    },
     {
       "minute": "61'",
       "type": "yellow",
@@ -42,17 +48,17 @@
     {
       "label": "Shots",
       "home": "3",
-      "away": "7"
+      "away": "8"
     },
     {
       "label": "Shots on target",
       "home": "2",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Corners",
       "home": "1",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Offsides",
@@ -66,7 +72,7 @@
     },
     {
       "label": "Yellow Cards",
-      "home": "0",
+      "home": "1",
       "away": "1"
     },
     {
