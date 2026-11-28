@@ -5,7 +5,7 @@
   "name": "NC Stream B",
   "slug": "nc-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17734&stream_id=28885",
-  "updated": "2026-11-28T06:31:46+02:00",
+  "updated": "2026-11-28T12:33:42+02:00",
   "log": [
     {
       "pos": 1,
@@ -412,14 +412,6 @@
       "status": "NS"
     },
     {
-      "home": "Saints FC",
-      "away": "Psd FC",
-      "match_no": 25,
-      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=25&s=l",
-      "date": "2026-11-28T16:00:00+02:00",
-      "status": "NS"
-    },
-    {
       "home": "Pampierstad Express FC",
       "away": "Ocean Swallows",
       "match_no": 26,
@@ -433,6 +425,14 @@
       "match_no": 29,
       "url": "https://inqaku.com/match/view?stream_id=28885&match_no=29&s=l",
       "date": "2026-11-28T16:00:00+02:00",
+      "status": "NS"
+    },
+    {
+      "home": "Saints FC",
+      "away": "Psd FC",
+      "match_no": 25,
+      "url": "https://inqaku.com/match/view?stream_id=28885&match_no=25&s=l",
+      "date": "2026-11-28T17:00:00+02:00",
       "status": "NS"
     },
     {
