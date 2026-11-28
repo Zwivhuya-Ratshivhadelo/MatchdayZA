@@ -1,6 +1,6 @@
 {
-  "time": "2026-11-28T17:30:58+02:00",
-  "links_found": 13,
+  "time": "2026-11-28T17:33:42+02:00",
+  "links_found": 12,
   "games": [
     {
       "game": "AmaZulu FC v Milford FC",
@@ -30,10 +30,7 @@
     },
     {
       "game": "Cape Town City FC v Venda Football Club",
-      "kickoff": "2026-11-28T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/3019768",
-      "page": "NS None-None, line-ups 0",
-      "365scores": "FT 0-0 "
+      "kickoff": "2026-11-28T15:30:00+02:00"
     },
     {
       "game": "Leicesterford City FC v Hope FC",
