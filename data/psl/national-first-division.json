@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-28T16:18:49+02:00",
+  "updated": "2026-11-28T16:21:40+02:00",
   "log": [
     {
       "pos": 1,
@@ -1074,7 +1074,7 @@
       "home_score": 0,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "45+6'",
+      "minute": "HT",
       "latest": "37' Goal, Lerumo Lions"
     },
     {
