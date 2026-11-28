@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-28T15:30:12+02:00",
+  "updated": "2026-11-28T15:32:53+02:00",
   "log": [
     {
       "pos": 1,
@@ -1063,6 +1063,30 @@
       "home_score": 1,
       "away_score": 1,
       "status": "FT"
+    },
+    {
+      "home": "Magesi FC",
+      "away": "Lerumo Lions",
+      "date": "2026-11-28T15:30:00+02:00",
+      "venue": "Seshego Stadium, Polokwane",
+      "match_id": "3019597",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019597",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "4'"
+    },
+    {
+      "home": "Cape Town City FC",
+      "away": "Venda Football Club",
+      "date": "2026-11-28T15:30:00+02:00",
+      "venue": "Athlone Stadium, Cape Town",
+      "match_id": "3019768",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019768",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "4'"
     }
   ],
   "fixtures": [
@@ -1076,15 +1100,6 @@
       "url": "https://www.psl.co.za/matchcentre/detail/3019707"
     },
     {
-      "home": "Magesi FC",
-      "away": "Lerumo Lions",
-      "date": "2026-11-28T15:30:00+02:00",
-      "venue": "Seshego Stadium, Polokwane",
-      "status": "NS",
-      "match_id": "3019597",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019597"
-    },
-    {
       "home": "Hungry Lions",
       "away": "Highbury",
       "date": "2026-11-28T15:30:00+02:00",
@@ -1092,15 +1107,6 @@
       "status": "NS",
       "match_id": "3019739",
       "url": "https://www.psl.co.za/matchcentre/detail/3019739"
-    },
-    {
-      "home": "Cape Town City FC",
-      "away": "Venda Football Club",
-      "date": "2026-11-28T15:30:00+02:00",
-      "venue": "Athlone Stadium, Cape Town",
-      "status": "NS",
-      "match_id": "3019768",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019768"
     },
     {
       "home": "Leicesterford City FC",

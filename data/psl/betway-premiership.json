@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-28T15:30:03+02:00",
+  "updated": "2026-11-28T15:32:41+02:00",
   "log": [
     {
       "pos": 1,
@@ -1055,27 +1055,35 @@
       "home_score": 3,
       "away_score": 1,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
-    {
-      "home": "AmaZulu FC",
-      "away": "Milford FC",
-      "date": "2026-11-28T15:30:00+02:00",
-      "venue": "Moses Mabhida Stadium, Durban",
-      "status": "NS",
-      "match_id": "2674060",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674060"
     },
     {
       "home": "Chippa United",
       "away": "Kaizer Chiefs",
       "date": "2026-11-28T15:30:00+02:00",
       "venue": "Nelson Mandela Bay Stadium, Gqeberha",
-      "status": "NS",
       "match_id": "2674061",
-      "url": "https://www.psl.co.za/matchcentre/detail/2674061"
+      "url": "https://www.psl.co.za/matchcentre/detail/2674061-chippa-united-vs-kaizer-chiefs",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "0'",
+      "latest": "0' Kick-off"
     },
+    {
+      "home": "AmaZulu FC",
+      "away": "Milford FC",
+      "date": "2026-11-28T15:30:00+02:00",
+      "venue": "Moses Mabhida Stadium, Durban",
+      "match_id": "2674060",
+      "url": "https://www.psl.co.za/matchcentre/detail/2674060",
+      "latest": "0' Kick-off",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "0'"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Orlando Pirates",
       "away": "Golden Arrows",
