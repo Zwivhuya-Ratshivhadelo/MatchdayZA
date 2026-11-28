@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-28T16:21:23+02:00",
+  "updated": "2026-11-28T16:24:05+02:00",
   "log": [
     {
       "pos": 1,
@@ -1076,11 +1076,11 @@
       "venue": "Moses Mabhida Stadium, Durban",
       "match_id": "2674060",
       "url": "https://www.psl.co.za/matchcentre/detail/2674060-amazulu-fc-vs-milford-fc",
-      "latest": "24' Goal, Menzi Chili (Milford)",
+      "latest": "45+5' Half-time",
       "home_score": 0,
       "away_score": 2,
       "status": "LIVE",
-      "minute": "40'"
+      "minute": "45+5'"
     }
   ],
   "fixtures": [
