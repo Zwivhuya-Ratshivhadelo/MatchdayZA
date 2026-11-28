@@ -3,12 +3,40 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T16:56:33+02:00",
+  "updated": "2026-11-28T16:59:12+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "66'",
+  "minute": "69'",
   "events": [
+    {
+      "minute": "69'",
+      "type": "sub",
+      "team": "Chippa United",
+      "player_in": "Ntuthuko Mlotshwa",
+      "player_out": "Sirgio Kammies"
+    },
+    {
+      "minute": "69'",
+      "type": "sub",
+      "team": "Chippa United",
+      "player_in": "Ibrahim Bancé",
+      "player_out": "Azola Tshobeni"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Langelihle Phili",
+      "player_out": "Mfundo Vilakazi"
+    },
+    {
+      "minute": "67'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Mduduzi Shabalala",
+      "player_out": "Wandile Duba"
+    },
     {
       "minute": "63'",
       "type": "yellow",
@@ -68,7 +96,7 @@
     {
       "label": "Fouls",
       "home": "12",
-      "away": "8"
+      "away": "9"
     },
     {
       "label": "Yellow Cards",

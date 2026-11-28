@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-28T16:56:33+02:00",
+  "updated": "2026-11-28T16:59:12+02:00",
   "log": [
     {
       "pos": 1,
@@ -1066,8 +1066,8 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "66'",
-      "latest": "63' Yellow card, Abbubaker Mobara (Chippa United)"
+      "minute": "69'",
+      "latest": "69' Sub, Chippa United: Ntuthuko Mlotshwa on for Sirgio Kammies"
     },
     {
       "home": "AmaZulu FC",
