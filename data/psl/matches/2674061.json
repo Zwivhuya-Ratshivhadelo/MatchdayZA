@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T17:02:02+02:00",
+  "updated": "2026-11-28T17:05:09+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "72'",
+  "minute": "74'",
   "events": [
+    {
+      "minute": "72'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Lebohang Maboe",
+      "player_out": "Siphesihle Ndlovu"
+    },
     {
       "minute": "69'",
       "type": "sub",
@@ -96,7 +103,7 @@
     {
       "label": "Fouls",
       "home": "14",
-      "away": "9"
+      "away": "11"
     },
     {
       "label": "Yellow Cards",
