@@ -3,12 +3,222 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T14:51:59+02:00",
+  "updated": "2026-11-28T15:02:29+02:00",
   "home_score": null,
   "away_score": null,
   "status": "NS",
   "minute": null,
   "events": [],
   "stats": [],
-  "lineups": []
+  "lineups": [
+    {
+      "team": "Chippa United",
+      "starting": [
+        {
+          "no": "23",
+          "name": "Stanley Nwabali",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "22",
+          "name": "Abbubaker Mobara",
+          "pos": "Defender"
+        },
+        {
+          "no": "35",
+          "name": "K Majadibodu",
+          "pos": "Defender"
+        },
+        {
+          "no": "31",
+          "name": "I Jones",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "B Madingwane",
+          "pos": "Defender"
+        },
+        {
+          "no": "20",
+          "name": "Goodman Mosele",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "A Matrose",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "15",
+          "name": "A Tshobeni",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "25",
+          "name": "Sirgio Kammies",
+          "pos": "Striker"
+        },
+        {
+          "no": "37",
+          "name": "M Tshepang",
+          "pos": "Striker"
+        },
+        {
+          "no": "7",
+          "name": "Justice Figuareido",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "18",
+          "name": "E Sithole",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "I Bancé",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "D Diakité",
+          "pos": "Substitute"
+        },
+        {
+          "no": "5",
+          "name": "Seun Ndlovu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "A Bonani",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "Bongani Sam",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "N Mlotshwa",
+          "pos": "Substitute"
+        },
+        {
+          "no": "34",
+          "name": "L Tshabalala",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Kaizer Chiefs",
+      "starting": [
+        {
+          "no": "1",
+          "name": "Brandon Petersen",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "29",
+          "name": "Paseka Mako",
+          "pos": "Defender"
+        },
+        {
+          "no": "18",
+          "name": "Dillan Solomons",
+          "pos": "Defender"
+        },
+        {
+          "no": "42",
+          "name": "Thabo Moloisane",
+          "pos": "Defender"
+        },
+        {
+          "no": "24",
+          "name": "R Dortley",
+          "pos": "Defender"
+        },
+        {
+          "no": "28",
+          "name": "M Vilakazi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "8",
+          "name": "Siphesihle Ndlovu",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "47",
+          "name": "W Duba",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "13",
+          "name": "Pule Mmodi",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "5",
+          "name": "S Mthethwa",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "14",
+          "name": "E Mokwana",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "70",
+          "name": "L Phili",
+          "pos": "Substitute"
+        },
+        {
+          "no": "84",
+          "name": "IM Ferreira Dos Santos",
+          "pos": "Substitute"
+        },
+        {
+          "no": "50",
+          "name": "E Ighodaro",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "M Shabalala",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "Asenele Velebayi",
+          "pos": "Substitute"
+        },
+        {
+          "no": "48",
+          "name": "B Cross",
+          "pos": "Substitute"
+        },
+        {
+          "no": "44",
+          "name": "Bruce Bvuma",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "Lebohang Maboe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "39",
+          "name": "Reeve Frosler",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
 }
