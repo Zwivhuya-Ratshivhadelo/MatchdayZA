@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Milford FC",
-  "updated": "2026-11-28T16:29:41+02:00",
+  "updated": "2026-11-28T16:32:32+02:00",
   "home_score": 0,
   "away_score": 2,
   "status": "LIVE",
@@ -47,7 +47,7 @@
     {
       "label": "Shots on target",
       "home": "0",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Corners",
