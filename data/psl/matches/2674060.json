@@ -3,51 +3,21 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Milford FC",
-  "updated": "2026-11-28T17:05:07+02:00",
+  "updated": "2026-11-28T17:06:38+02:00",
   "home_score": 0,
   "away_score": 2,
-  "status": "LIVE",
-  "minute": "45+5'",
-  "events": [
-    {
-      "minute": "45+5'",
-      "type": "half_time"
-    },
-    {
-      "minute": "24'",
-      "type": "goal",
-      "player": "Menzi Chili",
-      "team": "Milford",
-      "score": [
-        0,
-        2
-      ]
-    },
-    {
-      "minute": "18'",
-      "type": "goal",
-      "player": "Mnqobi Mbhele",
-      "team": "Milford",
-      "score": [
-        0,
-        1
-      ]
-    },
-    {
-      "minute": "0'",
-      "type": "kickoff"
-    }
-  ],
+  "status": "FT",
+  "minute": null,
   "stats": [
     {
-      "label": "Shots",
-      "home": "4",
-      "away": "3"
+      "label": "Possession",
+      "home": "42%",
+      "away": "58%"
     },
     {
-      "label": "Shots on target",
+      "label": "Attacks",
       "home": "0",
-      "away": "3"
+      "away": "0"
     },
     {
       "label": "Corners",
@@ -55,13 +25,23 @@
       "away": "3"
     },
     {
+      "label": "Free Kicks",
+      "home": "4",
+      "away": "6"
+    },
+    {
       "label": "Offsides",
       "home": "3",
       "away": "0"
     },
     {
-      "label": "Fouls",
+      "label": "Throw-Ins",
       "home": "6",
+      "away": "10"
+    },
+    {
+      "label": "Goal Kicks",
+      "home": "1",
       "away": "4"
     },
     {
@@ -73,221 +53,183 @@
       "label": "Red Cards",
       "home": "0",
       "away": "0"
+    },
+    {
+      "label": "Total Shots",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Shots On Target",
+      "home": "0",
+      "away": "3"
+    },
+    {
+      "label": "Big Chances Created",
+      "home": "1",
+      "away": "1"
+    },
+    {
+      "label": "Passes Completed",
+      "home": "142",
+      "away": "200"
+    },
+    {
+      "label": "Shots Off Target",
+      "home": "3",
+      "away": "0"
+    },
+    {
+      "label": "Shots Blocked",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Hit Woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "label": "Shots Inside The Box",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Total Passes",
+      "home": "175",
+      "away": "241"
+    },
+    {
+      "label": "Big Chances Missed",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Crosses Completed",
+      "home": "3/7 (43%)",
+      "away": "2/6 (33%)"
+    },
+    {
+      "label": "Passes Own Half",
+      "home": "98",
+      "away": "178"
+    },
+    {
+      "label": "Passes Opposition Half",
+      "home": "84",
+      "away": "69"
+    },
+    {
+      "label": "Long Passes Completed",
+      "home": "5/15 (33%)",
+      "away": "10/23 (43%)"
+    },
+    {
+      "label": "Key Passes",
+      "home": "4",
+      "away": "3"
+    },
+    {
+      "label": "Passes Into Final Third",
+      "home": "21",
+      "away": "17"
+    },
+    {
+      "label": "Backward Passes",
+      "home": "31",
+      "away": "28"
+    },
+    {
+      "label": "Interceptions",
+      "home": "5",
+      "away": "5"
+    },
+    {
+      "label": "Goalkeeper Saves",
+      "home": "1",
+      "away": "0"
+    },
+    {
+      "label": "Tackles Won",
+      "home": "5/7 (71%)",
+      "away": "3/5 (60%)"
+    },
+    {
+      "label": "Clearances",
+      "home": "4",
+      "away": "9"
+    },
+    {
+      "label": "Duels Won",
+      "home": "18",
+      "away": "18"
+    },
+    {
+      "label": "Aerial Duels Won",
+      "home": "5/10 (50%)",
+      "away": "5/10 (50%)"
+    },
+    {
+      "label": "Ground Duels Won",
+      "home": "13/26 (50%)",
+      "away": "13/26 (50%)"
+    },
+    {
+      "label": "Was Fouled",
+      "home": "4",
+      "away": "6"
+    },
+    {
+      "label": "Successful Dribbles",
+      "home": "2/6 (33%)",
+      "away": "2/7 (29%)"
+    },
+    {
+      "label": "Was Dribbled Past",
+      "home": "4",
+      "away": "5"
+    },
+    {
+      "label": "Final Third Possession Won",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "label": "Possession Lost",
+      "home": "55",
+      "away": "63"
+    },
+    {
+      "label": "Fouls",
+      "home": "6",
+      "away": "4"
+    },
+    {
+      "label": "Substitutions",
+      "home": "0",
+      "away": "0"
     }
   ],
-  "lineups": [
+  "lineups": [],
+  "events": [
     {
-      "team": "AmaZulu FC",
-      "starting": [
-        {
-          "no": "1",
-          "name": "Olwethu Mzimela",
-          "pos": "Goalkeeper"
-        },
-        {
-          "no": "12",
-          "name": "Taariq Fielies",
-          "pos": "Defender"
-        },
-        {
-          "no": "4",
-          "name": "Riaan Hanamub",
-          "pos": "Defender"
-        },
-        {
-          "no": "5",
-          "name": "K Allan",
-          "pos": "Defender"
-        },
-        {
-          "no": "3",
-          "name": "O Mdaka",
-          "pos": "Defender"
-        },
-        {
-          "no": "15",
-          "name": "M Mbanjwa",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "14",
-          "name": "N Radebe",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "6",
-          "name": "S Hlangabeza",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "19",
-          "name": "S Zikhali",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "23",
-          "name": "T Ngwenya",
-          "pos": "Striker"
-        },
-        {
-          "no": "2",
-          "name": "A Maqokola",
-          "pos": "Striker"
-        }
-      ],
-      "subs": [
-        {
-          "no": "34",
-          "name": "A Zouzou",
-          "pos": "Substitute"
-        },
-        {
-          "no": "42",
-          "name": "Sandile Mthethwa",
-          "pos": "Substitute"
-        },
-        {
-          "no": "24",
-          "name": "W Kouassi",
-          "pos": "Substitute"
-        },
-        {
-          "no": "21",
-          "name": "T Matlhoko",
-          "pos": "Substitute"
-        },
-        {
-          "no": "45",
-          "name": "M Shummah Shumah",
-          "pos": "Substitute"
-        },
-        {
-          "no": "44",
-          "name": "L Slatsha",
-          "pos": "Substitute"
-        },
-        {
-          "no": "17",
-          "name": "L Bern",
-          "pos": "Substitute"
-        },
-        {
-          "no": "50",
-          "name": "L Mhlongo",
-          "pos": "Substitute"
-        },
-        {
-          "no": "33",
-          "name": "Keenan Phillips",
-          "pos": "Substitute"
-        }
+      "minute": "24'",
+      "type": "goal",
+      "team": "Milford FC",
+      "player": "Menzi Chili",
+      "score": [
+        0,
+        2
       ]
     },
     {
+      "minute": "18'",
+      "type": "goal",
       "team": "Milford FC",
-      "starting": [
-        {
-          "no": "32",
-          "name": "Siphamandla Hleza",
-          "pos": "Goalkeeper"
-        },
-        {
-          "no": "14",
-          "name": "S Mdluli",
-          "pos": "Defender"
-        },
-        {
-          "no": "3",
-          "name": "M Mbhele",
-          "pos": "Defender"
-        },
-        {
-          "no": "23",
-          "name": "T Bhengu",
-          "pos": "Defender"
-        },
-        {
-          "no": "22",
-          "name": "O Cele",
-          "pos": "Defender"
-        },
-        {
-          "no": "55",
-          "name": "C Mthethwa",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "11",
-          "name": "M Zikakayo",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "38",
-          "name": "Y Nomandela",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "75",
-          "name": "T Mbunga",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "10",
-          "name": "M Chili",
-          "pos": "Midfielder"
-        },
-        {
-          "no": "21",
-          "name": "S Ndlabi",
-          "pos": "Striker"
-        }
-      ],
-      "subs": [
-        {
-          "no": "17",
-          "name": "J Gxakoshe",
-          "pos": "Substitute"
-        },
-        {
-          "no": "8",
-          "name": "M Mkhize",
-          "pos": "Substitute"
-        },
-        {
-          "no": "35",
-          "name": "T Mabena",
-          "pos": "Substitute"
-        },
-        {
-          "no": "5",
-          "name": "Vusumuzi Mthabela",
-          "pos": "Substitute"
-        },
-        {
-          "no": "90",
-          "name": "S Masilela",
-          "pos": "Substitute"
-        },
-        {
-          "no": "18",
-          "name": "K Khwanya",
-          "pos": "Substitute"
-        },
-        {
-          "no": "19",
-          "name": "L Dyonasi",
-          "pos": "Substitute"
-        },
-        {
-          "no": "16",
-          "name": "L Nkosi",
-          "pos": "Substitute"
-        },
-        {
-          "no": "6",
-          "name": "S Joyi",
-          "pos": "Substitute"
-        }
+      "player": "C. Mbhele",
+      "score": [
+        0,
+        1
       ]
     }
   ]

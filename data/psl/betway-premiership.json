@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-28T17:05:09+02:00",
+  "updated": "2026-11-28T17:07:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -1066,7 +1066,7 @@
       "home_score": 1,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "74'",
+      "minute": "78'",
       "latest": "72' Sub, Kaizer Chiefs: Lebohang Maboe on for Siphesihle Ndlovu"
     },
     {
@@ -1076,10 +1076,10 @@
       "venue": "Moses Mabhida Stadium, Durban",
       "match_id": "2674060",
       "url": "https://www.psl.co.za/matchcentre/detail/2674060-amazulu-fc-vs-milford-fc",
-      "latest": "45+5' Half-time",
+      "latest": "24' Goal, Menzi Chili (Milford FC)",
       "home_score": 0,
       "away_score": 2,
-      "status": "LIVE",
+      "status": "FT",
       "minute": "45+5'"
     }
   ],
