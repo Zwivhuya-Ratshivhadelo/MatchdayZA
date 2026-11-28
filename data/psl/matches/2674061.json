@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T16:43:10+02:00",
+  "updated": "2026-11-28T16:45:48+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
@@ -46,7 +46,7 @@
     {
       "label": "Corners",
       "home": "1",
-      "away": "2"
+      "away": "3"
     },
     {
       "label": "Offsides",
