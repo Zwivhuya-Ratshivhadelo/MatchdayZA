@@ -130,8 +130,10 @@ https://www.matchdayza.co.za/match/chippa-united-vs-stellenbosch-fc-2027-05-08/
 https://www.matchdayza.co.za/match/chippa-united-vs-ts-galaxy-2027-02-13/
 https://www.matchdayza.co.za/match/club-africain-tunis-vs-djoliba-ac-2026-09-05/
 https://www.matchdayza.co.za/match/club-africain-tunis-vs-tp-mazembe-2026-10-25/
+https://www.matchdayza.co.za/match/club-africain-tunis-vs-young-africans-2026-12-05/
 https://www.matchdayza.co.za/match/co-korhogo-vs-as-far-rabat-2026-10-17/
 https://www.matchdayza.co.za/match/co-korhogo-vs-as-psi-2026-09-13/
+https://www.matchdayza.co.za/match/colombe-vs-simba-sc-2026-12-06/
 https://www.matchdayza.co.za/match/colombe-vs-stade-malien-2026-09-06/
 https://www.matchdayza.co.za/match/colombe-vs-teungueth-2026-10-25/
 https://www.matchdayza.co.za/match/cr-belouizdad-vs-as-douanes-2026-11-27/
@@ -224,6 +226,7 @@ https://www.matchdayza.co.za/match/hope-vs-orbit-college-fc-2026-09-19/
 https://www.matchdayza.co.za/match/hope-vs-pretoria-university-fc-2026-08-22/
 https://www.matchdayza.co.za/match/horoya-ac-vs-js-saoura-2026-09-13/
 https://www.matchdayza.co.za/match/horoya-ac-vs-merreikh-al-sudan-2026-10-18/
+https://www.matchdayza.co.za/match/horoya-ac-vs-pyramids-2026-12-06/
 https://www.matchdayza.co.za/match/hungry-lions-fc-vs-gomora-united-2026-08-22/
 https://www.matchdayza.co.za/match/hungry-lions-fc-vs-the-bees-2026-09-12/
 https://www.matchdayza.co.za/match/hungry-lions-fc-vs-upington-city-2026-10-31/
@@ -289,6 +292,7 @@ https://www.matchdayza.co.za/match/magesi-fc-vs-hungry-lions-fc-2026-09-20/
 https://www.matchdayza.co.za/match/magesi-fc-vs-lerumo-lions-2026-11-28/
 https://www.matchdayza.co.za/match/magesi-fc-vs-orbit-college-fc-2026-11-07/
 https://www.matchdayza.co.za/match/magesi-fc-vs-the-bees-2026-08-29/
+https://www.matchdayza.co.za/match/maghreb-fes-vs-al-hilal-omdurman-2026-12-05/
 https://www.matchdayza.co.za/match/maghreb-fes-vs-asec-mimosas-2026-10-18/
 https://www.matchdayza.co.za/match/maghreb-fes-vs-rahimo-2026-09-06/
 https://www.matchdayza.co.za/match/mamelodi-sundowns-vs-amazulu-fc-2026-08-26/
@@ -585,6 +589,7 @@ https://www.matchdayza.co.za/match/welwalo-adigrat-uni-vs-al-ahli-tripoli-2026-1
 https://www.matchdayza.co.za/match/welwalo-adigrat-uni-vs-hilal-alsahil-sc-port-sudan-2026-09-12/
 https://www.matchdayza.co.za/match/wiliete-sc-vs-foresters-2026-09-06/
 https://www.matchdayza.co.za/match/wiliete-sc-vs-mamelodi-sundowns-2026-10-18/
+https://www.matchdayza.co.za/match/wiliete-sc-vs-petro-luanda-2026-12-06/
 https://www.matchdayza.co.za/match/young-africans-vs-cffa-2026-10-21/
 https://www.matchdayza.co.za/match/young-africans-vs-gaborone-united-2026-09-12/
 https://www.matchdayza.co.za/match/young-africans-vs-mc-alger-2026-11-28/

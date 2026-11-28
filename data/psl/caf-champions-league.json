@@ -3,7 +3,7 @@
   "name": "CAF Champions League",
   "short": "CAF Champions League",
   "league": false,
-  "updated": "2026-11-28T01:30:31+02:00",
+  "updated": "2026-11-28T02:30:30+02:00",
   "log": [],
   "groups": [
     {
@@ -1730,6 +1730,46 @@
       "status": "NS",
       "sa": true,
       "venue": "Orlando Amstel Arena"
+    },
+    {
+      "home": "Club Africain Tunis",
+      "away": "Young Africans",
+      "date": "2026-12-05T18:00:00+02:00",
+      "match_id": "c4886682",
+      "status": "NS",
+      "venue": "Stade olympique Hammadi-Agrebi"
+    },
+    {
+      "home": "Maghreb Fès",
+      "away": "Al Hilal Omdurman",
+      "date": "2026-12-05T21:00:00+02:00",
+      "match_id": "c4886678",
+      "status": "NS",
+      "venue": "Stade d'Honneur"
+    },
+    {
+      "home": "Horoya AC",
+      "away": "Pyramids",
+      "date": "2026-12-06T18:00:00+02:00",
+      "match_id": "c4886679",
+      "status": "NS",
+      "venue": "Stade du 28 Septembre"
+    },
+    {
+      "home": "Colombe",
+      "away": "Simba SC",
+      "date": "2026-12-06T18:00:00+02:00",
+      "match_id": "c4886680",
+      "status": "NS",
+      "venue": "Stade Omnisport Ahmadou Ahidjo"
+    },
+    {
+      "home": "Wiliete SC",
+      "away": "Petro Luanda",
+      "date": "2026-12-06T18:00:00+02:00",
+      "match_id": "c4886684",
+      "status": "NS",
+      "venue": "Estádio 11 de Novembro"
     }
   ]
 }
