@@ -3,12 +3,26 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T17:13:02+02:00",
+  "updated": "2026-11-28T17:15:42+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "83'",
+  "minute": "86'",
   "events": [
+    {
+      "minute": "85'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Asanele Velebayi",
+      "player_out": "Pule Mmodi"
+    },
+    {
+      "minute": "85'",
+      "type": "sub",
+      "team": "Kaizer Chiefs",
+      "player_in": "Etiosa Ighodaro",
+      "player_out": "Elias Mokwana"
+    },
     {
       "minute": "79'",
       "type": "yellow",
@@ -108,7 +122,7 @@
     },
     {
       "label": "Fouls",
-      "home": "17",
+      "home": "18",
       "away": "11"
     },
     {
