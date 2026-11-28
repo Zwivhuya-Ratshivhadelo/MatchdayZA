@@ -1,6 +1,6 @@
 {
-  "time": "2026-11-28T17:57:34+02:00",
-  "links_found": 6,
+  "time": "2026-11-28T18:03:48+02:00",
+  "links_found": 7,
   "games": [
     {
       "game": "Orlando Pirates v Golden Arrows",
@@ -9,9 +9,8 @@
     {
       "game": "Kruger United v Mamelodi Sundowns",
       "kickoff": "2026-11-28T18:00:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2674063",
-      "page": "NS None-None, line-ups 2",
-      "365scores": "NS None-None "
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674063-kruger-united-vs-mamelodi-sundowns",
+      "page": "LIVE 0-0, line-ups 2"
     }
   ]
 }
