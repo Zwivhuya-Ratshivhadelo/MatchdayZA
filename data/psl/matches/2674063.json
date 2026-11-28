@@ -3,12 +3,16 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-11-28T18:52:27+02:00",
+  "updated": "2026-11-28T18:54:33+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "45+4'",
+  "minute": "45+5'",
   "events": [
+    {
+      "minute": "45+5'",
+      "type": "half_time"
+    },
     {
       "minute": "28'",
       "type": "sub",
