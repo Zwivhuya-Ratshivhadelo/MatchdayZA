@@ -5,7 +5,7 @@
   "name": "GP Stream B",
   "slug": "gp-stream-b",
   "source": "https://inqaku.com/leagues/view/?season_id=17711&stream_id=28000",
-  "updated": "2026-11-27T22:31:13+02:00",
+  "updated": "2026-11-28T06:31:00+02:00",
   "log": [
     {
       "pos": 1,
@@ -635,14 +635,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Wits University FC",
-      "away": "Young Pirates FC",
-      "match_no": 54,
-      "url": "https://inqaku.com/match/view?stream_id=28000&match_no=54&s=l",
-      "date": "2026-11-27T18:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Mabopane Jm",
       "away": "Jomo Cosmos FC",

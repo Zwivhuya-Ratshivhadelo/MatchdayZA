@@ -5,7 +5,7 @@
   "name": "WC Stream A",
   "slug": "wc-stream-a",
   "source": "https://inqaku.com/leagues/view/?season_id=17738&stream_id=28002",
-  "updated": "2026-11-27T22:32:06+02:00",
+  "updated": "2026-11-28T06:31:50+02:00",
   "log": [
     {
       "pos": 1,
@@ -755,30 +755,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Inter City FFC",
-      "away": "Harambee FC",
-      "match_no": 67,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=67&s=l",
-      "date": "2026-11-27T19:30:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Ikapa Sporting FC",
-      "away": "HBU FC",
-      "match_no": 70,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=70&s=l",
-      "date": "2026-11-27T19:30:00+02:00",
-      "status": "NS"
-    },
-    {
-      "home": "Seaside Spurs FC",
-      "away": "FN Rangers",
-      "match_no": 71,
-      "url": "https://inqaku.com/match/view?stream_id=28002&match_no=71&s=l",
-      "date": "2026-11-27T19:30:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Saxon Rovers FC",
       "away": "Santos FC",

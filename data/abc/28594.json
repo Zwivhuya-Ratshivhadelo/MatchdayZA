@@ -5,7 +5,7 @@
   "name": "FS Group 1A",
   "slug": "fs-group-1a",
   "source": "https://inqaku.com/leagues/view/?season_id=17713&stream_id=28594",
-  "updated": "2026-11-27T22:30:59+02:00",
+  "updated": "2026-11-28T06:30:47+02:00",
   "log": [
     {
       "pos": 1,
@@ -389,14 +389,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Young Boys FC",
-      "away": "Central University of FS",
-      "match_no": 30,
-      "url": "https://inqaku.com/match/view?stream_id=28594&match_no=30&s=l",
-      "date": "2026-11-27T16:00:00+02:00",
-      "status": "NS"
-    },
     {
       "home": "Remember Elite Soccer Academy",
       "away": "Mkabadeli Heroes FC",
