@@ -3,12 +3,19 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-11-28T18:27:02+02:00",
+  "updated": "2026-11-28T18:29:08+02:00",
   "home_score": 0,
   "away_score": 1,
   "status": "LIVE",
-  "minute": "25'",
+  "minute": "28'",
   "events": [
+    {
+      "minute": "28'",
+      "type": "sub",
+      "team": "Kruger United",
+      "player_in": "Mlungisi Zwane",
+      "player_out": "Mancoba Zwane"
+    },
     {
       "minute": "25'",
       "type": "goal",
@@ -28,7 +35,7 @@
     {
       "label": "Shots",
       "home": "0",
-      "away": "4"
+      "away": "5"
     },
     {
       "label": "Shots on target",

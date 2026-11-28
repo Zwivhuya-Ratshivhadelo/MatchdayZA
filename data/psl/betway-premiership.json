@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-28T18:27:02+02:00",
+  "updated": "2026-11-28T18:29:08+02:00",
   "log": [
     {
       "pos": 1,
@@ -1101,11 +1101,11 @@
       "venue": "Solomon Mahlangu Stadium, KwaMhlanga",
       "match_id": "2674063",
       "url": "https://www.psl.co.za/matchcentre/detail/2674063-kruger-united-vs-mamelodi-sundowns",
-      "latest": "25' Goal, Iqraam Rayners (Mamelodi Sundowns)",
+      "latest": "28' Sub, Kruger United: Mlungisi Zwane on for Mancoba Zwane",
       "home_score": 0,
       "away_score": 1,
       "status": "LIVE",
-      "minute": "25'"
+      "minute": "28'"
     }
   ],
   "fixtures": [
