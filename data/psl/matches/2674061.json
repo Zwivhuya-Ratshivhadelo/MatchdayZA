@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T16:03:11+02:00",
-  "home_score": 0,
+  "updated": "2026-11-28T16:06:32+02:00",
+  "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "31'",
+  "minute": "34'",
   "events": [
+    {
+      "minute": "33'",
+      "type": "goal",
+      "player": "Azola Matrose",
+      "team": "Chippa United",
+      "score": [
+        1,
+        0
+      ]
+    },
     {
       "minute": "0'",
       "type": "kickoff"
@@ -17,12 +27,12 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "0",
+      "home": "1",
       "away": "3"
     },
     {
       "label": "Shots on target",
-      "home": "0",
+      "home": "1",
       "away": "0"
     },
     {
@@ -38,7 +48,7 @@
     {
       "label": "Fouls",
       "home": "6",
-      "away": "2"
+      "away": "4"
     },
     {
       "label": "Yellow Cards",
