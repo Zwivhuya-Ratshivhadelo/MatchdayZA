@@ -3,11 +3,11 @@
   "comp": "national-first-division",
   "home": "Cape Town City FC",
   "away": "Venda Football Club",
-  "updated": "2026-11-28T15:54:43+02:00",
+  "updated": "2026-11-28T15:57:49+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "25'",
+  "minute": "29'",
   "stats": [
     {
       "label": "Possession",
@@ -16,7 +16,7 @@
     },
     {
       "label": "Attacks",
-      "home": "25",
+      "home": "28",
       "away": "18"
     },
     {

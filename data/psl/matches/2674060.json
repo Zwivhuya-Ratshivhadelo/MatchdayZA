@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "AmaZulu FC",
   "away": "Milford FC",
-  "updated": "2026-11-28T15:54:01+02:00",
+  "updated": "2026-11-28T15:57:36+02:00",
   "home_score": 0,
-  "away_score": 1,
+  "away_score": 2,
   "status": "LIVE",
-  "minute": "21'",
+  "minute": "24'",
   "events": [
+    {
+      "minute": "24'",
+      "type": "goal",
+      "player": "Menzi Chili",
+      "team": "Milford",
+      "score": [
+        0,
+        2
+      ]
+    },
     {
       "minute": "18'",
       "type": "goal",
@@ -28,17 +38,17 @@
     {
       "label": "Shots",
       "home": "3",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Shots on target",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Corners",
       "home": "0",
-      "away": "1"
+      "away": "3"
     },
     {
       "label": "Offsides",
@@ -47,7 +57,7 @@
     },
     {
       "label": "Fouls",
-      "home": "2",
+      "home": "3",
       "away": "1"
     },
     {
