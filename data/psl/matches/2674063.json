@@ -3,12 +3,22 @@
   "comp": "betway-premiership",
   "home": "Kruger United",
   "away": "Mamelodi Sundowns",
-  "updated": "2026-11-28T18:24:56+02:00",
+  "updated": "2026-11-28T18:27:02+02:00",
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": "LIVE",
-  "minute": "22'",
+  "minute": "25'",
   "events": [
+    {
+      "minute": "25'",
+      "type": "goal",
+      "player": "Iqraam Rayners",
+      "team": "Mamelodi Sundowns",
+      "score": [
+        0,
+        1
+      ]
+    },
     {
       "minute": "0'",
       "type": "kickoff"
@@ -18,12 +28,12 @@
     {
       "label": "Shots",
       "home": "0",
-      "away": "3"
+      "away": "4"
     },
     {
       "label": "Shots on target",
       "home": "0",
-      "away": "1"
+      "away": "2"
     },
     {
       "label": "Corners",
