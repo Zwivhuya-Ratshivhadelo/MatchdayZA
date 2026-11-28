@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T15:51:16+02:00",
+  "updated": "2026-11-28T15:54:03+02:00",
   "home_score": 0,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "17'",
+  "minute": "21'",
   "events": [
     {
       "minute": "0'",
@@ -18,7 +18,7 @@
     {
       "label": "Shots",
       "home": "0",
-      "away": "0"
+      "away": "1"
     },
     {
       "label": "Shots on target",

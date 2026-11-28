@@ -4,7 +4,7 @@
   "short": "Premiership",
   "league": true,
   "source": "https://www.psl.co.za/tournament/betway-premiership",
-  "updated": "2026-11-28T15:51:16+02:00",
+  "updated": "2026-11-28T15:54:03+02:00",
   "log": [
     {
       "pos": 1,
@@ -1066,7 +1066,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "17'",
+      "minute": "21'",
       "latest": "0' Kick-off"
     },
     {
@@ -1076,11 +1076,11 @@
       "venue": "Moses Mabhida Stadium, Durban",
       "match_id": "2674060",
       "url": "https://www.psl.co.za/matchcentre/detail/2674060-amazulu-fc-vs-milford-fc",
-      "latest": "0' Kick-off",
+      "latest": "18' Goal, Mnqobi Mbhele (Milford)",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "LIVE",
-      "minute": "18'"
+      "minute": "21'"
     }
   ],
   "fixtures": [
