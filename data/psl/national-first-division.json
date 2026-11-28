@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-28T15:43:31+02:00",
+  "updated": "2026-11-28T15:46:11+02:00",
   "log": [
     {
       "pos": 1,
@@ -1074,7 +1074,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "15'"
+      "minute": "18'"
     },
     {
       "home": "Cape Town City FC",
@@ -1086,7 +1086,19 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "15'"
+      "minute": "17'"
+    },
+    {
+      "home": "Hungry Lions",
+      "away": "Highbury",
+      "date": "2026-11-28T15:30:00+02:00",
+      "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
+      "match_id": "3019739",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019739",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "LIVE",
+      "minute": "1'"
     }
   ],
   "fixtures": [
@@ -1098,15 +1110,6 @@
       "status": "NS",
       "match_id": "3019707",
       "url": "https://www.psl.co.za/matchcentre/detail/3019707"
-    },
-    {
-      "home": "Hungry Lions",
-      "away": "Highbury",
-      "date": "2026-11-28T15:30:00+02:00",
-      "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
-      "status": "NS",
-      "match_id": "3019739",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019739"
     },
     {
       "home": "Leicesterford City FC",
