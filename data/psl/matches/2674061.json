@@ -3,11 +3,11 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T16:48:26+02:00",
+  "updated": "2026-11-28T16:51:03+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "58'",
+  "minute": "61'",
   "events": [
     {
       "minute": "45'",
@@ -55,8 +55,8 @@
     },
     {
       "label": "Fouls",
-      "home": "10",
-      "away": "6"
+      "home": "11",
+      "away": "8"
     },
     {
       "label": "Yellow Cards",
