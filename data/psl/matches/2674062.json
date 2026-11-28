@@ -3,7 +3,7 @@
   "comp": "betway-premiership",
   "home": "Orlando Pirates",
   "away": "Golden Arrows",
-  "updated": "2026-11-24T21:25:08+02:00",
+  "updated": "2026-11-28T17:52:31+02:00",
   "home_score": 2,
   "away_score": 0,
   "status": "FT",
@@ -137,7 +137,7 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "23",
+      "home": "25",
       "away": "11"
     },
     {

@@ -1,0 +1,229 @@
+{
+  "match_id": "2674063",
+  "comp": "betway-premiership",
+  "home": "Kruger United",
+  "away": "Mamelodi Sundowns",
+  "updated": "2026-11-28T17:57:42+02:00",
+  "home_score": null,
+  "away_score": null,
+  "status": "NS",
+  "minute": null,
+  "events": [],
+  "stats": [],
+  "lineups": [
+    {
+      "team": "Kruger United",
+      "starting": [
+        {
+          "no": "16",
+          "name": "Marcel Dandjinou",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "26",
+          "name": "Katlego Mohamme",
+          "pos": "Defender"
+        },
+        {
+          "no": "18",
+          "name": "Thendo Mukumela",
+          "pos": "Defender"
+        },
+        {
+          "no": "12",
+          "name": "B Malatjie",
+          "pos": "Defender"
+        },
+        {
+          "no": "13",
+          "name": "Ebrahim Seedat",
+          "pos": "Defender"
+        },
+        {
+          "no": "8",
+          "name": "Morne Nel",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "35",
+          "name": "Motsie Mervyn Matima",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "20",
+          "name": "Celimpilo Ngema",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "10",
+          "name": "Ntsako Makhubela",
+          "pos": "Striker"
+        },
+        {
+          "no": "30",
+          "name": "M Zwane",
+          "pos": "Striker"
+        },
+        {
+          "no": "50",
+          "name": "A Mpothwe",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "4",
+          "name": "S Sibiya",
+          "pos": "Substitute"
+        },
+        {
+          "no": "9",
+          "name": "Wonderboy Makhubu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "22",
+          "name": "K Ndlovu",
+          "pos": "Substitute"
+        },
+        {
+          "no": "48",
+          "name": "P Manqele",
+          "pos": "Substitute"
+        },
+        {
+          "no": "7",
+          "name": "M Zwane",
+          "pos": "Substitute"
+        },
+        {
+          "no": "74",
+          "name": "Lesedi Kapinga",
+          "pos": "Substitute"
+        },
+        {
+          "no": "55",
+          "name": "Ayabulela Konqobe",
+          "pos": "Substitute"
+        },
+        {
+          "no": "3",
+          "name": "Shane Saralina",
+          "pos": "Substitute"
+        },
+        {
+          "no": "29",
+          "name": "S Fakude",
+          "pos": "Substitute"
+        }
+      ]
+    },
+    {
+      "team": "Mamelodi Sundowns",
+      "starting": [
+        {
+          "no": "30",
+          "name": "Ronwen Williams",
+          "pos": "Goalkeeper"
+        },
+        {
+          "no": "40",
+          "name": "Mothobi Mvala",
+          "pos": "Defender"
+        },
+        {
+          "no": "42",
+          "name": "M Khoza",
+          "pos": "Defender"
+        },
+        {
+          "no": "22",
+          "name": "T Matuludi",
+          "pos": "Defender"
+        },
+        {
+          "no": "5",
+          "name": "Divine Lunga",
+          "pos": "Defender"
+        },
+        {
+          "no": "11",
+          "name": "M Allende",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "34",
+          "name": "T Ntsabeleng",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "4",
+          "name": "Teboho Mokoena",
+          "pos": "Midfielder"
+        },
+        {
+          "no": "13",
+          "name": "Iqraam Rayners",
+          "pos": "Striker"
+        },
+        {
+          "no": "9",
+          "name": "A De Oliveira Sales",
+          "pos": "Striker"
+        },
+        {
+          "no": "38",
+          "name": "S Mthanti",
+          "pos": "Striker"
+        }
+      ],
+      "subs": [
+        {
+          "no": "21",
+          "name": "Sphelele Mkhulise",
+          "pos": "Substitute"
+        },
+        {
+          "no": "31",
+          "name": "Ricardo Goss",
+          "pos": "Substitute"
+        },
+        {
+          "no": "15",
+          "name": "Bathusi Aubaas",
+          "pos": "Substitute"
+        },
+        {
+          "no": "17",
+          "name": "T Matthews",
+          "pos": "Substitute"
+        },
+        {
+          "no": "27",
+          "name": "Thapelo Morena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "33",
+          "name": "C Mailula",
+          "pos": "Substitute"
+        },
+        {
+          "no": "35",
+          "name": "Lebo Mothiba",
+          "pos": "Substitute"
+        },
+        {
+          "no": "46",
+          "name": "B Mokoena",
+          "pos": "Substitute"
+        },
+        {
+          "no": "6",
+          "name": "Aubrey Modiba",
+          "pos": "Substitute"
+        }
+      ]
+    }
+  ]
+}

@@ -1,36 +1,17 @@
 {
-  "time": "2026-11-28T17:52:06+02:00",
-  "links_found": 12,
+  "time": "2026-11-28T17:57:34+02:00",
+  "links_found": 6,
   "games": [
     {
-      "game": "AmaZulu FC v Milford FC",
-      "kickoff": "2026-11-28T15:30:00+02:00"
+      "game": "Orlando Pirates v Golden Arrows",
+      "kickoff": "2026-11-28T18:00:00+02:00"
     },
     {
-      "game": "Chippa United v Kaizer Chiefs",
-      "kickoff": "2026-11-28T15:30:00+02:00"
-    },
-    {
-      "game": "The Bees v Upington City",
-      "kickoff": "2026-11-28T15:30:00+02:00"
-    },
-    {
-      "game": "Magesi FC v Lerumo Lions",
-      "kickoff": "2026-11-28T15:30:00+02:00"
-    },
-    {
-      "game": "Hungry Lions v Highbury",
-      "kickoff": "2026-11-28T15:30:00+02:00"
-    },
-    {
-      "game": "Cape Town City FC v Venda Football Club",
-      "kickoff": "2026-11-28T15:30:00+02:00"
-    },
-    {
-      "game": "Leicesterford City FC v Hope FC",
-      "kickoff": "2026-11-28T15:30:00+02:00",
-      "match_page": "https://www.psl.co.za/matchcentre/detail/2682163-leicesterford-city-fc-vs-hope-fc",
-      "page": "FT 1-3, line-ups 0"
+      "game": "Kruger United v Mamelodi Sundowns",
+      "kickoff": "2026-11-28T18:00:00+02:00",
+      "match_page": "https://www.psl.co.za/matchcentre/detail/2674063",
+      "page": "NS None-None, line-ups 2",
+      "365scores": "NS None-None "
     }
   ]
 }
