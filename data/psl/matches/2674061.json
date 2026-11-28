@@ -3,12 +3,18 @@
   "comp": "betway-premiership",
   "home": "Chippa United",
   "away": "Kaizer Chiefs",
-  "updated": "2026-11-28T17:07:50+02:00",
+  "updated": "2026-11-28T17:10:25+02:00",
   "home_score": 1,
   "away_score": 0,
   "status": "LIVE",
-  "minute": "78'",
+  "minute": "79'",
   "events": [
+    {
+      "minute": "79'",
+      "type": "yellow",
+      "player": "Ibrahim Bancé",
+      "team": "Chippa United"
+    },
     {
       "minute": "72'",
       "type": "sub",
@@ -82,8 +88,8 @@
   "stats": [
     {
       "label": "Shots",
-      "home": "3",
-      "away": "9"
+      "home": "4",
+      "away": "10"
     },
     {
       "label": "Shots on target",
@@ -102,12 +108,12 @@
     },
     {
       "label": "Fouls",
-      "home": "15",
+      "home": "16",
       "away": "11"
     },
     {
       "label": "Yellow Cards",
-      "home": "1",
+      "home": "2",
       "away": "1"
     },
     {
