@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-28T17:20:49+02:00",
+  "time": "2026-11-28T17:23:25+02:00",
   "links_found": 14,
   "games": [
     {
@@ -10,7 +10,7 @@
       "game": "Chippa United v Kaizer Chiefs",
       "kickoff": "2026-11-28T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/2674061-chippa-united-vs-kaizer-chiefs",
-      "page": "LIVE 1-0, line-ups 2"
+      "page": "FT 1-0, line-ups 2"
     },
     {
       "game": "The Bees v Upington City",
@@ -24,21 +24,21 @@
       "kickoff": "2026-11-28T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019597",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 1-4 89'"
+      "365scores": "LIVE 1-4 90+1'"
     },
     {
       "game": "Hungry Lions v Highbury",
       "kickoff": "2026-11-28T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019739",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-3 82'"
+      "365scores": "LIVE 0-3 84'"
     },
     {
       "game": "Cape Town City FC v Venda Football Club",
       "kickoff": "2026-11-28T15:30:00+02:00",
       "match_page": "https://www.psl.co.za/matchcentre/detail/3019768",
       "page": "NS None-None, line-ups 0",
-      "365scores": "LIVE 0-0 90+3'"
+      "365scores": "LIVE 0-0 90+6'"
     },
     {
       "game": "Leicesterford City FC v Hope FC",
