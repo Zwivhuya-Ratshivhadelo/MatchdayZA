@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-28T16:38:05+02:00",
+  "updated": "2026-11-28T16:40:45+02:00",
   "log": [
     {
       "pos": 1,
@@ -1072,10 +1072,10 @@
       "match_id": "3019597",
       "url": "https://www.psl.co.za/matchcentre/detail/3019597",
       "home_score": 0,
-      "away_score": 2,
+      "away_score": 3,
       "status": "LIVE",
-      "minute": "46'",
-      "latest": "37' Goal, Lerumo Lions"
+      "minute": "48'",
+      "latest": "48' Goal, Lerumo Lions"
     },
     {
       "home": "Cape Town City FC",
@@ -1087,7 +1087,7 @@
       "home_score": 0,
       "away_score": 0,
       "status": "LIVE",
-      "minute": "50'"
+      "minute": "53'"
     },
     {
       "home": "Hungry Lions",
