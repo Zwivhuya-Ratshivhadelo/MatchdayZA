@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-28T17:51:04+02:00",
+  "updated": "2026-11-28T17:52:10+02:00",
   "log": [
     {
       "pos": 1,
@@ -1111,18 +1111,20 @@
       "home_score": 1,
       "away_score": 0,
       "status": "FT"
-    }
-  ],
-  "fixtures": [
+    },
     {
       "home": "Leicesterford City FC",
       "away": "Hope FC",
       "date": "2026-11-28T15:30:00+02:00",
       "venue": "Global Stadium, Lebowakgomo",
-      "status": "NS",
-      "match_id": "3019689",
-      "url": "https://www.psl.co.za/matchcentre/detail/3019689"
-    },
+      "match_id": "2682163",
+      "url": "https://www.psl.co.za/matchcentre/detail/2682163-leicesterford-city-fc-vs-hope-fc",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "FT"
+    }
+  ],
+  "fixtures": [
     {
       "home": "Lerumo Lions",
       "away": "Gomora United",
