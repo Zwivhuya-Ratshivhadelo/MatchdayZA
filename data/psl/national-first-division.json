@@ -4,7 +4,7 @@
   "short": "Championship",
   "league": true,
   "source": "https://www.psl.co.za/tournament/national-first-division",
-  "updated": "2026-11-28T13:30:13+02:00",
+  "updated": "2026-11-28T14:20:37+02:00",
   "log": [
     {
       "pos": 1,
@@ -1071,35 +1071,45 @@
       "away": "Upington City",
       "date": "2026-11-28T15:30:00+02:00",
       "venue": "KaNyamazane Stadium, Nelspruit",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019707",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019707"
     },
     {
       "home": "Magesi FC",
       "away": "Lerumo Lions",
       "date": "2026-11-28T15:30:00+02:00",
       "venue": "Seshego Stadium, Polokwane",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019597",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019597"
     },
     {
       "home": "Hungry Lions",
       "away": "Highbury",
       "date": "2026-11-28T15:30:00+02:00",
       "venue": "Mxolisi Dicky Jacobs Stadium, Upington",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019739",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019739"
     },
     {
       "home": "Cape Town City FC",
       "away": "Venda Football Club",
       "date": "2026-11-28T15:30:00+02:00",
       "venue": "Athlone Stadium, Cape Town",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019768",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019768"
     },
     {
       "home": "Leicesterford City FC",
       "away": "Hope FC",
       "date": "2026-11-28T15:30:00+02:00",
       "venue": "Global Stadium, Lebowakgomo",
-      "status": "NS"
+      "status": "NS",
+      "match_id": "3019689",
+      "url": "https://www.psl.co.za/matchcentre/detail/3019689"
     },
     {
       "home": "Lerumo Lions",
